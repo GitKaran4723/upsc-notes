@@ -1,83 +1,103 @@
 async function loadSyllabus() {
   const res = await fetch("data/syllabus.json");
+
+  console.log(res)
   const data = await res.json();
-  renderSyllabus(data.papers);
+  renderUPSC(data);
+
+  console.log(data)
 }
 
-function renderSyllabus(papers) {
+function renderUPSC(data) {
   const container = document.getElementById("syllabus-root");
   container.innerHTML = "";
 
-  papers.forEach((paper) => {
-    const paperDetails = document.createElement("details");
-    paperDetails.innerHTML = `<summary>${paper.name}</summary>`;
-    const unitList = document.createElement("div");
+  Object.entries(data).forEach(([section, content]) => {
+    const sectionDetails = document.createElement("details");
+    sectionDetails.innerHTML = `<summary class="font-bold text-lg">${section.toUpperCase()}</summary>`;
+    const sectionDiv = document.createElement("div");
 
-    paper.units.forEach((unit) => {
-      const unitDetails = document.createElement("details");
-      unitDetails.innerHTML = `<summary>${unit.name}</summary>`;
-      const chapterList = document.createElement("div");
+    Object.entries(content).forEach(([paperName, paperContent]) => {
+      const paperDetails = document.createElement("details");
+      paperDetails.innerHTML = `<summary>${paperName}</summary>`;
+      const unitList = document.createElement("div");
 
-      unit.chapters.forEach((chap) => {
-        const chapDetails = document.createElement("details");
-        chapDetails.innerHTML = `<summary>${chap.name}</summary>`;
-        const conceptList = document.createElement("ul");
+      if (Array.isArray(paperContent)) {
+        // Simple list
+        const ul = document.createElement("ul");
+        paperContent.forEach(name => {
+          const li = document.createElement("li");
+          li.textContent = name;
+          li.className = "ml-6 mb-1";
+          ul.appendChild(li);
+        });
+        unitList.appendChild(ul);
 
-        chap.concepts.forEach((con) => {
+      } else if (Array.isArray(paperContent.topics)) {
+        const ul = document.createElement("ul");
+        paperContent.topics.forEach(topic => {
           const li = document.createElement("li");
           li.className = "ml-6 mb-1";
           const a = document.createElement("a");
           a.href = "#";
-          a.textContent = "🔹 " + con.name;
+          a.textContent = "🔹 " + topic.name;
           a.className = "text-blue-700 hover:underline";
           a.addEventListener('click', (e) => {
-            e.preventDefault(); // 👈 Prevent scrolling to top
-            openConcept(con.markdown_url);
+            e.preventDefault();
+            openConcept(topic.markdown_url);
           });
-          
           li.appendChild(a);
-          conceptList.appendChild(li);
+          ul.appendChild(li);
         });
+        unitList.appendChild(ul);
 
-        chapDetails.appendChild(conceptList);
-        chapterList.appendChild(chapDetails);
-      });
+      } else if (Array.isArray(paperContent.units)) {
+        paperContent.units.forEach(unit => {
+          const unitDetails = document.createElement("details");
+          unitDetails.innerHTML = `<summary>${unit.name}</summary>`;
+          const topicList = document.createElement("ul");
+          (unit.topics || []).forEach(topic => {
+            const li = document.createElement("li");
+            li.className = "ml-6 mb-1";
+            const a = document.createElement("a");
+            a.href = "#";
+            a.textContent = "🔹 " + topic.name;
+            a.className = "text-blue-700 hover:underline";
+            a.addEventListener('click', (e) => {
+              e.preventDefault();
+              openConcept(topic.markdown_url);
+            });
+            li.appendChild(a);
+            topicList.appendChild(li);
+          });
+          unitDetails.appendChild(topicList);
+          unitList.appendChild(unitDetails);
+        });
+      }
 
-      unitDetails.appendChild(chapterList);
-      unitList.appendChild(unitDetails);
+      paperDetails.appendChild(unitList);
+      sectionDiv.appendChild(paperDetails);
     });
 
-    paperDetails.appendChild(unitList);
-    container.appendChild(paperDetails);
+    sectionDetails.appendChild(sectionDiv);
+    container.appendChild(sectionDetails);
   });
 }
 
 async function openConcept(mdUrl) {
-
-  console.log("URL Requested", mdUrl);
-
   const res = await fetch(mdUrl);
   const mdText = await res.text();
-
   const container = document.getElementById("markdownContent");
-  container.innerHTML = marked.parse(mdText); // Markdown to HTML
-
-  // Fix font overrides
+  container.innerHTML = marked.parse(mdText);
   const headings = container.querySelectorAll("h1, h2, h3, h4, h5, h6");
   headings.forEach(h => {
     h.style.fontSize = "revert";
     h.style.fontWeight = "revert";
   });
-
-  // Render Math
   if (window.MathJax) MathJax.typeset();
-
-  // Show modal and lock background
   document.getElementById("markdownModal").classList.add("active");
   document.body.classList.add("no-scroll");
 }
-
-
 
 function closeModal() {
   document.getElementById("markdownModal").classList.remove("active");
