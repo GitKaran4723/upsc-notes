@@ -1,0 +1,24 @@
+/* Global styles (optional) */ 
+body {
+    padding-bottom: 0px;
+  }
+  #mobileMenu {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    transform-origin: top;
+    position: fixed;
+    top: 64px;
+    left: 10px;
+    right: 10px;
+    max-width: 95vw;
+    border-radius: 1rem;
+    z-index: 100;
+    border: 2px solid #1e3a8a; /* dark blue border */
+  }
+  #mobileMenu.show {
+    transform: scaleY(1);
+    opacity: 1;
+  }
+  #mobileMenu.hide {
+    transform: scaleY(0);
+    opacity: 0;
+  }

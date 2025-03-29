@@ -1,0 +1,210 @@
+/* UNIT level */
+#syllabus-root > details {
+    background-color: #fff4f4;
+    border: 1px solid #f87171;
+    border-radius: 0.5rem;
+    padding: 1rem;
+  }
+  
+  #syllabus-root > details > summary {
+    font-size: 1.05rem;
+    font-weight: bold;
+    color: #b91c1c;
+    cursor: pointer;
+  }
+  
+  /* CHAPTER level */
+  #syllabus-root details details {
+    background-color: #fef2f2;
+    border-left: 3px solid #f87171;
+    margin-top: 0.5rem;
+    padding: 0.75rem;
+    border-radius: 0.4rem;
+  }
+  
+  #syllabus-root details details > summary {
+    font-weight: 600;
+    color: #7f1d1d;
+    cursor: pointer;
+  }
+  
+  /* CONCEPT level */
+  #syllabus-root li {
+    margin-left: 1rem;
+    list-style: none;
+  }
+  
+  #syllabus-root li a {
+    display: inline-block;
+    padding: 1rem 0 1rem 0;
+    position: relative;
+    font-size: 0.95rem;
+    color: #1d4ed8;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  #syllabus-root li a::before {
+    color: #0ea5e9;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  
+  #syllabus-root li a:hover {
+    color: #dc2626;
+    text-decoration: underline;
+  }
+  
+
+  .markdown-content h1 {
+    font-size: 1.75rem !important;
+    font-weight: 700 !important;
+    margin-top: 1.2rem;
+    margin-bottom: 0.6rem;
+  }
+  
+  .markdown-content h2 {
+    font-size: 1.5rem !important;
+    font-weight: 700 !important;
+    margin-top: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .markdown-content h3 {
+    font-size: 1.25rem !important;
+    font-weight: 600 !important;
+    margin-top: 1rem;
+    margin-bottom: 0.4rem;
+  }
+  
+  /* Apply if you want to control smaller headings too */
+  .markdown-content h4,
+  .markdown-content h5,
+  .markdown-content h6 {
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    margin-top: 0.75rem;
+    margin-bottom: 0.25rem;
+  }
+
+  #markdownModal {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  #markdownModal.active {
+    transform: scale(1);
+    opacity: 1;
+  }
+/* Disable background scroll when modal is open */
+body.no-scroll {
+  overflow: hidden;
+}
+
+/* Background blur */
+body.no-scroll::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(4px);
+  z-index: 49;
+}
+
+/* Modal popup feel */
+#markdownModal {
+  position: fixed;
+  top: 5vh;
+  left: 5vw;
+  right: 5vw;
+  bottom: 5vh;
+  background-color: white;
+  z-index: 100;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  display: none;
+  overflow-y: auto;
+}
+
+#markdownModal.active {
+  display: block;
+}
+
+/* Smooth formatting */
+.markdown-content p,
+.markdown-content li {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.markdown-content ul {
+  padding-left: 1.5rem;
+}
+
+/* --- Bullet Points & Lists --- */
+.markdown-content ul,
+.markdown-content ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.markdown-content ul li {
+  list-style-type: disc;
+  margin-bottom: 0.5rem;
+}
+
+.markdown-content ol li {
+  list-style-type: decimal;
+  margin-bottom: 0.5rem;
+}
+
+/* --- Tables --- */
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+}
+
+.markdown-content th,
+.markdown-content td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.markdown-content th {
+  background-color: #f3f4f6;
+  font-weight: bold;
+}
+
+/* --- Code Blocks --- */
+.markdown-content code {
+  background-color: #f3f4f6;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+.markdown-content pre {
+  background-color: #f9fafb;
+  padding: 1rem;
+  border-left: 4px solid #6366f1;
+  overflow-x: auto;
+  font-family: monospace;
+}
+
+/* --- Blockquote --- */
+.markdown-content blockquote {
+  border-left: 4px solid #f87171;
+  background-color: #fef2f2;
+  padding: 1rem;
+  font-style: italic;
+  color: #374151;
+  margin: 1rem 0;
+}
+
+  
+  

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UPSC News Analysis</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/syllabus.css">
+    <link rel="stylesheet" href="css/news.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$']]
+            },
+            options: {
+                skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+                processHtmlClass: 'markdown-content'
+            }
+        };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+</head>
+
+<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900 relative overflow-x-hidden">
+
+    <!-- Header -->
+    <header class="bg-gray-900 text-white flex justify-between items-center p-4 sticky top-0 z-50 shadow-md">
+        <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Daily News Analysis</h1>
+        <a href="/upsc-notes/" class="text-sm hover:text-yellow-300">Back to Home</a>
+    </header>
+
+    <!-- Overview -->
+    <section class="py-6 px-4 bg-yellow-100 text-center">
+        <h2 class="text-2xl font-semibold text-yellow-800">Stay Informed. Stay Ahead.</h2>
+        <p class="max-w-3xl mx-auto mt-2 text-sm text-gray-700">
+            Stay updated with important current affairs curated specifically for
+            <strong>UPSC Prelims and Mains</strong>. We break down complex news into simple, structured insights,
+            highlight key terms, and provide exam-relevant analysis with a focus on
+            <strong>Constitution, Governance, Economy, Environment, and International Relations</strong>.
+            Click on any topic to read detailed notes and analysis.
+        </p>
+    </section>
+
+    <!-- News Container -->
+    <section class="p-4" id="news-root">
+        <h3 class="text-xl font-semibold mb-4 text-center text-gray-800">Click a date to read UPSC-relevant news</h3>
+        <div id="news-container" class="space-y-6 max-w-4xl mx-auto text-sm"></div>
+    </section>
+
+    <!-- Markdown Modal -->
+    <div id="markdownModal" class="fixed inset-0 bg-white z-50 hidden p-6 overflow-y-auto markdown-content">
+        <button class="text-red-600 text-lg float-right" onclick="closeModal()">
+            <i class="fas fa-times"></i> Close
+        </button>
+        <div id="markdownContent" class="prose max-w-full mt-8"></div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/syllabus.js"></script>
+    <script src="js/news.js"></script>
+    <script src="js/marked.js"></script>
+</body>
+
+</html>
