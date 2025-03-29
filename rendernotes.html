@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Markdown Viewer</title>
+
+  <!-- Markdown Parser -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+
+  <!-- MathJax for LaTeX -->
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <!-- Prism.js for Syntax Highlighting -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+
+  <style>
+    :root {
+      --bg-light: #ffffff;
+      --bg-dark: #1e1e1e;
+      --bg-sepia: #f4ecd8;
+
+      --text-light: #333;
+      --text-dark: #f4f4f4;
+      --text-sepia: #5b4636;
+
+      --accent-light: #007bff;
+      --accent-dark: #1f77ff;
+      --accent-sepia: #b5651d;
+
+      --border-light: #ccc;
+      --border-dark: #555;
+      --border-sepia: #d6c3a3;
+    }
+
+    body {
+      margin: 0;
+      font-family: Georgia, 'Segoe UI', sans-serif;
+      background: var(--bg-light);
+      color: var(--text-light);
+      transition: background 0.3s ease, color 0.3s ease;
+    }
+
+    .content {
+      max-width: 900px;
+      margin: auto;
+      padding: 30px;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    select {
+      padding: 6px 10px;
+      font-size: 14px;
+      border-radius: 5px;
+      border: 1px solid var(--border-light);
+      background: var(--bg-light);
+      color: var(--text-light);
+    }
+
+    body.dark-mode select {
+      border: 1px solid var(--border-dark);
+      background: var(--bg-dark);
+      color: var(--text-dark);
+    }
+
+    body.sepia-mode select {
+      border: 1px solid var(--border-sepia);
+      background: var(--bg-sepia);
+      color: var(--text-sepia);
+    }
+
+    #markdownContent img {
+      max-width: 90%;
+      height: auto;
+      display: block;
+      margin: 20px auto;
+      border-radius: 8px;
+      border: 2px solid #ddd;
+      cursor: pointer;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+
+    h1, h2, h3 { color: var(--accent-light); }
+    a { color: var(--accent-light); text-decoration: none; }
+    pre {
+      background: #f4f4f4;
+      padding: 15px;
+      border-radius: 5px;
+      overflow-x: auto;
+    }
+
+    body.dark-mode { background: var(--bg-dark); color: var(--text-dark); }
+    body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 { color: var(--accent-dark); }
+    body.dark-mode a { color: #66baff; }
+
+    body.sepia-mode { background: var(--bg-sepia); color: var(--text-sepia); }
+    body.sepia-mode h1, body.sepia-mode h2, body.sepia-mode h3 { color: var(--accent-sepia); }
+    body.sepia-mode a { color: #8c4a14; }
+
+    .theme-toggle {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 50px;
+      height: 50px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 20px;
+      font-weight: bold;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: background 0.3s ease, transform 0.2s;
+      z-index: 2000;
+    }
+
+    .theme-toggle:hover {
+      background: #0056b3;
+      transform: scale(1.1);
+    }
+
+    .image-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      display: none;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.9);
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+    }
+
+    .image-modal img {
+      max-width: 90%;
+      max-height: 90%;
+      cursor: zoom-in;
+      transition: transform 0.2s ease-in-out;
+    }
+
+    .close-modal {
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      font-size: 30px;
+      color: white;
+      cursor: pointer;
+    }
+
+    @media (max-width: 768px) {
+      .content { padding: 20px; }
+      .theme-toggle {
+        bottom: 15px;
+        right: 15px;
+        width: 45px;
+        height: 45px;
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="mainContent" class="content">
+    <div class="toolbar">
+      <label for="fontSelector"><strong>Font:</strong></label>
+      <select id="fontSelector" onchange="changeFont()">
+        <option value="Georgia">Georgia</option>
+        <option value="'Comic Sans MS', cursive">Comic Sans MS</option>
+        <option value="'Segoe UI', sans-serif">Segoe UI</option>
+        <option value="Roboto, sans-serif">Roboto</option>
+        <option value="Verdana, sans-serif">Verdana</option>
+        <option value="'Times New Roman', serif">Times New Roman</option>
+        <option value="Arial, sans-serif">Arial</option>
+      </select>
+    </div>
+
+    <div id="markdownContent"></div>
+  </div>
+
+  <button class="theme-toggle" onclick="toggleTheme()">🎨</button>
+
+  <div id="imageModal" class="image-modal">
+    <span class="close-modal" onclick="closeModal()">&times;</span>
+    <img id="modalImage" alt="Zoomed Image">
+  </div>
+
+  <script>
+    let currentTheme = 'light';
+
+    function autoSetTheme() {
+      const hour = new Date().getHours();
+      currentTheme = hour >= 6 && hour < 18 ? 'light' : hour < 21 ? 'sepia' : 'dark';
+      applyTheme();
+    }
+
+    function applyTheme() {
+      document.body.classList.remove('dark-mode', 'sepia-mode');
+      if (currentTheme === 'dark') document.body.classList.add('dark-mode');
+      else if (currentTheme === 'sepia') document.body.classList.add('sepia-mode');
+    }
+
+    function toggleTheme() {
+      const themes = ['light', 'dark', 'sepia'];
+      currentTheme = themes[(themes.indexOf(currentTheme) + 1) % themes.length];
+      applyTheme();
+    }
+
+    async function loadMarkdown() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const mdUrl = urlParams.get("mdUrl");
+      if (!mdUrl) return document.getElementById("markdownContent").innerHTML = "<p>Error: No markdown file provided.</p>";
+      try {
+        const res = await fetch(mdUrl);
+        const mdText = await res.text();
+        document.getElementById("markdownContent").innerHTML = marked.parse(mdText);
+        if (window.MathJax) MathJax.typeset();
+        Prism.highlightAll();
+        enableImagePopup();
+      } catch (error) {
+        console.error("Error fetching markdown:", error);
+      }
+    }
+
+    function enableImagePopup() {
+      document.querySelectorAll("#markdownContent img").forEach(img => {
+        img.style.cursor = "pointer";
+        img.addEventListener("click", () => openModal(img.src));
+      });
+    }
+
+    function openModal(imageSrc) {
+      const modal = document.getElementById("imageModal");
+      const modalImage = document.getElementById("modalImage");
+      modalImage.src = imageSrc;
+      modal.style.display = "flex";
+      document.body.style.overflow = "hidden";
+
+      let scale = 1;
+      modalImage.addEventListener("wheel", function (event) {
+        event.preventDefault();
+        scale += event.deltaY * -0.01;
+        scale = Math.min(Math.max(1, scale), 3);
+        modalImage.style.transform = `scale(${scale})`;
+      });
+
+      modal.addEventListener("click", e => { if (e.target === modal) closeModal(); });
+      document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+    }
+
+    function closeModal() {
+      const modal = document.getElementById("imageModal");
+      modal.style.display = "none";
+      document.body.style.overflow = "auto";
+      document.getElementById("modalImage").style.transform = "scale(1)";
+    }
+
+    function changeFont() {
+      const font = document.getElementById("fontSelector").value;
+      document.body.style.fontFamily = font;
+      localStorage.setItem("selectedFont", font);
+    }
+
+    function loadFontPreference() {
+      const savedFont = localStorage.getItem("selectedFont");
+      if (savedFont) {
+        document.body.style.fontFamily = savedFont;
+        const selector = document.getElementById("fontSelector");
+        for (let option of selector.options) {
+          if (option.value === savedFont) {
+            selector.value = savedFont;
+            break;
+          }
+        }
+      }
+    }
+
+    window.onload = () => {
+      autoSetTheme();
+      loadMarkdown();
+      loadFontPreference();
+    };
+  </script>
+</body>
+</html>
