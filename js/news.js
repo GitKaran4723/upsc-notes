@@ -1,12 +1,17 @@
 async function loadNews() {
- 
-    const indexURL = "https://raw.githubusercontent.com/GitKaran4723/dailynews/refs/heads/main/files.json";
-    const baseURL = "https://raw.githubusercontent.com/GitKaran4723/dailynews/refs/heads/main/";
+  const timestamp = new Date().getTime(); // ⏱️ Generate a unique timestamp
+  const indexURL = `https://raw.githubusercontent.com/GitKaran4723/dailynews/refs/heads/main/files.json?t=${timestamp}`;
+  const baseURL = "https://raw.githubusercontent.com/GitKaran4723/dailynews/refs/heads/main";
 
-    const res = await fetch(indexURL);
+  try {
+    const res = await fetch(indexURL, { cache: "no-store" });
     const data = await res.json();
     renderNews(data, baseURL);
+  } catch (error) {
+    console.error("Failed to load news:", error);
   }
+}
+
   
   function renderNews(structure, baseURL) {
     const container = document.getElementById("news-container");
