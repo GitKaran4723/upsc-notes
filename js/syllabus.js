@@ -85,23 +85,10 @@ function renderUPSC(data) {
 }
 
 async function openConcept(mdUrl) {
-  const res = await fetch(mdUrl);
-  const mdText = await res.text();
-  const container = document.getElementById("markdownContent");
-  container.innerHTML = marked.parse(mdText);
-  const headings = container.querySelectorAll("h1, h2, h3, h4, h5, h6");
-  headings.forEach(h => {
-    h.style.fontSize = "revert";
-    h.style.fontWeight = "revert";
-  });
-  if (window.MathJax) MathJax.typeset();
-  document.getElementById("markdownModal").classList.add("active");
-  document.body.classList.add("no-scroll");
-}
+  console.log("URL Requested", mdUrl);
 
-function closeModal() {
-  document.getElementById("markdownModal").classList.remove("active");
-  document.body.classList.remove("no-scroll");
+  // Navigate to rendernotes.html and pass mdUrl as a query parameter
+  window.location.href = `rendernotesfinal.html?mdUrl=${encodeURIComponent(mdUrl)}`;
 }
 
 loadSyllabus();
