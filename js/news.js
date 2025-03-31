@@ -1,7 +1,7 @@
 async function loadNews() {
   const timestamp = new Date().getTime(); // ⏱️ Generate a unique timestamp
   const indexURL = `https://raw.githubusercontent.com/GitKaran4723/dailynews/refs/heads/main/files.json?t=${timestamp}`;
-  const baseURL = "https://raw.githubusercontent.com/GitKaran4723/dailynews/refs/heads/main";
+  const baseURL = "";
 
   try {
     const res = await fetch(indexURL, { cache: "no-store" });
