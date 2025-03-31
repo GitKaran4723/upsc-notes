@@ -54,14 +54,10 @@ async function loadNews() {
   }
   
   async function openNews(mdUrl) {
-    const res = await fetch(mdUrl);
-    const mdText = await res.text();
-  
-    const contentBox = document.getElementById("markdownContent");
-    contentBox.innerHTML = marked.parse(mdText);
-  
-    document.getElementById("markdownModal").classList.add("active");
-    document.body.classList.add("no-scroll");
+  console.log("URL Requested", mdUrl);
+
+  // Navigate to rendernotes.html and pass mdUrl as a query parameter
+  window.location.href = `rendernotesfinal.html?mdUrl=${encodeURIComponent(mdUrl)}`;
   }
   
   function closeModal() {
