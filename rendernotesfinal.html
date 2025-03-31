@@ -573,23 +573,22 @@
     }
 
     async function loadMarkdown() {
-
-      const url = "https://raw.githubusercontent.com/GitKaran4723/dailynews/refs/heads/main/2025/mar/30.md";
-
-      const res = await fetch(url);
-
-      const md = await res.text();
-
-      const html = marked.parse(md);
-
-      document.getElementById("markdownContent").innerHTML = html;
-
-      if (window.MathJax) MathJax.typeset();
-
-      Prism.highlightAll();
-
-    }
-
+async function loadMarkdown() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const mdUrl = urlParams.get("mdUrl");
+      if (!mdUrl) return document.getElementById("markdownContent").innerHTML = "<p>Error: No markdown file provided.</p>";
+      try {
+        const res = await fetch(mdUrl);
+        const mdText = await res.text();
+        document.getElementById("markdownContent").innerHTML = marked.parse(mdText);
+        if (window.MathJax) MathJax.typeset();
+        Prism.highlightAll();
+        enableImagePopup();
+      } catch (error) {
+        console.error("Error fetching markdown:", error);
+      }
+}
+      
     window.onload = () => {
 
       loadMarkdown();
