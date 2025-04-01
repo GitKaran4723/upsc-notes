@@ -572,7 +572,6 @@
 
     }
 
-    async function loadMarkdown() {
 async function loadMarkdown() {
       const urlParams = new URLSearchParams(window.location.search);
       const mdUrl = urlParams.get("mdUrl");
@@ -583,11 +582,18 @@ async function loadMarkdown() {
         document.getElementById("markdownContent").innerHTML = marked.parse(mdText);
         if (window.MathJax) MathJax.typeset();
         Prism.highlightAll();
-        enableImagePopup();
+        // enableImagePopup();
       } catch (error) {
         console.error("Error fetching markdown:", error);
       }
 }
+
+  function enableImagePopup() {
+        document.querySelectorAll("#markdownContent img").forEach(img => {
+          img.style.cursor = "pointer";
+          img.addEventListener("click", () => openModal(img.src));
+        });
+      }
       
     window.onload = () => {
 

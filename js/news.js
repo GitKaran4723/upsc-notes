@@ -1,7 +1,7 @@
 async function loadNews() {
   const timestamp = new Date().getTime(); // ⏱️ Generate a unique timestamp
   const indexURL = `https://raw.githubusercontent.com/GitKaran4723/dailynews/refs/heads/main/files.json?t=${timestamp}`;
-  const baseURL = "";
+  const baseURL = `https://raw.githubusercontent.com/GitKaran4723/dailynews/refs/heads/main/`;
 
   try {
     const res = await fetch(indexURL, { cache: "no-store" });
@@ -37,10 +37,14 @@ async function loadNews() {
         daysList.className = "flex flex-wrap gap-2 mt-2";
   
         months[month].forEach(day => {
+          day = String(day).padStart(2, '0');
+          console.log("Day: ",day);
           const button = document.createElement("button");
           button.textContent = `🗓️ ${day}`;
           button.className = "bg-blue-600 hover:bg-blue-800 text-white px-3 py-1 rounded text-sm";
           const mdUrl = `${baseURL}/${year}/${month}/${day}.md`;
+
+          console.log("Created URL", mdUrl);
   
           button.addEventListener('click', () => openNews(mdUrl));
           daysList.appendChild(button);
@@ -55,7 +59,6 @@ async function loadNews() {
   
   async function openNews(mdUrl) {
   console.log("URL Requested", mdUrl);
-
   // Navigate to rendernotes.html and pass mdUrl as a query parameter
   window.location.href = `rendernotesfinal.html?mdUrl=${encodeURIComponent(mdUrl)}`;
   }
