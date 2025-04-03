@@ -4,7 +4,7 @@
 
 > The Indian Constitution evolved through a **series of historical developments**, including British-enacted acts like the Government of India Act, 1935, and the Indian freedom movement's demand for rights and democracy. Key milestones include the Nehru Report, **Karachi Resolution**, and the **Cabinet Mission Plan**. The Constituent Assembly, formed in 1946, drafted the Constitution, which came into force on 26 January 1950. Its salient features include a blend of rigidity and flexibility, a federal structure with unitary bias, parliamentary democracy, independent judiciary, fundamental rights, directive principles, secularism, and universal adult franchise, making it the lengthiest and one of the most **comprehensive constitutions globally**.
 
-- [ ] Company Rule - [Read Here](/rendernotesfinal.html?mdUrl=https://raw.githubusercontent.com/GitKaran4723/markdown-notes/refs/heads/main/upsc/prelims/polity/part1_constitutional_framework/historical_background/the_company_rule.md)
+- [ ] Company Rule - [Read Here](/upsc-notes/rendernotesfinal.html?mdUrl=https://raw.githubusercontent.com/GitKaran4723/markdown-notes/refs/heads/main/upsc/prelims/polity/part1_constitutional_framework/historical_background/the_company_rule.md)
 - [ ] Historical Evolution of the Constitution – [Click here to read more](#)
 - [ ] Constituent Assembly – [Click here to read more](#)
 - [ ] Objectives of the Constitution – [Click here to read more](#)
