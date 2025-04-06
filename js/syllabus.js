@@ -1,11 +1,8 @@
 async function loadSyllabus() {
   const res = await fetch("data/syllabus.json");
-
-  console.log(res)
   const data = await res.json();
   renderUPSC(data);
 
-  console.log(data)
 }
 
 function renderUPSC(data) {
