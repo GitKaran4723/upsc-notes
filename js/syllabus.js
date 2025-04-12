@@ -39,6 +39,7 @@ function renderUPSC(data) {
           a.href = "#";
           a.textContent = "🔹 " + topic.name;
           a.className = "text-blue-700 hover:underline";
+          a.target = "_blank";
           a.addEventListener('click', (e) => {
             e.preventDefault();
             openConcept(topic.markdown_url);
