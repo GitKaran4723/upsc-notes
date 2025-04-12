@@ -1,0 +1,313 @@
+[
+    {
+      "date": "12",
+      "month": "April",
+      "year": "2025",
+      "question": "With reference to India’s initiative to launch 52 military satellites, consider the following statements:",
+      "statements": [
+        "These satellites are primarily intended for Intelligence, Surveillance, and Reconnaissance (ISR) purposes.",
+        "They will be developed solely by ISRO without any involvement from the private sector."
+      ],
+      "options": [
+        "Only 1 is correct",
+        "Only 2 is correct",
+        "Both 1 and 2 are correct",
+        "Neither 1 nor 2 is correct"
+      ],
+      "correct_option": "Only 1 is correct",
+      "explanation": "The satellites are indeed meant for ISR, enhancing India's space-based military capabilities. However, the development will involve both ISRO and the private sector, making statement 2 incorrect."
+    },
+    {
+      "date": "12",
+      "month": "April",
+      "year": "2025",
+      "question": "India’s new Military Space Doctrine aims to address which of the following?",
+      "statements": [
+        "Threat of anti-satellite weapons",
+        "Challenges from space debris",
+        "Electronic warfare in space"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "The new Military Space Doctrine addresses all three: anti-satellite weapons, space debris, and electronic warfare, as emerging space-based threats."
+    },
+    {
+      "date": "12",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following satellite technologies is mentioned in the new military satellite program?",
+      "statements": [
+        "Synthetic Aperture Radar (SAR)",
+        "Quantum Communication Relay",
+        "Advanced sensors and imaging systems"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 3 only",
+      "explanation": "The satellites will be equipped with SAR and advanced imaging sensors. Quantum communication is not mentioned in the current plan."
+    },
+    {
+      "date": "12",
+      "month": "April",
+      "year": "2025",
+      "question": "India became the fourth country to demonstrate the ability to destroy a satellite in Low Earth Orbit (LEO). Which countries had previously demonstrated this capability?",
+      "statements": [
+        "United States",
+        "Russia",
+        "China"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "As per the **Military Space Doctrine**, India joined the US, Russia, and China as the fourth nation capable of destroying a satellite in LEO."
+    },
+    {
+      "date": "12",
+      "month": "April",
+      "year": "2025",
+      "question": "What are the key benefits of deploying military satellites as per India’s new strategy?",
+      "statements": [
+        "Monitoring rugged mountainous borders with Pakistan and China",
+        "Tracking maritime activities in the Indian Ocean Region",
+        "Countering threats of hypersonic missiles and UAVs"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "The military satellites will support various functions such as border surveillance, maritime tracking, and countering advanced weapon threats, including hypersonic missiles and UAVs."
+    },
+    {
+        "Date": "12",
+        "Month": "April",
+        "Year": "2025",
+        "question": "Consider the following statements about extraditable offences:",
+        "statements": [
+          "An offence must be mentioned in an extradition treaty between the countries or be punishable with at least 1 year of imprisonment.",
+          "India cannot extradite a person if there is no extradition treaty with the concerned country."
+        ],
+        "options": [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct option": "Only 1",
+        "explanation": "Statement 1 is correct. For an offence to be considered extraditable, it must be either listed in a treaty or be punishable with at least 1 year of imprisonment even in the absence of a treaty. Statement 2 is incorrect because extradition is possible even without a treaty if the punishment meets the minimum threshold."
+      },
+      {
+        "Date": "12",
+        "Month": "April",
+        "Year": "2025",
+        "question": "Which of the following principles are associated with the extradition process?",
+        "statements": [
+          "Double Criminality",
+          "Double Jeopardy",
+          "Reciprocity",
+          "Collective Punishment"
+        ],
+        "options": [
+          "1, 2 and 3 only",
+          "1 and 4 only",
+          "2, 3 and 4 only",
+          "1, 2, 3 and 4"
+        ],
+        "correct option": "1, 2 and 3 only",
+        "explanation": "The principles of extradition include Double Criminality (the act must be a crime in both countries), Double Jeopardy (a person cannot be extradited for a crime already punished), Reciprocity (mutual legal cooperation), and others like Fair Trial and Speciality. 'Collective Punishment' is not a principle of extradition."
+      },
+      {
+        "Date": "12",
+        "Month": "April",
+        "Year": "2025",
+        "question": "Which body is the nodal authority for extradition matters in India?",
+        "statements": [
+          "Ministry of External Affairs",
+          "Ministry of Home Affairs",
+          "National Investigation Agency",
+          "Supreme Court of India"
+        ],
+        "options": [
+          "Ministry of External Affairs",
+          "Ministry of Home Affairs",
+          "National Investigation Agency",
+          "Supreme Court of India"
+        ],
+        "correct option": "Ministry of External Affairs",
+        "explanation": "The Ministry of External Affairs is designated as the nodal authority for handling extradition-related matters in India under the Extradition Act of 1962."
+      },
+      {
+        "Date": "12",
+        "Month": "April",
+        "Year": "2025",
+        "question": "Which of the following are major challenges faced in India’s extradition process?",
+        "statements": [
+          "Misuse of Double Criminality Principle",
+          "Lack of jurisdictional clarity in Indian law",
+          "Time-consuming procedures",
+          "Limited number of treaties with other countries"
+        ],
+        "options": [
+          "1 and 2 only",
+          "1, 3 and 4 only",
+          "2, 3 and 4 only",
+          "1, 2, 3 and 4"
+        ],
+        "correct option": "1, 3 and 4 only",
+        "explanation": "The key challenges include misuse of the Double Criminality principle (where fugitives flee to countries where their crime isn’t considered an offense), bureaucratic and time-consuming procedures, and India having extradition treaties with only a limited number of countries. Jurisdictional clarity is not listed as a challenge in the source."
+      },
+      {
+        "Date": "12",
+        "Month": "April",
+        "Year": "2025",
+        "question": "Under the Extradition Act, 1962, which of the following statements is/are true?",
+        "statements": [
+          "It was substantially modified in 1993.",
+          "The final decision on extradition is taken by the Supreme Court of India.",
+          "India has extradition treaties with 48 countries."
+        ],
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct option": "1 and 3 only",
+        "explanation": "Statements 1 and 3 are correct. The Extradition Act was indeed modified in 1993, and India has treaties with 48 countries. However, the final decision on extradition is made by the Government of India, not the Supreme Court (though the decision can be appealed in court)."
+      },
+      {
+        "date": "12",
+        "month": "April",
+        "year": "2025",
+        "question": "With reference to Navkar Mahamantra Divas, consider the following statements:",
+        "statements": [
+          "It is a Jain festival celebrating spiritual harmony and ethical consciousness through the chanting of Navkar Mahamantra.",
+          "Navkar Mahamantra pays respect only to Arihants and Siddhas who have attained Moksha."
+        ],
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct_option": "1 only",
+        "explanation": "Navkar Mahamantra Divas is a celebration in Jainism that emphasizes spiritual harmony and ethical consciousness. The Navkar Mahamantra pays respect to five supreme beings: Arihants, Siddhas, Acharyas, Upadhyayas, and Sadhus — not just Arihants and Siddhas. Hence, statement 2 is incorrect."
+      },
+      {
+        "date": "12",
+        "month": "April",
+        "year": "2025",
+        "question": "Which of the following principles of Jainism are correctly matched with their significance?",
+        "statements": [
+          "Ahimsa – Promotes peace and countering violence globally.",
+          "Aparigraha – Advocates non-possession and supports sustainable living.",
+          "Anekantavada – Stresses one absolute truth and discourages differing views.",
+          "Satya and Asteya – Encourage honesty and oppose corruption."
+        ],
+        "options": [
+          "1, 2 and 4 only",
+          "1, 3 and 4 only",
+          "2 and 3 only",
+          "All of the above"
+        ],
+        "correct_option": "1, 2 and 4 only",
+        "explanation": "Ahimsa promotes peace and nonviolence; Aparigraha discourages materialism and supports sustainable living; Satya (truthfulness) and Asteya (non-stealing) emphasize integrity and fairness. Anekantavada, however, promotes multiplicity of viewpoints — not a single absolute truth — hence statement 3 is incorrect."
+      },
+      {
+        "date": "12",
+        "month": "April",
+        "year": "2025",
+        "question": "Consider the following resolutions proposed by the Prime Minister on Navkar Mahamantra Divas:",
+        "statements": [
+          "Water Conservation",
+          "Promotion of Artificial Intelligence",
+          "Adopting Natural Farming",
+          "Exploring India's Diverse Cultures"
+        ],
+        "options": [
+          "1, 2 and 3 only",
+          "1, 3 and 4 only",
+          "2, 3 and 4 only",
+          "All of the above"
+        ],
+        "correct_option": "1, 3 and 4 only",
+        "explanation": "Among the 'Nine Resolutions for New India' mentioned on Navkar Mahamantra Divas, the resolutions include Water Conservation, Adopting Natural Farming, and Exploring India's Diverse Cultures. Promotion of Artificial Intelligence was not part of the listed resolutions."
+      },
+      {
+        "date": "12",
+        "month": "April",
+        "year": "2025",
+        "question": "What was the purpose of the 2020 transshipment agreement between India and Bangladesh?",
+        "options": [
+          "To allow Indian exports to transit through Bangladesh to China",
+          "To allow Bangladeshi exports to use Indian ports for third-country shipments",
+          "To promote tourism between India and Bangladesh",
+          "To ease visa restrictions between the two countries"
+        ],
+        "correct_option": "To allow Bangladeshi exports to use Indian ports for third-country shipments",
+        "explanation": "The 2020 agreement between India and Bangladesh allowed Bangladeshi goods to be transported through Indian Land Customs Stations (LCSs) to Indian ports for onward shipping to third countries such as those in Europe and West Asia. This facilitated cost-effective and quicker export logistics for Bangladesh until India revoked the facility in 2025 citing congestion and geopolitical tensions."
+      },
+      {
+        "date": "12",
+        "month": "April",
+        "year": "2025",
+        "question": "India’s revocation of the Bangladesh transshipment facility reflects which broader geopolitical challenges?",
+        "statements": [
+          "Strained bilateral relations due to remarks undermining India’s role in the IOR",
+          "China’s expanding influence through strategic port acquisitions",
+          "Increasing maritime congestion affecting India’s export capacity"
+        ],
+        "options": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "correct_option": "1, 2 and 3",
+        "explanation": "India cited congestion at ports and airports as a primary reason for revoking the agreement, but geopolitical tensions also played a role. Bangladesh’s recent statements downplaying India’s role in the Indian Ocean Region (IOR) and China's growing presence through infrastructure investments in regional ports contribute to broader strategic concerns."
+      },
+      {
+        "date": "12",
+        "month": "April",
+        "year": "2025",
+        "question": "India's SAGAR doctrine and its extension, the MAHASAGAR vision, primarily relate to which of the following?",
+        "options": [
+          "Land border management with China",
+          "Nuclear security and disarmament",
+          "Maritime security and regional cooperation in the Indian Ocean",
+          "Economic integration through free trade agreements"
+        ],
+        "correct_option": "Maritime security and regional cooperation in the Indian Ocean",
+        "explanation": "SAGAR (Security and Growth for All in the Region) is India’s maritime initiative aimed at promoting stability and cooperation in the Indian Ocean Region (IOR). Its 2025 extension, MAHASAGAR, emphasizes holistic and mutual advancement in maritime security, trade, and disaster response among IOR nations, reinforcing India’s role as a Net Security Provider."
+      },
+      {
+        "date": "12",
+        "month": "April",
+        "year": "2025",
+        "question": "Which of the following best describes the 'String of Pearls' strategy in the context of India’s maritime security?",
+        "options": [
+          "India’s plan to expand its naval bases in Africa and Southeast Asia",
+          "China’s strategy of encircling India with military and commercial facilities",
+          "A South Asian alliance formed to protect coral reefs and marine biodiversity",
+          "India’s collaboration with ASEAN countries for space research"
+        ],
+        "correct_option": "China’s strategy of encircling India with military and commercial facilities",
+        "explanation": "The 'String of Pearls' refers to China’s strategic efforts to establish a network of ports and maritime infrastructure around the Indian Ocean, including locations like Hambantota (Sri Lanka) and Gwadar (Pakistan). This is viewed as an attempt to encircle India and project Chinese influence in the region, thereby posing a strategic challenge to India’s maritime dominance."
+      }
+  ]
+  

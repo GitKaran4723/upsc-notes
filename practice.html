@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UPSC Practice Questions</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/syllabus.css">
+    <link rel="stylesheet" href="css/news.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900 relative overflow-x-hidden">
+
+    <!-- Header -->
+    <header class="bg-gray-900 text-white flex justify-between items-center p-4 sticky top-0 z-50 shadow-md">
+        <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Daily Practice Questions</h1>
+        <a href="/upsc-notes/" class="text-sm hover:text-yellow-300">Back to Home</a>
+    </header>
+
+    <!-- Overview -->
+    <section class="py-6 px-4 bg-yellow-100 text-center">
+        <h2 class="text-2xl font-semibold text-yellow-800">Stay Practiced. Stay Ahead.</h2>
+        <p class="max-w-3xl mx-auto mt-2 text-sm text-gray-700">
+            Explore daily UPSC <strong>Practice Questions</strong> curated for <strong>Prelims 2026</strong>.
+            Click a date to begin your session.
+        </p>
+    </section>
+
+    <!-- Practice Section -->
+    <section class="p-4">
+        <h3 class="text-xl font-semibold mb-4 text-center text-gray-800">Select a date to start practice</h3>
+        <div id="practice-container" class="flex flex-wrap gap-3 justify-center text-sm"></div>
+    </section>
+
+    <script>
+        async function loadPracticeDates() {
+            const container = document.getElementById('practice-container');
+            try {
+                const response = await fetch('./question/practice/metadata.json');
+                const metadata = await response.json();
+
+                const sortedYears = Object.keys(metadata).sort((a, b) => b - a);
+
+                for (const year of sortedYears) {
+                    const yearCard = document.createElement('div');
+                    yearCard.className = 'bg-white shadow-lg rounded-xl border border-yellow-200 p-6';
+
+                    const yearHeading = document.createElement('h4');
+                    yearHeading.textContent = `Year ${year}`;
+                    yearHeading.className = 'text-xl font-bold text-gray-900 mb-4 border-b pb-2';
+                    yearCard.appendChild(yearHeading);
+
+                    const months = Object.keys(metadata[year]).sort((a, b) => {
+                        const dateA = new Date(`${year} ${a} 01`);
+                        const dateB = new Date(`${year} ${b} 01`);
+                        return dateB - dateA;
+                    });
+
+                    for (const month of months) {
+                        const monthDiv = document.createElement('div');
+                        monthDiv.className = 'mb-6';
+
+                        const monthHeading = document.createElement('h5');
+                        monthHeading.textContent = month.charAt(0).toUpperCase() + month.slice(1);
+                        monthHeading.className = 'text-lg font-semibold text-yellow-700 mb-2';
+                        monthDiv.appendChild(monthHeading);
+
+                        const btnGroup = document.createElement('div');
+                        btnGroup.className = 'flex flex-wrap gap-2';
+
+                        const days = metadata[year][month].sort((a, b) => Number(b) - Number(a));
+                        for (const date of days) {
+                            const btn = document.createElement('button');
+                            btn.textContent = date;
+                            btn.className = 'bg-yellow-100 hover:bg-yellow-300 transition-all border border-yellow-400 px-4 py-2 rounded-lg shadow-sm text-gray-900 font-semibold';
+                            btn.onclick = () => {
+                                window.location.href = `/question.html?year=${year}&month=${month}&date=${date}`;
+                            };
+                            btnGroup.appendChild(btn);
+                        }
+
+                        monthDiv.appendChild(btnGroup);
+                        yearCard.appendChild(monthDiv);
+                    }
+
+                    container.appendChild(yearCard);
+                }
+            } catch (err) {
+                console.error('Error loading practice metadata:', err);
+                container.innerHTML = "<p class='text-red-600 text-center'>⚠️ Failed to load practice dates. Please try again later.</p>";
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', loadPracticeDates);
+    </script>
+
+
+</body>
+
+</html>

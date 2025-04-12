@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Practice Questions</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    .blurred {
+      filter: blur(5px);
+      pointer-events: none;
+    }
+    body.modal-open {
+      overflow: hidden;
+    }
+    #loader {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.9);
+      z-index: 1000;
+    }
+  </style>
+</head>
+
+<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900">
+  <div id="loader" class="text-center text-yellow-800">
+    <div>
+      <div class="text-xl font-semibold mb-2">Preparing your test...</div>
+      <div class="w-12 h-12 border-4 border-yellow-400 border-t-transparent rounded-full animate-spin mx-auto"></div>
+    </div>
+  </div>
+
+  <header class="bg-gray-900 text-white p-4 flex justify-between items-center sticky top-0 z-50">
+    <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Practice Questions</h1>
+    <a href="/practice.html" class="text-sm hover:text-yellow-300">Back to Dates</a>
+  </header>
+
+  <section id="date-info" class="text-center py-4 text-yellow-800 text-lg font-semibold"></section>
+
+  <main id="question-container" class="max-w-4xl mx-auto p-4 space-y-8"></main>
+
+  <!-- Modal -->
+  <div id="solution-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+    <div class="bg-white w-[90%] md:max-w-xl rounded-lg shadow-lg relative p-4 md:p-6 overflow-y-auto max-h-[90vh]">
+      <button onclick="closeModal()" class="absolute top-2 right-3 text-gray-600 text-xl">
+        <i class="fas fa-times"></i>
+      </button>
+      <h3 class="text-lg font-bold mb-2 text-gray-800">Explanation</h3>
+      <div id="modal-content" class="prose max-w-none text-sm"></div>
+    </div>
+  </div>
+
+  <script>
+    const container = document.getElementById('question-container');
+    const modal = document.getElementById('solution-modal');
+    const modalContent = document.getElementById('modal-content');
+    const dateInfo = document.getElementById('date-info');
+    const loader = document.getElementById('loader');
+
+    function closeModal() {
+      modal.classList.add('hidden');
+      container.classList.remove('blurred');
+      document.body.classList.remove('modal-open');
+    }
+
+    function showModal(explanation) {
+      modalContent.innerHTML = marked.parse(explanation);
+      modal.classList.remove('hidden');
+      container.classList.add('blurred');
+      document.body.classList.add('modal-open');
+    }
+
+    async function loadQuestions() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const year = urlParams.get('year');
+      const month = urlParams.get('month');
+      const date = urlParams.get('date');
+
+      dateInfo.textContent = `📅 Practice Date: ${date} ${month}, ${year}`;
+
+      try {
+        const res = await fetch(`./question/practice/${year}/${month}/${date}.json`);
+        const data = await res.json();
+
+        loader.style.display = 'none';
+
+        data.forEach((q, index) => {
+          const card = document.createElement('div');
+          card.className = 'bg-white shadow-md rounded-lg p-4 md:p-6 border border-yellow-200';
+
+          const qNo = document.createElement('h3');
+          qNo.className = 'text-lg font-semibold text-gray-800 mb-2';
+          qNo.textContent = `Q${index + 1}. ${q.question}`;
+
+          card.appendChild(qNo);
+
+          if (q.statements && q.statements.length > 0) {
+            const list = document.createElement('ol');
+            list.className = 'list-decimal pl-5 mb-4 text-sm';
+            q.statements.forEach(stmt => {
+              const li = document.createElement('li');
+              li.textContent = stmt;
+              list.appendChild(li);
+            });
+            card.appendChild(list);
+          }
+
+          const optionsDiv = document.createElement('div');
+          optionsDiv.className = 'space-y-2';
+          let answered = false;
+
+          const feedback = document.createElement('p');
+          feedback.className = 'mt-4 font-semibold';
+
+          q.options.forEach(opt => {
+            const btn = document.createElement('button');
+            btn.textContent = opt;
+            btn.className = 'block w-full text-left px-4 py-2 bg-yellow-50 border border-yellow-300 rounded hover:bg-yellow-100';
+            btn.onclick = () => {
+              if (answered) return;
+              answered = true;
+              const isCorrect = opt === q.correct_option;
+              btn.classList.add(isCorrect ? 'bg-green-200' : 'bg-red-200');
+              Array.from(optionsDiv.children).forEach(b => b.disabled = true);
+
+              feedback.textContent = isCorrect ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
+              feedback.classList.add(isCorrect ? 'text-green-600' : 'text-red-600');
+
+              const explainBtn = document.createElement('button');
+              explainBtn.textContent = 'View Explanation';
+              explainBtn.className = 'mt-2 bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-4 py-2 rounded';
+              explainBtn.onclick = () => showModal(q.explanation);
+              card.appendChild(explainBtn);
+            };
+            optionsDiv.appendChild(btn);
+          });
+
+          card.appendChild(optionsDiv);
+          card.appendChild(feedback);
+          container.appendChild(card);
+        });
+      } catch (error) {
+        loader.style.display = 'none';
+        container.innerHTML = `<p class='text-red-600 text-center'>Questions Coming Soon.</p>`;
+        console.error('Error loading questions:', error);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadQuestions);
+  </script>
+</body>
+
+</html>
