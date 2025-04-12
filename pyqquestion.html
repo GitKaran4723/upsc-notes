@@ -156,7 +156,7 @@
       dateInfo.textContent = `📅 Questions of ${year} ${type} - ${subject}`;
       
       try {
-        const res = await fetch(`/question/pyqs/${year}/${type}/${subject}.json`);
+        const res = await fetch(`./question/pyqs/${year}/${type}/${subject}.json`);
         const data = await res.json();
         console.log(data);
 
