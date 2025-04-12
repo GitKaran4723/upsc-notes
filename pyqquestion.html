@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Practice Questions</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    .blurred {
+      filter: blur(5px);
+      pointer-events: none;
+    }
+    body.modal-open {
+      overflow: hidden;
+    }
+    #loader {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.9);
+      z-index: 1000;
+    }
+    button.no-hover:hover {
+      background-color: inherit !important;
+      cursor: default;
+    }
+    .carousel-container {
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      height: calc(100vh - 172px); /* full height minus header + date section */
+    }
+    .carousel-slide {
+      flex: 1;
+      overflow-y: auto;
+      padding-bottom: 80px;
+    }
+    .overlay-controls {
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(6px);
+    }
+  </style>
+</head>
+
+<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900">
+  <div id="loader" class="text-center text-yellow-800">
+    <div>
+      <div class="text-xl font-semibold mb-2">Preparing your test...</div>
+      <div class="w-12 h-12 border-4 border-yellow-400 border-t-transparent rounded-full animate-spin mx-auto"></div>
+    </div>
+  </div>
+
+  <header class="bg-gray-900 text-white p-4 flex justify-between items-center sticky top-0 z-50">
+    <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Previous Year Questions</h1>
+    <a href="/upsc-notes/pyq.html" class="text-sm hover:text-yellow-300">Back to Subjects</a>
+  </header>
+
+  <section id="date-info" class="text-center py-4 text-yellow-800 text-lg font-semibold"></section>
+
+  <div class="relative w-full carousel-container">
+    <div id="question-carousel" class="carousel-slide px-6 md:px-20"></div>
+
+    <div class="overlay-controls fixed bottom-0 left-0 w-full px-6 py-3 border-t border-yellow-200 flex flex-col gap-2 items-center">
+      <div class="flex justify-between w-full">
+        <button id="prev-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">&larr; Prev</button>
+        <div class="text-center text-sm text-gray-600"> <span id="current-question">1</span> / <span id="question-count"></span></div>
+        <button id="next-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">Next &rarr;</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="solution-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+    <div class="bg-white w-[90%] md:max-w-xl rounded-lg shadow-lg relative p-4 md:p-6 overflow-y-auto max-h-[90vh]">
+      <button onclick="closeModal()" class="absolute top-2 right-3 text-gray-600 text-xl">
+        <i class="fas fa-times"></i>
+      </button>
+      <h3 class="text-lg font-bold mb-2 text-gray-800">Explanation</h3>
+      <div id="modal-content" class="prose max-w-none text-sm"></div>
+    </div>
+  </div>
+
+  <script>
+    const container = document.getElementById('question-carousel');
+    const modal = document.getElementById('solution-modal');
+    const modalContent = document.getElementById('modal-content');
+    const dateInfo = document.getElementById('date-info');
+    const loader = document.getElementById('loader');
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    const questionCount = document.getElementById('question-count');
+    const currentQuestion = document.getElementById('current-question');
+
+    let allQuestions = [];
+    let currentPage = 0;
+
+    function closeModal() {
+      modal.classList.add('hidden');
+      container.classList.remove('blurred');
+      document.body.classList.remove('modal-open');
+    }
+
+    function showModal(explanation) {
+      modalContent.innerHTML = marked.parse(explanation);
+      modal.classList.remove('hidden');
+      container.classList.add('blurred');
+      document.body.classList.add('modal-open');
+    }
+
+    function renderPage() {
+      container.innerHTML = '';
+      const question = allQuestions[currentPage];
+      container.appendChild(question);
+      currentQuestion.textContent = currentPage + 1;
+      prevBtn.disabled = currentPage === 0;
+      nextBtn.disabled = currentPage === allQuestions.length - 1;
+    }
+
+    prevBtn.addEventListener('click', () => {
+      if (currentPage > 0) {
+        currentPage--;
+        renderPage();
+      }
+    });
+
+    nextBtn.addEventListener('click', () => {
+      if (currentPage < allQuestions.length - 1) {
+        currentPage++;
+        renderPage();
+      }
+    });
+
+    let touchStartX = 0;
+    container.addEventListener('touchstart', e => touchStartX = e.touches[0].clientX);
+    container.addEventListener('touchend', e => {
+      const diffX = e.changedTouches[0].clientX - touchStartX;
+      if (diffX > 50 && currentPage > 0) {
+        currentPage--;
+        renderPage();
+      } else if (diffX < -50 && currentPage < allQuestions.length - 1) {
+        currentPage++;
+        renderPage();
+      }
+    });
+
+    async function loadQuestions() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const year = urlParams.get('year');
+      const type = urlParams.get('type');
+      const subject = urlParams.get('subject');
+
+      dateInfo.textContent = `📅 Questions of ${year} ${type} - ${subject}`;
+      
+      try {
+        const res = await fetch(`/question/pyqs/${year}/${type}/${subject}.json`);
+        const data = await res.json();
+        console.log(data);
+
+
+        loader.style.display = 'none';
+
+        data.forEach((q, index) => {
+          const card = document.createElement('div');
+          card.className = 'bg-white shadow-md rounded-lg p-6 sm:p-8 border border-yellow-200';
+
+          const qNo = document.createElement('h3');
+          qNo.className = 'text-lg font-semibold text-gray-800 mb-4';
+          qNo.textContent = `Q${index + 1}. ${q.question}`;
+          card.appendChild(qNo);
+
+          if (q.statements && q.statements.length > 0) {
+            const list = document.createElement('ol');
+            list.className = 'list-decimal pl-6 mb-4 text-base';
+            q.statements.forEach(stmt => {
+              const li = document.createElement('li');
+              li.textContent = stmt;
+              list.appendChild(li);
+            });
+            card.appendChild(list);
+          }
+
+          const optionsDiv = document.createElement('div');
+          optionsDiv.className = 'space-y-3';
+          let answered = false;
+
+          const feedback = document.createElement('p');
+          feedback.className = 'mt-4 font-semibold';
+
+          q.options.forEach(opt => {
+            const btn = document.createElement('button');
+            btn.textContent = opt;
+            btn.className = 'block w-full text-left px-5 py-3 text-base bg-yellow-50 border border-yellow-300 rounded hover:bg-yellow-100';
+            btn.onclick = () => {
+              if (answered) return;
+              answered = true;
+              const isCorrect = opt === q.correct_option;
+              btn.classList.add(isCorrect ? 'bg-green-200' : 'bg-red-200');
+              Array.from(optionsDiv.children).forEach(b => {
+                b.disabled = true;
+                b.classList.add('no-hover');
+              });
+              feedback.textContent = isCorrect ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
+              feedback.classList.add(isCorrect ? 'text-green-600' : 'text-red-600');
+
+              const explainBtn = document.createElement('button');
+              explainBtn.textContent = 'View Explanation';
+              explainBtn.className = 'mt-4 bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-4 py-2 rounded';
+              explainBtn.onclick = () => showModal(q.explanation);
+              card.appendChild(explainBtn);
+            };
+            optionsDiv.appendChild(btn);
+          });
+
+          card.appendChild(optionsDiv);
+          card.appendChild(feedback);
+          allQuestions.push(card);
+        });
+
+        questionCount.textContent = allQuestions.length;
+        renderPage();
+
+      } catch (error) {
+        loader.style.display = 'none';
+        container.innerHTML = `<p class='text-red-600 text-center'>Questions Coming Soon.</p>`;
+        console.error('Error loading questions:', error);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadQuestions);
+  </script>
+</body>
+
+</html>

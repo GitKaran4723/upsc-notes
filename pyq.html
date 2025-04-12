@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UPSC PYQs - GS & CSAT</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/syllabus.css">
+    <link rel="stylesheet" href="css/news.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900 relative overflow-x-hidden">
+
+    <!-- Header -->
+    <header class="bg-gray-900 text-white flex justify-between items-center p-4 sticky top-0 z-50 shadow-md">
+        <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Previous Year Questions (PYQs)</h1>
+        <a href="/upsc-notes/" class="text-sm hover:text-yellow-300">Back to Home</a>
+    </header>
+
+    <!-- Overview -->
+    <section class="py-6 px-4 bg-yellow-100 text-center">
+        <h2 class="text-2xl font-semibold text-yellow-800">Master the Past. Conquer the Future.</h2>
+        <p class="max-w-3xl mx-auto mt-2 text-sm text-gray-700">
+            Explore topic-wise <strong>PYQs</strong> for <strong>GS</strong> and <strong>CSAT</strong> from
+            previous UPSC Prelims papers. Click on a year, then choose a subject to practice.
+        </p>
+    </section>
+
+    <!-- PYQ Section -->
+    <section class="p-6">
+        <h3 class="text-xl font-semibold mb-6 text-center text-gray-800">📚 Choose a Year & Subject to Practice</h3>
+        <div id="pyq-container" class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 px-2"></div>
+    </section>
+
+    <script>
+        async function loadPYQMetadata() {
+            const container = document.getElementById('pyq-container');
+            try {
+                const response = await fetch('/question/pyqs/metadatapyq.json');
+                const data = await response.json();
+
+                const sortedYears = Object.keys(data).sort((a, b) => b - a);
+
+                for (const year of sortedYears) {
+                    const card = document.createElement('div');
+                    card.className = 'bg-white shadow-xl rounded-2xl border-2 border-yellow-300 p-6 hover:scale-[1.02] transition-all';
+
+                    const heading = document.createElement('h4');
+                    heading.textContent = `📅 ${year}`;
+                    heading.className = 'text-xl font-bold text-yellow-800 mb-4 border-b pb-2';
+                    card.appendChild(heading);
+
+                    const types = Object.keys(data[year]);
+                    for (const type of types) {
+                        const typeIcon = type === "GS" ? '<i class="fa-solid fa-globe mr-2 text-yellow-600"></i>' : '<i class="fa-solid fa-calculator mr-2 text-blue-600"></i>';
+
+                        const typeHeading = document.createElement('h5');
+                        typeHeading.innerHTML = typeIcon + `<span class="text-lg font-semibold text-gray-700">${type}</span>`;
+                        typeHeading.className = 'mt-2 mb-3';
+                        card.appendChild(typeHeading);
+
+                        const btnGroup = document.createElement('div');
+                        btnGroup.className = 'flex flex-wrap gap-2 mb-4';
+
+                        const subjects = data[year][type];
+                        subjects.forEach(subject => {
+                            const capitalized = subject.replace(/_/g, " ")
+                                .replace(/\b\w/g, char => char.toUpperCase());
+
+                            const btn = document.createElement('button');
+                            btn.textContent = capitalized;
+                            btn.className = 'bg-yellow-50 hover:bg-yellow-200 transition-all border border-yellow-400 px-3 py-2 rounded-lg shadow-sm text-gray-800 font-medium text-sm';
+                            btn.onclick = () => {
+                                window.location.href = `/upsc-notes/pyqquestion.html?year=${year}&type=${type}&subject=${subject}`;
+                            };
+                            btnGroup.appendChild(btn);
+                        });
+
+                        card.appendChild(btnGroup);
+                    }
+
+                    container.appendChild(card);
+                }
+            } catch (err) {
+                console.error('Error loading PYQ metadata:', err);
+                container.innerHTML = "<p class='text-red-600 text-center'>⚠️ Failed to load PYQ data. Please try again later.</p>";
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', loadPYQMetadata);
+    </script>
+
+</body>
+
+</html>

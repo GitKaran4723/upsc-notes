@@ -1,0 +1,215 @@
+[
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "How many Delimitation Commissions have been constituted by the Government of India till December 2023?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correct_option": "Four",
+    "explanation": "Delimitation Commissions have been set up in 1952, 1963, 1973, and 2002. Their purpose is to redraw the boundaries of various assembly and Lok Sabha constituencies based on the latest census data."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages?",
+    "statements": ["Konkani", "Manipuri", "Nepali", "Maithili"],
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The 71st Amendment Act, 1992 added Konkani, Manipuri, and Nepali to the Eighth Schedule, increasing the number of scheduled languages to 18. Maithili was added later by the 92nd Amendment Act in 2003."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "Consider the following pairs:\nParty – Its Leader",
+    "statements": [
+      "Bharatiya Jana Sangh – Dr. Shyama Prasad Mukherjee",
+      "Socialist Party – C. Rajagopalachari",
+      "Congress for Democracy – Jagjivan Ram",
+      "Swatantra Party – Acharya Narendra Dev"
+    ],
+    "options": ["Only one", "Only two", "Only three", "All four"],
+    "correct_option": "Only two",
+    "explanation": "Correctly matched: 1. Bharatiya Jana Sangh – Dr. Shyama Prasad Mukherjee, 3. Congress for Democracy – Jagjivan Ram. Incorrect: C. Rajagopalachari was associated with Swatantra Party, and Acharya Narendra Dev was with the Socialist Party."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "Which of the following statements are correct about the Constitution of India?",
+    "statements": [
+      "Powers of the Municipalities are given in Part IX A of the Constitution.",
+      "Emergency provisions are given in Part XVIII of the Constitution.",
+      "Provisions related to the amendment of the Constitution are given in Part XX of the Constitution."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All statements are correct. Part IX A deals with Municipalities, Part XVIII with Emergency provisions (Articles 352 to 360), and Part XX with Constitutional Amendments (Article 368)."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "Which one of the following statements is correct as per the Constitution of India?",
+    "options": [
+      "Inter-State trade and commerce is a State subject under the State List.",
+      "Inter-State migration is a State subject under the State List.",
+      "Inter-State quarantine is a Union subject under the Union List.",
+      "Corporation tax is a State subject under the State List."
+    ],
+    "correct_option": "Inter-State quarantine is a Union subject under the Union List.",
+    "explanation": "Inter-State quarantine is listed under the Union List (Entry 81), allowing the Central Government to legislate. The other options are either incorrectly categorized or misrepresented."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "Under which of the following Articles of the Constitution of India, has the Supreme Court of India placed the Right to Privacy?",
+    "options": ["Article 15", "Article 16", "Article 19", "Article 21"],
+    "correct_option": "Article 21",
+    "explanation": "In the K.S. Puttaswamy judgment (2017), the Supreme Court held that the Right to Privacy is protected under Article 21, which guarantees the Right to Life and Personal Liberty."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "Which of the following statements about the Ethics Committee in the Lok Sabha are correct?",
+    "statements": [
+      "Initially it was an ad-hoc Committee.",
+      "Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha.",
+      "This Committee cannot take up any matter which is sub-judice."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Ethics Committee in the Lok Sabha started as an ad-hoc committee in 2000 and was made permanent in 2015. Only an MP can lodge a complaint. However, the committee can consider sub-judice matters under certain conditions."
+  },
+
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over?",
+    "options": [
+      "C. Rajagopalachari",
+      "Dr. B.R. Ambedkar",
+      "T.T. Krishnamachari",
+      "Dr. Sachchidananda Sinha"
+    ],
+    "correct_option": "Dr. Sachchidananda Sinha",
+    "explanation": "Dr. Sachchidananda Sinha was the Provisional President of the Constituent Assembly of India. He presided over its first meeting held on 9 December 1946 until a permanent president was elected, after which Dr. Rajendra Prasad became the President of the Assembly."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "As per Article 368 of the Constitution of India, the Parliament may amend any provision of the Constitution by way of:",
+    "statements": ["Addition", "Variation", "Repeal"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Article 368 of the Indian Constitution gives Parliament the power to amend the Constitution by addition, variation, or repeal of any provision, following the procedure laid down in the article."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "Which of the following statements are correct in respect of a Money Bill in the Parliament?",
+    "statements": [
+      "Article 109 mentions special procedure in respect of Money Bills.",
+      "A Money Bill shall not be introduced in the Council of States.",
+      "The Rajya Sabha can either approve the Bill or suggest changes but cannot reject it.",
+      "Amendments to a Money Bill suggested by the Rajya Sabha have to be accepted by the Lok Sabha."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1, 2 and 3", "1, 3 and 4"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "A Money Bill can only be introduced in the Lok Sabha on the recommendation of the President. Rajya Sabha cannot reject or amend it; it can only make recommendations, which Lok Sabha may or may not accept. Article 109 lays down the procedure for Money Bills."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "The North Eastern Council (NEC) was established by the North Eastern Council Act, 1971. Subsequent to the amendment of NEC Act in 2002, the Council comprises which of the following members?",
+    "statements": [
+      "Governor of the Constituent State",
+      "Chief Minister of the Constituent State",
+      "Three Members to be nominated by the President of India",
+      "The Home Minister of India"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "The North Eastern Council comprises Governors and Chief Ministers of the 8 constituent States and 3 nominated members by the President. The Union Home Minister is not a member of the Council."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "Consider the following statements regarding ‘Nari Shakti Vandan Adhiniyam’:\n1. Provisions will come into effect from the 18th Lok Sabha.\n2. This will be in force for 15 years after becoming an Act.\n3. There are provisions for the reservation of seats for Scheduled Castes Women within the quota reserved for the Scheduled Castes.",
+    "options": ["1, 2 and 3", "1 and 2 only", "2 and 3 only", "1 and 3 only"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Nari Shakti Vandan Adhiniyam (Women’s Reservation Bill) provides for 33% reservation for women in Lok Sabha and State Assemblies. It will come into effect after the first census conducted post-enactment and subsequent delimitation, from the 18th Lok Sabha. It includes a 15-year sunset clause, but not separate sub-reservation for SC women."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "A Writ of Prohibition is an order issued by the Supreme Court or High Courts to:",
+    "options": [
+      "a government officer prohibiting him from taking a particular action.",
+      "the Parliament/Legislative Assembly to pass a law on Prohibition.",
+      "the lower court prohibiting continuation of proceedings in a case.",
+      "the Government prohibiting it from following an unconstitutional policy."
+    ],
+    "correct_option": "the lower court prohibiting continuation of proceedings in a case.",
+    "explanation": "A Writ of Prohibition is issued by a higher court to a lower court or tribunal to prevent it from exceeding its jurisdiction or continuing proceedings in a case not within its competence."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "Consider the following statements:\n1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe.\n2. A community declared as a Scheduled Tribe in a State need not be so in another State.",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "correct_option": "2 only",
+    "explanation": "Only the President can specify a community as a Scheduled Tribe under Article 342, not the Governor. Also, Scheduled Tribe status is State-specific; a tribe recognized in one State need not be recognized in another."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "With reference to Union Budget, consider the following statements:\n1. The Union Finance Minister on behalf of the Prime Minister lays the Annual Financial Statement before both the Houses of Parliament.\n2. At the Union level, no demand for a grant be made except on the recommendation of the President of India.",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "correct_option": "2 only",
+    "explanation": "The Finance Minister lays the Annual Financial Statement in his/her own capacity, not on behalf of the PM. Article 113 mandates that no demand for a grant can be made without the recommendation of the President."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "With reference to the Speaker of the Lok Sabha, consider the following statements:\n1. While any resolution for the removal of the Speaker of the Lok Sabha is under consideration, he/she shall not preside.\n2. He/She shall not have the right to speak.\n3. He/She shall not be entitled to vote on the resolution in the first instance.",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 only",
+    "explanation": "While a motion for removal of the Speaker is under consideration, they shall not preside but may participate and vote like any other member. So, only statement 1 is correct."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "With reference to the Indian Parliament, consider the following statements:\n1. A bill pending in the Lok Sabha lapses on its dissolution.\n2. A bill passed by the Lok Sabha and pending in the Rajya Sabha lapses on the dissolution of the Lok Sabha.\n3. A bill in regard to which the President of India notified his/her intention to summon the Houses to a joint sitting lapses on the dissolution of the Lok Sabha.",
+    "options": ["1 only", "1 and 2", "2 and 3", "3 only"],
+    "correct_option": "1 and 2",
+    "explanation": "Bills pending in Lok Sabha lapse upon its dissolution. Bills passed by Lok Sabha but pending in Rajya Sabha also lapse. However, bills under consideration for joint sitting do not lapse."
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2024",
+    "question": "With reference to the Parliament of India, consider the following statements:\n1. Prorogation of a House by the President of India does not require the advice of the Council of Ministers.\n2. Prorogation of a House is generally done after the House is adjourned sine die but there is no bar to the President of India prorogating the House which is in session.\n3. Dissolution of the Lok Sabha is done by the President of India who, save in exceptional circumstances, does so on the advice of the Council of Ministers.",
+    "options": ["1 only", "1 and 2", "2 and 3", "3 only"],
+    "correct_option": "2 and 3",
+    "explanation": "Statement 1 is incorrect as the President acts on the advice of the Council of Ministers for both prorogation and dissolution. Statements 2 and 3 are correct as prorogation can occur anytime, and dissolution usually happens on Cabinet advice."
+  }
+]

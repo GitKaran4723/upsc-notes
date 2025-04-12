@@ -1,0 +1,11 @@
+{
+    "2024": {
+      "GS": ["polity", "economy", "science_and_tech", "geography", "history", "environment"],
+      "CSAT":["aptitude", "comprehention"]
+    },
+    "2023": {
+      "GS": ["polity", "economy", "science_and_tech", "geography", "history", "environment"],
+      "CSAT":["aptitude", "comprehention"]
+    }
+  }
+  
