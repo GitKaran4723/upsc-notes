@@ -2,7 +2,6 @@ async function loadSyllabus() {
   const res = await fetch("data/syllabus.json");
   const data = await res.json();
   renderUPSC(data);
-
 }
 
 function renderUPSC(data) {
@@ -22,25 +21,23 @@ function renderUPSC(data) {
       if (Array.isArray(paperContent)) {
         // Simple list
         const ul = document.createElement("ul");
-        paperContent.forEach(name => {
+        paperContent.forEach((name) => {
           const li = document.createElement("li");
           li.textContent = name;
           li.className = "ml-6 mb-1";
           ul.appendChild(li);
         });
         unitList.appendChild(ul);
-
       } else if (Array.isArray(paperContent.topics)) {
         const ul = document.createElement("ul");
-        paperContent.topics.forEach(topic => {
+        paperContent.topics.forEach((topic) => {
           const li = document.createElement("li");
           li.className = "ml-6 mb-1";
           const a = document.createElement("a");
           a.href = "#";
           a.textContent = "🔹 " + topic.name;
           a.className = "text-blue-700 hover:underline";
-          a.target = "_blank";
-          a.addEventListener('click', (e) => {
+          a.addEventListener("click", (e) => {
             e.preventDefault();
             openConcept(topic.markdown_url);
           });
@@ -48,20 +45,19 @@ function renderUPSC(data) {
           ul.appendChild(li);
         });
         unitList.appendChild(ul);
-
       } else if (Array.isArray(paperContent.units)) {
-        paperContent.units.forEach(unit => {
+        paperContent.units.forEach((unit) => {
           const unitDetails = document.createElement("details");
           unitDetails.innerHTML = `<summary>${unit.name}</summary>`;
           const topicList = document.createElement("ul");
-          (unit.topics || []).forEach(topic => {
+          (unit.topics || []).forEach((topic) => {
             const li = document.createElement("li");
             li.className = "ml-6 mb-1";
             const a = document.createElement("a");
             a.href = "#";
             a.textContent = "🔹 " + topic.name;
             a.className = "text-blue-700 hover:underline";
-            a.addEventListener('click', (e) => {
+            a.addEventListener("click", (e) => {
               e.preventDefault();
               openConcept(topic.markdown_url);
             });
@@ -83,10 +79,10 @@ function renderUPSC(data) {
 }
 
 async function openConcept(mdUrl) {
-  console.log("URL Requested", mdUrl);
-
-  // Navigate to rendernotes.html and pass mdUrl as a query parameter
-  window.location.href = `rendernotesfinal.html?mdUrl=${encodeURIComponent(mdUrl)}`;
+  window.open(
+    `rendernotesfinal.html?mdUrl=${encodeURIComponent(mdUrl)}`,
+    "_blank"
+  );
 }
 
 loadSyllabus();
