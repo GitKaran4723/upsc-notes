@@ -1,21 +1,21 @@
 [
     {
-      "subject": "geography",
-      "type": "GS",
-      "year": "2024",
-      "question": "Which of the following is/are correct inference/inferences from isothermal maps in the month of January?",
-      "statements": [
-        "The isotherms deviate to the north over the ocean and to the south over the continent.",
-        "The presence of cold ocean currents, Gulf Stream and North Atlantic Drift make the North Atlantic Ocean colder and the isotherms bend towards the north."
-      ],
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "correct_option": "1 only",
-      "explanation": "### 🌡️ Understanding Isotherms and Their Bending in January\\n\\n#### 📌 What are Isotherms?\\n- **Isotherms** are lines on a map connecting places of equal **temperature**.\\n- These lines help in visualizing how temperature varies across the globe.\\n\\n---\\n\\n#### ❄️ Why Do Isotherms Bend?\\nIn **January**, temperature patterns differ across continents and oceans due to variations in **heat capacity** and **climate systems**:\\n\\n- **Over Continents (Land)**:\\n  - Land cools quickly in winter.\\n  - As a result, isotherms bend **equatorward (southward)**.\\n  - Example: Cold Siberian and Central Asian landmass.\\n\\n- **Over Oceans (Water)**:\\n  - Water retains heat longer, keeping oceans **warmer**.\\n  - Thus, isotherms bend **poleward (northward)**.\\n  - Example: North Atlantic Ocean remains warmer due to ocean currents.\\n\\n---\\n\\n#### 🌊 Role of Ocean Currents\\n\\n##### **Statement 2 Analysis**:\\n- **Gulf Stream** and **North Atlantic Drift** are **warm currents**, not cold.\\n- These warm currents:\\n  - Flow from the Gulf of Mexico to the North Atlantic.\\n  - **Raise the temperature** of coastal Europe and North Atlantic.\\n  - **Cause isotherms to bend northward**.\\n\\n✅ **Conclusion**:\\n- **Statement 1 is Correct**.\\n- **Statement 2 is Incorrect** as it wrongly classifies warm currents as cold.\\n\\n---\\n\\n#### 🖼️ Visual Representation\\n\\n_Image showing how isotherms behave in January can be referred separately. Due to JSON format limitations, embedded image links should be rendered in markdown viewer._\\n\\n> Note the strong northward bend of isotherms over the North Atlantic due to warm ocean currents like the **Gulf Stream** and **North Atlantic Drift**.\\n\\n---\\n\\n### 🧠 Bonus: Basic Concepts\\n\\n- **Specific Heat Capacity**: Water has a higher heat capacity than land, meaning it heats and cools slowly.\\n- **Warm Ocean Currents**: Transfer heat from the equator toward the poles.\\n- **Cold Ocean Currents**: Transfer cold water from polar to tropical regions (e.g., California Current, Peru Current)."
-    }
-  ]
-  
+        "subject": "geography",
+        "type": "GS",
+        "year": "2024",
+        "question": "Which of the following is/are correct inference/inferences from isothermal maps in the month of January?",
+        "statements": [
+          "The isotherms deviate to the north over the ocean and to the south over the continent.",
+          "The presence of cold ocean currents, Gulf Stream and North Atlantic Drift make the North Atlantic Ocean colder and the isotherms bend towards the north."
+        ],
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "correct_option": "1 only",
+        "explanation": "Statement 1 is correct: In January, isotherms tend to bend equatorward (south) over continents and poleward (north) over oceans due to differences in heat capacity.\n\nStatement 2 is incorrect: Gulf Stream and North Atlantic Drift are warm ocean currents, not cold ones. They make the North Atlantic Ocean warmer, not colder, and cause isotherms to bend poleward. Hence, statement 2 is factually incorrect."
+      }
+      
+]
