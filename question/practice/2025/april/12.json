@@ -94,9 +94,9 @@
       "explanation": "The military satellites will support various functions such as border surveillance, maritime tracking, and countering advanced weapon threats, including hypersonic missiles and UAVs."
     },
     {
-        "Date": "12",
-        "Month": "April",
-        "Year": "2025",
+        "date": "12",
+        "month": "April",
+        "year": "2025",
         "question": "Consider the following statements about extraditable offences:",
         "statements": [
           "An offence must be mentioned in an extradition treaty between the countries or be punishable with at least 1 year of imprisonment.",
@@ -108,13 +108,13 @@
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "correct option": "Only 1",
+        "correct_option": "Only 1",
         "explanation": "Statement 1 is correct. For an offence to be considered extraditable, it must be either listed in a treaty or be punishable with at least 1 year of imprisonment even in the absence of a treaty. Statement 2 is incorrect because extradition is possible even without a treaty if the punishment meets the minimum threshold."
       },
       {
-        "Date": "12",
-        "Month": "April",
-        "Year": "2025",
+        "date": "12",
+        "month": "April",
+        "year": "2025",
         "question": "Which of the following principles are associated with the extradition process?",
         "statements": [
           "Double Criminality",
@@ -128,33 +128,28 @@
           "2, 3 and 4 only",
           "1, 2, 3 and 4"
         ],
-        "correct option": "1, 2 and 3 only",
+        "correct_option": "1, 2 and 3 only",
         "explanation": "The principles of extradition include Double Criminality (the act must be a crime in both countries), Double Jeopardy (a person cannot be extradited for a crime already punished), Reciprocity (mutual legal cooperation), and others like Fair Trial and Speciality. 'Collective Punishment' is not a principle of extradition."
       },
       {
-        "Date": "12",
-        "Month": "April",
-        "Year": "2025",
+        "date": "12",
+        "month": "April",
+        "year": "2025",
         "question": "Which body is the nodal authority for extradition matters in India?",
-        "statements": [
-          "Ministry of External Affairs",
-          "Ministry of Home Affairs",
-          "National Investigation Agency",
-          "Supreme Court of India"
-        ],
+        
         "options": [
           "Ministry of External Affairs",
           "Ministry of Home Affairs",
           "National Investigation Agency",
           "Supreme Court of India"
         ],
-        "correct option": "Ministry of External Affairs",
+        "correct_option": "Ministry of External Affairs",
         "explanation": "The Ministry of External Affairs is designated as the nodal authority for handling extradition-related matters in India under the Extradition Act of 1962."
       },
       {
-        "Date": "12",
-        "Month": "April",
-        "Year": "2025",
+        "date": "12",
+        "month": "April",
+        "year": "2025",
         "question": "Which of the following are major challenges faced in India’s extradition process?",
         "statements": [
           "Misuse of Double Criminality Principle",
@@ -168,13 +163,13 @@
           "2, 3 and 4 only",
           "1, 2, 3 and 4"
         ],
-        "correct option": "1, 3 and 4 only",
+        "correct_option": "1, 3 and 4 only",
         "explanation": "The key challenges include misuse of the Double Criminality principle (where fugitives flee to countries where their crime isn’t considered an offense), bureaucratic and time-consuming procedures, and India having extradition treaties with only a limited number of countries. Jurisdictional clarity is not listed as a challenge in the source."
       },
       {
-        "Date": "12",
-        "Month": "April",
-        "Year": "2025",
+        "date": "12",
+        "month": "April",
+        "year": "2025",
         "question": "Under the Extradition Act, 1962, which of the following statements is/are true?",
         "statements": [
           "It was substantially modified in 1993.",
@@ -187,7 +182,7 @@
           "2 and 3 only",
           "1, 2 and 3"
         ],
-        "correct option": "1 and 3 only",
+        "correct_option": "1 and 3 only",
         "explanation": "Statements 1 and 3 are correct. The Extradition Act was indeed modified in 1993, and India has treaties with 48 countries. However, the final decision on extradition is made by the Government of India, not the Supreme Court (though the decision can be appealed in court)."
       },
       {
