@@ -41,7 +41,7 @@
         async function loadPYQMetadata() {
             const container = document.getElementById('pyq-container');
             try {
-                const response = await fetch('/question/pyqs/metadatapyq.json');
+                const response = await fetch('./question/pyqs/metadatapyq.json');
                 const data = await response.json();
 
                 const sortedYears = Object.keys(data).sort((a, b) => b - a);
