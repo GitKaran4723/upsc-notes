@@ -1,0 +1,433 @@
+[
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements regarding the Biological Weapons Convention (BWC) are correct?",
+    "statements": [
+      "It prohibits the development and stockpiling of biological weapons.",
+      "It has a formal verification regime similar to the Chemical Weapons Convention.",
+      "India has been a member since the inception of the convention."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Biological Weapons Convention (BWC), signed in 1972 and in force since 1975, prohibits development and stockpiling of biological and toxin weapons. However, unlike the Chemical Weapons Convention, BWC lacks a formal verification regime. India is a founding member. The convention is crucial in the context of modern biosecurity threats like pandemics and bioterrorism.",
+    "tags": "polity"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Neuralink’s 'Blindsight' chip aims to restore vision by directly stimulating which part of the brain?",
+    "options": ["Optic nerve", "Visual cortex", "Cerebellum", "Thalamus"],
+    "correct_option": "Visual cortex",
+    "explanation": "Neuralink’s 'Blindsight' chip bypasses damaged optic nerves and directly stimulates the visual cortex, the region of the brain responsible for processing visual information. This represents a breakthrough in neuroprosthetics and brain-computer interface technology.",
+    "tags": "science_and_tech"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the Wildlife Protection (Amendment) concerning captive elephants, which Articles of the Constitution are related to environmental protection?",
+    "options": [
+      "Article 21 and Article 39A",
+      "Article 48A and Article 51A(g)",
+      "Article 40 and Article 49",
+      "Article 32 and Article 226"
+    ],
+    "correct_option": "Article 48A and Article 51A(g)",
+    "explanation": "Article 48A directs the state to protect and improve the environment, while Article 51A(g) lays down the fundamental duty of every citizen to protect the natural environment. These are relevant in light of the Wildlife Protection Act’s amendment allowing the transport of captive elephants for religious purposes.",
+    "tags": "environment"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "What does the GINI Coefficient measure?",
+    "options": [
+      "Educational attainment levels",
+      "Gender parity in employment",
+      "Income inequality within a population",
+      "Access to clean drinking water"
+    ],
+    "correct_option": "Income inequality within a population",
+    "explanation": "The GINI Coefficient is a statistical measure of income distribution, with 0 indicating perfect equality and 1 indicating maximum inequality. It is often cited in studies on economic inequality, such as the EAC-PM working paper on discrimination.",
+    "tags": "economy"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following was recommended by the Hilton Young Commission?",
+    "options": [
+      "Establishment of SEBI",
+      "Nationalization of banks",
+      "Formation of Reserve Bank of India",
+      "Establishment of NABARD"
+    ],
+    "correct_option": "Formation of Reserve Bank of India",
+    "explanation": "The Hilton Young Commission recommended the creation of a central bank in India, leading to the establishment of the Reserve Bank of India (RBI) in 1935. RBI is now commemorating 90 years of its monetary policy journey.",
+    "tags": "economy"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following concepts is central to the Safe Harbour Rules amended recently by CBDT?",
+    "options": [
+      "Capital gains taxation",
+      "Minimum Alternate Tax",
+      "Transfer pricing and arm's length principle",
+      "Double Taxation Avoidance Agreement"
+    ],
+    "correct_option": "Transfer pricing and arm's length principle",
+    "explanation": "Safe Harbour Rules under the Income-Tax Rules provide certainty in transfer pricing for multinational enterprises by setting predefined margins and conditions. The amendments aim to align with international standards and reduce litigation.",
+    "tags": "economy"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "The Kosi–Mechi intra-state river linking project aims to address which of the following?",
+    "statements": [
+      "Flood management in Bihar",
+      "Water scarcity in the Mechi basin",
+      "Hydropower generation"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Kosi–Mechi project in Bihar links a flood-prone river (Kosi) with a water-scarce one (Mechi), aiming to provide irrigation and flood moderation. It does not focus on hydropower generation.",
+    "tags": "geography"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Avalanche breakdown, recently used in radiation detection, is a phenomenon related to which of the following?",
+    "options": [
+      "Superconductivity",
+      "Photovoltaic effect",
+      "High reverse bias in semiconductors",
+      "Electrolysis in electrolytes"
+    ],
+    "correct_option": "High reverse bias in semiconductors",
+    "explanation": "Avalanche breakdown occurs in semiconductors when a high reverse voltage causes a chain reaction of charge carriers, leading to a surge in current. It is now being used for sensitive radioactive material detection.",
+    "tags": "science_and_tech"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly describes the Bodh Gaya Temple Act of 1949?",
+    "options": [
+      "It grants complete control of Mahabodhi Temple to the ASI.",
+      "It establishes a management committee with equal Hindu-Buddhist representation.",
+      "It is a colonial-era act abolished post-independence.",
+      "It places the Mahabodhi Temple under Buddhist monastic control."
+    ],
+    "correct_option": "It establishes a management committee with equal Hindu-Buddhist representation.",
+    "explanation": "The Bodh Gaya Temple Act, 1949, provides for a management committee consisting of both Hindus and Buddhists, with the district magistrate (a Hindu) as the chairperson, which is now being contested by Buddhist monks seeking greater representation.",
+    "tags": "history"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "The AFSIS SAFE Initiative, in which India was recently appreciated, is related to which of the following?",
+    "options": [
+      "Nuclear safety",
+      "Trade security in South Asia",
+      "Agro-meteorological advisory and food security",
+      "Climate finance for infrastructure"
+    ],
+    "correct_option": "Agro-meteorological advisory and food security",
+    "explanation": "The AFSIS (ASEAN Food Security Information System) SAFE Initiative focuses on improving food security through agrometeorological data sharing and advisory services. India was appreciated for its contribution through IMD’s Agromet services.",
+    "tags": "environment"
+  },
+
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the main advantage of self-amplifying RNA (saRNA) vaccines compared to traditional mRNA vaccines?",
+    "options": [
+      "They do not require cold-chain storage.",
+      "They replicate within cells, requiring smaller doses.",
+      "They are made using live viruses.",
+      "They eliminate the need for clinical trials."
+    ],
+    "correct_option": "They replicate within cells, requiring smaller doses",
+    "explanation": "Self-amplifying RNA (saRNA) vaccines carry replicase enzymes that enable the RNA to self-replicate inside host cells. This boosts protein expression and immune response while using lower doses than traditional mRNA vaccines.",
+    "tags": "science_and_tech"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "The Nankai Trough, recently in the news for megaquake warnings, lies between which of the following tectonic plates?",
+    "options": [
+      "Pacific Plate and Australian Plate",
+      "Philippine Sea Plate and Eurasian Plate",
+      "Indian Plate and Eurasian Plate",
+      "Nazca Plate and South American Plate"
+    ],
+    "correct_option": "Philippine Sea Plate and Eurasian Plate",
+    "explanation": "The Nankai Trough is a subduction zone where the Philippine Sea Plate is subducting beneath the Eurasian Plate. It is prone to large magnitude earthquakes, such as the forecasted megaquake.",
+    "tags": "geography"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Trade Watch Quarterly, recently released by NITI Aayog, primarily focuses on:",
+    "options": [
+      "India’s climate finance progress",
+      "Monetary policy updates",
+      "India’s trade trends and policy recommendations",
+      "Labour market reforms"
+    ],
+    "correct_option": "India’s trade trends and policy recommendations",
+    "explanation": "Trade Watch Quarterly by NITI Aayog analyzes India’s evolving trade patterns, balance of trade, and suggests policy interventions to address global economic disruptions and boost export sectors.",
+    "tags": "economy"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a target under the National Clean Air Programme (NCAP)?",
+    "options": [
+      "100% electrification of public transport by 2030",
+      "20–30% reduction in PM2.5 and PM10 levels by 2024",
+      "Shifting to hydrogen fuel in thermal power plants",
+      "Closing all coal-based power plants by 2025"
+    ],
+    "correct_option": "20–30% reduction in PM2.5 and PM10 levels by 2024",
+    "explanation": "The NCAP aims to reduce particulate matter (PM2.5 and PM10) pollution by 20–30% in non-attainment cities from 2017 levels by 2024 (extended to 2026), promoting cleaner air and better health outcomes.",
+    "tags": "environment"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the function of the Prompt Corrective Action (PCA) framework recently applied to Urban Co-operative Banks?",
+    "options": [
+      "To enforce minimum education qualifications for bank staff",
+      "To prevent monopolies in rural banking",
+      "To monitor banks’ financial health and initiate corrective steps",
+      "To ensure gender equality in cooperative banks"
+    ],
+    "correct_option": "To monitor banks’ financial health and initiate corrective steps",
+    "explanation": "The PCA framework enables RBI to monitor and intervene when banks breach risk thresholds (like low CRAR or high NPAs). It imposes restrictions to prevent financial crises and protect depositors.",
+    "tags": "economy"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Exercise Tiger Triumph, recently conducted between India and the US, is focused on which of the following?",
+    "options": [
+      "Counterterrorism training",
+      "Naval nuclear deterrence",
+      "Humanitarian assistance and disaster relief operations",
+      "Cybersecurity and surveillance drills"
+    ],
+    "correct_option": "Humanitarian assistance and disaster relief operations",
+    "explanation": "Exercise Tiger Triumph is a tri-service military drill between India and the USA that focuses on Humanitarian Assistance and Disaster Relief (HADR). It enhances coordination in joint disaster response efforts.",
+    "tags": "polity"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which virus is Gennova Biopharmaceuticals currently developing a saRNA vaccine for?",
+    "options": ["Zika Virus", "Nipah Virus", "Hantavirus", "Dengue Virus"],
+    "correct_option": "Nipah Virus",
+    "explanation": "Gennova is developing a self-amplifying RNA (saRNA) vaccine against the Nipah virus, a zoonotic disease with a high fatality rate. This effort follows its successful development of an mRNA COVID vaccine.",
+    "tags": "science_and_tech"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "India’s agromet advisory model was recently appreciated by ASEAN under which initiative?",
+    "options": [
+      "SAARC Climate Action Program",
+      "SAFE Initiative of AFSIS",
+      "IMF AgriRisk Project",
+      "BRICS Food Chain Security Plan"
+    ],
+    "correct_option": "SAFE Initiative of AFSIS",
+    "explanation": "India's Agromet services under IMD were recognized by ASEAN’s AFSIS under the SAFE (Support of Agricultural and Food Security Information System) initiative, for helping farmers adapt to weather risks.",
+    "tags": "environment"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which constitutional article provides for equality of opportunity in matters of public employment?",
+    "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+    "correct_option": "Article 16",
+    "explanation": "Article 16 of the Indian Constitution guarantees equal opportunity for all citizens in matters of public employment, forming the legal basis for affirmative action and anti-discrimination measures.",
+    "tags": "polity"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is NOT a component of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)?",
+    "options": [
+      "Per Drop More Crop",
+      "Har Khet Ko Pani",
+      "Accelerated Irrigation Benefits Programme",
+      "Mukhya Mantri Awaas Yojana"
+    ],
+    "correct_option": "Mukhya Mantri Awaas Yojana",
+    "explanation": "‘Mukhya Mantri Awaas Yojana’ is a state housing scheme and not a component of PMKSY. PMKSY components include Per Drop More Crop, Har Khet Ko Pani, and AIBP, all aimed at irrigation.",
+    "tags": "geography"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which one of the following agencies is responsible for coordinating and funding India’s biotechnology innovation, including mRNA vaccine research?",
+    "options": [
+      "Indian Council of Medical Research (ICMR)",
+      "Council of Scientific and Industrial Research (CSIR)",
+      "Biotech Industry Research Assistance Council (BIRAC)",
+      "National Innovation Foundation (NIF)"
+    ],
+    "correct_option": "Biotech Industry Research Assistance Council (BIRAC)",
+    "explanation": "BIRAC, under the Department of Biotechnology, funds and supports biotech startups and research in areas like mRNA and saRNA vaccine development. It supports Gennova and similar companies working on health security innovations.",
+    "tags": "science_and_tech"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "The Mahabodhi Temple is recognized as a UNESCO World Heritage Site primarily because of:",
+    "options": [
+      "Its Dravidian architecture",
+      "It being the oldest surviving Hindu temple",
+      "Its association with Buddha's enlightenment",
+      "It being the seat of Jain Tirthankaras"
+    ],
+    "correct_option": "Its association with Buddha's enlightenment",
+    "explanation": "The Mahabodhi Temple in Bodh Gaya, Bihar, is recognized by UNESCO for being the site where Gautama Buddha attained enlightenment under the Bodhi Tree. It is one of the most sacred Buddhist sites in the world.",
+    "tags": "history"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best defines Transfer Pricing?",
+    "options": [
+      "Price control by the government for essential goods",
+      "Pricing of goods transferred between unrelated firms",
+      "Pricing of goods/services between related entities in different jurisdictions",
+      "Price volatility in international stock markets"
+    ],
+    "correct_option": "Pricing of goods/services between related entities in different jurisdictions",
+    "explanation": "Transfer pricing refers to how prices are set for transactions between related entities (e.g., parent and subsidiary companies) across borders, which can influence tax liabilities. Safe Harbour Rules aim to simplify scrutiny in such cases.",
+    "tags": "economy"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "The 'Visual Cortex' mentioned in Neuralink's ‘Blindsight’ chip project is part of which lobe of the human brain?",
+    "options": [
+      "Frontal Lobe",
+      "Temporal Lobe",
+      "Parietal Lobe",
+      "Occipital Lobe"
+    ],
+    "correct_option": "Occipital Lobe",
+    "explanation": "The visual cortex, responsible for processing visual information, is located in the occipital lobe at the back of the brain. Neuralink's chip targets this region to restore vision in blind individuals.",
+    "tags": "science_and_tech"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a power of the RBI under the PCA framework applicable to banks?",
+    "options": [
+      "Appoint Governors to public banks",
+      "Deny access to Deposit Insurance",
+      "Restrict dividend distribution and branch expansion",
+      "Close down any private bank without notice"
+    ],
+    "correct_option": "Restrict dividend distribution and branch expansion",
+    "explanation": "Under the Prompt Corrective Action (PCA) framework, RBI can impose restrictions such as curbing lending, dividend payments, and opening new branches for banks that breach financial risk thresholds.",
+    "tags": "economy"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which committee's recommendation led to the introduction of the Monetary Policy Committee (MPC) in India?",
+    "options": [
+      "Tarapore Committee",
+      "Urjit Patel Committee",
+      "Kelkar Committee",
+      "Narasimham Committee"
+    ],
+    "correct_option": "Urjit Patel Committee",
+    "explanation": "The Urjit Patel Committee (2014) recommended the formation of the Monetary Policy Committee (MPC) to bring transparency and accountability in setting benchmark interest rates, which became part of the RBI Act in 2016.",
+    "tags": "economy"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Article 15 of the Indian Constitution primarily addresses which of the following issues?",
+    "options": [
+      "Abolition of untouchability",
+      "Equal pay for equal work",
+      "Prohibition of discrimination on specific grounds",
+      "Freedom of religion"
+    ],
+    "correct_option": "Prohibition of discrimination on specific grounds",
+    "explanation": "Article 15 prohibits the State from discriminating against citizens on grounds of religion, race, caste, sex, or place of birth, ensuring equality and protection against unjust treatment.",
+    "tags": "polity"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which agency is responsible for the preparation of seismic hazard maps in India?",
+    "options": [
+      "National Centre for Seismology",
+      "National Disaster Management Authority (NDMA)",
+      "Indian Meteorological Department",
+      "Geological Survey of India"
+    ],
+    "correct_option": "National Centre for Seismology",
+    "explanation": "The National Centre for Seismology under the Ministry of Earth Sciences is responsible for seismic hazard mapping, monitoring earthquakes, and issuing alerts to mitigate disaster risks.",
+    "tags": "geography"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is an example of a non-attainment city under India’s NCAP?",
+    "options": ["Gangtok", "Kochi", "Delhi", "Shillong"],
+    "correct_option": "Delhi",
+    "explanation": "Delhi is a prominent non-attainment city under the National Clean Air Programme (NCAP), meaning it consistently fails to meet the National Ambient Air Quality Standards (NAAQS).",
+    "tags": "environment"
+  },
+  {
+    "date": "1",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly explains the purpose of the Accelerated Irrigation Benefits Programme (AIBP)?",
+    "options": [
+      "Provide loans to farmers for crop insurance",
+      "Finance construction of farm ponds in rain-fed areas",
+      "Support early completion of large irrigation projects",
+      "Fund research in genetically modified crops"
+    ],
+    "correct_option": "Support early completion of large irrigation projects",
+    "explanation": "AIBP is a component of PMKSY, focused on expediting the completion of long-pending major and medium irrigation projects, thereby enhancing irrigation potential and agricultural productivity.",
+    "tags": "geography"
+  }
+]
