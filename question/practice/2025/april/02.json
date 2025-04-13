@@ -1,0 +1,499 @@
+[
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "What does the term 'polar orbit' refer to in satellite operations?",
+    "options": [
+      "Satellite orbiting near the equator",
+      "Orbit with low inclination and high altitude",
+      "Satellite passing over North and South Poles",
+      "Orbit synchronous with Earth’s rotation"
+    ],
+    "correct_option": "Satellite passing over North and South Poles",
+    "explanation": "A polar orbit allows satellites to pass over the Earth's North and South Poles. This enables observation of the entire surface of the planet as it rotates beneath the satellite. It is particularly useful for Earth mapping and weather satellites.",
+    "tags": "Science and Technology, Space Technology"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "India's external debt reached approximately how much by December 2024?",
+    "options": [
+      "$600.3 billion",
+      "$682.1 billion",
+      "$717.9 billion",
+      "$789.2 billion"
+    ],
+    "correct_option": "$717.9 billion",
+    "explanation": "According to the Finance Ministry’s report for December 2024, India’s external debt rose to $717.9 billion. This increase was driven primarily by valuation effects due to the appreciation of the US dollar against the rupee.",
+    "tags": "Economy, External Sector"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the main concern with high external debt in India?",
+    "options": [
+      "Higher agricultural subsidies",
+      "Impact of climate change",
+      "Exchange rate risks increasing repayment burden",
+      "Trade surplus causing inflation"
+    ],
+    "correct_option": "Exchange rate risks increasing repayment burden",
+    "explanation": "Since external debt is largely denominated in foreign currencies (like the US dollar), fluctuations in exchange rates can significantly raise the repayment cost in rupee terms, impacting India's fiscal health.",
+    "tags": "Economy, External Sector"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which initiative has significantly boosted India’s defence exports?",
+    "options": [
+      "Startup India",
+      "iDEX (ADITI)",
+      "Smart Cities Mission",
+      "National Clean Energy Fund"
+    ],
+    "correct_option": "iDEX (ADITI)",
+    "explanation": "iDEX (Innovations for Defence Excellence) under the ADITI initiative has been instrumental in promoting indigenous defence innovation and boosting defence exports through the private sector and startups.",
+    "tags": "Science and Technology, Defence"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which country has signed an agreement with India on Antarctica cooperation?",
+    "options": ["Argentina", "Norway", "Chile", "Australia"],
+    "correct_option": "Chile",
+    "explanation": "Chile has agreed to act as a gateway for India to Antarctica. This cooperation was formalized through a Letter of Intent signed during bilateral talks between India and Chile.",
+    "tags": "International Relations, Geography"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which strait is referred to as the 'Black Ditch' and is geopolitically significant?",
+    "options": [
+      "Strait of Hormuz",
+      "Palk Strait",
+      "Taiwan Strait",
+      "Bering Strait"
+    ],
+    "correct_option": "Taiwan Strait",
+    "explanation": "The Taiwan Strait, also called the 'Black Ditch', lies between China's Fujian province and Taiwan, connecting the South China Sea with the East China Sea. It is a critical global shipping route and a major geopolitical hotspot.",
+    "tags": "Geography, International Relations"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which statutory body is responsible for adoption of children in India?",
+    "options": ["NCPCR", "NCW", "CARA", "NITI Aayog"],
+    "correct_option": "CARA",
+    "explanation": "The Central Adoption Resource Authority (CARA) is a statutory body under the Ministry of Women & Child Development. It regulates and monitors both in-country and inter-country adoptions in India.",
+    "tags": "Polity and Governance, Social Justice"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which orbit is most suitable for GPS and navigation satellites?",
+    "options": [
+      "Geostationary Orbit",
+      "Medium Earth Orbit",
+      "Low Earth Orbit",
+      "Sun-Synchronous Orbit"
+    ],
+    "correct_option": "Medium Earth Orbit",
+    "explanation": "Medium Earth Orbit (MEO), ranging between 2,000 km and 36,000 km, is used for GPS and other navigation satellites due to its balance between coverage and latency.",
+    "tags": "Science and Technology, Space Technology"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which act was passed to align Indian aviation laws with the Cape Town Convention?",
+    "options": [
+      "Aircraft (Amendment) Act",
+      "Protection of Interests in Aircraft Objects Bill, 2025",
+      "Air Traffic Management Act",
+      "Indian Aviation Reform Act"
+    ],
+    "correct_option": "Protection of Interests in Aircraft Objects Bill, 2025",
+    "explanation": "The Protection of Interests in Aircraft Objects Bill, 2025 was passed to align Indian laws with the Cape Town Convention, which standardizes transactions involving aircraft and ensures creditors' rights.",
+    "tags": "International Treaties, Economy"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "What does the RBI do under an Open Market Operation (OMO)?",
+    "options": [
+      "Regulates forex reserves",
+      "Buys and sells government securities",
+      "Issues corporate bonds",
+      "Provides agriculture subsidies"
+    ],
+    "correct_option": "Buys and sells government securities",
+    "explanation": "Open Market Operations (OMOs) refer to the buying and selling of government securities in the open market by the RBI to regulate liquidity and manage inflation.",
+    "tags": "Indian Economy, Monetary Policy"
+  },
+
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "What is a geostationary orbit mainly used for?",
+    "options": [
+      "Weather and Earth observation satellites",
+      "Spy and reconnaissance satellites",
+      "Communication and broadcasting satellites",
+      "Navigation satellites"
+    ],
+    "correct_option": "Communication and broadcasting satellites",
+    "explanation": "A geostationary orbit is a circular orbit 35,786 km above the Earth’s equator. Satellites in this orbit match Earth’s rotation and appear stationary, making them ideal for telecommunications, television, and weather forecasting.",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best explains 'Valuation Effect' in external debt?",
+    "options": [
+      "Change in inflation due to monetary policy",
+      "Exchange rate fluctuation affecting debt value",
+      "Sudden increase in GDP due to foreign investments",
+      "Changes in fiscal deficit due to oil imports"
+    ],
+    "correct_option": "Exchange rate fluctuation affecting debt value",
+    "explanation": "Valuation effect refers to changes in the value of external debt due to the movement of exchange rates. If the rupee depreciates against the dollar, the same debt becomes costlier in rupee terms.",
+    "tags": "Indian Economy, External Sector"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which region is considered a ‘Gateway to Antarctica’ for India as per the recent bilateral agreement?",
+    "options": [
+      "Cape Town, South Africa",
+      "Punta Arenas, Chile",
+      "Hobart, Australia",
+      "Auckland, New Zealand"
+    ],
+    "correct_option": "Punta Arenas, Chile",
+    "explanation": "India and Chile signed an agreement making Punta Arenas a logistical hub or 'Gateway to Antarctica' for Indian scientific expeditions. The region offers proximity and facilities ideal for accessing the Antarctic.",
+    "tags": "International Relations, Geography"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly describes the iDEX initiative under ADITI?",
+    "options": [
+      "It promotes digital education in tribal schools",
+      "It is a scheme to modernize railway stations",
+      "It promotes defence innovation and startups",
+      "It offers export subsidies to IT companies"
+    ],
+    "correct_option": "It promotes defence innovation and startups",
+    "explanation": "iDEX (Innovations for Defence Excellence), under the ADITI initiative, encourages startups and MSMEs to develop technologies for the defence sector. It is a part of India's push for self-reliance in defence manufacturing.",
+    "tags": "Science and Technology, Defence"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a key feature of Medium Earth Orbit (MEO)?",
+    "options": [
+      "Satellites complete one orbit every 24 hours",
+      "Satellites pass directly over the poles",
+      "Used for GPS and navigation systems",
+      "Used primarily for weather monitoring"
+    ],
+    "correct_option": "Used for GPS and navigation systems",
+    "explanation": "Medium Earth Orbit is typically used by navigation satellite systems like GPS, GLONASS, and Galileo. It provides good coverage and lower latency than geostationary orbit while covering a wider area than LEO.",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is true about the Taiwan Strait?",
+    "options": [
+      "It lies between Japan and China",
+      "It connects the Bay of Bengal to the South China Sea",
+      "It lies between Taiwan and China’s Fujian province",
+      "It connects the Arabian Sea and Persian Gulf"
+    ],
+    "correct_option": "It lies between Taiwan and China’s Fujian province",
+    "explanation": "The Taiwan Strait is a narrow sea passage separating Taiwan and China’s Fujian coast. It is a highly strategic and sensitive waterway in East Asia due to geopolitical tensions and global trade routes.",
+    "tags": "Geography, International Affairs"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following satellites is best suited for high-resolution Earth imaging?",
+    "options": [
+      "Satellites in Polar Orbit",
+      "Satellites in Geostationary Orbit",
+      "Satellites in Medium Earth Orbit",
+      "Satellites in Elliptical Orbit"
+    ],
+    "correct_option": "Satellites in Polar Orbit",
+    "explanation": "Polar orbiting satellites pass over Earth’s poles and can scan the entire globe as Earth rotates. Their proximity to Earth allows them to capture high-resolution images, making them ideal for cartography and surveillance.",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which convention is associated with protecting the interests of creditors in aircraft financing?",
+    "options": [
+      "Vienna Convention",
+      "Cape Town Convention",
+      "Montreal Protocol",
+      "Kyoto Protocol"
+    ],
+    "correct_option": "Cape Town Convention",
+    "explanation": "The Cape Town Convention aims to reduce risks for creditors involved in financing aircraft by establishing standard legal rights. India passed legislation aligning with this convention to attract global lessors.",
+    "tags": "International Treaties, Economy"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "What does the Central Adoption Resource Authority (CARA) regulate?",
+    "options": [
+      "Welfare of tribal students",
+      "Judicial appointments in child courts",
+      "Adoptions under Juvenile Justice Act",
+      "Education standards in anganwadis"
+    ],
+    "correct_option": "Adoptions under Juvenile Justice Act",
+    "explanation": "CARA is the nodal body for adoption in India under the Juvenile Justice (Care and Protection of Children) Act, 2015. It ensures that adoptions are legal, ethical, and child-centric.",
+    "tags": "Social Issues, Polity"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is the correct purpose of Open Market Operations (OMO) by RBI?",
+    "options": [
+      "To regulate inflation by controlling the fiscal deficit",
+      "To maintain foreign exchange reserves",
+      "To inject or absorb liquidity in the economy",
+      "To revise interest rates of bank deposits"
+    ],
+    "correct_option": "To inject or absorb liquidity in the economy",
+    "explanation": "RBI uses OMOs to buy or sell government securities, thereby adjusting liquidity in the banking system. Buying securities injects liquidity, while selling absorbs excess liquidity to control inflation.",
+    "tags": "Indian Economy, Monetary Policy"
+  },
+
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is the nodal agency for child adoption in India?",
+    "options": [
+      "National Commission for Women",
+      "National Human Rights Commission",
+      "Central Adoption Resource Authority",
+      "Ministry of Education"
+    ],
+    "correct_option": "Central Adoption Resource Authority",
+    "explanation": "The Central Adoption Resource Authority (CARA) is the statutory body of the Ministry of Women & Child Development that oversees the adoption of Indian children, ensuring the process is legal, ethical, and transparent.",
+    "tags": "Polity, Social Justice"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which orbit allows satellites to remain fixed over one point on the Earth’s surface?",
+    "options": [
+      "Low Earth Orbit",
+      "Polar Orbit",
+      "Medium Earth Orbit",
+      "Geostationary Orbit"
+    ],
+    "correct_option": "Geostationary Orbit",
+    "explanation": "Geostationary orbit lies directly above the equator at around 35,786 km. Satellites here orbit the Earth at the same rotational speed, appearing stationary to ground observers. This is ideal for communication and weather satellites.",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Indian initiative supports private sector and startups in the defence sector?",
+    "options": [
+      "Startup India",
+      "Stand-Up India",
+      "iDEX under ADITI",
+      "Make in India – Railways"
+    ],
+    "correct_option": "iDEX under ADITI",
+    "explanation": "The iDEX (Innovations for Defence Excellence) scheme under ADITI fosters innovation and support for startups and MSMEs in the Indian defence ecosystem, boosting self-reliance and export capability.",
+    "tags": "Science and Technology, Economy, Defence"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "The Cape Town Convention is related to which of the following sectors?",
+    "options": [
+      "Space Exploration",
+      "Climate Change Agreements",
+      "International Aviation Financing",
+      "Oil Spill Liability"
+    ],
+    "correct_option": "International Aviation Financing",
+    "explanation": "The Cape Town Convention standardizes legal rights for financiers of mobile equipment like aircraft. India aligning with this convention enhances its aviation sector’s creditworthiness and global integration.",
+    "tags": "International Relations, Economy, Aviation"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements best describes Polar Orbit?",
+    "options": [
+      "It keeps satellites above the equator at all times",
+      "It passes over Earth's poles, enabling global coverage",
+      "It synchronizes with the rotation of Earth",
+      "It is only used for military satellites"
+    ],
+    "correct_option": "It passes over Earth's poles, enabling global coverage",
+    "explanation": "Polar orbit allows satellites to pass over the North and South Poles, enabling them to scan the entire Earth’s surface over time. This is commonly used for Earth observation and meteorology.",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which region has India signed a deal with to boost scientific access to Antarctica?",
+    "options": [
+      "Tasmania, Australia",
+      "Punta Arenas, Chile",
+      "Cape Town, South Africa",
+      "Auckland, New Zealand"
+    ],
+    "correct_option": "Punta Arenas, Chile",
+    "explanation": "India signed a Letter of Intent with Chile for utilizing Punta Arenas as a gateway for scientific expeditions to Antarctica, enhancing bilateral cooperation in polar research and logistics.",
+    "tags": "Geography, International Relations"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the role of Open Market Operations (OMOs) by the RBI?",
+    "options": [
+      "Manage agricultural credit",
+      "Regulate imports and exports",
+      "Control liquidity through sale or purchase of G-secs",
+      "Regulate inflation by fixing MSP"
+    ],
+    "correct_option": "Control liquidity through sale or purchase of G-secs",
+    "explanation": "Open Market Operations (OMOs) are a key monetary tool used by the Reserve Bank of India to control money supply. RBI buys or sells government securities to either inject or absorb liquidity from the market.",
+    "tags": "Economy, Monetary Policy"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the strategic importance of the Taiwan Strait?",
+    "options": [
+      "Connects Atlantic and Pacific Oceans",
+      "Key passage between Taiwan and China's mainland",
+      "Used for Arctic shipping routes",
+      "Major oil reserve location"
+    ],
+    "correct_option": "Key passage between Taiwan and China's mainland",
+    "explanation": "The Taiwan Strait lies between the Chinese mainland and Taiwan. It is a geopolitically sensitive area crucial for global trade, and also a flashpoint in China-US relations over Taiwan's sovereignty.",
+    "tags": "Geography, International Affairs"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which orbit is typically used for navigation satellites like GPS?",
+    "options": [
+      "Low Earth Orbit (LEO)",
+      "Geostationary Orbit (GEO)",
+      "Medium Earth Orbit (MEO)",
+      "Polar Orbit"
+    ],
+    "correct_option": "Medium Earth Orbit (MEO)",
+    "explanation": "GPS and other navigation satellites like GLONASS and Galileo are placed in Medium Earth Orbit (MEO), providing a good balance of wide coverage and reasonable signal strength.",
+    "tags": "Science and Technology, Navigation"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes valuation effect in external debt?",
+    "options": [
+      "Inflation adjustments to GDP",
+      "Increase in domestic demand for imports",
+      "Effect of currency exchange rates on debt figures",
+      "Adjustment of FDI flows in current account"
+    ],
+    "correct_option": "Effect of currency exchange rates on debt figures",
+    "explanation": "Valuation effect in external debt refers to changes in the debt amount due to fluctuations in exchange rates. For instance, depreciation of the rupee increases the cost of servicing foreign debt.",
+    "tags": "Economy, External Sector"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a statutory body under the Ministry of Women and Child Development?",
+    "options": ["NCERT", "CARA", "NHRC", "CBI"],
+    "correct_option": "CARA",
+    "explanation": "CARA (Central Adoption Resource Authority) is a statutory body under the Ministry of Women and Child Development. It is responsible for monitoring and regulating adoption procedures in India.",
+    "tags": "Polity, Social Justice"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which one of the following is associated with regulating and facilitating inter-country adoptions in India?",
+    "options": [
+      "National Commission for Protection of Child Rights (NCPCR)",
+      "Central Adoption Resource Authority (CARA)",
+      "Ministry of External Affairs",
+      "Supreme Court Juvenile Bench"
+    ],
+    "correct_option": "Central Adoption Resource Authority (CARA)",
+    "explanation": "CARA regulates both in-country and inter-country adoptions as per the guidelines of the Hague Convention on Inter-Country Adoption and the Juvenile Justice Act.",
+    "tags": "Polity, Governance, Social Issues"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "What does India gain from aligning with the Cape Town Convention?",
+    "options": [
+      "Reduced aviation fuel taxes",
+      "Cheaper aircraft leasing and better credit rating",
+      "Access to global aviation carbon credits",
+      "Increased diplomatic ties with Europe"
+    ],
+    "correct_option": "Cheaper aircraft leasing and better credit rating",
+    "explanation": "Aligning with the Cape Town Convention helps India secure cheaper aircraft leasing, improves investor confidence, and enhances the aviation sector’s credit profile internationally.",
+    "tags": "Economy, Aviation, International Agreements"
+  },
+  {
+    "date": "2",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements best explains iDEX (Innovations for Defence Excellence)?",
+    "options": [
+      "It promotes student exchange in defence universities",
+      "It supports private innovation in defence technology",
+      "It is a joint venture with NATO for defence exercises",
+      "It regulates defence exports to developing nations"
+    ],
+    "correct_option": "It supports private innovation in defence technology",
+    "explanation": "iDEX is an initiative by the Ministry of Defence to foster innovation and technology development in the defence sector by engaging startups, MSMEs, and academia.",
+    "tags": "Defence, Science and Technology"
+  }
+]

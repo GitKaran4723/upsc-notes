@@ -6,16 +6,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Practice Questions</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     .blurred {
       filter: blur(5px);
       pointer-events: none;
     }
+
     body.modal-open {
       overflow: hidden;
     }
+
     #loader {
       position: fixed;
       inset: 0;
@@ -25,21 +28,26 @@
       background: rgba(255, 255, 255, 0.9);
       z-index: 1000;
     }
+
     button.no-hover:hover {
       background-color: inherit !important;
       cursor: default;
     }
+
     .carousel-container {
       overflow: hidden;
       display: flex;
       flex-direction: column;
-      height: calc(100vh - 172px); /* full height minus header + date section */
+      height: calc(100vh - 172px);
+      /* full height minus header + date section */
     }
+
     .carousel-slide {
       flex: 1;
       overflow-y: auto;
       padding-bottom: 80px;
     }
+
     .overlay-controls {
       background: rgba(255, 255, 255, 0.95);
       backdrop-filter: blur(6px);
@@ -65,11 +73,15 @@
   <div class="relative w-full carousel-container">
     <div id="question-carousel" class="carousel-slide px-6 md:px-20"></div>
 
-    <div class="overlay-controls fixed bottom-0 left-0 w-full px-6 py-3 border-t border-yellow-200 flex flex-col gap-2 items-center">
+    <div
+      class="overlay-controls fixed bottom-0 left-0 w-full px-6 py-3 border-t border-yellow-200 flex flex-col gap-2 items-center">
       <div class="flex justify-between w-full">
-        <button id="prev-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">&larr; Prev</button>
-        <div class="text-center text-sm text-gray-600"> <span id="current-question">1</span> / <span id="question-count"></span></div>
-        <button id="next-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">Next &rarr;</button>
+        <button id="prev-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">&larr;
+          Prev</button>
+        <div class="text-center text-sm text-gray-600"> <span id="current-question">1</span> / <span
+            id="question-count"></span></div>
+        <button id="next-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">Next
+          &rarr;</button>
       </div>
     </div>
   </div>
@@ -159,11 +171,54 @@
         const res = await fetch(`./question/practice/${year}/${month}/${date}.json`);
         const data = await res.json();
 
+        console.log(data)
+
         loader.style.display = 'none';
 
         data.forEach((q, index) => {
+
+
+
           const card = document.createElement('div');
           card.className = 'bg-white shadow-md rounded-lg p-6 sm:p-8 border border-yellow-200';
+
+
+          // --- Add Tags with Fancy Colors ---
+          if (q.tags) {
+            const tagsContainer = document.createElement('div');
+            tagsContainer.className = 'flex flex-wrap gap-2 mb-4';
+
+            // Define fancy Tailwind color combinations (bg + text)
+            const tagColors = [
+              { bg: 'bg-pink-100', text: 'text-pink-800' },
+              { bg: 'bg-purple-100', text: 'text-purple-800' },
+              { bg: 'bg-green-100', text: 'text-green-800' },
+              { bg: 'bg-blue-100', text: 'text-blue-800' },
+              { bg: 'bg-red-100', text: 'text-red-800' },
+              { bg: 'bg-yellow-100', text: 'text-yellow-800' },
+              { bg: 'bg-indigo-100', text: 'text-indigo-800' },
+              { bg: 'bg-teal-100', text: 'text-teal-800' },
+              { bg: 'bg-rose-100', text: 'text-rose-800' },
+              { bg: 'bg-orange-100', text: 'text-orange-800' },
+            ];
+
+            const tagsArray = q.tags.split(',').map(tag => tag.trim());
+
+            tagsArray.forEach(tag => {
+              const tagElement = document.createElement('span');
+
+              // Pick a random color pair
+              const color = tagColors[Math.floor(Math.random() * tagColors.length)];
+
+              tagElement.className = `${color.bg} ${color.text} text-xs font-medium px-2.5 py-0.5 rounded-full shadow-sm`;
+              tagElement.textContent = tag;
+
+              tagsContainer.appendChild(tagElement);
+            });
+
+            card.appendChild(tagsContainer);
+          }
+
 
           const qNo = document.createElement('h3');
           qNo.className = 'text-lg font-semibold text-gray-800 mb-4';

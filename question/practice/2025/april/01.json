@@ -156,7 +156,7 @@
       "They are made using live viruses.",
       "They eliminate the need for clinical trials."
     ],
-    "correct_option": "They replicate within cells, requiring smaller doses",
+    "correct_option": "They replicate within cells, requiring smaller doses.",
     "explanation": "Self-amplifying RNA (saRNA) vaccines carry replicase enzymes that enable the RNA to self-replicate inside host cells. This boosts protein expression and immune response while using lower doses than traditional mRNA vaccines.",
     "tags": "science_and_tech"
   },

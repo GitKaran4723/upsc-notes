@@ -1,0 +1,433 @@
+[
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary aim of the India-Australia Economic Cooperation and Trade Agreement (IA-ECTA)?",
+    "options": [
+      "To eliminate all trade barriers between the two countries",
+      "To promote geopolitical dominance in Asia-Pacific",
+      "To increase resilience in bilateral trade and economic cooperation",
+      "To promote military collaboration between India and Australia"
+    ],
+    "correct_option": "To increase resilience in bilateral trade and economic cooperation",
+    "explanation": "The IA-ECTA is a strategic agreement aimed at increasing bilateral trade resilience amid global uncertainties. It includes tariff eliminations, rules of origin, service sector cooperation, and safeguards against trade surges.",
+    "tags": "International Relations, Economy"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following features is part of the India-Australia ECTA?",
+    "statements": [
+      "Tariff elimination on a large share of traded goods",
+      "Stringent Rules of Origin to prevent misuse",
+      "Safeguard mechanisms to handle import surges"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The ECTA includes tariff elimination, strict Rules of Origin, and safeguard mechanisms to ensure fair and beneficial trade practices.",
+    "tags": "International Relations, Economy"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "What is a key criticism of the Green Credit Programme (GCP)?",
+    "options": [
+      "It encourages biodiversity in protected areas",
+      "It ensures net gain in forest area",
+      "It incentivizes forest diversion without ecological restoration",
+      "It promotes afforestation on barren lands"
+    ],
+    "correct_option": "It incentivizes forest diversion without ecological restoration",
+    "explanation": "Critics argue that GCP allows companies to buy green credits instead of actively restoring forests, possibly weakening ecological safeguards and not ensuring net forest cover increase.",
+    "tags": "Environment, Governance"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which organization administers the Green Credit Programme (GCP)?",
+    "options": [
+      "National Biodiversity Authority",
+      "Indian Council of Forestry Research and Education (ICFRE)",
+      "Ministry of Environment",
+      "Central Pollution Control Board"
+    ],
+    "correct_option": "Indian Council of Forestry Research and Education (ICFRE)",
+    "explanation": "The GCP is administered by ICFRE, Dehradun, and aims to promote activities like afforestation and waste management through tradable green credits.",
+    "tags": "Environment"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "The Supreme Court's observations on anti-defection law reinforce which constitutional article?",
+    "options": ["Article 368", "Article 142", "Article 324", "Article 280"],
+    "correct_option": "Article 142",
+    "explanation": "The SC can use its extraordinary powers under Article 142 when Speakers delay action on defection petitions, ensuring timely adjudication under the Tenth Schedule.",
+    "tags": "Polity, Constitution"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which case established judicial review over Speaker’s decisions in anti-defection matters?",
+    "options": [
+      "Ravi S. Naik v. Union of India",
+      "Kihoto Hollohan v. Zachillhu",
+      "Keisham Meghachandra v. Speaker",
+      "Minerva Mills v. Union of India"
+    ],
+    "correct_option": "Kihoto Hollohan v. Zachillhu",
+    "explanation": "In Kihoto Hollohan v. Zachillhu (1992), the SC held that the Speaker’s decisions under the Tenth Schedule are subject to judicial review, enhancing accountability.",
+    "tags": "Polity"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which new provision does the Waqf (Amendment) Bill, 2025 introduce regarding registration?",
+    "options": [
+      "All waqf properties must be registered offline within a year",
+      "Only movable waqf properties require registration",
+      "Mandatory online registration of waqf properties",
+      "No registration required if waqf is for religious purposes"
+    ],
+    "correct_option": "Mandatory online registration of waqf properties",
+    "explanation": "The bill mandates online registration of waqf properties within six months (extendable), enhancing transparency and accountability in waqf management.",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Under which Act will the acquisition of waqf properties now be regulated?",
+    "options": [
+      "Forest Rights Act, 2006",
+      "Land Acquisition Act, 1894",
+      "Right to Fair Compensation and Transparency in Land Acquisition Act, 2013",
+      "Environment Protection Act, 1986"
+    ],
+    "correct_option": "Right to Fair Compensation and Transparency in Land Acquisition Act, 2013",
+    "explanation": "The amendment provides that waqf property acquisition for public purposes will be governed by the 2013 Land Acquisition Act or other applicable laws in consultation with the Wakf Board.",
+    "tags": "Governance"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which scheme enables trained women volunteers to assist during disasters?",
+    "options": [
+      "Mission Vatsalya",
+      "Aapda Sakhi under Aapda Mitra Scheme",
+      "Beti Bachao Beti Padhao",
+      "Rashtriya Mahila Kosh"
+    ],
+    "correct_option": "Aapda Sakhi under Aapda Mitra Scheme",
+    "explanation": "Aapda Sakhi is a women-led disaster preparedness initiative under the Aapda Mitra Scheme. It empowers women to be first responders during climate-related disasters.",
+    "tags": "Disaster Management, Women Empowerment"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "The Green Credit Programme was launched at which global event?",
+    "options": ["COP26", "COP28", "UNFCCC Paris Agreement", "G20 Bali Summit"],
+    "correct_option": "COP28",
+    "explanation": "The Prime Minister unveiled the Green Credit Programme at COP28 in December 2023, aligning with India’s environmental commitments under Mission LiFE.",
+    "tags": "Environment, Climate Change"
+  },
+
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary objective of India’s Aapda Mitra Scheme?",
+    "options": [
+      "To provide insurance to disaster victims",
+      "To train community volunteers for disaster response",
+      "To install early warning systems in coastal areas",
+      "To provide financial aid to flood-prone villages"
+    ],
+    "correct_option": "To train community volunteers for disaster response",
+    "explanation": "The Aapda Mitra Scheme, launched by the National Disaster Management Authority (NDMA), trains community volunteers in disaster response, especially for floods and climate-induced disasters.",
+    "tags": "Disaster Management"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following ministries is primarily responsible for the Green Credit Programme (GCP)?",
+    "options": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Agriculture and Farmers Welfare",
+      "Ministry of Rural Development",
+      "Ministry of Power"
+    ],
+    "correct_option": "Ministry of Environment, Forest and Climate Change",
+    "explanation": "The Green Credit Programme is implemented under the Ministry of Environment, Forest and Climate Change (MoEFCC) and promotes sustainable environmental actions.",
+    "tags": "Environment"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is NOT a component under the Aapda Mitra scheme?",
+    "options": [
+      "Training of first responders",
+      "Deployment of women SHGs in disaster zones",
+      "Distribution of solar lamps",
+      "Procurement of emergency equipment"
+    ],
+    "correct_option": "Distribution of solar lamps",
+    "explanation": "While the scheme includes training, women's participation, and procurement of emergency equipment, distribution of solar lamps is not part of the Aapda Mitra components.",
+    "tags": "Disaster Management"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the intended benefit of the 'Rules of Origin' in the India-Australia ECTA?",
+    "options": [
+      "To make Indian goods more expensive",
+      "To attract more foreign workers",
+      "To prevent misuse of tariff benefits by third-party countries",
+      "To liberalize rules for export from non-signatory countries"
+    ],
+    "correct_option": "To prevent misuse of tariff benefits by third-party countries",
+    "explanation": "Rules of Origin help ensure that the goods availing tariff concessions are genuinely from the partner country, preventing misuse by third-party countries.",
+    "tags": "Economy, International Relations"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "In the context of anti-defection law, what is the role of the Speaker of the House?",
+    "options": [
+      "To elect the Prime Minister",
+      "To decide on disqualification of members under the Tenth Schedule",
+      "To approve constitutional amendments",
+      "To issue ordinances"
+    ],
+    "correct_option": "To decide on disqualification of members under the Tenth Schedule",
+    "explanation": "Under the Tenth Schedule of the Constitution, the Speaker decides on the disqualification of members due to defection. However, this power is subject to judicial review.",
+    "tags": "Polity, Constitution"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which article of the Indian Constitution empowers the Supreme Court to pass decrees for doing complete justice?",
+    "options": ["Article 136", "Article 226", "Article 142", "Article 32"],
+    "correct_option": "Article 142",
+    "explanation": "Article 142 empowers the Supreme Court to pass orders necessary to do 'complete justice' in any case, even overriding procedural technicalities.",
+    "tags": "Polity"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes the criticism of the Green Credit Programme (GCP) by conservationists?",
+    "options": [
+      "It promotes overuse of natural fertilizers",
+      "It reduces carbon offset capabilities",
+      "It commodifies nature without ensuring genuine ecological restoration",
+      "It prohibits afforestation on degraded lands"
+    ],
+    "correct_option": "It commodifies nature without ensuring genuine ecological restoration",
+    "explanation": "Conservationists argue that GCP focuses more on tradable credits than on actual ecological restoration, raising concerns of 'greenwashing' rather than meaningful conservation.",
+    "tags": "Environment, Ethics"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which sector is directly empowered through the ‘Aapda Sakhi’ initiative?",
+    "options": [
+      "Microfinance sector",
+      "Women Self Help Groups (SHGs)",
+      "Agricultural laborers",
+      "Urban homeless population"
+    ],
+    "correct_option": "Women Self Help Groups (SHGs)",
+    "explanation": "The Aapda Sakhi initiative under the Aapda Mitra Scheme empowers women Self Help Groups by training them as first responders in climate-related disasters.",
+    "tags": "Women Empowerment, Disaster Management"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following has the final say in cases of disqualification under the Tenth Schedule?",
+    "options": [
+      "Prime Minister",
+      "President of India",
+      "Speaker of the House",
+      "Supreme Court of India"
+    ],
+    "correct_option": "Supreme Court of India",
+    "explanation": "While the Speaker makes the initial decision, the Supreme Court has held that such decisions are subject to judicial review, and it has the final say in ensuring constitutional compliance.",
+    "tags": "Polity"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "What mechanism does the India-Australia ECTA include to counter import surges?",
+    "options": [
+      "Trade embargoes",
+      "Safeguard mechanism",
+      "Stockpiling of goods",
+      "Import substitution incentives"
+    ],
+    "correct_option": "Safeguard mechanism",
+    "explanation": "The ECTA includes a safeguard mechanism to address unexpected import surges and protect domestic industries from potential market disruptions.",
+    "tags": "Economy, Trade"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which type of institutions will now have mandatory representation in the Central Waqf Council as per the amendment?",
+    "options": [
+      "Religious organizations",
+      "Professional auditing bodies",
+      "National Commission for Minorities",
+      "State Legislative Assemblies"
+    ],
+    "correct_option": "National Commission for Minorities",
+    "explanation": "The Waqf (Amendment) Bill 2025 ensures that the National Commission for Minorities has representation in the Central Waqf Council, strengthening minority oversight and inclusion.",
+    "tags": "Polity, Minority Affairs"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a new provision in the Waqf (Amendment) Bill, 2025?",
+    "options": [
+      "Online registration of movable assets only",
+      "Prohibition of non-Muslims on waqf boards",
+      "Provision for digital survey of waqf properties",
+      "State-wise uniform rates for waqf leasing"
+    ],
+    "correct_option": "Provision for digital survey of waqf properties",
+    "explanation": "The amendment introduces a provision for digitally surveying waqf properties for improved governance and transparency in land records.",
+    "tags": "Governance, Digital India"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "The Supreme Court recently issued directions to Speakers of assemblies concerning which constitutional issue?",
+    "options": [
+      "Delay in appointment of Governors",
+      "Delay in passing money bills",
+      "Delay in anti-defection decisions",
+      "Delay in swearing-in ceremonies"
+    ],
+    "correct_option": "Delay in anti-defection decisions",
+    "explanation": "The Supreme Court emphasized that Speakers must not delay decisions under the Tenth Schedule, as such delays can subvert democratic processes.",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which UN conference saw the launch of India’s Green Credit Programme?",
+    "options": ["UNGA 77", "COP27", "COP28", "Stockholm+50"],
+    "correct_option": "COP28",
+    "explanation": "India launched the Green Credit Programme at COP28 to incentivize environmentally sustainable actions as part of its Mission LiFE commitment.",
+    "tags": "Climate Change, International Summits"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary method through which green credits are generated under the GCP?",
+    "options": [
+      "By trading carbon certificates",
+      "Through corporate donations",
+      "By undertaking designated green activities",
+      "By implementing CSR schemes"
+    ],
+    "correct_option": "By undertaking designated green activities",
+    "explanation": "Under the GCP, green credits are generated when entities perform notified green activities such as afforestation, sustainable agriculture, and water conservation.",
+    "tags": "Environment, Economy"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which institution is tasked with creating the IT platform for the Green Credit Programme?",
+    "options": [
+      "NITI Aayog",
+      "Indian Space Research Organisation",
+      "National Informatics Centre",
+      "ICFRE"
+    ],
+    "correct_option": "National Informatics Centre",
+    "explanation": "The National Informatics Centre is responsible for building and managing the IT platform that facilitates registration and trading of green credits.",
+    "tags": "Environment, Digital Governance"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a goal of Mission LiFE associated with the Green Credit Programme?",
+    "options": [
+      "Promote fossil fuel investments",
+      "Encourage pro-planet behavioral change",
+      "Expand nuclear energy networks",
+      "Increase GDP through mining"
+    ],
+    "correct_option": "Encourage pro-planet behavioral change",
+    "explanation": "Mission LiFE (Lifestyle for Environment) aims to encourage behavioral changes that promote environmental sustainability. GCP is a step in that direction.",
+    "tags": "Environment, Governance"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "The Supreme Court in India has emphasized timelines for decisions under which schedule of the Constitution?",
+    "options": [
+      "Fourth Schedule",
+      "Tenth Schedule",
+      "Twelfth Schedule",
+      "Sixth Schedule"
+    ],
+    "correct_option": "Tenth Schedule",
+    "explanation": "The Tenth Schedule deals with anti-defection provisions. The Supreme Court has directed that decisions under it must be made within a reasonable time.",
+    "tags": "Polity, Constitution"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best defines 'Greenwashing' as seen in criticisms of GCP?",
+    "options": [
+      "Use of renewable fuels in industries",
+      "Environmental damage caused by green products",
+      "Misleading environmental claims without genuine actions",
+      "Overuse of green labels in agriculture"
+    ],
+    "correct_option": "Misleading environmental claims without genuine actions",
+    "explanation": "Greenwashing refers to superficial or deceptive efforts to appear environmentally friendly without implementing meaningful environmental protection measures.",
+    "tags": "Environment, Ethics"
+  },
+  {
+    "date": "3",
+    "month": "April",
+    "year": "2025",
+    "question": "The Aapda Mitra scheme primarily aims to build resilience in which areas?",
+    "options": [
+      "Economic planning in metros",
+      "Community-level disaster preparedness",
+      "Foreign policy missions",
+      "Judicial capacity building"
+    ],
+    "correct_option": "Community-level disaster preparedness",
+    "explanation": "Aapda Mitra enhances community-level preparedness for disasters by training volunteers to act as first responders during emergencies like floods.",
+    "tags": "Disaster Management, Community Development"
+  }
+]
