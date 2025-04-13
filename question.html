@@ -246,18 +246,33 @@
           q.options.forEach(opt => {
             const btn = document.createElement('button');
             btn.textContent = opt;
-            btn.className = 'block w-full text-left px-5 py-3 text-base bg-yellow-50 border border-yellow-300 rounded hover:bg-yellow-100';
+            btn.className = 'block w-full text-left px-5 py-3 text-base bg-yellow-50 border border-yellow-300 rounded hover:bg-yellow-100 transition-colors';
+
             btn.onclick = () => {
               if (answered) return;
               answered = true;
+
               const isCorrect = opt === q.correct_option;
+
+              // Set permanent color for selected button
+              btn.classList.remove('hover:bg-yellow-100');
               btn.classList.add(isCorrect ? 'bg-green-200' : 'bg-red-200');
+
+              // Disable all buttons and remove hover effect
               Array.from(optionsDiv.children).forEach(b => {
                 b.disabled = true;
-                b.classList.add('no-hover');
+
+                // Remove all hover classes
+                b.classList.remove('hover:bg-yellow-100', 'hover:bg-yellow-200', 'hover:bg-green-200', 'hover:bg-red-200');
+
+                // If not selected button, reset background
+                if (b !== btn) {
+                  b.classList.add('bg-yellow-50');
+                }
               });
+
               feedback.textContent = isCorrect ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
-              feedback.classList.add(isCorrect ? 'text-green-600' : 'text-red-600');
+              feedback.className = isCorrect ? 'text-green-600 mt-4 font-medium' : 'text-red-600 mt-4 font-medium';
 
               const explainBtn = document.createElement('button');
               explainBtn.textContent = 'View Explanation';
@@ -265,8 +280,10 @@
               explainBtn.onclick = () => showModal(q.explanation);
               card.appendChild(explainBtn);
             };
+
             optionsDiv.appendChild(btn);
           });
+
 
           card.appendChild(optionsDiv);
           card.appendChild(feedback);
