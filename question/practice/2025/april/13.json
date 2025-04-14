@@ -1,0 +1,427 @@
+[
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a focus of the WHO’s new pandemic preparedness accord?",
+    "statements": [
+      "Ensuring equitable access to medical countermeasures",
+      "Strengthening global early warning systems",
+      "Limiting trade and travel restrictions during outbreaks"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The WHO's pandemic accord aims at improving preparedness by enhancing early warning systems, ensuring fair access to treatments and vaccines, and discouraging unnecessary trade and travel restrictions during outbreaks. See: https://en.wikipedia.org/wiki/Pandemic_Accord",
+    "tags": "Health, International Relations, WHO"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "The WHO’s Intergovernmental Negotiating Body (INB) is related to?",
+    "options": [
+      "Nuclear disarmament negotiations",
+      "Formulating global pandemic treaties",
+      "Supervising bioethical standards",
+      "Monitoring universal vaccination targets"
+    ],
+    "correct_option": "Formulating global pandemic treaties",
+    "explanation": "The Intergovernmental Negotiating Body (INB) under WHO is tasked with drafting and negotiating the pandemic preparedness treaty. More: https://en.wikipedia.org/wiki/Intergovernmental_Negotiating_Body",
+    "tags": "International Organizations, Global Health"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "The INSPIRE framework, recently seen in news, is related to which of the following?",
+    "options": [
+      "Climate resilience in agriculture",
+      "Disaster-resilient infrastructure",
+      "Child protection and welfare",
+      "Renewable energy planning"
+    ],
+    "correct_option": "Child protection and welfare",
+    "explanation": "The INSPIRE framework is a global strategy by WHO and partners to prevent and respond to violence against children. Kerala adopted this as part of its child-secure action plan. See: https://en.wikipedia.org/wiki/INSPIRE_framework",
+    "tags": "Indian Society, Governance, Vulnerable Sections"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the main advantage of the rt-LAMP technology recently used in indigenous TB testing in India?",
+    "statements": [
+      "It enables faster diagnosis than conventional PCR",
+      "It does not require sophisticated thermal cycling equipment",
+      "It can be used in low-resource settings"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Reverse transcription loop-mediated isothermal amplification (rt-LAMP) is a faster, cost-effective method for diagnosing infections like TB without requiring PCR machines. Learn more: https://en.wikipedia.org/wiki/Loop-mediated_isothermal_amplification",
+    "tags": "Science and Technology, Health"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "The Tiger Triumph 2025 exercise involves which two countries?",
+    "options": [
+      "India and Japan",
+      "India and USA",
+      "India and Australia",
+      "India and France"
+    ],
+    "correct_option": "India and USA",
+    "explanation": "Tiger Triumph is a joint Humanitarian Assistance and Disaster Relief (HADR) exercise between India and the United States. Source: https://en.wikipedia.org/wiki/India%E2%80%93United_States_relations#Defense_and_strategic_ties",
+    "tags": "Defense, International Relations"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following explains the Waqf Board's functions, recently highlighted due to unrest in Murshidabad?",
+    "statements": [
+      "Management of Muslim religious endowments",
+      "Registration of properties declared as waqf",
+      "Regulation of all religious institutions in India"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Waqf Board manages properties donated for religious or charitable Muslim purposes. It does not regulate other religious institutions. Reference: https://en.wikipedia.org/wiki/Waqf_in_India",
+    "tags": "Polity, Religion and Law, Indian Society"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Genetic mapping of endogamous Indian populations is most relevant to which of the following areas?",
+    "options": [
+      "Geopolitical strategy",
+      "Precision medicine and disease prediction",
+      "Electoral boundary demarcation",
+      "Agricultural crop improvement"
+    ],
+    "correct_option": "Precision medicine and disease prediction",
+    "explanation": "Mapping the genetic diversity of endogamous groups in India helps in identifying disease-specific mutations and aids in designing population-specific healthcare solutions. Learn more: https://en.wikipedia.org/wiki/Population_genetics",
+    "tags": "Science and Technology, Health, Indian Society"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following constitutional issues is involved in the Governor withholding assent to a Bill?",
+    "statements": [
+      "Violation of Article 200 of the Constitution",
+      "Potential breach of the doctrine of separation of powers",
+      "Encroachment on Parliament’s exclusive domain"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Under Article 200, the Governor is expected to act without undue delay. Excessive withholding may violate the principle of separation of powers. See: https://en.wikipedia.org/wiki/Governor_(India)#Powers_and_functions",
+    "tags": "Polity, Constitution, Governance"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Caspian Sea’s decline poses threat to which of the following?",
+    "options": [
+      "Freshwater biodiversity",
+      "Global monsoon cycle",
+      "Inland maritime trade",
+      "Arctic navigation routes"
+    ],
+    "correct_option": "Freshwater biodiversity",
+    "explanation": "The shrinking Caspian Sea threatens unique aquatic life like the Caspian seal. It’s the largest inland body of water with rich freshwater biodiversity. Source: https://en.wikipedia.org/wiki/Caspian_Sea",
+    "tags": "Environment, Geography, Biodiversity"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Peter Navarro, seen in the news, is best known for his role in which of the following?",
+    "options": [
+      "Developing NATO military strategy",
+      "Leading US-China trade war policies",
+      "Heading the WHO pandemic team",
+      "Negotiating EU climate treaties"
+    ],
+    "correct_option": "Leading US-China trade war policies",
+    "explanation": "Peter Navarro served as Director of Trade and Manufacturing Policy under President Trump and played a central role in imposing tariffs on China. Learn more: https://en.wikipedia.org/wiki/Peter_Navarro",
+    "tags": "World Economy, USA-China Relations, Trade Policy"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which organization launched the INSPIRE strategy to end violence against children?",
+    "options": [
+      "UNICEF",
+      "World Health Organization (WHO)",
+      "United Nations Development Programme (UNDP)",
+      "UN Women"
+    ],
+    "correct_option": "World Health Organization (WHO)",
+    "explanation": "The INSPIRE strategy was launched by WHO in collaboration with partners to address child abuse and violence. More: https://en.wikipedia.org/wiki/INSPIRE_framework",
+    "tags": "Governance, Social Justice, Vulnerable Sections"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "The rt-LAMP technique is especially suitable for resource-constrained settings because it:",
+    "statements": [
+      "Works under isothermal conditions",
+      "Requires expensive thermal cyclers",
+      "Delivers rapid test results"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "rt-LAMP works without thermal cyclers, making it apt for field diagnostics. It also yields results in less time. Reference: https://en.wikipedia.org/wiki/Loop-mediated_isothermal_amplification",
+    "tags": "Science and Technology, Health"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "The Caspian Sea is bordered by how many countries?",
+    "options": ["3", "4", "5", "6"],
+    "correct_option": "5",
+    "explanation": "The Caspian Sea is bordered by five countries: Russia, Kazakhstan, Turkmenistan, Iran, and Azerbaijan. More info: https://en.wikipedia.org/wiki/Caspian_Sea",
+    "tags": "Geography, Environment, World Map"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following countries are involved in the Tiger Triumph exercise?",
+    "statements": [
+      "It is a joint exercise between India and the United States",
+      "It focuses on humanitarian assistance and disaster relief (HADR)",
+      "It is conducted under the Quad framework"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Tiger Triumph is an India–USA bilateral HADR exercise. It is not under the Quad framework. Source: https://en.wikipedia.org/wiki/India–United_States_relations#Defense_and_strategic_ties",
+    "tags": "Defence, International Relations, Disaster Management"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "The doctrine of separation of powers in India is:",
+    "options": [
+      "Explicitly mentioned in the Constitution",
+      "Implicitly recognized through checks and balances",
+      "Derived from the U.S. Constitution",
+      "Applicable only to the judiciary"
+    ],
+    "correct_option": "Implicitly recognized through checks and balances",
+    "explanation": "Though not expressly stated, separation of powers is implicit in India’s Constitution through independent roles of legislature, executive, and judiciary. More: https://en.wikipedia.org/wiki/Separation_of_powers#India",
+    "tags": "Polity, Constitution, Governance"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following sectors is most impacted by Peter Navarro's trade policy during his tenure in the U.S. administration?",
+    "options": [
+      "Energy sector",
+      "Healthcare sector",
+      "Manufacturing and steel industry",
+      "Aviation industry"
+    ],
+    "correct_option": "Manufacturing and steel industry",
+    "explanation": "Peter Navarro advocated tariffs to boost U.S. manufacturing, especially in steel and aluminum. Learn more: https://en.wikipedia.org/wiki/Peter_Navarro",
+    "tags": "World Economy, USA-China Trade"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Indian state has launched an action plan to become the first child-secure state using the INSPIRE framework?",
+    "options": ["Tamil Nadu", "Kerala", "Maharashtra", "Odisha"],
+    "correct_option": "Kerala",
+    "explanation": "Kerala unveiled a roadmap to be India's first child-secure state by implementing WHO's INSPIRE framework. More on Kerala: https://en.wikipedia.org/wiki/Kerala",
+    "tags": "Governance, Indian Society, Child Welfare"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which scientific technique has India indigenously developed to diagnose TB efficiently?",
+    "options": ["ELISA", "CRISPR", "rt-LAMP", "Sanger Sequencing"],
+    "correct_option": "rt-LAMP",
+    "explanation": "India's indigenously developed TB test uses rt-LAMP (Reverse Transcriptase Loop-mediated Isothermal Amplification) for rapid and accurate diagnosis. Source: https://en.wikipedia.org/wiki/Loop-mediated_isothermal_amplification",
+    "tags": "Science and Technology, Health, Innovation"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which constitutional article deals with the Governor’s assent to bills?",
+    "options": ["Article 72", "Article 200", "Article 123", "Article 356"],
+    "correct_option": "Article 200",
+    "explanation": "Article 200 of the Constitution of India empowers the Governor to assent, withhold assent, or reserve a bill for the President’s consideration. More: https://en.wikipedia.org/wiki/Governor_(India)#Powers_and_functions",
+    "tags": "Polity, Constitution, Legislative Process"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "The genetic study of Indian endogamous groups can contribute to:",
+    "statements": [
+      "Improved targeted healthcare solutions",
+      "Understanding hereditary diseases specific to communities",
+      "Preventing misuse of genetic data for racial profiling"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Genetic mapping helps predict disease predispositions in communities while also raising ethical concerns like misuse of genetic data. Reference: https://en.wikipedia.org/wiki/Population_genetics",
+    "tags": "Science and Technology, Ethics, Health"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which one of the following best describes the goal of the WHO pandemic accord?",
+    "options": [
+      "To set legally binding rules for vaccine trade",
+      "To ensure fairer, faster, and more equitable response to pandemics",
+      "To dissolve national pandemic response mechanisms",
+      "To shift pandemic management solely to the UN"
+    ],
+    "correct_option": "To ensure fairer, faster, and more equitable response to pandemics",
+    "explanation": "The WHO's pandemic treaty aims to facilitate equitable access to medical resources and build stronger global pandemic responses. Learn more: https://en.wikipedia.org/wiki/Pandemic_Accord",
+    "tags": "Global Health, WHO, International Treaties"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following diseases can be effectively diagnosed using the rt-LAMP technique?",
+    "options": ["Tuberculosis", "HIV", "Malaria", "All of the above"],
+    "correct_option": "All of the above",
+    "explanation": "rt-LAMP is a versatile molecular technique used for detecting several infectious diseases including TB, HIV, and malaria. Source: https://en.wikipedia.org/wiki/Loop-mediated_isothermal_amplification",
+    "tags": "Health, Biotechnology, Diagnostics"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are features of the Waqf Act, as highlighted in recent news?",
+    "statements": [
+      "Provides for establishment of State Waqf Boards",
+      "Empowers boards to take over encroached waqf properties",
+      "Mandates digitization of waqf records"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Waqf Act establishes state waqf boards, enables retrieval of encroached land, and emphasizes digitization. Reference: https://en.wikipedia.org/wiki/Waqf_in_India",
+    "tags": "Polity, Law, Minority Rights"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "The Caspian Sea is classified as which of the following?",
+    "options": [
+      "Freshwater lake",
+      "Saltwater lake",
+      "Semi-saline basin",
+      "Enclosed inland sea"
+    ],
+    "correct_option": "Enclosed inland sea",
+    "explanation": "The Caspian Sea is the world’s largest inland body of water, technically considered an enclosed inland sea. Source: https://en.wikipedia.org/wiki/Caspian_Sea",
+    "tags": "Geography, Environment, Physical Features"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "India’s genetic diversity studies on endogamous groups contribute directly to which Sustainable Development Goal (SDG)?",
+    "options": [
+      "SDG 2: Zero Hunger",
+      "SDG 3: Good Health and Well-being",
+      "SDG 5: Gender Equality",
+      "SDG 9: Industry, Innovation and Infrastructure"
+    ],
+    "correct_option": "SDG 3: Good Health and Well-being",
+    "explanation": "Mapping population genetics supports SDG 3 by enabling targeted healthcare and disease prevention. SDGs: https://en.wikipedia.org/wiki/Sustainable_Development_Goals",
+    "tags": "SDGs, Health, Genetics"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "In the Indian context, who has the constitutional authority to reserve a bill for the President's consideration?",
+    "options": [
+      "President of India",
+      "Prime Minister of India",
+      "Governor of a State",
+      "Speaker of the State Assembly"
+    ],
+    "correct_option": "Governor of a State",
+    "explanation": "Under Article 200 of the Constitution, the Governor can reserve certain state bills for the President’s consideration. Source: https://en.wikipedia.org/wiki/Governor_(India)#Powers_and_functions",
+    "tags": "Indian Polity, Constitution, Legislative Process"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following pairs are correctly matched?",
+    "statements": [
+      "Tiger Triumph – Humanitarian and Disaster Relief Exercise",
+      "Peter Navarro – U.S. Trade Advisor under Trump",
+      "rt-LAMP – Loop-mediated Amplification Technology"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All pairs are correctly matched. Tiger Triumph is a HADR drill; Navarro led U.S. trade policies; rt-LAMP is a nucleic acid amplification tool. Learn more: https://en.wikipedia.org/wiki/Tiger_Triumph, https://en.wikipedia.org/wiki/Peter_Navarro, https://en.wikipedia.org/wiki/Loop-mediated_isothermal_amplification",
+    "tags": "Current Affairs, Defence, Science"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Which feature of the Indian Constitution relates most closely to delays in a Governor's assent to a Bill?",
+    "options": [
+      "Federalism",
+      "Separation of Powers",
+      "Judicial Review",
+      "Directive Principles of State Policy"
+    ],
+    "correct_option": "Separation of Powers",
+    "explanation": "Delays in Governor’s assent can be viewed as executive overreach, thus invoking concerns around the separation of powers. Learn more: https://en.wikipedia.org/wiki/Separation_of_powers#India",
+    "tags": "Polity, Constitution, Executive"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "Peter Navarro was associated with which controversial economic measure during his term?",
+    "options": [
+      "Imposing tariffs on Chinese goods",
+      "Implementing universal basic income",
+      "Liberalizing immigration rules",
+      "Abolishing corporate tax"
+    ],
+    "correct_option": "Imposing tariffs on Chinese goods",
+    "explanation": "Peter Navarro played a key role in Trump's economic policy, especially advocating tariffs on imports from China. Reference: https://en.wikipedia.org/wiki/Peter_Navarro",
+    "tags": "International Economy, Trade Wars, USA"
+  },
+  {
+    "date": "13",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the main reason the Caspian Sea is receding, as mentioned in the recent report?",
+    "options": [
+      "Increased salinity due to mining",
+      "Climate change and evaporation",
+      "Earthquake-triggered tectonic shift",
+      "Diversion of all inflowing rivers"
+    ],
+    "correct_option": "Climate change and evaporation",
+    "explanation": "The Caspian Sea is shrinking primarily due to rising temperatures and reduced inflow, both linked to climate change. Learn more: https://en.wikipedia.org/wiki/Caspian_Sea",
+    "tags": "Environment, Geography, Climate Change"
+  }
+]
