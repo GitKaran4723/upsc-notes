@@ -1,0 +1,433 @@
+[
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are key challenges faced by Deep-tech startups in India?",
+    "statements": [
+      "Limited funding and risk-averse investment environment",
+      "Poor education-research-industry collaboration",
+      "Regulatory uncertainty and red tape"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Deep-tech startups in India face multiple challenges including low funding due to investor risk aversion, lack of strong education-research-industry links, and bureaucratic hurdles like red tape and inconsistent regulations. These were highlighted in the recent remarks by the Union Commerce Minister. [Wikipedia: Deep tech](https://en.wikipedia.org/wiki/Deep_tech)",
+    "tags": "Science & Tech, Indian Economy, Governance"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "The India Influencer Governing Council (IIGC) was recently set up to regulate:",
+    "options": [
+      "Digital payment apps",
+      "Influencer marketing sector",
+      "Cryptocurrency trading",
+      "Online betting platforms"
+    ],
+    "correct_option": "Influencer marketing sector",
+    "explanation": "The India Influencer Governing Council (IIGC), a self-regulatory body formed by industry leaders including Meta and Google, aims to bring transparency and ethical standards to the rapidly growing influencer marketing sector in India.",
+    "tags": "Governance, Economy, Digital Regulation"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following regarding the Mk-II(A) Directed Energy Weapon (DEW) system recently tested by DRDO:",
+    "statements": [
+      "It uses a 30-kilowatt LASER beam to destroy targets.",
+      "It was developed by a foreign defense contractor in collaboration with DRDO.",
+      "It offers near-instantaneous engagement with minimal collateral damage."
+    ],
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Mk-II(A) DEW system is indigenously developed by DRDO’s CHESS lab and uses high-powered laser beams for precise and swift destruction. It significantly reduces reliance on ammunition and collateral damage. [Wikipedia: Directed-energy weapon](https://en.wikipedia.org/wiki/Directed-energy_weapon)",
+    "tags": "Science & Tech, Defence"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which country recently joined India, the US, China, and Russia in possessing advanced laser weapon capabilities?",
+    "options": ["Israel", "France", "India", "Japan"],
+    "correct_option": "India",
+    "explanation": "India successfully tested the Mk-II(A) DEW laser weapon, joining an elite group of countries (USA, China, and Russia) with advanced laser-based defense capabilities.",
+    "tags": "Defence, Science & Technology"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are among the roles proposed for Directed Energy Weapons (DEWs)?",
+    "statements": [
+      "Anti-satellite operations",
+      "Crowd control using low-power lasers",
+      "Ballistic missile defense"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Directed Energy Weapons can be used for multiple military applications like anti-satellite weapons, crowd control (with low-energy lasers), and missile defense systems, highlighting their strategic versatility. [Wikipedia](https://en.wikipedia.org/wiki/Directed-energy_weapon)",
+    "tags": "Defence, Science & Tech"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following Acts are relevant for regulation of online betting and gambling in India?",
+    "statements": [
+      "Information Technology Rules, 2021",
+      "Goa, Daman and Diu Public Gambling Act, 1976",
+      "Assam Gaming and Betting Act, 1970"
+    ],
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The regulation of online gambling involves both central rules like the IT Rules 2021 and state-specific legislations like the Goa and Assam gambling Acts. This reflects India's quasi-federal legal approach on gambling, a state subject. [Wikipedia: Gambling in India](https://en.wikipedia.org/wiki/Gambling_in_India)",
+    "tags": "Polity, Governance, Economy"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "In which Supreme Court case was it ruled that games involving substantial skill are protected under Article 19(1)(g)?",
+    "options": [
+      "Ramesh Thapar v. State of Madras",
+      "RMD Chamarbaugwala v. Union of India",
+      "Kesavananda Bharati v. State of Kerala",
+      "Shreya Singhal v. Union of India"
+    ],
+    "correct_option": "RMD Chamarbaugwala v. Union of India",
+    "explanation": "The Supreme Court in RMD Chamarbaugwala v. Union of India (1957) held that games requiring substantial skill qualify as commercial activity and are thus protected under Article 19(1)(g) of the Constitution.",
+    "tags": "Polity, Constitution, Judiciary"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which state government recently formed a committee to draft legislation to regulate online betting and gambling?",
+    "options": ["Maharashtra", "Karnataka", "Tamil Nadu", "Delhi"],
+    "correct_option": "Karnataka",
+    "explanation": "Karnataka government has initiated steps to regulate online betting and gambling by forming a legislative committee, addressing the legal, economic, and ethical dimensions of online gaming platforms.",
+    "tags": "Governance, Economy, State Policies"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following benefits are associated with legalization of online betting as per recent policy discussions?",
+    "statements": [
+      "Helps in curbing black money",
+      "Improves sports integrity by reducing match-fixing",
+      "Promotes federalism by allowing states full control"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Legalization of betting can help reduce black money (as per FICCI estimates) and mitigate match-fixing concerns, but it also raises federal tensions since gambling is a state subject. [276th Law Commission Report](https://lawcommissionofindia.nic.in/reports/Report276.pdf)",
+    "tags": "Governance, Ethics, Economy"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which organization is responsible for developing India's Mk-II(A) Directed Energy Weapon?",
+    "options": ["ISRO", "BEL", "CHESS – DRDO", "BHEL"],
+    "correct_option": "CHESS – DRDO",
+    "explanation": "The Centre for High Energy Systems and Sciences (CHESS), a lab under DRDO, developed the Mk-II(A) Directed Energy Weapon system. This highlights India's growing indigenous defense R&D capacity.",
+    "tags": "Defence, Science & Technology"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "The Global Economy Report 2025 released by the World Bank has forecasted what kind of trend for the Indian economy?",
+    "options": [
+      "Sharp recession due to inflation",
+      "Moderate growth led by investment",
+      "Stagnation in industrial output",
+      "Contraction due to fiscal tightening"
+    ],
+    "correct_option": "Moderate growth led by investment",
+    "explanation": "According to the World Bank’s [Global Economy Report 2025](https://www.imf.org/en/Publications/WEO/Issues/2025/01/17/world-economic-outlook-update-january-2025), India is expected to see moderate growth, driven by capital formation, infrastructure investments, and domestic demand resilience. [World Bank India](https://www.worldbank.org/en/country/india)",
+    "tags": "Economy, International Reports"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following sectors are identified as growth drivers in the World Bank's forecast for India?",
+    "statements": [
+      "Infrastructure and construction",
+      "Private consumption and retail",
+      "Digital economy and services"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The World Bank has highlighted infrastructure, consumption, and digital services as major drivers of India’s economic growth, reflecting a balanced structure between capital-intensive and demand-driven sectors.",
+    "tags": "Economy, Infrastructure"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are among the key priorities identified under India’s draft National Deep Tech Startup Policy (NDTSP)?",
+    "statements": [
+      "Encouraging venture capital support for early-stage startups",
+      "Creating testbeds for R&D validation",
+      "Attracting global talent through startup visas"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The draft NDTSP by DPIIT emphasizes investment flow, R&D infrastructure, and global talent inflow for India’s emerging deep-tech ecosystem. [Startup India Portal](https://www.startupindia.gov.in/)",
+    "tags": "Science & Technology, Economy, Startup Policy"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which ministry is responsible for implementing the Deep Tech Startup Policy (NDTSP)?",
+    "options": [
+      "Ministry of Electronics and IT",
+      "Ministry of Science and Technology",
+      "Ministry of Education",
+      "Department for Promotion of Industry and Internal Trade (DPIIT)"
+    ],
+    "correct_option": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+    "explanation": "The DPIIT under the Ministry of Commerce and Industry is spearheading India’s Deep Tech Startup Policy to provide structured support for high-tech innovations and indigenous R&D.",
+    "tags": "Governance, Startups, Science & Tech"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements best defines 'deep-tech' startups?",
+    "options": [
+      "Startups offering e-commerce platforms",
+      "Startups engaged in FMCG and logistics",
+      "Startups based on scientific or engineering innovation",
+      "Startups involved in service delivery through mobile apps"
+    ],
+    "correct_option": "Startups based on scientific or engineering innovation",
+    "explanation": "Deep-tech startups involve complex scientific and technological innovation, often in fields like AI, robotics, quantum computing, and semiconductors. [Wikipedia: Deep tech](https://en.wikipedia.org/wiki/Deep_tech)",
+    "tags": "Science & Tech, Economy"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "The ‘76@75’ initiative launched by the Ministry of Commerce and Industry aims to:",
+    "options": [
+      "Support 76 defense startups for DRDO",
+      "Support 76 women-led tech startups",
+      "Support 76 deep-tech startups by 75th Republic Day",
+      "Create 76 startup parks in Tier-2 cities"
+    ],
+    "correct_option": "Support 76 deep-tech startups by 75th Republic Day",
+    "explanation": "The ‘76@75’ initiative was launched to commemorate India’s 75th Republic Day by fostering 76 innovative deep-tech startups with end-to-end support from ideation to commercialization.",
+    "tags": "Startups, Economy, Governance"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following sectors are likely to be most impacted by the use of Directed Energy Weapons (DEWs)?",
+    "statements": [
+      "Aerospace defense systems",
+      "Space-based surveillance",
+      "Electronic warfare operations"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Directed Energy Weapons are likely to revolutionize aerospace defense, satellite operations, and electronic warfare due to their speed, precision, and cost-effectiveness. [Wikipedia](https://en.wikipedia.org/wiki/Directed-energy_weapon)",
+    "tags": "Defence, Science & Technology"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "The 276th Report of the Law Commission of India recommended:",
+    "options": [
+      "Complete ban on gambling and betting",
+      "Legalizing regulated gambling and betting",
+      "Delegating gambling laws to the Centre",
+      "Declaring gambling unconstitutional"
+    ],
+    "correct_option": "Legalizing regulated gambling and betting",
+    "explanation": "The Law Commission of India, in its 276th report, suggested regulating gambling and betting activities, arguing that prohibition leads to unregulated black markets. [Law Commission Report 276](https://lawcommissionofindia.nic.in/reports/Report276.pdf)",
+    "tags": "Law Commission, Governance, Economy"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary aim of the India Influencer Governing Council (IIGC)?",
+    "options": [
+      "To monitor fake news on social media",
+      "To regulate advertisements by influencers",
+      "To track digital currency flow",
+      "To promote AI-generated content"
+    ],
+    "correct_option": "To regulate advertisements by influencers",
+    "explanation": "The IIGC is a self-regulatory body aimed at ensuring responsible influencer marketing, fair ad disclosures, and accountability on platforms like Instagram and YouTube.",
+    "tags": "Governance, Digital Economy"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following constitutional rights is invoked in the Supreme Court's protection of skill-based games?",
+    "options": [
+      "Article 14 – Right to Equality",
+      "Article 19(1)(g) – Right to practice any profession",
+      "Article 21 – Right to Life and Liberty",
+      "Article 23 – Protection against Exploitation"
+    ],
+    "correct_option": "Article 19(1)(g) – Right to practice any profession",
+    "explanation": "The SC ruled that skill-based games are protected under Article 19(1)(g), as they involve commercial activity and are not entirely chance-based like gambling.",
+    "tags": "Constitution, Judiciary, Polity"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following objectives are targeted under India’s Deep Tech Startup Policy (NDTSP)?",
+    "statements": [
+      "Promoting indigenous intellectual property creation",
+      "Encouraging global collaboration with academia and industry",
+      "Reducing regulatory burden for product testing and approval"
+    ],
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The NDTSP aims to support IP creation, global collaboration, and a startup-friendly regulatory ecosystem for deep tech. It emphasizes the entire innovation lifecycle. [Startup India](https://www.startupindia.gov.in/)",
+    "tags": "Science & Tech, Governance, Innovation Policy"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "India’s economy is projected to grow steadily due to which of the following according to World Bank?",
+    "options": [
+      "Rise in agricultural subsidies",
+      "High oil exports",
+      "Private consumption and investments",
+      "Reduction in tax compliance burden"
+    ],
+    "correct_option": "Private consumption and investments",
+    "explanation": "India's stable growth is attributed to robust private consumption and rising investment in infrastructure and manufacturing. [World Bank India Overview](https://www.worldbank.org/en/country/india/overview)",
+    "tags": "Economy, Global Reports"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which countries currently possess operational Directed Energy Weapon (DEW) systems?",
+    "statements": ["India", "Russia", "United States", "China"],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2, 3 and 4",
+    "explanation": "India joins the US, Russia, and China in possessing DEW capabilities, following DRDO’s successful testing of Mk-II(A) laser systems. [Wikipedia](https://en.wikipedia.org/wiki/Directed-energy_weapon)",
+    "tags": "Defence, International Relations, Science & Tech"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following factors are essential for the success of deep tech startups?",
+    "statements": [
+      "Robust IP protection framework",
+      "Access to skilled workforce",
+      "Dedicated regulatory sandbox"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Deep-tech startups require strong intellectual property systems, highly trained technical talent, and regulatory sandbox environments to test innovations safely and swiftly.",
+    "tags": "Startup Policy, Governance, Science & Technology"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes a 'regulatory sandbox'?",
+    "options": [
+      "A secure sandbox for AI models to run",
+      "A restricted legal framework for crypto testing",
+      "A controlled environment for innovators to test products",
+      "A model tax incentive scheme for startups"
+    ],
+    "correct_option": "A controlled environment for innovators to test products",
+    "explanation": "A regulatory sandbox allows startups to test new technologies in a live but controlled setting, easing compliance burdens temporarily while ensuring oversight.",
+    "tags": "Governance, Economy, Innovation"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Indian laboratory developed the DEW Mk-II(A) system?",
+    "options": [
+      "Laser Science & Technology Centre",
+      "CHESS (Centre for High Energy Systems and Sciences)",
+      "Bhabha Atomic Research Centre",
+      "Electronics Corporation of India"
+    ],
+    "correct_option": "CHESS (Centre for High Energy Systems and Sciences)",
+    "explanation": "CHESS, a DRDO lab specializing in laser and high-energy systems, developed the Mk-II(A) Directed Energy Weapon successfully tested in 2025.",
+    "tags": "Defence, Science & Technology"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which report emphasizes the need for structured regulation of online gaming and betting in India?",
+    "options": [
+      "Gati Shakti Report",
+      "National Strategy for Financial Inclusion",
+      "276th Law Commission Report",
+      "Internet Freedom Index"
+    ],
+    "correct_option": "276th Law Commission Report",
+    "explanation": "The 276th Law Commission Report suggested that regulating betting and gambling is preferable to banning it, ensuring transparency and revenue generation. [Law Commission Report 276](https://lawcommissionofindia.nic.in/reports/Report276.pdf)",
+    "tags": "Law, Governance, Economy"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are benefits of using Directed Energy Weapons (DEWs)?",
+    "statements": [
+      "Instantaneous targeting capability",
+      "Minimal logistical footprint",
+      "Reduced dependency on conventional ammunition"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "DEWs offer advantages like real-time targeting, reduced supply chain stress, and lower operational costs compared to traditional kinetic weapons. [Wikipedia](https://en.wikipedia.org/wiki/Directed-energy_weapon)",
+    "tags": "Defence, Science & Tech"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following legal principles governs whether a game is considered gambling or skill-based?",
+    "options": [
+      "Doctrine of Estoppel",
+      "Substantial Skill Doctrine",
+      "Principle of Proportionality",
+      "Reasonableness Test"
+    ],
+    "correct_option": "Substantial Skill Doctrine",
+    "explanation": "The ‘Substantial Skill Doctrine’ established in multiple SC cases helps determine whether a game qualifies as gambling or a skill-based commercial activity.",
+    "tags": "Law, Judiciary, Polity"
+  },
+  {
+    "date": "14",
+    "month": "April",
+    "year": "2025",
+    "question": "Which state has amended its Gambling Act to allow regulation of online games of skill?",
+    "options": ["Kerala", "Telangana", "Madhya Pradesh", "Tamil Nadu"],
+    "correct_option": "Tamil Nadu",
+    "explanation": "Tamil Nadu amended its gambling laws to allow licensing and regulation of online skill-based games, recognizing their commercial and employment potential.",
+    "tags": "State Policies, Governance, Economy"
+  }
+]
