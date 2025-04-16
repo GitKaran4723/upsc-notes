@@ -1,0 +1,422 @@
+[
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the India Justice Report 2024-25, consider the following statements:",
+    "statements": [
+      "The report highlights understaffing and gender imbalance in the police and judiciary.",
+      "Only Karnataka meets the SC/ST/OBC quota representation in the judiciary.",
+      "Prisons in India have an average occupancy rate of 100%."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The India Justice Report highlights systemic gaps such as **23% vacancy in police**, **8% women in senior ranks**, and **low judge-to-population ratio**. Karnataka is the **only state** fulfilling judicial diversity quotas. **Prisons are overcrowded at 131% occupancy**, not 100%. [India Justice Report](https://www.tatatrusts.org/our-work/initiatives/india-justice-report)",
+    "tags": "Governance, Social Justice"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "QpiAI-Indus, recently seen in news, is:",
+    "options": [
+      "India's first supercomputer based on exascale architecture",
+      "A full-stack superconducting quantum computer",
+      "An AI-based diagnosis platform for tuberculosis",
+      "A quantum communication satellite launched by ISRO"
+    ],
+    "correct_option": "A full-stack superconducting quantum computer",
+    "explanation": "QpiAI-Indus is India’s **first full-stack 25-qubit superconducting quantum computer**, launched under the National Quantum Mission. It integrates quantum hardware, software, and control systems. [National Quantum Mission - PIB](https://pib.gov.in/PressReleasePage.aspx?PRID=1916631)",
+    "tags": "Science & Technology, Quantum Computing"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following principles related to quantum computing:",
+    "statements": [
+      "Superposition enables qubits to exist in multiple states simultaneously.",
+      "Entanglement refers to linked states between particles regardless of distance.",
+      "Interference is used to suppress correct answers and amplify errors."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**Superposition** and **entanglement** are key to quantum computation. However, **interference** helps **amplify correct outcomes** and suppress errors—not the opposite. [Quantum computing - Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing)",
+    "tags": "Science & Tech, Quantum Principles"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which organization is the implementing agency for the National Quantum Mission?",
+    "options": [
+      "NITI Aayog",
+      "Department of Space",
+      "Department of Science and Technology",
+      "Ministry of Electronics and IT"
+    ],
+    "correct_option": "Department of Science and Technology",
+    "explanation": "The **Department of Science and Technology (DST)** under the Ministry of Science & Technology is the nodal agency for implementing the **National Quantum Mission** (2023–2031).",
+    "tags": "Science & Tech, Governance"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the WHO Pandemic Agreement, consider the following provisions:",
+    "statements": [
+      "It promotes a One Health approach acknowledging human-animal-environment interconnection.",
+      "It mandates equitable access and benefit-sharing of pathogen-related data.",
+      "It removes the obligation for member states to follow the International Health Regulations (IHR)."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The WHO Pandemic Treaty supports **One Health**, promotes **benefit-sharing of pathogens**, and **does not override** existing IHR commitments. IHR (2005) remains a binding international instrument. [WHO Pandemic Agreement](https://www.who.int/news/item/28-02-2024-pandemic-agreement-negotiations)",
+    "tags": "Health, International Relations"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a key direction issued by the Supreme Court in the Pinki v. State of Uttar Pradesh case regarding child trafficking?",
+    "options": [
+      "Establish a central registry for traffickers",
+      "Complete all trials within 6 months",
+      "Ban interstate migration of children",
+      "Mandate DNA tests for all rescued children"
+    ],
+    "correct_option": "Complete all trials within 6 months",
+    "explanation": "The Supreme Court directed **High Courts to finish child trafficking trials within 6 months**. It also ordered reporting improvements and strengthened institutional frameworks for protection. [SC guidelines - The Hindu](https://www.thehindu.com/news/national/sc-issues-guidelines-to-combat-child-trafficking/article68000763.ece)",
+    "tags": "Judiciary, Social Issues"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following measures has India adopted to reduce its dependence on China for Rare Earth Elements (REEs)?",
+    "statements": [
+      "Amending mining laws to boost private participation",
+      "Collaborating with the US under the TRUST initiative",
+      "Importing REEs from African countries under Free Trade Agreements"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "India has amended mining laws and launched the **TRUST initiative** with the US. While REE import diversification is a goal, FTAs with African nations specifically for REEs have not been reported. [Rare Earth Elements - Wikipedia](https://en.wikipedia.org/wiki/Rare-earth_element)",
+    "tags": "Geopolitics, Economy, Environment"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the Long Period Average (LPA) of southwest monsoon rainfall in India (1971–2020)?",
+    "options": ["75 cm", "80 cm", "87 cm", "95 cm"],
+    "correct_option": "87 cm",
+    "explanation": "**LPA** is calculated over a long period and used as a reference for forecasting. The current LPA for **southwest monsoon (1971–2020)** is **87 cm**. [IMD LPA](https://mausam.imd.gov.in/imd_latest/contents/lpa_rainfall.php)",
+    "tags": "Geography, Environment"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "rt-LAMP method, recently tested for TB diagnosis, is different from RT-PCR in which of the following ways?",
+    "statements": [
+      "It is an open platform technology using six primers.",
+      "It can give positive results within 10–20 minutes.",
+      "It requires more expensive infrastructure than RT-PCR."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**rt-LAMP** uses **six primers** and works faster than RT-PCR, providing results in **10–20 minutes**. It is also more **cost-effective**, not more expensive. [LAMP - Wikipedia](https://en.wikipedia.org/wiki/Loop-mediated_isothermal_amplification)",
+    "tags": "Health, Science & Technology"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which military exercise is conducted annually between India and Uzbekistan?",
+    "options": ["Dharma Guardian", "Dustlik", "Indra", "Nomadic Elephant"],
+    "correct_option": "Dustlik",
+    "explanation": "**Exercise Dustlik** is a bilateral military exercise between **India and Uzbekistan**, conducted alternately in both countries to improve cooperation. [Exercise Dustlik - PIB](https://pib.gov.in/PressReleasePage.aspx?PRID=1808013)",
+    "tags": "Defence, International Relations"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to Surat Emission Trading Scheme (ETS), consider the following statements:",
+    "statements": [
+      "It is the world’s first market for trading in particulate matter emissions.",
+      "Industries can sell unused permits if they emit below their cap.",
+      "The trading platform is managed by SEBI."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Launched in 2019, **Surat ETS** is the **first-ever particulate matter trading scheme** in the world. It uses a **cap-and-trade model** and permits are traded on a platform run by **NeML (NCDEX e-Markets)**, not SEBI. [Emission Trading Scheme - Wikipedia](https://en.wikipedia.org/wiki/Emissions_trading)",
+    "tags": "Environment, Governance"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "What is a 'Digital Arrest'?",
+    "options": [
+      "An AI-driven facial recognition surveillance tool",
+      "A legal action where biometric data is mandatorily recorded",
+      "A cyber scam where fake law enforcement demands money or data",
+      "A blockchain-based smart warrant system"
+    ],
+    "correct_option": "A cyber scam where fake law enforcement demands money or data",
+    "explanation": "**Digital Arrest** is a cybercrime where fraudsters impersonate police or CBI via video/audio calls to **extort money or data**. It's addressed under CBI's **Operation Chakra-V**. [Digital Arrest - CERT-In](https://www.cert-in.org.in/)",
+    "tags": "Cybersecurity, Internal Security"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements about Tensor Processing Units (TPUs) are correct?",
+    "statements": [
+      "TPUs are designed specifically for deep learning and AI tasks.",
+      "They can perform parallel processing faster than traditional CPUs.",
+      "TPUs were first launched by Google in 2021."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**TPUs** are AI-optimized chips developed by Google since **2015**, excelling at **tensor operations** and **parallel processing**—unlike CPUs. The latest is the **7th-gen Ironwood**. [TPU - Wikipedia](https://en.wikipedia.org/wiki/Tensor_processing_unit)",
+    "tags": "Science & Technology, AI"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which regulatory framework is associated with the Countercyclical Capital Buffer (CCyB)?",
+    "options": ["Basel I", "Basel II", "Basel III", "Basel IV"],
+    "correct_option": "Basel III",
+    "explanation": "**CCyB** is a tool under **Basel III norms**, enabling central banks to ask banks to hold **extra capital in good times** to buffer downturns. RBI introduced it in **2015**, but hasn’t yet activated it. [Basel III - Wikipedia](https://en.wikipedia.org/wiki/Basel_III)",
+    "tags": "Economy, Banking, RBI"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the Open Acreage Licensing Policy (OALP), consider the following statements:",
+    "statements": [
+      "It is implemented under the Hydrocarbon Exploration and Licensing Policy (HELP).",
+      "It replaced the New Exploration Licensing Policy (NELP).",
+      "Blocks are allocated only by the government, based on revenue-sharing contracts."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**OALP**, introduced under **HELP in 2016**, replaced **NELP**. It enables investors to propose blocks using data from the **National Data Repository**. The blocks are not allocated solely by the government. [OALP - PIB](https://pib.gov.in/PressReleasePage.aspx?PRID=1776910)",
+    "tags": "Economy, Energy, Policy"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements are correct about Bombay Stock Exchange (BSE)?",
+    "statements": [
+      "It was established in 1875 as 'The Native Share & Stock Brokers' Association'.",
+      "It is regulated by SEBI under the SEBI Act, 1992.",
+      "It became the first listed stock exchange of India in 2020."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**BSE** is Asia’s oldest stock exchange, established in **1875**. It was listed on the NSE in **2017**, not 2020. It is regulated under the **SEBI Act, 1992**. [BSE - Wikipedia](https://en.wikipedia.org/wiki/Bombay_Stock_Exchange)",
+    "tags": "Economy, Financial Institutions"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are examples of Rare Earth Elements (REEs)?",
+    "options": [
+      "Cerium, Yttrium, Europium",
+      "Boron, Carbon, Nitrogen",
+      "Mercury, Zinc, Chromium",
+      "Sodium, Potassium, Calcium"
+    ],
+    "correct_option": "Cerium, Yttrium, Europium",
+    "explanation": "**REEs** are a set of **17 metallic elements**, critical in defense, electronics, and green tech. Examples include **Cerium, Europium, Yttrium**, Dysprosium, etc. [REEs - Wikipedia](https://en.wikipedia.org/wiki/Rare-earth_element)",
+    "tags": "Geography, Economy, Resources"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following countries has the largest reserves of Rare Earth Elements (REEs)?",
+    "options": ["India", "Russia", "Brazil", "China"],
+    "correct_option": "China",
+    "explanation": "**China** leads in REE **reserves (44 million tonnes)** and controls **85% of global supply**. India has about **6.9 MT reserves** but limited processing capacity. [REE supply chain - Wikipedia](https://en.wikipedia.org/wiki/Rare-earth_element)",
+    "tags": "Geopolitics, Resources"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary role of the National Data Repository (NDR) in OALP?",
+    "options": [
+      "Monitoring environmental compliance in oil blocks",
+      "Facilitating exploration by storing sedimentary basin data",
+      "Determining fiscal incentives for oil producers",
+      "Resolving disputes between exploration companies"
+    ],
+    "correct_option": "Facilitating exploration by storing sedimentary basin data",
+    "explanation": "**NDR** is a centralized digital platform containing **E&P (Exploration & Production) data** for India’s sedimentary basins. It supports investors in OALP. [NDR - DGH India](https://www.dghindia.gov.in/index.php/page?pageId=20&name=National_Data_Repository)",
+    "tags": "Energy, Governance"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which country is India collaborating with under the TRUST initiative to ensure secure access to Rare Earth Elements?",
+    "options": ["Russia", "Japan", "United States", "France"],
+    "correct_option": "United States",
+    "explanation": "**India and the US** launched the **TRUST initiative** in Feb 2025 under the **Minerals Security Partnership**, to enhance cooperation on REE access and tech transfer. [US-India Minerals Security Partnership](https://www.state.gov/minerals-security-partnership/)",
+    "tags": "Geopolitics, Resources"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to child trafficking in India, consider the following statements:",
+    "statements": [
+      "Article 23 of the Constitution prohibits trafficking in human beings.",
+      "The PENCIL portal is used to report and monitor child trafficking cases.",
+      "The Juvenile Justice Act, 2015 provides legal safeguards for trafficked children."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "**Article 23** of the Constitution prohibits human trafficking. **PENCIL** (Platform for Effective Enforcement for No Child Labour) ensures enforcement of related laws. The **Juvenile Justice Act, 2015** protects trafficked and vulnerable children. [Wikipedia – Human trafficking in India](https://en.wikipedia.org/wiki/Human_trafficking_in_India)",
+    "tags": "Polity, Social Issues, Governance"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the objective of the WHO Pathogen Access and Benefit-Sharing System?",
+    "options": [
+      "To develop a centralized vaccine repository",
+      "To promote genome editing of viruses",
+      "To ensure equitable access to pathogen samples and benefits arising from them",
+      "To ban research on pandemic-causing pathogens"
+    ],
+    "correct_option": "To ensure equitable access to pathogen samples and benefits arising from them",
+    "explanation": "The **WHO Pathogen Access and Benefit-Sharing (PABS)** System promotes **transparent sharing** of pathogen samples and benefits like **vaccines and diagnostics**, especially for **developing nations**. [WHO – Pandemic Agreement](https://www.who.int/initiatives/defeating-meningitis-by-2030)",
+    "tags": "Health, International Governance"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the International Health Regulations (IHR), consider the following:",
+    "statements": [
+      "They were adopted in 1969 and initially covered only six diseases.",
+      "The IHR is legally binding on all WHO member states.",
+      "They apply only to biological hazards, not chemical or radiological ones."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**IHR (2005)** initially covered six diseases in 1969, later expanded to **biological, chemical, and radiological threats**. It is legally binding on **all 194 WHO members + Liechtenstein and Holy See**. [IHR - Wikipedia](https://en.wikipedia.org/wiki/International_Health_Regulations)",
+    "tags": "Health, International Agreements"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following factors are major drivers of child trafficking in India?",
+    "statements": [
+      "Poverty and child marriages",
+      "Disaster-induced displacement",
+      "Over-regulation of small industries"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**Poverty**, **child marriage**, and **displacement from disasters** are major causes of child trafficking. Over-regulation may affect industries but isn't directly linked to trafficking. [NCRB data – Child trafficking](https://ncrb.gov.in/)",
+    "tags": "Social Issues, Vulnerable Sections"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Operation Chakra-V, launched by the CBI, primarily targets:",
+    "options": [
+      "Illegal immigration networks",
+      "Digital impersonation scams and financial frauds",
+      "Cyber terrorism by extremist groups",
+      "Cross-border drug smuggling"
+    ],
+    "correct_option": "Digital impersonation scams and financial frauds",
+    "explanation": "**Operation Chakra-V** focuses on **cybercrime networks**, especially **'digital arrests'**, involving fake law enforcement scams and international cyber frauds. [CBI press release](https://cbi.gov.in/)",
+    "tags": "Internal Security, Cybercrime"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following organizations is responsible for the Emission Trading Scheme (ETS) platform in Surat?",
+    "options": [
+      "SEBI",
+      "Central Pollution Control Board",
+      "NeML (NCDEX e-Markets Ltd.)",
+      "National Stock Exchange"
+    ],
+    "correct_option": "NeML (NCDEX e-Markets Ltd.)",
+    "explanation": "**NeML** operates the **Surat ETS** platform where industries trade emission permits under India’s first **particulate matter trading scheme**. [Surat ETS - Wikipedia](https://en.wikipedia.org/wiki/Emissions_trading)",
+    "tags": "Environment, Governance"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "India and the United States signed the TRUST initiative for cooperation in which of the following areas?",
+    "options": [
+      "5G Infrastructure Development",
+      "Climate Change Finance",
+      "Rare Earth Elements (REEs)",
+      "Vaccine Diplomacy"
+    ],
+    "correct_option": "Rare Earth Elements (REEs)",
+    "explanation": "The **TRUST initiative** was launched by **India and the US** in 2025 to improve cooperation on **REE supply chains**, expanding on the earlier **Minerals Security Partnership**. [Rare Earth - Wikipedia](https://en.wikipedia.org/wiki/Rare-earth_element)",
+    "tags": "Geopolitics, Resources"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is the correct match of military exercises and participating nations?",
+    "options": [
+      "Nomadic Elephant – India and Mongolia",
+      "Dharma Guardian – India and Russia",
+      "Indra – India and Uzbekistan",
+      "Dustlik – India and Nepal"
+    ],
+    "correct_option": "Nomadic Elephant – India and Mongolia",
+    "explanation": "**Nomadic Elephant** is a joint exercise between **India and Mongolia**, focusing on counterinsurgency and mountain warfare. [List of Indian Military Exercises](https://en.wikipedia.org/wiki/List_of_joint_military_exercises_of_India)",
+    "tags": "Defence, International Relations"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "Which country recently completed 150 years of its stock exchange, the oldest in Asia?",
+    "options": ["India", "Japan", "China", "Singapore"],
+    "correct_option": "India",
+    "explanation": "India's **Bombay Stock Exchange (BSE)** was founded in **1875** and is the **oldest stock exchange in Asia**. It celebrated its **150th year** in 2025. [BSE – Wikipedia](https://en.wikipedia.org/wiki/Bombay_Stock_Exchange)",
+    "tags": "Economy, Financial Institutions"
+  },
+  {
+    "date": "16",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the significance of superposition in quantum computing?",
+    "options": [
+      "It allows quantum computers to operate without electricity",
+      "It enables a qubit to exist in both 0 and 1 states simultaneously",
+      "It suppresses entanglement between particles",
+      "It blocks quantum tunneling"
+    ],
+    "correct_option": "It enables a qubit to exist in both 0 and 1 states simultaneously",
+    "explanation": "**Superposition** allows a **qubit** to exist in **multiple states (0 and 1)** at once, enabling **parallel computation**. This is key to the **power of quantum computing**. [Quantum Computing - Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing)",
+    "tags": "Science & Tech, Quantum Computing"
+  }
+]

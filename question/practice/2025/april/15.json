@@ -1,0 +1,410 @@
+[
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to Bonobos, consider the following statements:",
+    "statements": [
+      "They are found only in the forests of Democratic Republic of Congo (DRC).",
+      "Bonobos are known for male-dominant social structures.",
+      "They share over 98% of their DNA with humans."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "Bonobos are one of the closest relatives of humans, sharing approximately **98.7%** of DNA. They are distinct from chimpanzees in their **peaceful, female-led** social structures and are found only in **DRC forests**. Learn more: [Wikipedia – Bonobo](https://en.wikipedia.org/wiki/Bonobo)",
+    "tags": "Environment, Species Conservation, UPSC Environment"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which state recently became the first to formally implement Scheduled Caste (SC) sub-categorisation?",
+    "options": ["Andhra Pradesh", "Punjab", "Telangana", "Madhya Pradesh"],
+    "correct_option": "Telangana",
+    "explanation": "Telangana is the first state to implement **SC sub-categorisation**, following a 7-judge bench verdict in *State of Punjab vs Davinder Singh (2024)* which allowed sub-classification within SCs. It enables targeted affirmative action. [Read more](https://en.wikipedia.org/wiki/Scheduled_Castes_and_Scheduled_Tribes)",
+    "tags": "Polity, Reservation Policy, Constitution"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following about the Gandhi Sagar Wildlife Sanctuary:",
+    "statements": [
+      "It lies in the state of Rajasthan.",
+      "River Narmada flows through this sanctuary.",
+      "It is part of Khathiar-Gir dry deciduous forest type."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "correct_option": "3 only",
+    "explanation": "Gandhi Sagar Wildlife Sanctuary is in **Madhya Pradesh**, located in **Mandsaur and Nimach** districts. **River Chambal**, not Narmada, passes through it. It lies in the **Khathiar-Gir dry deciduous forest** zone. Source: [Gandhi Sagar WS - MP Tourism](https://www.mptourism.com/destination-gandhi-sagar-wildlife-sanctuary.html)",
+    "tags": "Environment, Wildlife Sanctuaries"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following diseases has prompted WHO to release its first-ever global guidelines on diagnosis and treatment?",
+    "options": ["Tuberculosis", "Meningitis", "Hepatitis", "Typhoid"],
+    "correct_option": "Meningitis",
+    "explanation": "WHO released its first-ever guidelines on **meningitis**, a serious inflammation of the brain and spinal cord membranes. The guidelines are part of the **Defeating Meningitis by 2030** initiative. [WHO Roadmap](https://www.who.int/initiatives/defeating-meningitis-by-2030)",
+    "tags": "Health, WHO Guidelines"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following statements about the Indian Plate Movement:",
+    "statements": [
+      "The Indian Plate is bordered by the Eurasian, Arabian, African, and Australian plates.",
+      "Delamination is a new theory suggesting that the Indian Plate is splitting apart.",
+      "Underplating refers to subduction of the Indian Ocean Plate beneath the Eurasian Plate."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**Delamination** is a geological process where the lower crust detaches and sinks into the mantle. It is now suggested in explaining Indian Plate tectonics. The Indian Plate indeed borders the **four major plates**, but underplating is **not subduction of the oceanic plate**. [Tectonic Plates – Wikipedia](https://en.wikipedia.org/wiki/Tectonic_plate)",
+    "tags": "Geography, Plate Tectonics"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Q-Shield, the recently launched cybersecurity platform, is developed by:",
+    "options": ["ISRO", "DRDO", "QNu Labs", "CDAC"],
+    "correct_option": "QNu Labs",
+    "explanation": "**QNu Labs**, an Indian quantum cybersecurity startup, launched **Q-Shield**, the world’s first integrated cryptography management platform supporting **hybrid, cloud, and on-premise** systems. [QNu Labs Official](https://www.qnulabs.com/)",
+    "tags": "Science & Tech, Cybersecurity"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "The Bureau of Energy Efficiency (BEE) was established under which legislation?",
+    "options": [
+      "Energy Conservation Act, 2001",
+      "Electricity Act, 2003",
+      "National Energy Act, 2005",
+      "Climate Change Mitigation Act, 2010"
+    ],
+    "correct_option": "Energy Conservation Act, 2001",
+    "explanation": "**BEE** is a statutory body under the **Energy Conservation Act, 2001** under the Ministry of Power. It sets **minimum energy performance standards** and enforces the **Standards & Labelling Programme**. [Wikipedia – BEE](https://en.wikipedia.org/wiki/Bureau_of_Energy_Efficiency)",
+    "tags": "Environment, Energy, Governance"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following about District Mineral Foundation (DMF):",
+    "statements": [
+      "DMFs are established under the Mines and Minerals (Development and Regulation) Act, 1957.",
+      "Mining lease holders contribute a percentage of royalty to DMF.",
+      "More than 70% of DMF funds must be used for infrastructure projects only."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**DMFs** are set up under the **MMDR Act, 1957** for the welfare of people affected by mining. Although they have large funds, **over 70% of it should go to welfare, not infrastructure**. [Ministry of Mines – DMF](https://mines.gov.in/DMF)",
+    "tags": "Economy, Mining Governance"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "The ESA Biomass mission will primarily help monitor:",
+    "options": [
+      "Air quality levels",
+      "Ocean salinity",
+      "Forest carbon storage",
+      "Volcanic activity"
+    ],
+    "correct_option": "Forest carbon storage",
+    "explanation": "ESA’s **Biomass mission** is launching a **P-band SAR satellite** to penetrate forest canopies and accurately measure **forest biomass and carbon storage**, crucial for tracking climate change. [ESA Biomass Mission](https://www.esa.int/Applications/Observing_the_Earth/Biomass)",
+    "tags": "Science & Tech, Climate, Space"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "BatEchoMon, recently in news, is:",
+    "options": [
+      "A space mission to detect dark matter",
+      "An AI-based bat detection system",
+      "A type of sonar used in submarines",
+      "A robotic system for wildlife patrolling"
+    ],
+    "correct_option": "An AI-based bat detection system",
+    "explanation": "**BatEchoMon** is India’s first automated system developed by **IIHS Bengaluru** that uses AI and Raspberry Pi to monitor and classify **bat echolocation calls** in real time. [Read on IIHS Website](https://iihs.co.in/)",
+    "tags": "Environment, Technology, Biodiversity"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to Chettur Sankaran Nair, consider the following statements:",
+    "statements": [
+      "He served as a permanent judge of the Madras High Court.",
+      "He was appointed to the Viceroy’s Executive Council.",
+      "He presided over the Lahore Session of Indian National Congress in 1905."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Chettur Sankaran Nair was the **youngest president of INC in 1897 (Amraoti session)**, not 1905. He was indeed a **Madras HC judge** and a member of the **Viceroy’s Executive Council**. [Wikipedia – Chettur Sankaran Nair](https://en.wikipedia.org/wiki/Chettur_Sankaran_Nair)",
+    "tags": "Modern History, Freedom Movement"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Dr. B.R. Ambedkar advocated the following means to achieve an ideal society:",
+    "statements": [
+      "Abolition of caste through constitutional reforms",
+      "Adoption of state socialism and nationalisation",
+      "Use of violence as a tool for social revolution"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Ambedkar strongly advocated **constitutional means** for restructuring society. He supported **state socialism** and **abolition of caste**, but not **violence**. Source: [Ambedkar on Annihilation of Caste](https://en.wikipedia.org/wiki/Annihilation_of_Caste)",
+    "tags": "Polity, Social Justice"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is true regarding the Open Network for Digital Commerce (ONDC)?",
+    "options": [
+      "It is a private consortium of logistics and retail firms",
+      "It is developed by NITI Aayog for e-governance",
+      "It is under DPIIT and promotes open-source digital commerce",
+      "It is a regulatory body under TRAI"
+    ],
+    "correct_option": "It is under DPIIT and promotes open-source digital commerce",
+    "explanation": "**ONDC** is a government initiative under **DPIIT** (Ministry of Commerce & Industry) aiming to democratize digital commerce via **open protocols and open-source platforms**. [ONDC Official Website](https://ondc.org/)",
+    "tags": "Economy, Digital Governance"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following recommendations from ICAR-NIAP’s ‘Indian Agriculture to 2047’ report:",
+    "statements": [
+      "Promote micro-irrigation and groundwater recharge.",
+      "Phase out electricity subsidies in agriculture.",
+      "Reduce the role of animal husbandry in agricultural GVA."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The ICAR-NIAP report recommends **efficient water use** and **phasing out unsustainable subsidies**, but supports **increased diversification**, including animal husbandry. [NIAP Report Summary](https://www.ncap.res.in/)",
+    "tags": "Agriculture, Economy"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following terms are associated with tectonic plate processes?",
+    "statements": ["Delamination", "Subduction", "Underplating"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "**Delamination** (peeling of dense crust), **subduction** (sliding beneath), and **underplating** (accumulation beneath crust) are all geological processes explaining Himalayan orogeny and Indian Plate behavior. [Plate Tectonics – Wikipedia](https://en.wikipedia.org/wiki/Plate_tectonics)",
+    "tags": "Geography, Geology"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following sectors are classified as ‘Critical Infrastructure’ in the context of cybersecurity?",
+    "statements": ["Energy", "Telecom", "Entertainment"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**Critical Infrastructure** includes sectors like **Energy, Telecom, Financial services, and Public Health**, due to their impact on national security and economic stability. Entertainment is not classified as critical. [Wikipedia – Critical infrastructure](https://en.wikipedia.org/wiki/Critical_infrastructure)",
+    "tags": "Security, Cyber Infrastructure"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Global Financial Stability Report is released by:",
+    "options": ["World Bank", "IMF", "BIS", "OECD"],
+    "correct_option": "IMF",
+    "explanation": "The **IMF** publishes the **Global Financial Stability Report (GFSR)** biannually to assess systemic risks, vulnerabilities, and policy recommendations for financial markets. [GFSR - IMF](https://www.imf.org/en/Publications/GFSR)",
+    "tags": "Economy, Reports and Indices"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are identified in the IMF report as risks arising from geopolitics?",
+    "statements": [
+      "Supply chain disruptions",
+      "Declining investor confidence",
+      "Reduction in sovereign debt"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The **IMF report** highlights **supply chain risks**, **investor sentiment drop**, and **fiscal stress** (not reduction) as major challenges during geopolitical uncertainty. [IMF GFSR](https://www.imf.org/en/Publications/GFSR)",
+    "tags": "Economy, International Reports"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes the concept of 'compositionality' observed in Bonobo communication?",
+    "options": [
+      "Innate learning of vocal patterns",
+      "Use of mimicry to build sentences",
+      "Ability to form complex meanings by combining vocal units",
+      "Hierarchical dominance through vocal aggression"
+    ],
+    "correct_option": "Ability to form complex meanings by combining vocal units",
+    "explanation": "**Compositionality** is a trait of **human language**, where meanings are derived from combining units. Bonobos show a similar pattern in vocal communication, hinting at early language evolution. [Bonobo Study – Wikipedia](https://en.wikipedia.org/wiki/Bonobo#Communication)",
+    "tags": "Biology, Zoology, Language Evolution"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements best reflects Dr. Ambedkar’s principle of fraternity?",
+    "options": [
+      "The rule of the majority is absolute.",
+      "Individual rights must override social cohesion.",
+      "Society should function as a homogenous cultural unit.",
+      "Individuals from different backgrounds should associate freely and work together."
+    ],
+    "correct_option": "Individuals from different backgrounds should associate freely and work together.",
+    "explanation": "**Fraternity**, for Dr. Ambedkar, was the **glue of democracy**, ensuring people from various communities live in **dignity, equality, and mutual respect**. It complements liberty and equality. [Ambedkar and Fraternity](https://en.wikipedia.org/wiki/B._R._Ambedkar#Philosophy)",
+    "tags": "Polity, Indian Constitution"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best defines 'Delamination' in plate tectonics?",
+    "options": [
+      "Subduction of an oceanic plate under continental plate",
+      "Sliding of tectonic plates over magma",
+      "Peeling and sinking of a plate’s lower layer into the mantle",
+      "Collision of two continental plates"
+    ],
+    "correct_option": "Peeling and sinking of a plate’s lower layer into the mantle",
+    "explanation": "**Delamination** refers to the process where the **dense lower section** of a tectonic plate **detaches and sinks** into the Earth's hot mantle. It differs from traditional subduction and is recently hypothesized in the Indian Plate’s tectonics. [Wikipedia – Delamination (geology)](https://en.wikipedia.org/wiki/Delamination_(geology))",
+    "tags": "Geography, Plate Tectonics"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following river passes through the Gandhi Sagar Wildlife Sanctuary?",
+    "options": ["Narmada", "Tapti", "Chambal", "Son"],
+    "correct_option": "Chambal",
+    "explanation": "**River Chambal** flows through the **Gandhi Sagar Wildlife Sanctuary** in Madhya Pradesh. The sanctuary also surrounds the **Gandhi Sagar Dam** backwaters. It lies in the Khathiar-Gir dry deciduous forest region. [MPTourism](https://www.mptourism.com/destination-gandhi-sagar-wildlife-sanctuary.html)",
+    "tags": "Environment, Wildlife, Geography"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following statements about meningitis:",
+    "statements": [
+      "It is caused only by bacteria and not by viruses.",
+      "It leads to inflammation of membranes surrounding brain and spinal cord.",
+      "WHO launched its first-ever guidelines for it under 'Defeating Meningitis by 2030' roadmap."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "2 and 3 only",
+    "explanation": "Meningitis is an **inflammation of membranes** (meninges) around the brain and spinal cord. It can be caused by **bacteria, viruses, fungi, or parasites**. WHO released its first global guidelines under **‘Defeating Meningitis by 2030’** roadmap. [WHO – Meningitis](https://www.who.int/initiatives/defeating-meningitis-by-2030)",
+    "tags": "Health, WHO Guidelines"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "BatEchoMon, an AI-based system, has been developed by:",
+    "options": [
+      "Wildlife Institute of India",
+      "Indian Institute of Human Settlements",
+      "National Centre for Biological Sciences",
+      "IIT Roorkee"
+    ],
+    "correct_option": "Indian Institute of Human Settlements",
+    "explanation": "**BatEchoMon** is India’s first autonomous bat monitoring system developed by **IIHS Bengaluru**. It uses **Raspberry Pi** and **AI algorithms** to identify bat calls in real-time for ecological research. [IIHS India](https://iihs.co.in/)",
+    "tags": "Science & Tech, Biodiversity"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following explains the term 'compositionality' in animal communication?",
+    "options": [
+      "Genetic inheritance of behavior patterns",
+      "Combining basic vocal units to create complex meanings",
+      "Use of repetitive signals to indicate threat",
+      "Communication based only on body language"
+    ],
+    "correct_option": "Combining basic vocal units to create complex meanings",
+    "explanation": "**Compositionality** refers to the ability to create complex messages by combining smaller meaningful units. Bonobos show signs of such communication, similar to human linguistic traits. [Wikipedia – Compositionality](https://en.wikipedia.org/wiki/Compositionality)",
+    "tags": "Zoology, Evolution, Biology"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements about Scheduled Caste (SC) sub-categorisation is/are correct?",
+    "statements": [
+      "It involves deletion or addition of castes to the Presidential list under Article 341.",
+      "The Supreme Court has ruled that sub-classification is permissible under Article 14.",
+      "Telangana is the first Indian state to implement it."
+    ],
+    "options": ["2 and 3 only", "1 and 2 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "2 and 3 only",
+    "explanation": "The **Supreme Court** in 2024 upheld SC sub-classification as a means of **substantive equality (Article 14)**. It does **not affect Presidential List** under Article 341. Telangana became the **first** state to implement it. [Sub-classification in SCs – Wikipedia](https://en.wikipedia.org/wiki/Scheduled_Castes)",
+    "tags": "Polity, Constitution, Social Justice"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "The District Mineral Foundation (DMF) funds must be primarily used for:",
+    "options": [
+      "Urban infrastructure development",
+      "District collectorate salary schemes",
+      "High priority welfare areas in mining regions",
+      "Exploration of new mineral blocks"
+    ],
+    "correct_option": "High priority welfare areas in mining regions",
+    "explanation": "**70% of DMF funds** must go to **drinking water, education, health, pollution control**, etc. Misuse for infrastructure is discouraged. Set up under **MMDR Act 1957**. [DMF – Ministry of Mines](https://mines.gov.in/DMF)",
+    "tags": "Governance, Economy, Mining"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which satellite mission is the first to use P-band Synthetic Aperture Radar (SAR)?",
+    "options": ["NASA GRACE", "ESA Biomass", "ISRO RISAT-2", "JAXA ALOS-2"],
+    "correct_option": "ESA Biomass",
+    "explanation": "**ESA's Biomass mission** uses **P-band SAR**, enabling it to measure forest carbon by penetrating canopies. It's part of climate monitoring efforts. [ESA Biomass Mission](https://www.esa.int/Applications/Observing_the_Earth/Biomass)",
+    "tags": "Space Tech, Climate, Environment"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "The Q-Shield platform launched by QNu Labs is designed to secure:",
+    "options": [
+      "Cryptocurrency transactions",
+      "Cloud computing and hybrid systems",
+      "Stock exchange databases",
+      "Satellite communications"
+    ],
+    "correct_option": "Cloud computing and hybrid systems",
+    "explanation": "**Q-Shield** is a cryptography management platform by **QNu Labs** for securing **cloud, on-premise, and hybrid infrastructures**. It enhances cybersecurity for critical systems. [QNu Labs](https://www.qnulabs.com/)",
+    "tags": "Cybersecurity, Tech, Governance"
+  },
+  {
+    "date": "15",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following sectors are considered Critical Infrastructure?",
+    "statements": ["Energy", "Finance", "Media and Entertainment"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "**Critical infrastructure** includes sectors like **energy, telecom, financial services, water, and healthcare**, whose disruption affects national security. Media and entertainment are not included. [Critical Infrastructure – Wikipedia](https://en.wikipedia.org/wiki/Critical_infrastructure)",
+    "tags": "Internal Security, Infrastructure"
+  }
+]
