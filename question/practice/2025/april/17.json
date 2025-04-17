@@ -1,0 +1,429 @@
+[
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the Supreme Court's recent directions on Anti-Defection Law, consider the following statements:",
+    "statements": [
+      "The Supreme Court empowered the Speaker to adjudicate disqualification petitions only after consulting the Election Commission.",
+      "The Court proposed the establishment of an independent tribunal to decide defection cases instead of the Speaker."
+    ],
+    "options": ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"],
+    "correct_option": "Only 2",
+    "explanation": "The Supreme Court has expressed concerns over the impartiality of Speakers in disqualification cases under the Tenth Schedule and suggested the need for an independent tribunal headed by a retired judge instead of the Speaker to decide defection matters. It did not make consultation with the Election Commission mandatory for such adjudication.",
+    "tags": "Polity, Constitution, Anti-Defection Law"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which one of the following is correct regarding India's position in the Global Unicorn Index 2024?",
+    "options": [
+      "India ranks first globally in the number of unicorns.",
+      "India has the second highest number of unicorns globally.",
+      "India is the third largest hub for unicorns.",
+      "India does not feature in the top five countries with most unicorns."
+    ],
+    "correct_option": "India is the third largest hub for unicorns.",
+    "explanation": "According to the Hurun Global Unicorn Index 2024, India ranked third globally in terms of the number of unicorns, trailing behind the US and China. This reflects India’s growing startup ecosystem and digital economy. [Read more on Hurun India’s website](https://www.hurunindia.net/news/global-unicorn-index-2024).",
+    "tags": "Economy, Startups, Reports"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "The PUSA Solar Dryer developed by ICAR-IARI helps in which of the following?",
+    "statements": [
+      "Reducing post-harvest losses",
+      "Improving drying efficiency using renewable energy",
+      "Enhancing microbial safety of dried products"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The PUSA Solar Dryer is a sustainable agricultural innovation that reduces post-harvest losses by drying perishable produce using solar energy. It ensures better drying efficiency and improves the microbial safety of the dried items. Developed by ICAR-IARI. [Source: ICAR-IARI](https://www.iari.res.in)",
+    "tags": "Agriculture, Science and Tech, Renewable Energy"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following with respect to the Global Trade Outlook report by UK’s Department for Business and Trade:",
+    "statements": [
+      "India is projected to become the world’s third-largest economy by 2035.",
+      "India is expected to be the fourth-largest importer by 2050."
+    ],
+    "options": ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"],
+    "correct_option": "Both 1 and 2",
+    "explanation": "According to the UK Department for Business and Trade, India is projected to become the 3rd largest global economy by 2035 and the 4th largest importer by 2050. This reflects India's rapid economic expansion and growing role in global trade. [More details](https://www.gov.uk/government/publications/global-trade-outlook)",
+    "tags": "Economy, International Reports"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which organization has released the 'State of the World’s Forests 2024' report?",
+    "options": [
+      "World Bank",
+      "United Nations Environment Programme (UNEP)",
+      "Food and Agriculture Organization (FAO)",
+      "World Economic Forum"
+    ],
+    "correct_option": "Food and Agriculture Organization (FAO)",
+    "explanation": "The 'State of the World's Forests 2024' report was released by the Food and Agriculture Organization (FAO), highlighting the importance of forests in climate regulation, biodiversity conservation, and sustainable development. [FAO Report](https://www.fao.org/state-of-forests)",
+    "tags": "Environment, Reports"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Operation Indravati, recently in news, is associated with:",
+    "options": [
+      "Flood relief operation in Odisha",
+      "Evacuation of Indian nationals from Haiti",
+      "Rescue mission after a landslide in Arunachal Pradesh",
+      "River linking project in Chhattisgarh"
+    ],
+    "correct_option": "Evacuation of Indian nationals from Haiti",
+    "explanation": "Operation Indravati was launched by India for the safe evacuation of its nationals from Haiti due to political turmoil and violent unrest in the region. Named after the Indravati river, it reflects India’s commitment to protect its diaspora during crises.",
+    "tags": "International Relations, Diaspora"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements is/are true regarding the proposed amendment to the Waqf Act, 1995?",
+    "statements": [
+      "The amendment removes the mandatory registration clause for Waqf properties.",
+      "It allows leasing of Waqf land for commercial purposes without prior government approval."
+    ],
+    "options": ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"],
+    "correct_option": "Only 1",
+    "explanation": "The Waqf (Amendment) Bill, 2025 proposes removing the mandatory registration requirement for Waqf properties to simplify procedures. However, it still retains the provision of requiring government approval for commercial leasing.",
+    "tags": "Polity, Governance, Minority Rights"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following sectors is expected to drive India's future import growth, as per the Global Trade Outlook?",
+    "options": [
+      "Telecommunication and food processing",
+      "Defense and infrastructure",
+      "Health and education",
+      "Green energy and technology"
+    ],
+    "correct_option": "Green energy and technology",
+    "explanation": "The Global Trade Outlook predicts India's import growth to be driven by sectors like green energy and advanced technology, aligned with sustainable development and self-reliance initiatives. [UK Department for Business and Trade](https://www.gov.uk/government/publications/global-trade-outlook)",
+    "tags": "Economy, Trade, Energy"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "The Global Unicorn Index 2024 is prepared by which of the following organizations?",
+    "options": [
+      "World Bank",
+      "Hurun Research Institute",
+      "NASSCOM",
+      "World Economic Forum"
+    ],
+    "correct_option": "Hurun Research Institute",
+    "explanation": "The Global Unicorn Index 2024 is published by the Hurun Research Institute and ranks countries by the number of unicorn startups—privately held startups valued at $1 billion or more. [Hurun India](https://www.hurunindia.net)",
+    "tags": "Economy, Reports, Startups"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Indian institution developed the PUSA Solar Dryer?",
+    "options": ["IIT Delhi", "ICAR-IARI", "CSIR-NEERI", "TERI"],
+    "correct_option": "ICAR-IARI",
+    "explanation": "The PUSA Solar Dryer is an initiative of the Indian Council of Agricultural Research - Indian Agricultural Research Institute (ICAR-IARI), which uses solar energy for drying agricultural products, enhancing sustainability. [ICAR-IARI Website](https://www.iari.res.in)",
+    "tags": "Agriculture, Renewable Energy, Science and Tech"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the Tenth Schedule of the Indian Constitution, consider the following statements:",
+    "statements": [
+      "It deals with the disqualification of MPs and MLAs on the grounds of defection.",
+      "The final authority for disqualification lies with the Election Commission of India.",
+      "It was added by the 42nd Amendment Act of 1976."
+    ],
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 only",
+    "explanation": "The Tenth Schedule was added by the 52nd Amendment Act of 1985, not the 42nd. It deals with disqualification of legislators on the grounds of defection, and the authority for deciding disqualification lies with the Speaker or Chairman, not the Election Commission. [Wikipedia – Tenth Schedule](https://en.wikipedia.org/wiki/Tenth_Schedule_to_the_Constitution_of_India)",
+    "tags": "Polity, Constitution"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best defines a Unicorn?",
+    "options": [
+      "A public sector startup with over ₹10,000 crore valuation",
+      "A startup valued at over $1 billion",
+      "A tech company listed on the stock exchange",
+      "An MSME with turnover above ₹500 crore"
+    ],
+    "correct_option": "A startup valued at over $1 billion",
+    "explanation": "A unicorn is a privately held startup company valued at over $1 billion. The term was coined in 2013 to denote the rarity of such startups. [Wikipedia – Unicorn Startup](https://en.wikipedia.org/wiki/Unicorn_(finance))",
+    "tags": "Economy, Startups"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following reports is/are published by the Food and Agriculture Organization (FAO)?",
+    "statements": [
+      "State of the World’s Forests",
+      "Global Food Policy Report",
+      "State of Food Security and Nutrition in the World"
+    ],
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "FAO publishes the 'State of the World's Forests' and the 'State of Food Security and Nutrition in the World' reports. The 'Global Food Policy Report' is published by IFPRI (International Food Policy Research Institute). [FAO Website](https://www.fao.org)",
+    "tags": "Environment, Reports, International Organizations"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary benefit of using solar dryers like PUSA Solar Dryer for farmers?",
+    "options": [
+      "Provides internet connectivity in rural areas",
+      "Reduces water requirement for crops",
+      "Helps in efficient post-harvest management",
+      "Eliminates the need for fertilizers"
+    ],
+    "correct_option": "Helps in efficient post-harvest management",
+    "explanation": "Solar dryers help farmers reduce post-harvest losses by drying perishable produce efficiently, thereby increasing shelf life and income. The PUSA Solar Dryer by ICAR-IARI is a step towards sustainable agricultural practices. [ICAR-IARI](https://www.iari.res.in)",
+    "tags": "Agriculture, Technology"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes the principle behind the Tenth Schedule?",
+    "options": [
+      "Freedom of speech of legislators",
+      "Judicial review of legislative actions",
+      "Ensuring political stability by preventing defection",
+      "Independent functioning of constitutional bodies"
+    ],
+    "correct_option": "Ensuring political stability by preventing defection",
+    "explanation": "The Tenth Schedule was introduced to curb political defections by legislators, which undermined the stability of governments and led to horse-trading. It is commonly referred to as the 'Anti-Defection Law'.",
+    "tags": "Polity, Anti-Defection Law"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which international organization forecasts that India will become the 4th largest importer by 2050?",
+    "options": [
+      "IMF",
+      "World Economic Forum",
+      "UK Department for Business and Trade",
+      "World Trade Organization"
+    ],
+    "correct_option": "UK Department for Business and Trade",
+    "explanation": "According to the Global Trade Outlook by the UK Department for Business and Trade, India is expected to emerge as the 4th largest importer by 2050 due to its expanding economy and rising domestic demand. [UK Government Report](https://www.gov.uk/government/publications/global-trade-outlook)",
+    "tags": "Economy, Trade, Reports"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following benefits of the Hurun Global Unicorn Index:",
+    "statements": [
+      "It provides insights into global startup ecosystems.",
+      "It influences foreign direct investment decisions.",
+      "It helps in ranking public sector undertakings."
+    ],
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Hurun Unicorn Index ranks private startups valued above $1 billion and provides insights into the global startup ecosystem. It also influences investors by showing hotspots for innovation. It does not cover PSUs. [Hurun India](https://www.hurunindia.net)",
+    "tags": "Economy, Startups, Reports"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Operation Indravati was launched to evacuate Indian nationals from which country?",
+    "options": ["Syria", "Haiti", "Myanmar", "Ukraine"],
+    "correct_option": "Haiti",
+    "explanation": "Amid growing political violence in Haiti, India launched Operation Indravati to safely evacuate Indian nationals stranded in the Caribbean nation. Such operations are part of India’s commitment to protect its citizens abroad. [Ministry of External Affairs](https://www.mea.gov.in)",
+    "tags": "International Relations, Diaspora"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "In the context of defection, which of the following is not a ground for disqualification under the Tenth Schedule?",
+    "options": [
+      "Voluntarily giving up membership of a political party",
+      "Voting against the party whip",
+      "Expressing views against party leadership in media",
+      "Joining another political party after being elected"
+    ],
+    "correct_option": "Expressing views against party leadership in media",
+    "explanation": "Expressing dissent or views against party leadership in public is not by itself a ground for disqualification under the Anti-Defection Law. Grounds include voluntarily giving up membership or defying the party whip. [PRS India – Anti-Defection Law](https://prsindia.org/billtrack/the-anti-defection-law-explained)",
+    "tags": "Polity, Constitution"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following sectors is least likely to be impacted directly by unicorn growth in India?",
+    "options": ["E-commerce", "FinTech", "Pharmaceuticals", "Food Delivery"],
+    "correct_option": "Pharmaceuticals",
+    "explanation": "Most unicorns in India are in sectors like e-commerce, fintech, edtech, and food delivery. Pharmaceuticals, though vital, has seen fewer unicorns compared to the tech and consumer-focused sectors. [Startup India Portal](https://www.startupindia.gov.in)",
+    "tags": "Economy, Startups"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which one of the following amendments added the Tenth Schedule to the Indian Constitution?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "52nd Amendment",
+      "61st Amendment"
+    ],
+    "correct_option": "52nd Amendment",
+    "explanation": "The Tenth Schedule, which deals with the anti-defection law, was added to the Indian Constitution by the 52nd Amendment Act in 1985. It aimed to bring stability to governments by discouraging political defections. [Wikipedia – 52nd Amendment](https://en.wikipedia.org/wiki/Fifty-second_Amendment_of_the_Constitution_of_India)",
+    "tags": "Polity, Constitution, Amendments"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is the implementing body for the PUSA Solar Dryer project?",
+    "options": [
+      "Indian Agricultural Research Institute (IARI)",
+      "Council of Scientific and Industrial Research (CSIR)",
+      "Indian Institute of Science (IISc)",
+      "Indian Meteorological Department (IMD)"
+    ],
+    "correct_option": "Indian Agricultural Research Institute (IARI)",
+    "explanation": "The PUSA Solar Dryer is a product of ICAR-IARI, aimed at providing energy-efficient and cost-effective post-harvest solutions to farmers. It utilizes solar thermal energy to dry agricultural produce sustainably. [ICAR-IARI](https://www.iari.res.in)",
+    "tags": "Agriculture, Renewable Energy, Science and Technology"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the main aim of the Global Trade Outlook published by the UK Government?",
+    "options": [
+      "To monitor global carbon emissions",
+      "To rank countries based on military expenditure",
+      "To analyze long-term trade trends and projections",
+      "To determine the best destinations for tourism"
+    ],
+    "correct_option": "To analyze long-term trade trends and projections",
+    "explanation": "The Global Trade Outlook is published by the UK Department for Business and Trade to project long-term trends in global trade, identifying future economic powers and trade dynamics. [UK Government Report](https://www.gov.uk/government/publications/global-trade-outlook)",
+    "tags": "Economy, International Reports"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following benefits of solar dryers in agriculture:",
+    "statements": [
+      "Reduction in crop losses due to spoilage",
+      "Increased farmer income through value addition",
+      "Reduced dependency on conventional fuels"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Solar dryers offer a sustainable alternative to traditional sun drying, reducing spoilage, allowing value addition (e.g., dried fruits/vegetables), and cutting down on electricity or fuel usage. The PUSA Solar Dryer is an example. [ICAR Website](https://www.icar.org.in)",
+    "tags": "Agriculture, Sustainable Development, Science and Tech"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly lists countries with the highest number of unicorns as per the Global Unicorn Index 2024?",
+    "options": [
+      "USA, China, India",
+      "India, China, USA",
+      "China, India, USA",
+      "USA, India, UK"
+    ],
+    "correct_option": "USA, China, India",
+    "explanation": "As per the Hurun Global Unicorn Index 2024, the United States leads with the highest number of unicorns, followed by China and then India. This reflects India's emerging startup ecosystem. [Hurun India](https://www.hurunindia.net)",
+    "tags": "Economy, Startups, Reports"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "The term ‘Voluntarily giving up membership’ under the Tenth Schedule means:",
+    "options": [
+      "Resigning formally in writing from the political party",
+      "Voting against party directive in the legislature",
+      "Acting against the interest of the party as determined by the Speaker",
+      "Being expelled from the party"
+    ],
+    "correct_option": "Acting against the interest of the party as determined by the Speaker",
+    "explanation": "The phrase ‘voluntarily giving up membership’ has been interpreted by courts to include actions indicating disloyalty or defection, even without formal resignation, as determined by the Speaker. [PRS India](https://prsindia.org/theprsblog/the-anti-defection-law-explained)",
+    "tags": "Polity, Constitution, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which one of the following is the core focus of the State of the World’s Forests 2024 report?",
+    "options": [
+      "Status of global warming trends",
+      "Deforestation and biodiversity loss",
+      "Urban migration and food security",
+      "Nuclear energy and climate change"
+    ],
+    "correct_option": "Deforestation and biodiversity loss",
+    "explanation": "The State of the World’s Forests 2024 by FAO primarily focuses on forest conservation, halting deforestation, biodiversity preservation, and sustainable forest management. [FAO Website](https://www.fao.org/state-of-forests)",
+    "tags": "Environment, International Reports"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Which country was the primary destination for Operation Indravati evacuation?",
+    "options": ["Nigeria", "Afghanistan", "Haiti", "Ethiopia"],
+    "correct_option": "Haiti",
+    "explanation": "Operation Indravati was carried out to evacuate Indian citizens stranded in Haiti, where the security situation deteriorated drastically. India often conducts such operations in conflict zones. [MEA India](https://mea.gov.in)",
+    "tags": "IR, Disaster Relief, Diaspora"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "Under the Anti-Defection Law, disqualification decisions are subject to:",
+    "options": [
+      "Final decision by the President",
+      "Judicial review by the High Courts and Supreme Court",
+      "Approval from Election Commission",
+      "Consultation with the Prime Minister"
+    ],
+    "correct_option": "Judicial review by the High Courts and Supreme Court",
+    "explanation": "While the Speaker decides disqualification under the Tenth Schedule, such decisions are subject to judicial review, as upheld in *Kihoto Hollohan v. Zachillhu* (1992). [Wikipedia – Anti-Defection Law](https://en.wikipedia.org/wiki/Anti-defection_Law)",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "April",
+    "year": "2025",
+    "question": "The Waqf (Amendment) Bill, 2025 primarily seeks to:",
+    "options": [
+      "Remove government control over Waqf boards",
+      "Eliminate registration requirement of Waqf properties",
+      "Dissolve the Central Waqf Council",
+      "Allow foreign investments in Waqf properties"
+    ],
+    "correct_option": "Eliminate registration requirement of Waqf properties",
+    "explanation": "The Waqf (Amendment) Bill, 2025 proposes to simplify the legal framework by removing the mandatory requirement for registering Waqf properties, aiming to streamline administration. [Press Info Bureau](https://pib.gov.in)",
+    "tags": "Polity, Governance, Minority Rights"
+  }
+]
