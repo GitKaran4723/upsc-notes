@@ -1,0 +1,429 @@
+[
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following big cats are found in India?",
+    "statements": ["Tiger", "Lion", "Jaguar", "Snow Leopard"],
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Among the 7 big cats (Tiger, Lion, Leopard, Snow Leopard, Cheetah, Jaguar, and Puma), only 5 are found in India: Tiger, Lion, Leopard, Snow Leopard, and Cheetah. Jaguar and Puma are native to the Americas.\n\nSee also: [[International Big Cat Alliance]]",
+    "tags": "Environment, Species Conservation"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following about the International Big Cat Alliance (IBCA):",
+    "statements": [
+      "It aims to conserve all 7 species of big cats globally.",
+      "The headquarters of IBCA is located in India.",
+      "India is the founding member of the alliance."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "[[International Big Cat Alliance]] was launched by India to facilitate conservation of the 7 major big cats. Its HQ is based in India and India is a founding member.",
+    "tags": "Environment, International Relations"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Quantum Key Distribution (QKD) is mainly used for which of the following?",
+    "options": [
+      "Improving wireless communication range",
+      "Fast charging of quantum batteries",
+      "Ensuring secure communication",
+      "Developing quantum sensors"
+    ],
+    "correct_option": "Ensuring secure communication",
+    "explanation": "[[Quantum Key Distribution]] (QKD) uses principles of quantum mechanics to securely distribute encryption keys. It prevents eavesdropping by detecting interception of photons.",
+    "tags": "Science and Technology, Cyber Security"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements about Multi-Core Fibre (MCF) technology are correct?",
+    "statements": [
+      "It enables multiple optical signals to travel through a single fibre.",
+      "It enhances the capacity of existing optical communication systems.",
+      "It reduces the risk of signal loss in long-distance communication."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "[[Multi-core fibre]] (MCF) allows parallel transmission of data through several cores in a single optical cable, improving bandwidth, reducing loss, and increasing speed over long distances.",
+    "tags": "Science and Technology, Communication"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "NOTTO, seen in the news recently, functions under which ministry?",
+    "options": [
+      "Ministry of Home Affairs",
+      "Ministry of Science and Technology",
+      "Ministry of Health and Family Welfare",
+      "Ministry of Ayush"
+    ],
+    "correct_option": "Ministry of Health and Family Welfare",
+    "explanation": "The [[National Organ and Tissue Transplant Organisation]] (NOTTO) operates under the Ministry of Health and Family Welfare. It oversees organ donation and transplantation in India.",
+    "tags": "Health, Governance"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Index of Industrial Production (IIP) is compiled and published by which of the following?",
+    "options": [
+      "Reserve Bank of India",
+      "Ministry of Commerce and Industry",
+      "Ministry of Statistics and Programme Implementation",
+      "NITI Aayog"
+    ],
+    "correct_option": "Ministry of Statistics and Programme Implementation",
+    "explanation": "[[Index of Industrial Production]] (IIP) is compiled by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation. It measures growth in different sectors of industry.",
+    "tags": "Economy, Statistics"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "What does Vehicle-to-Grid (V2G) technology primarily enable?",
+    "options": [
+      "Charge electric vehicles at higher speed",
+      "Enable EVs to supply power back to the grid",
+      "Reduce vehicular emissions",
+      "Enhance vehicle-to-vehicle communication"
+    ],
+    "correct_option": "Enable EVs to supply power back to the grid",
+    "explanation": "[[Vehicle-to-Grid]] (V2G) technology allows bidirectional energy flow, enabling electric vehicles to discharge stored energy back to the grid and support demand-response systems.",
+    "tags": "Science and Technology, Energy"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the purpose of Flue Gas Desulphurisation (FGD) units in thermal power plants?",
+    "options": [
+      "Improve combustion efficiency",
+      "Remove nitrogen oxides from exhaust",
+      "Reduce sulfur dioxide emissions",
+      "Increase ash content for better utilization"
+    ],
+    "correct_option": "Reduce sulfur dioxide emissions",
+    "explanation": "[[Flue-gas desulfurization]] (FGD) systems reduce SO₂ emissions from coal-based power plants, curbing air pollution and complying with environmental norms.",
+    "tags": "Environment, Pollution Control"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Dr. K. Radhakrishnan, who was recently honored, is known for his contribution to:",
+    "options": [
+      "Linguistics and Sanskrit studies",
+      "Space science and ISRO missions",
+      "Medical research and virology",
+      "Indology and ancient manuscripts"
+    ],
+    "correct_option": "Space science and ISRO missions",
+    "explanation": "[[K. Radhakrishnan]] is a former ISRO Chairman who led India's Mars Orbiter Mission (Mangalyaan) and played a key role in India's space programs.",
+    "tags": "Science and Technology, Personalities"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "K2-18 b, recently in the news, is:",
+    "options": [
+      "An exoplanet in the habitable zone",
+      "A black hole in the Milky Way",
+      "A new asteroid near Earth",
+      "A lunar crater recently explored"
+    ],
+    "correct_option": "An exoplanet in the habitable zone",
+    "explanation": "[[K2-18 b]] is an exoplanet located about 120 light-years from Earth in the habitable zone. Observations suggest it has water vapor and a hydrogen-rich atmosphere.",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the Vehicle-to-Grid (V2G) technology, consider the following statements:",
+    "statements": [
+      "It allows Electric Vehicles (EVs) to supply power back to the grid.",
+      "It requires bi-directional chargers for operation.",
+      "It enhances the integration of Renewable Energy (RE) into the grid."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "[[Vehicle-to-Grid]] technology facilitates bidirectional power flow from EVs, enhancing renewable energy storage and requiring bi-directional chargers. It also plays a key role in demand-response energy systems.",
+    "tags": "Science and Technology, Energy, Environment"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "What does the term 'G2V' refer to in the context of Electric Vehicles?",
+    "options": [
+      "Grid to Vehicle power flow",
+      "Government to Vendor scheme",
+      "Gigawatt to Voltage regulation",
+      "Green to Verified energy supply"
+    ],
+    "correct_option": "Grid to Vehicle power flow",
+    "explanation": "G2V (Grid-to-Vehicle) refers to the standard EV charging process where electricity is transferred from the grid to the vehicle. It is one component of V2G systems.",
+    "tags": "Science and Technology, EV Policy"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which institution has partnered with Kerala State Electricity Board (KSEB) to explore Vehicle-to-Grid technology?",
+    "options": ["IIT Madras", "IIT Bombay", "IIT Delhi", "IISc Bangalore"],
+    "correct_option": "IIT Bombay",
+    "explanation": "[[IIT Bombay]] and KSEB have launched a pilot project to assess Vehicle-to-Grid integration feasibility in Kerala using EVs as decentralised energy storage devices.",
+    "tags": "Science and Technology, Energy Policy"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes a bi-directional charger?",
+    "options": [
+      "A charger that allows both charging and discharging of an EV",
+      "A charger with two USB ports",
+      "A charger that converts solar to electric energy",
+      "A portable EV charger"
+    ],
+    "correct_option": "A charger that allows both charging and discharging of an EV",
+    "explanation": "Bi-directional chargers are essential for [[V2G]] systems as they allow electricity to flow from grid to vehicle (G2V) and vice versa (V2G).",
+    "tags": "Technology, EV Infrastructure"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following benefits of Vehicle-to-Grid (V2G) systems:",
+    "statements": [
+      "Helps in grid stabilization during peak demand hours.",
+      "Enhances the role of EVs in renewable energy storage.",
+      "Reduces wear and tear on vehicle batteries."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "While V2G helps in renewable integration and grid balancing, frequent charge-discharge cycles may increase battery wear rather than reduce it.",
+    "tags": "Environment, Science and Technology"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following sectors can benefit the most from Vehicle-to-Grid integration?",
+    "options": [
+      "Public transport systems",
+      "Retail business",
+      "Education sector",
+      "Mining industry"
+    ],
+    "correct_option": "Public transport systems",
+    "explanation": "EV fleets in public transportation have predictable idle hours and centralized charging depots, making them ideal for [[V2G]] adoption.",
+    "tags": "Infrastructure, Urban Development"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly defines V2G?",
+    "options": [
+      "Vehicle-to-Ground",
+      "Vehicle-to-Grid",
+      "Voltage to Grid",
+      "Vehicle to Garage"
+    ],
+    "correct_option": "Vehicle-to-Grid",
+    "explanation": "[[V2G]] stands for Vehicle-to-Grid, a system where electric vehicles supply power back to the electricity grid using bi-directional technology.",
+    "tags": "Science and Technology"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Indian policy supports V2G and EV-based energy systems?",
+    "options": [
+      "National Electric Mobility Mission",
+      "FAME India Scheme",
+      "National Smart Grid Mission",
+      "All of the above"
+    ],
+    "correct_option": "All of the above",
+    "explanation": "Policies such as [[FAME India]], [[Smart Grid Mission]], and [[National Electric Mobility Mission]] together support EV infrastructure and innovations like V2G.",
+    "tags": "Government Schemes, Energy"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is NOT a direct impact of Vehicle-to-Grid technology?",
+    "options": [
+      "Reduced use of peaking power plants",
+      "Improved energy security",
+      "Increased carbon emissions",
+      "Greater grid reliability"
+    ],
+    "correct_option": "Increased carbon emissions",
+    "explanation": "V2G enhances clean energy integration and reduces carbon footprint by balancing renewable sources, thereby **not** increasing emissions.",
+    "tags": "Environment, Energy Policy"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "What does the term 'Demand Response Market' refer to?",
+    "options": [
+      "Market reacting to fuel price hikes",
+      "Consumers adjusting electricity use based on grid demand",
+      "Fixed-price contracts for power",
+      "Subsidized power distribution zones"
+    ],
+    "correct_option": "Consumers adjusting electricity use based on grid demand",
+    "explanation": "In a [[Demand Response Market]], consumers or smart devices adjust electricity usage in real time based on supply and demand signals, optimizing grid efficiency.",
+    "tags": "Economics, Energy"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary objective of Flue Gas Desulphurisation (FGD) technology in thermal power plants?",
+    "options": [
+      "Increase the efficiency of power generation",
+      "Reduce emissions of nitrogen oxides",
+      "Reduce emissions of sulphur dioxide",
+      "Capture carbon dioxide from flue gases"
+    ],
+    "correct_option": "Reduce emissions of sulphur dioxide",
+    "explanation": "FGD is an environmental control technology used to remove sulphur dioxide (SO₂) from exhaust flue gases of fossil-fuel power plants, thereby reducing acid rain and air pollution.\n\n[[Flue-gas desulfurization]] is essential to comply with emission norms.",
+    "tags": "Environment, Pollution Control"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following gases contribute to acid rain?",
+    "statements": [
+      "Sulphur dioxide (SO₂)",
+      "Nitrogen oxides (NOₓ)",
+      "Carbon monoxide (CO)"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Acid rain is primarily caused by emissions of sulphur dioxide and nitrogen oxides, which react with water vapor in the atmosphere. Carbon monoxide is a pollutant but not a contributor to acid rain.",
+    "tags": "Environment"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Intermediate Mass Black Holes (IMBHs) differ from stellar and supermassive black holes mainly in terms of:",
+    "options": ["Mass range", "Spin rate", "Element composition", "Age"],
+    "correct_option": "Mass range",
+    "explanation": "[[Intermediate Mass Black Holes]] are believed to have masses between stellar black holes and supermassive ones. Their detection is crucial to understanding black hole evolution.\n\nThese are harder to observe due to their intermediate scale.",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the approximate mass range of Intermediate Mass Black Holes?",
+    "options": [
+      "10–100 times solar mass",
+      "100–1,00,000 times solar mass",
+      "1 million–1 billion times solar mass",
+      "Greater than 10 billion solar masses"
+    ],
+    "correct_option": "100–1,00,000 times solar mass",
+    "explanation": "IMBHs are thought to have masses between 100 and 100,000 solar masses, placing them between stellar-mass and supermassive black holes. Their discovery helps in tracing the origin of supermassive black holes.",
+    "tags": "Science and Technology, Astronomy"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "The Bose Institute was recently recognized for its contribution at CERN in which field?",
+    "options": [
+      "Particle detection electronics",
+      "Quantum cryptography",
+      "Neutrino observatories",
+      "Antimatter research"
+    ],
+    "correct_option": "Particle detection electronics",
+    "explanation": "The Bose Institute developed advanced [[trigger electronics]] for the ALICE experiment at [[CERN]], used to detect high-energy particles during heavy ion collisions.",
+    "tags": "Science and Technology, Institutions"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "ALICE experiment, where Indian institutions contribute, is part of which global facility?",
+    "options": ["LIGO", "CERN", "ISRO", "NASA"],
+    "correct_option": "CERN",
+    "explanation": "The [[ALICE experiment]] (A Large Ion Collider Experiment) is one of the major experiments at [[CERN]], focusing on quark-gluon plasma studies from heavy ion collisions.",
+    "tags": "Science and Technology, International Bodies"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following regarding Desalination Plants:",
+    "statements": [
+      "They are used to convert seawater to potable water.",
+      "Reverse Osmosis is a common method used in these plants.",
+      "They are effective in solving inland water shortages."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "[[Desalination]] plants use technologies like [[Reverse Osmosis]] to convert seawater into drinking water. They are primarily coastal solutions and not viable for most inland locations due to logistics and cost.",
+    "tags": "Environment, Technology"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following technologies are commonly used in desalination?",
+    "statements": ["Reverse Osmosis", "Thermal Distillation", "Electrolysis"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Desalination primarily uses [[Reverse Osmosis]] and [[Thermal Distillation]] methods. Electrolysis is not a method used for removing salts from seawater.",
+    "tags": "Environment, Science and Technology"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "What does FIU-IND stand for in the Indian context?",
+    "options": [
+      "Financial Institution Unit–India",
+      "Forensic Investigation Unit–India",
+      "Financial Intelligence Unit–India",
+      "Fiscal Insights and Utilization–India"
+    ],
+    "correct_option": "Financial Intelligence Unit–India",
+    "explanation": "[[FIU-IND]] is India's central national agency responsible for receiving, processing, analyzing and disseminating information relating to suspected financial transactions.",
+    "tags": "Economy, Governance"
+  },
+  {
+    "date": "18",
+    "month": "April",
+    "year": "2025",
+    "question": "Which body has recently signed an MoU with RBI to monitor suspicious transactions more effectively?",
+    "options": ["SEBI", "CBI", "FIU-IND", "NABARD"],
+    "correct_option": "FIU-IND",
+    "explanation": "FIU-IND has signed an MoU with the [[Reserve Bank of India]] to improve data-sharing and analytical cooperation in combating money laundering and financial crimes.",
+    "tags": "Economy, Governance"
+  }
+]

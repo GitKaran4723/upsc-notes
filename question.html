@@ -10,6 +10,13 @@
     crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
+    .wiki-keyword {
+      color: #1d4ed8;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+
+
     .blurred {
       filter: blur(5px);
       pointer-events: none;
@@ -51,6 +58,84 @@
     .overlay-controls {
       background: rgba(255, 255, 255, 0.95);
       backdrop-filter: blur(6px);
+    }
+
+    .wiki-keyword:hover {
+      text-decoration: none;
+      color: #2563eb;
+    }
+
+    .fade-in {
+      animation: fadeIn 0.3s ease-in;
+    }
+
+    .bottom-sheet {
+      position: fixed;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 90%;
+      max-width: 600px;
+      max-height: 70vh;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 16px 48px rgba(0, 0, 0, 0.2);
+      padding: 1.5rem;
+      overflow-y: auto;
+      display: none;
+      z-index: 999;
+      animation: fadeInUp 0.3s ease-out;
+    }
+
+    .bottom-sheet h2 {
+      margin-top: 0;
+      font-size: 1.25rem;
+    }
+
+    .bottom-sheet button {
+      background: transparent;
+      border: none;
+      font-size: 1rem;
+      color: #555;
+      cursor: pointer;
+    }
+
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.4);
+      z-index: 998;
+      display: none;
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translate(-50%, 20px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translate(-50%, 0);
+      }
+    }
+
+
+
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
   </style>
 </head>
@@ -274,10 +359,22 @@
               feedback.textContent = isCorrect ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
               feedback.className = isCorrect ? 'text-green-600 mt-4 font-medium' : 'text-red-600 mt-4 font-medium';
 
+              const explanationDiv = document.createElement('div');
+              explanationDiv.className = 'mt-4 text-sm text-gray-800 hidden';
+              card.appendChild(explanationDiv); // <-- make sure it's added to the card
+
               const explainBtn = document.createElement('button');
               explainBtn.textContent = 'View Explanation';
               explainBtn.className = 'mt-4 bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-4 py-2 rounded';
-              explainBtn.onclick = () => showModal(q.explanation);
+              explainBtn.onclick = () => {
+                explanationDiv.innerHTML = convertMarkdownWithWiki(q.explanation);
+                explanationDiv.classList.toggle('hidden');
+                if (!explanationDiv.classList.contains('hidden')) {
+                  explanationDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+              };
+
+
               card.appendChild(explainBtn);
             };
 
@@ -300,8 +397,55 @@
       }
     }
 
+    function convertMarkdownWithWiki(markdownText) {
+      const html = marked.parse(markdownText);
+      return html.replace(/\[\[(.*?)\]\]/g, (match, title) => {
+        return `<span class="wiki-keyword" onclick="showWikiContent('${title}')">${title}</span>`;
+      });
+    }
+
+
     document.addEventListener('DOMContentLoaded', loadQuestions);
   </script>
+
+  <script>
+    async function showWikiContent(title) {
+      const apiUrl = `https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&titles=${encodeURIComponent(title)}&format=json&origin=*`;
+
+      document.getElementById('wikiTitle').innerText = "Loading...";
+      document.getElementById('wikiContent').innerText = "Please wait...";
+      document.getElementById('wikiPopup').style.display = 'block';
+      document.getElementById('overlay').style.display = 'block';
+
+      try {
+        const response = await fetch(apiUrl);
+        const data = await response.json();
+        const page = Object.values(data.query.pages)[0];
+
+        document.getElementById('wikiTitle').innerText = page.title;
+        document.getElementById('wikiContent').innerText = page.extract || "No content found.";
+      } catch (err) {
+        document.getElementById('wikiTitle').innerText = "Error";
+        document.getElementById('wikiContent').innerText = "Failed to load content.";
+        console.error(err);
+      }
+    }
+
+    function closeWikiPopup() {
+      document.getElementById('wikiPopup').style.display = 'none';
+      document.getElementById('overlay').style.display = 'none';
+    }
+  </script>
+
+
+  <div id="overlay" class="overlay" onclick="closeWikiPopup()"></div>
+
+  <div id="wikiPopup" class="bottom-sheet">
+    <button onclick="closeWikiPopup()" style="float:right">&#x2715;</button>
+    <h2 id="wikiTitle"></h2>
+    <p id="wikiContent"></p>
+  </div>
+
 </body>
 
 </html>
