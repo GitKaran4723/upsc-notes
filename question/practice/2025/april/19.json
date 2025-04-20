@@ -1,0 +1,426 @@
+[
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are objectives of India's new logistics policy as mentioned under Viksit Bharat goals?",
+    "statements": [
+      "Reducing the carbon footprint of the logistics sector",
+      "Enhancing infrastructure and connectivity",
+      "Promoting intermodal transport systems"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The policy emphasizes building a green, efficient, inclusive, and scalable logistics network in line with the Viksit Bharat 2047 vision. It focuses on reducing carbon emissions, improving connectivity, and using integrated intermodal transport systems for efficiency.",
+    "tags": "Infrastructure, Environment, Economy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which country recently recognized the State of Palestine, becoming the 140th UN member to do so?",
+    "options": ["Colombia", "Venezuela", "South Africa", "Peru"],
+    "correct_option": "Colombia",
+    "explanation": "[[Colombia]] officially recognized the State of Palestine, joining the majority of UN member states supporting Palestinian statehood. This move strengthens diplomatic efforts for a two-state solution in the Middle East.",
+    "tags": "International Relations, Geography"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to logistics emissions in India, consider the following statements:",
+    "statements": [
+      "India’s logistics sector is one of the least carbon-intensive globally.",
+      "Road transport contributes over 88% of emissions from the logistics sector."
+    ],
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "correct_option": "2 only",
+    "explanation": "India's logistics sector is among the most carbon-intensive in the world. Road transport accounts for over 88% of emissions within this sector, highlighting the need for greener alternatives.",
+    "tags": "Environment, Economy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "What is Vehicle-to-Grid (V2G) technology used for?",
+    "options": [
+      "Charging electric vehicles using solar energy",
+      "Monitoring fuel emissions in real-time",
+      "Using electric vehicles to supply energy back to the grid",
+      "Storing grid energy in traditional battery systems"
+    ],
+    "correct_option": "Using electric vehicles to supply energy back to the grid",
+    "explanation": "[[Vehicle-to-Grid]] (V2G) technology enables electric vehicles (EVs) to act as mobile energy storage units by allowing power to flow both ways — from the grid to EV (charging) and from EV back to the grid (discharging) when required.",
+    "tags": "Science and Tech, Environment"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following statements about the Vehicle-to-Grid (V2G) technology:",
+    "statements": [
+      "It requires bi-directional chargers.",
+      "It can support the integration of renewable energy into the grid.",
+      "It stores grid power into hydrogen cells."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "V2G technology requires bi-directional chargers and allows EVs to support the grid by feeding power back, especially when paired with renewable sources. It does not involve hydrogen cells directly for this mechanism.",
+    "tags": "Science and Tech, Renewable Energy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "The ‘Samvidhan Sadan’ in India was formerly known as:",
+    "options": [
+      "Central Legislative Assembly",
+      "Parliament House",
+      "Constitution Hall",
+      "Council Chamber"
+    ],
+    "correct_option": "Central Legislative Assembly",
+    "explanation": "The building now called [[Samvidhan Sadan]] was earlier the Central Legislative Assembly during British India, and later became the Parliament House of independent India.",
+    "tags": "Polity, Modern History"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes 'Ekatmata Yatra'?",
+    "options": [
+      "A pilgrimage connecting major rivers of India",
+      "A symbolic journey of Constitution copies to state capitals",
+      "A cultural festival held on Republic Day",
+      "An annual yatra for national integration by Indian Army"
+    ],
+    "correct_option": "A symbolic journey of Constitution copies to state capitals",
+    "explanation": "The '[[Ekatmata Yatra]]' is a symbolic event where Constitution copies are carried from the new Parliament to all state legislative assemblies, symbolizing unity and shared democratic values.",
+    "tags": "Polity, National Events"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which ministry is responsible for the ‘National Logistics Policy’?",
+    "options": [
+      "Ministry of Commerce and Industry",
+      "Ministry of Road Transport and Highways",
+      "Ministry of Shipping",
+      "NITI Aayog"
+    ],
+    "correct_option": "Ministry of Commerce and Industry",
+    "explanation": "The [[Ministry of Commerce and Industry]] spearheads the National Logistics Policy aimed at transforming the Indian logistics ecosystem to make it technology-driven and cost-efficient.",
+    "tags": "Economy, Infrastructure"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following technologies are essential for implementing Vehicle-to-Grid (V2G) in India?",
+    "statements": [
+      "Smart grid infrastructure",
+      "Bi-directional EV chargers",
+      "Large-scale solar parks"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "V2G depends on smart grids and bi-directional chargers to enable efficient energy exchange. While solar parks aid renewable integration, they are not essential for V2G’s core operation.",
+    "tags": "Science and Tech, Energy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which body is assisting Kerala State Electricity Board (KSEB) in the Vehicle-to-Grid pilot project?",
+    "options": ["IIT Madras", "IIT Bombay", "IIT Delhi", "IISc Bangalore"],
+    "correct_option": "IIT Bombay",
+    "explanation": "[[IIT Bombay]] is collaborating with the Kerala State Electricity Board (KSEB) to pilot the Vehicle-to-Grid project, assessing how electric vehicles can feed energy back into the power grid.",
+    "tags": "Science and Tech, Institutions"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the significance of the 'Constitutional Mandate Yatra' launched from the new Parliament building?",
+    "options": [
+      "It is a public awareness drive about voting rights.",
+      "It marks the movement of the Constitution to the Supreme Court.",
+      "It symbolizes dissemination of constitutional values to states.",
+      "It is a ritualistic event before general elections."
+    ],
+    "correct_option": "It symbolizes dissemination of constitutional values to states.",
+    "explanation": "The 'Constitutional Mandate Yatra' involves sending copies of the Constitution from the new Parliament to each state's legislature, symbolizing national unity and federal respect for constitutional values.",
+    "tags": "Polity, National Events"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following about India’s logistics sector:",
+    "statements": [
+      "It contributes over 13% to India’s total greenhouse gas emissions.",
+      "India aims to transform it into a net-zero carbon emitter by 2070.",
+      "Fuel and warehousing are major sources of logistics-related emissions."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s logistics sector is one of the most carbon-intensive globally, contributing over 13% to GHG emissions. As India targets net-zero by 2070, reducing fuel and warehousing emissions is essential.",
+    "tags": "Environment, Economy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a key enabler for India's green logistics vision?",
+    "options": [
+      "Privatization of railways",
+      "Adoption of multimodal logistics parks",
+      "Increasing petrol subsidies",
+      "Exclusive road-based freight corridors"
+    ],
+    "correct_option": "Adoption of multimodal logistics parks",
+    "explanation": "[[Multimodal logistics parks]] are vital to integrate various modes of transport, reducing carbon emissions and enhancing efficiency in freight movement, thus supporting India’s green logistics mission.",
+    "tags": "Infrastructure, Environment"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements is/are correct regarding ‘Net-Zero Logistics’?",
+    "statements": [
+      "It involves using low-emission fuels and renewable energy in logistics operations.",
+      "It aims to completely eliminate greenhouse gas emissions from transport and supply chains.",
+      "Carbon offsetting is a component of achieving net-zero logistics."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Net-zero logistics includes switching to renewable sources, lowering emissions, and using carbon offsets. Complete elimination is the goal, although practically it includes balancing emissions through offsetting.",
+    "tags": "Environment, Climate Change"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which one of the following statements best describes the term 'Carbon cost of mobility'?",
+    "options": [
+      "It refers to taxes imposed on carbon-emitting vehicles.",
+      "It refers to the total emissions caused by transportation activities.",
+      "It is the price of converting electric vehicles to diesel.",
+      "It is a type of carbon credit trading mechanism."
+    ],
+    "correct_option": "It refers to the total emissions caused by transportation activities.",
+    "explanation": "The 'Carbon cost of mobility' captures the cumulative greenhouse gas emissions from all modes of transport, with road transport being the dominant contributor in India.",
+    "tags": "Environment, Transport"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following cities is associated with the launch of the 'Samvidhan Sadan' Constitution yatra?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Bhopal"],
+    "correct_option": "Delhi",
+    "explanation": "The event began at the new Parliament building in [[New Delhi]], where Constitution copies were dispatched to state capitals as part of the symbolic yatra.",
+    "tags": "Polity, Government Schemes"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "What role do Electric Vehicles (EVs) play in Vehicle-to-Grid (V2G) systems?",
+    "options": [
+      "They act as mobile charging stations for rural areas.",
+      "They supply backup power to other vehicles.",
+      "They function as distributed energy storage units.",
+      "They are used for battery recycling programs."
+    ],
+    "correct_option": "They function as distributed energy storage units.",
+    "explanation": "EVs serve as decentralized power storage units in V2G systems, allowing energy to flow back into the grid when needed, thereby stabilizing energy demand and supporting renewables.",
+    "tags": "Science and Tech, Energy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are environmental benefits of integrating EVs into the power grid via V2G?",
+    "statements": [
+      "Reduction in peak electricity demand",
+      "Increased storage capacity for renewable energy",
+      "Minimization of fossil fuel dependence"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "V2G integration reduces peak demand by feeding energy from EVs into the grid, supports storage of renewables like solar, and decreases reliance on fossil fuels for electricity.",
+    "tags": "Environment, Energy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Why is road transport a key focus for India’s green logistics transition?",
+    "options": [
+      "It has the least infrastructure support.",
+      "It is the most affordable and clean mode of transport.",
+      "It accounts for the largest share of logistics emissions.",
+      "It is managed entirely by private firms."
+    ],
+    "correct_option": "It accounts for the largest share of logistics emissions.",
+    "explanation": "Road transport contributes over 88% of emissions in India’s logistics sector, making it critical to any strategy aimed at reducing the overall carbon footprint of logistics.",
+    "tags": "Transport, Environment"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes the primary aim of the 'Ekatmata Yatra' launched from Parliament?",
+    "options": [
+      "Encouraging local governance reforms",
+      "Spreading awareness about national digital health mission",
+      "Carrying Constitution copies to state capitals symbolizing unity",
+      "Celebrating India's 100 years of independence"
+    ],
+    "correct_option": "Carrying Constitution copies to state capitals symbolizing unity",
+    "explanation": "The '[[Ekatmata Yatra]]' is a symbolic initiative under which Constitution copies are sent from Parliament to state assemblies, emphasizing unity and the federal spirit of the Constitution.",
+    "tags": "Polity, National Integration"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following about India’s target of Net Zero emissions:",
+    "statements": [
+      "India aims to achieve Net Zero carbon emissions by 2070.",
+      "The logistics sector must undergo green transformation to contribute to this goal.",
+      "Renewable energy integration in logistics will help in achieving this target."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India has set a target of achieving Net Zero emissions by 2070. The logistics sector, being a major polluter, must transition to greener practices, including integration of renewable energy, to support this national goal.",
+    "tags": "Environment, Climate Change"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which institution is involved in the V2G pilot with Kerala State Electricity Board?",
+    "options": ["IIT Kanpur", "IIT Bombay", "IIT Hyderabad", "IIT Guwahati"],
+    "correct_option": "IIT Bombay",
+    "explanation": "The Kerala State Electricity Board (KSEB) has partnered with [[IIT Bombay]] to assess the implementation of Vehicle-to-Grid (V2G) technology, a significant step toward smart grid and renewable energy integration.",
+    "tags": "Science and Tech, Energy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best defines the term 'Smart Grid'?",
+    "options": [
+      "A power grid based only on solar and wind energy",
+      "A grid that uses digital technology for efficient electricity management",
+      "A private energy network within an apartment complex",
+      "An energy network supported entirely by EVs"
+    ],
+    "correct_option": "A grid that uses digital technology for efficient electricity management",
+    "explanation": "A [[Smart Grid]] integrates digital communication and advanced metering infrastructure to optimize generation, distribution, and usage of electricity in real-time, increasing efficiency and sustainability.",
+    "tags": "Science and Tech, Infrastructure"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "In the context of V2G, what is a bi-directional charger?",
+    "options": [
+      "A device that can only charge EVs quickly",
+      "A charger that allows electricity flow both to and from EVs",
+      "A charger used for both two-wheelers and four-wheelers",
+      "A portable charger for electric buses"
+    ],
+    "correct_option": "A charger that allows electricity flow both to and from EVs",
+    "explanation": "A [[bi-directional charger]] is essential for V2G systems, enabling electric vehicles to receive electricity from the grid (charging) and also feed energy back to the grid (discharging).",
+    "tags": "Science and Tech, Energy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are components of a sustainable logistics ecosystem?",
+    "statements": [
+      "Efficient last-mile connectivity",
+      "Modal shift from road to rail and inland waterways",
+      "Use of fossil fuels exclusively for freight"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Sustainable logistics focuses on multimodal transport like rail and waterways, and efficient last-mile delivery. Fossil fuels are being replaced by greener alternatives, not promoted.",
+    "tags": "Infrastructure, Environment"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Indian city hosted the symbolic flag-off of the 'Constitution Copies Yatra'?",
+    "options": ["Mumbai", "Bangalore", "Delhi", "Chennai"],
+    "correct_option": "Delhi",
+    "explanation": "The symbolic yatra of Constitution copies to all state legislatures began from [[Delhi]], the seat of the Indian Parliament, reinforcing democratic unity and constitutional awareness.",
+    "tags": "Polity, National Events"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are possible benefits of Vehicle-to-Grid technology?",
+    "statements": [
+      "Improved grid stability during peak demand",
+      "Enhanced usage of renewable energy",
+      "Increase in fossil fuel dependence"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "V2G supports peak load management and enables the grid to utilize stored energy from EVs, promoting the use of renewables. It reduces, not increases, fossil fuel dependence.",
+    "tags": "Science and Tech, Environment"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which among the following is NOT a benefit of adopting green logistics?",
+    "options": [
+      "Reduced transportation emissions",
+      "Higher energy efficiency",
+      "Increased carbon intensity",
+      "Better intermodal connectivity"
+    ],
+    "correct_option": "Increased carbon intensity",
+    "explanation": "Green logistics aims to reduce emissions and energy usage. Increased carbon intensity would contradict its goals, making it not a benefit but a drawback.",
+    "tags": "Environment, Transport"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following phrases is associated with India’s long-term economic and infrastructural development vision?",
+    "options": [
+      "Digital Bharat Mission",
+      "Inclusive Logistics Movement",
+      "Viksit Bharat 2047",
+      "Atmanirbhar Infrastructure Policy"
+    ],
+    "correct_option": "Viksit Bharat 2047",
+    "explanation": "[[Viksit Bharat 2047]] is a vision document and policy direction aiming to transform India into a developed nation by 2047 through inclusive growth, infrastructure expansion, and sustainability.",
+    "tags": "Government Schemes, Economy"
+  },
+  {
+    "date": "19",
+    "month": "April",
+    "year": "2025",
+    "question": "In the context of India’s logistics emissions, which mode of freight transport is preferred for lower emissions?",
+    "options": [
+      "Road transport",
+      "Air cargo",
+      "Railways and Inland waterways",
+      "Motorcycles and three-wheelers"
+    ],
+    "correct_option": "Railways and Inland waterways",
+    "explanation": "[[Railways]] and [[inland waterways]] are significantly more energy-efficient and have lower carbon emissions compared to road and air freight, making them ideal for green logistics planning.",
+    "tags": "Environment, Infrastructure"
+  }
+]
