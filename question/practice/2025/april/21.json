@@ -1,0 +1,518 @@
+[
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following are key features of a [[Fast Breeder Reactor]]?",
+      "statements": [
+        "It uses plutonium-based fuel and produces more fissile material than it consumes.",
+        "It uses liquid sodium as coolant.",
+        "It is designed to work with thorium in the first stage of India’s nuclear power programme."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "**[[Fast Breeder Reactors]]** are advanced nuclear reactors that generate more fissile material than they consume. They typically use **plutonium-239** as fuel and **liquid sodium** as a coolant. These reactors are part of **Stage 2** of India's nuclear programme. Thorium is introduced in **Stage 3**, not Stage 1, making Statement 3 incorrect.",
+      "tags": "Science and Technology, Nuclear Energy"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which stage of [[India's three-stage nuclear power programme]] involves the use of thorium?",
+      "options": [
+        "Stage 1",
+        "Stage 2",
+        "Stage 3",
+        "All three stages"
+      ],
+      "correct_option": "Stage 3",
+      "explanation": "India’s nuclear programme envisions the use of **[[thorium]]** in **Stage 3**, leveraging its abundance in India. The first stage uses **natural uranium** in PHWRs, the second stage uses **plutonium-based fast breeder reactors**, and the third uses thorium to breed **U-233**. Thus, thorium is key to India’s long-term nuclear sustainability goals.",
+      "tags": "Science and Technology, Indian Nuclear Programme"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Consider the following effects of climate-induced [[Pole shift]]:",
+      "statements": [
+        "It can impact satellite navigation systems.",
+        "It can lead to longer days due to changes in Earth's rotation.",
+        "It can affect rainfall patterns across continents."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "**[[Pole shift]]**, influenced by climate change and melting polar ice, causes redistribution of Earth’s mass. This impacts **Earth's rotation**, slightly increasing day length, and affects **satellite navigation systems** by shifting the axis. However, it doesn’t directly affect global rainfall patterns.",
+      "tags": "Environment, Geography"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following is true about [[Project Cheetah]]?",
+      "statements": [
+        "It aims to reintroduce cheetahs in India after their extinction.",
+        "It is implemented by National Tiger Conservation Authority (NTCA).",
+        "Only Asiatic cheetahs are being relocated to India under the project."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "**[[Project Cheetah]]** was launched to reintroduce cheetahs (extinct in India since 1952). African cheetahs were relocated from Namibia and South Africa, not Asiatic cheetahs (now only found in Iran). The project is overseen by the **National Tiger Conservation Authority (NTCA)**.",
+      "tags": "Environment, Conservation"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following Genetically Modified (GM) crops is currently approved for commercial cultivation in India?",
+      "options": [
+        "GM Mustard",
+        "Bt Cotton",
+        "Golden Rice",
+        "GM Brinjal"
+      ],
+      "correct_option": "Bt Cotton",
+      "explanation": "**[[Bt cotton]]** is the only GM crop approved for commercial cultivation in India. While **GM Mustard** has received regulatory clearance, it is yet to be widely cultivated. Other GM crops like **Golden Rice** and GM Brinjal remain under trial or legal scrutiny.",
+      "tags": "Biotechnology, Agriculture"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "With reference to [[UNESCO Global Geoparks]], consider the following statements:",
+      "statements": [
+        "They are reassessed every 10 years for their status.",
+        "India currently has one UNESCO Global Geopark.",
+        "They must be a member of the Global Geoparks Network (GGN)."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "3 only"
+      ],
+      "correct_option": "3 only",
+      "explanation": "**[[UNESCO Global Geoparks]]** are designated areas promoting Earth heritage, sustainable development, and local culture. They are reassessed every **4 years**, not 10. India has **no** designated geopark yet. Membership in the **[[Global Geoparks Network]]** is essential for official recognition.",
+      "tags": "Environment, International Bodies"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "The [[BrahMos]] missile system is known for which of the following features?",
+      "statements": [
+        "Supersonic speed throughout the entire flight.",
+        "Capability of being launched from land, sea, and air platforms.",
+        "Pin-point accuracy and fire-and-forget capability."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "**[[BrahMos]]** is a joint venture between India and Russia and is the world’s fastest supersonic cruise missile. It travels at Mach 2.8–3.0 and can be launched from land, sea, sub-sea and air platforms. Its **fire-and-forget capability** and high precision make it a key part of India's strategic deterrent.",
+      "tags": "Defence, Missile Technology"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "The [[Aryabhata (satellite)]] was launched in which year?",
+      "options": [
+        "1972",
+        "1975",
+        "1980",
+        "1984"
+      ],
+      "correct_option": "1975",
+      "explanation": "**[[Aryabhata]]**, India’s first satellite, was launched by the Soviet Union on **19 April 1975**. It was a landmark moment in India’s space journey, marking the beginning of ISRO’s satellite development era. It was named after the famous ancient Indian mathematician and astronomer.",
+      "tags": "Science and Technology, ISRO"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "What is the significance of the Arts College building at [[Osmania University]]?",
+      "options": [
+        "It is India’s first college building to be declared a national heritage site.",
+        "It has received a trademark for its architectural design.",
+        "It houses India’s largest Urdu literature archive.",
+        "It is the oldest building under Nizam rule."
+      ],
+      "correct_option": "It has received a trademark for its architectural design.",
+      "explanation": "The Arts College building of **[[Osmania University]]** in Hyderabad is a rare example of **Indo-Saracenic architecture**. It is among the few educational structures in India to be granted a **trademark** for its unique architectural identity, ensuring protection against unauthorized imitation or usage.",
+      "tags": "Art and Culture, Intellectual Property"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "The [[Scarborough Shoal]], often seen in the news, is located in which maritime region?",
+      "options": [
+        "Bay of Bengal",
+        "Arabian Sea",
+        "South China Sea",
+        "East China Sea"
+      ],
+      "correct_option": "South China Sea",
+      "explanation": "The **[[Scarborough Shoal]]** is a group of rocks and reefs in the **South China Sea**, a highly contested maritime region. It is claimed by both **China and the Philippines**, and frequently features in geopolitical tensions due to its strategic location and rich marine resources.",
+      "tags": "International Relations, Geography"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following best describes the [[CROP (Comprehensive Remote Sensing Observation on Crop Progress)]] framework?",
+      "statements": [
+        "It is a scalable system developed by ISRO for real-time monitoring of crop progress.",
+        "It relies on both Optical and Synthetic Aperture Radar (SAR) datasets.",
+        "It was designed for estimating agricultural imports in India."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "**[[CROP (Comprehensive Remote Sensing Observation on Crop Progress)]]** is a framework by ISRO’s NRSC that enables monitoring of sowing, harvesting, and crop condition using satellite data. It combines **optical** and **SAR imagery** for effective assessment. It is meant for domestic crop tracking, not for estimating agricultural imports.",
+      "tags": "Science and Technology, Agriculture"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Consider the objectives of the [[EVolutionS]] programme launched recently:",
+      "statements": [
+        "To support early-stage startups focused on electric vehicles (EVs).",
+        "To boost employment in the fossil fuel refining industry.",
+        "To enhance India's EV innovation ecosystem."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 3 only",
+      "explanation": "**[[EVolutionS]]** is a new support programme launched by the Department of Science and Technology to fund **early-stage electric vehicle startups**. Its goal is to strengthen India’s **EV innovation ecosystem**, not to support fossil fuel industries. It focuses on R&D, technology incubation, and green mobility.",
+      "tags": "Science and Technology, Economy"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "The term 'Trade settlement in INR' recently appeared in the news. What does it imply?",
+      "options": [
+        "It refers to all foreign trades being settled through Indian rupee only within the domestic market.",
+        "It allows international trade transactions to be settled in Indian rupees rather than foreign currency.",
+        "It is a regulation restricting exports to countries outside South Asia.",
+        "It is a system of settling agricultural subsidies via digital rupee."
+      ],
+      "correct_option": "It allows international trade transactions to be settled in Indian rupees rather than foreign currency.",
+      "explanation": "**Trade settlement in INR** is a policy initiative to encourage trading partners to settle **international trade payments using the Indian Rupee**. It reduces dependency on US Dollar/Euro and promotes currency stability and strategic autonomy in foreign trade transactions.",
+      "tags": "Economy, International Trade"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following statements are correct regarding [[Kokborok]] language?",
+      "statements": [
+        "It is a Tibeto-Burman language spoken in Tripura.",
+        "It is already included in the 8th Schedule of the Indian Constitution.",
+        "There is an ongoing demand for its inclusion in the 8th Schedule."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 3 only",
+      "explanation": "**[[Kokborok]]** is a language native to Tripura and belongs to the **Tibeto-Burman family**. It is **not yet included** in the 8th Schedule, but there is significant demand for its constitutional recognition to promote local identity and preserve indigenous culture.",
+      "tags": "Polity, Culture"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following statements correctly describes the [[South China Sea]] dispute?",
+      "statements": [
+        "It involves overlapping territorial claims by several countries including China and the Philippines.",
+        "The Scarborough Shoal is one of the disputed territories in this region.",
+        "It is governed solely under the UNCLOS agreement with no geopolitical contestations."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "The **[[South China Sea dispute]]** features overlapping claims by nations like **China, the Philippines, Vietnam, and Malaysia**. **Scarborough Shoal** is one such disputed feature. While **UNCLOS** (United Nations Convention on the Law of the Sea) applies, enforcement remains complex due to **geopolitical tensions** and non-compliance by some states.",
+      "tags": "International Relations, Geography"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following best describes the function of a [[trademark]]?",
+      "options": [
+        "It grants exclusive rights to make and sell an invention.",
+        "It offers copyright protection for literary works.",
+        "It legally protects logos, symbols, or words representing a brand.",
+        "It allows for exclusive publication of original artistic expressions."
+      ],
+      "correct_option": "It legally protects logos, symbols, or words representing a brand.",
+      "explanation": "A **[[trademark]]** is a legal tool used to **protect brand identity**, such as **logos, slogans, symbols**, and even unique designs. It distinguishes the goods or services of one entity from another. It is different from patents (for inventions) and copyrights (for literary/artistic works).",
+      "tags": "Polity, Intellectual Property"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following cities hosted the recent BRICS Agriculture Ministers Meeting?",
+      "options": [
+        "New Delhi",
+        "Brasília",
+        "Shanghai",
+        "Pretoria"
+      ],
+      "correct_option": "Brasília",
+      "explanation": "The **BRICS Agriculture Ministers Meeting** was recently held in **[[Brasília]]**, the capital of **Brazil**. Such meetings focus on cooperation in food security, technology exchange, and sustainable agriculture practices among BRICS nations.",
+      "tags": "International Relations, Agriculture"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "The recent reallocation of cheetahs under Project Cheetah was necessitated due to:",
+      "options": [
+        "Increased prey base in Kuno National Park",
+        "Lack of funding for wildlife reintroduction",
+        "Overcrowding and injuries among cheetahs",
+        "A change in central government policy"
+      ],
+      "correct_option": "Overcrowding and injuries among cheetahs",
+      "explanation": "The **cheetah reallocation** under **[[Project Cheetah]]** is being done primarily due to **space constraints and injuries** observed in Kuno National Park. Some cheetahs are being moved to other locations like **Gandhi Sagar Wildlife Sanctuary** for better habitat distribution and management.",
+      "tags": "Environment, Conservation"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following correctly identifies the use of Synthetic Aperture Radar (SAR) in agriculture?",
+      "options": [
+        "Used to track soil nutrient quality in the lab.",
+        "Used to monitor crop progress under cloudy weather conditions.",
+        "Helps in measuring chlorophyll levels directly.",
+        "Used for pesticide diffusion analysis."
+      ],
+      "correct_option": "Used to monitor crop progress under cloudy weather conditions.",
+      "explanation": "**[[Synthetic Aperture Radar (SAR)]]** can **penetrate clouds and operate day and night**, making it invaluable for agricultural remote sensing, especially during **monsoon or cloudy seasons**. It helps in assessing crop area, condition, and harvesting patterns effectively.",
+      "tags": "Science and Technology, Agriculture"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following best defines 'fire-and-forget' technology in modern missiles?",
+      "options": [
+        "Missiles that require constant manual guidance",
+        "Missiles that lock onto a target before launch and need no further input",
+        "Missiles that carry out reconnaissance before impact",
+        "Missiles that detonate in proximity to the target only"
+      ],
+      "correct_option": "Missiles that lock onto a target before launch and need no further input",
+      "explanation": "**Fire-and-forget** refers to missile systems like the **[[BrahMos]]**, which **lock onto their targets before launch** and do not require further tracking or external guidance post-launch. This enhances speed and efficiency in dynamic combat situations.",
+      "tags": "Defence, Missile Technology"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following best describes the [[Desert Flag exercise]]?",
+      "statements": [
+        "It is a multilateral air exercise hosted by the United Arab Emirates.",
+        "India participated in the exercise with its Sukhoi-30 MKI aircraft.",
+        "The exercise exclusively includes only BRICS member nations."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "**[[Desert Flag]]** is a multinational air combat exercise hosted by the **UAE Air Force**. India has been participating regularly with aircraft such as the **Sukhoi-30 MKI**. The exercise includes countries beyond BRICS, such as France, the US, and South Korea, making Statement 3 incorrect.",
+      "tags": "Defence, International Relations"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "India’s new renewable energy target aims to reach how much non-fossil energy capacity by 2030?",
+      "options": [
+        "300 GW",
+        "400 GW",
+        "500 GW",
+        "600 GW"
+      ],
+      "correct_option": "500 GW",
+      "explanation": "India has committed to achieving **500 GW of non-fossil fuel energy capacity** by 2030, aligning with its NDCs under the **[[Paris Agreement]]**. This includes solar, wind, hydropower, and nuclear energy contributions and is crucial to achieving net zero by 2070.",
+      "tags": "Environment, Renewable Energy"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following best describes the term 'Ethanol Blended Petrol (EBP)'?",
+      "options": [
+        "Petrol blended with bio-diesel for enhanced mileage",
+        "Petrol mixed with ethanol to reduce carbon emissions",
+        "High-octane petrol used in military aviation",
+        "Petrol that is chemically enriched with lithium ions"
+      ],
+      "correct_option": "Petrol mixed with ethanol to reduce carbon emissions",
+      "explanation": "**[[Ethanol Blended Petrol]]** involves blending ethanol (usually from sugarcane or grains) with petrol to reduce **fossil fuel dependency** and **carbon emissions**. India aims to achieve 20% blending by 2025 under its Ethanol Blending Programme (EBP).",
+      "tags": "Environment, Economy"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Consider the following with respect to India’s edible oil security strategy:",
+      "statements": [
+        "India is among the largest importers of edible oils globally.",
+        "National Mission on Edible Oils – Oil Palm (NMEO-OP) is a recent initiative to reduce import dependency.",
+        "GM mustard has been commercially cultivated across all states to boost oilseed output."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "India imports more than **60% of its edible oil** needs. The **[[NMEO-OP]]** was launched to promote domestic oil palm cultivation. While **GM mustard** has been approved, it hasn’t been widely cultivated yet, making Statement 3 incorrect.",
+      "tags": "Agriculture, Economy"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following countries does NOT have a claim over Scarborough Shoal?",
+      "options": [
+        "Philippines",
+        "China",
+        "Vietnam",
+        "Taiwan"
+      ],
+      "correct_option": "Vietnam",
+      "explanation": "**[[Scarborough Shoal]]** is claimed by **China, the Philippines, and Taiwan**. It is not claimed by **Vietnam**, whose disputes are mostly centered around the **Spratly** and **Paracel Islands** in the **South China Sea**.",
+      "tags": "International Relations, Geography"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following are key goals of India's Climate Smart Agriculture (CSA)?",
+      "statements": [
+        "Improving productivity and income in a changing climate.",
+        "Enhancing resilience to extreme weather events.",
+        "Achieving net-zero emissions from agriculture by 2025."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "**Climate Smart Agriculture (CSA)** seeks to ensure **food security**, improve **resilience**, and **reduce emissions** from agriculture. However, achieving **net-zero by 2025** is unrealistic for agriculture due to current limitations, so Statement 3 is incorrect.",
+      "tags": "Agriculture, Environment"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "What does the term ‘SAR’ stand for in remote sensing technologies?",
+      "options": [
+        "Surface Area Radiation",
+        "Synthetic Aperture Radar",
+        "Solar Aerial Reconnaissance",
+        "Static Atmospheric Radiation"
+      ],
+      "correct_option": "Synthetic Aperture Radar",
+      "explanation": "**[[Synthetic Aperture Radar (SAR)]]** is a form of radar used to create detailed images of landscapes. It functions effectively in **cloudy or nighttime conditions**, making it highly valuable for **agriculture, disaster management**, and military surveillance.",
+      "tags": "Science and Technology, Remote Sensing"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following is a key distinguishing feature of a cruise missile like [[BrahMos]]?",
+      "options": [
+        "It follows a ballistic path after launch.",
+        "It can hover over targets before striking.",
+        "It flies at low altitudes throughout its flight path.",
+        "It is designed only for anti-satellite warfare."
+      ],
+      "correct_option": "It flies at low altitudes throughout its flight path.",
+      "explanation": "**Cruise missiles** like the **[[BrahMos]]** fly at **low altitudes**, using terrain-hugging capabilities to evade radar detection. This is different from **ballistic missiles**, which follow a high-arc trajectory and re-enter Earth’s atmosphere at high speeds.",
+      "tags": "Defence, Missile Technology"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following best describes the goal of the National Green Hydrogen Mission?",
+      "options": [
+        "Replace all coal usage in power plants by 2027.",
+        "Develop India's capacity as a global hub for production and export of green hydrogen.",
+        "Promote the production of grey hydrogen using natural gas.",
+        "Mandate green hydrogen use in two-wheeler vehicles by 2026."
+      ],
+      "correct_option": "Develop India's capacity as a global hub for production and export of green hydrogen.",
+      "explanation": "India’s **[[National Green Hydrogen Mission]]** aims to scale up the production and export of **green hydrogen**, which is produced using **renewable energy** without carbon emissions. It aligns with India's net-zero target and energy independence goals.",
+      "tags": "Environment, Renewable Energy"
+    },
+    {
+      "date": "21",
+      "month": "April",
+      "year": "2025",
+      "question": "Which of the following areas are covered under India's National Mission for Edible Oils–Oil Palm (NMEO-OP)?",
+      "statements": [
+        "Enhancing domestic oil palm production",
+        "Supporting farmers with inputs and processing infrastructure",
+        "Encouraging export of palm oil over domestic consumption"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "**[[NMEO-OP]]** is focused on reducing India's edible oil import bill by enhancing **domestic oil palm production** and providing support to farmers in terms of planting material, technical training, and processing infrastructure. Export is not a key focus.",
+      "tags": "Agriculture, Economy"
+    }
+  ]
+  
