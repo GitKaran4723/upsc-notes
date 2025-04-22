@@ -1,0 +1,432 @@
+[
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to Direct Benefit Transfer (DBT), consider the following statements:",
+    "statements": [
+      "DBT was initiated in 2013 to reform government delivery mechanisms.",
+      "Aadhaar is mandatory for all DBT schemes.",
+      "The JAM Trinity is a key enabler of the DBT system."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "DBT was launched in 2013 to improve welfare delivery by eliminating duplication and reducing leakages. Though [[Aadhaar]] is preferred, it is not mandatory for all DBT([[Direct Benefit Transfer]]) schemes. The JAM trinity — Jan Dhan ([[Pradhan Mantri Jan Dhan Yojana]]) accounts, Aadhaar, and Mobile — is the technological backbone of DBT initiatives.",
+    "tags": "Governance, Welfare Schemes"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "What does the Welfare Efficiency Index (WEI) primarily measure?",
+    "options": [
+      "Government's GDP growth linked to welfare spending",
+      "Efficiency of income tax administration",
+      "Impact of Direct Benefit Transfer in terms of savings, subsidy reduction, and beneficiary growth",
+      "Number of people covered under Jan Dhan Yojana"
+    ],
+    "correct_option": "Impact of Direct Benefit Transfer in terms of savings, subsidy reduction, and beneficiary growth",
+    "explanation": "The Welfare Efficiency Index (WEI) is a composite indicator that evaluates the impact of DBT. It uses three weighted components: DBT savings (50%), subsidy reduction (30%), and beneficiary growth (20%) to assess efficiency.",
+    "tags": "Economy, Public Administration"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following technologies are used in India’s border surveillance systems?",
+    "statements": [
+      "Long Range Reconnaissance and Observation Systems (LORROS)",
+      "Thermal Imagers and Laser Fencing",
+      "Satellite-based Smart Surveillance Units"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "India’s electronic border surveillance includes tools like LORROS, drones, floodlights, and laser fences. Satellite-based units are not yet part of routine deployment. These are critical to preventing cross-border infiltration and smuggling.",
+    "tags": "Security, Technology"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which program aims to support border infrastructure development including roads and fencing?",
+    "options": [
+      "Vibrant Villages Programme",
+      "Border Area Development Programme",
+      "Border Infrastructure and Management (BIM) Scheme",
+      "SAGAR Mission"
+    ],
+    "correct_option": "Border Infrastructure and Management (BIM) Scheme",
+    "explanation": "The BIM Scheme is a Central Sector Scheme aimed at implementing infrastructure projects like border fences and floodlights in sensitive border areas.",
+    "tags": "Security, Infrastructure"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary objective of the Surat Emission Trading Scheme (ETS)?",
+    "options": [
+      "To control water pollution in industrial areas",
+      "To create a market for carbon offsets",
+      "To reduce particulate matter emissions using a cap-and-trade model",
+      "To regulate noise pollution in urban zones"
+    ],
+    "correct_option": "To reduce particulate matter emissions using a cap-and-trade model",
+    "explanation": "The Surat ETS is the world’s first trading system focused on reducing particulate matter pollution. It follows a cap-and-trade mechanism, where industries trade emission permits. This aligns with the polluter-pays principle.",
+    "tags": "Environment, Economy"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which monitoring tool is used in Surat ETS for real-time pollution data?",
+    "options": [
+      "Satellite-based GIS layers",
+      "Continuous Emission Monitoring Systems (CEMS)",
+      "Central Pollution Control Board Dashboard",
+      "Drone-based air quality index readers"
+    ],
+    "correct_option": "Continuous Emission Monitoring Systems (CEMS)",
+    "explanation": "The Surat ETS uses Continuous Emission Monitoring Systems (CEMS) to record particulate matter emissions from factories, enabling real-time pollution tracking and enforcement. ",
+    "tags": "Environment, Science and Tech"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which city implemented the first-ever particulate matter Emission Trading Scheme (ETS)?",
+    "options": ["Delhi", "Hyderabad", "Surat", "Chennai"],
+    "correct_option": "Surat",
+    "explanation": "Surat in Gujarat became the first city in the world to implement an emission trading market for particulate matter, reducing pollution and compliance costs for industries. ",
+    "tags": "Environment, Economy"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which economic principle forms the basis of the Surat ETS?",
+    "options": [
+      "Principle of Proportionality",
+      "Polluter Pays Principle",
+      "Maximum Social Benefit Principle",
+      "Equal Burden Sharing Principle"
+    ],
+    "correct_option": "Polluter Pays Principle",
+    "explanation": "The Surat ETS is guided by the 'Polluter Pays Principle,' where industries are financially responsible for pollution through tradeable emission permits.",
+    "tags": "Environment, Economy"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which body operates the trading platform for Surat’s emission permits?",
+    "options": [
+      "Central Pollution Control Board",
+      "National Stock Exchange",
+      "NeML (NCDEX e-Markets Limited)",
+      "Gujarat Pollution Control Board"
+    ],
+    "correct_option": "NeML (NCDEX e-Markets Limited)",
+    "explanation": "NeML, the trading arm of NCDEX, manages the platform where industries in Surat buy and sell particulate matter emission permits under the ETS.",
+    "tags": "Economy, Environment"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "What is a unique feature of industries participating in the Surat ETS?",
+    "options": [
+      "They are exempt from environmental penalties.",
+      "They must pay Environmental Damage Compensation.",
+      "They receive carbon credits from the UN.",
+      "They are rewarded with lower GST rates."
+    ],
+    "correct_option": "They must pay Environmental Damage Compensation.",
+    "explanation": "Apart from trading permits, industries under Surat ETS must pay a compensation amount based on the size of their units to account for environmental damage.",
+    "tags": "Environment, Economy"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a key objective of India’s Semiconductor Mission?",
+    "options": [
+      "To increase import of microchips from Taiwan",
+      "To create chip-design IP for Chinese manufacturers",
+      "To develop a globally competitive semiconductor and display ecosystem",
+      "To promote optical fiber expansion across rural India"
+    ],
+    "correct_option": "To develop a globally competitive [[semiconductor]] and display ecosystem",
+    "explanation": "India’s Semiconductor Mission aims to boost domestic manufacturing capabilities by fostering an ecosystem for semiconductor fabrication and design. It focuses on technology development, design-linked incentives, and setting up fabrication plants to reduce dependency on imports.",
+    "tags": "Science and Technology, Economy"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the focus of Draft National Electricity Plan (NEP) 2022-27 Volume-II?",
+    "options": [
+      "Electrification of all rural households",
+      "Optimization of coal imports",
+      "Integration of renewable energy and grid upgradation",
+      "Privatization of electricity distribution"
+    ],
+    "correct_option": "Integration of renewable energy and grid upgradation",
+    "explanation": "The NEP 2022-27 (Vol-II) [National Electricity Plan - PIB](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1928750#:~:text=Based%20on%20generation%20planning%20studies,MW)%20and%20336%2C553%20MW%20of) emphasizes the integration of renewables, improving the transmission grid infrastructure, and managing demand-supply balancing for sustainable energy transition&#8203;.",
+    "tags": "Energy, Infrastructure"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is a key maritime strategy of India in the Indo-Pacific?",
+    "options": [
+      "Establishment of permanent naval bases in East Asia",
+      "Promoting a free, open, inclusive and rules-based Indo-Pacific",
+      "Withdrawal from QUAD cooperation",
+      "Demilitarization of strategic chokepoints"
+    ],
+    "correct_option": "Promoting a free, open, inclusive and rules-based Indo-Pacific",
+    "explanation": "India’s strategy in the Indo-Pacific emphasizes freedom of navigation, adherence to UNCLOS([[United Nations Convention on the Law of the Sea]]), and strengthening regional multilateralism through initiatives like QUAD and SAGAR([[Security and Growth for All in the Region]]).",
+    "tags": "International Relations, Security"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "The Digital Crop Survey Initiative is intended to improve which of the following?",
+    "options": [
+      "Urban employment schemes",
+      "Minimum wage compliance",
+      "Agricultural data accuracy and farmer welfare targeting",
+      "Distribution of ration cards in urban slums"
+    ],
+    "correct_option": "Agricultural data accuracy and farmer welfare targeting",
+    "explanation": "The initiative uses [[geotagging]] and digital inputs to ensure real-time and reliable crop data([[Precision Agriculture]]), which is critical for insurance claims, subsidies, and better policy formulation.",
+    "tags": "Agriculture, Governance"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "According to IMF’s World Economic Outlook April 2025, which of the following is true about India's economy?",
+    "options": [
+      "India’s growth is slower than global average",
+      "India is expected to be the fastest growing major economy",
+      "India is likely to enter a recession in 2025",
+      "India’s exports have exceeded those of China"
+    ],
+    "correct_option": "India is expected to be the fastest growing major economy",
+    "explanation": "IMF([[International Montory Fund]])’s  report predicts India as the fastest growing major economy, despite global economic slowdown and rising geopolitical tensions.",
+    "tags": "Economy, International Reports"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the core legal concern raised regarding amendments to the Forest Conservation Act (FCA)?",
+    "options": [
+      "They allow mining in tiger reserves",
+      "They dilute constitutional protection to tribal areas",
+      "They may violate Article 21 regarding the right to life",
+      "They restrict religious freedoms of forest dwellers"
+    ],
+    "correct_option": "They may violate Article 21 regarding the right to life",
+    "explanation": "The amendments potentially weaken environmental safeguards, impacting ecological balance, which could be challenged under Article 21 of the Constitution that ensures the right to a healthy environment as part of the [[right to life]].",
+    "tags": "Polity, Environment"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which technology is used in the 2025 Tiger Census for enhanced accuracy?",
+    "options": [
+      "LiDAR mapping",
+      "Satellite-based remote sensing",
+      "Blockchain-based data authentication",
+      "Acoustic sensors"
+    ],
+    "correct_option": "Satellite-based remote sensing",
+    "explanation": "The 2025 Tiger Census integrates satellite [[remote sensing]], especially from ISRO’s EO satellites, to monitor vegetation, water sources, and movement patterns over vast forest landscapes.",
+    "tags": "Environment, Science and Technology"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary purpose of the JAM Trinity in governance?",
+    "options": [
+      "To monitor judicial appointments",
+      "To implement RTI Act",
+      "To enable direct transfer of benefits and promote financial inclusion",
+      "To supervise e-voting in general elections"
+    ],
+    "correct_option": "To enable direct transfer of benefits and promote financial inclusion",
+    "explanation": "The JAM Trinity [[JAM Yojana]] — Jan Dhan, Aadhaar, and Mobile — provides the digital foundation for financial inclusion and real-time benefit transfers under welfare schemes.",
+    "tags": "Governance, Digital India"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which institution supports satellite-based monitoring for India’s Tiger Census?",
+    "options": [
+      "Survey of India",
+      "Indian Forest Service",
+      "National Remote Sensing Centre (NRSC)",
+      "Geological Survey of India"
+    ],
+    "correct_option": "National Remote Sensing Centre (NRSC)",
+    "explanation": "The NRSC([[National Remote Sensing Centre]]), under ISRO, supports the Tiger Census with remote sensing data from satellites like Resourcesat and EOS series to track forest conditions and tiger habitats.",
+    "tags": "Environment, Space Technology"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following elements were emphasized in India's updated maritime cooperation in Indo-Pacific?",
+    "statements": [
+      "Enhancing maritime domain awareness",
+      "Ensuring freedom of navigation",
+      "Promoting inclusive multilateral dialogue"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s Indo-Pacific strategy promotes all three — improved surveillance, secure sea lanes of communication, and regional cooperation through forums like QUAD and IORA.",
+    "tags": "International Relations, Security"
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the main purpose of India’s 2025 Genetic Testing Guidelines?",
+    "options": [
+      "To promote private gene patenting rights",
+      "To regulate the use of GMOs in agriculture",
+      "To ensure ethical standards in hereditary genetic testing",
+      "To allow widespread public gene editing services"
+    ],
+    "correct_option": "To ensure ethical standards in hereditary genetic testing",
+    "explanation": "The 2025 guidelines aim to regulate [[genetic testing]] practices, focusing on maintaining medical ethics, preventing misuse, and ensuring patient privacy and informed consent."
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "What are key components included in India’s updated guidelines for genetic testing?",
+    "statements": [
+      "Pre- and post-test counselling by qualified personnel",
+      "Mandatory informed consent",
+      "Ban on predictive testing for minors without clinical justification"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s new framework mandates genetic counselling, informed consent, and restricts predictive testing in minors unless clinically essential, ensuring ethical implementation."
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which state launched the 'Jal Dhara Mission' as a large-scale water conservation initiative in 2025?",
+    "options": ["Madhya Pradesh", "Rajasthan", "Odisha", "Bihar"],
+    "correct_option": "Rajasthan",
+    "explanation": "Rajasthan initiated the Jal Dhara Mission to address declining groundwater levels and promote watershed-based development in arid zones."
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "The Jal Dhara Mission focuses on which of the following objectives?",
+    "statements": [
+      "Recharge of groundwater through community tanks",
+      "Revival of traditional water harvesting systems",
+      "Promotion of water-efficient irrigation practices"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The mission integrates modern and traditional water conservation techniques to ensure sustainable groundwater use and resilient agriculture."
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements best describes 'pre-symptomatic testing' as regulated under the Genetic Testing Guidelines 2025?",
+    "options": [
+      "It is permitted without any restrictions",
+      "It must be accompanied by pre- and post-counselling and informed consent",
+      "It is banned for adults above 18 years",
+      "It is mandatory for all newborns"
+    ],
+    "correct_option": "It must be accompanied by pre- and post-counselling and informed consent",
+    "explanation": "Pre-symptomatic testing is allowed only under strict conditions including informed consent and genetic counselling to protect the rights of the individual."
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following institutions is responsible for enforcing genetic testing regulations in India?",
+    "options": [
+      "Central Drugs Standard Control Organization",
+      "Indian Council of Medical Research (ICMR)",
+      "Department of Science and Technology",
+      "Ministry of AYUSH"
+    ],
+    "correct_option": "Indian Council of Medical Research (ICMR)",
+    "explanation": "ICMR, being the apex biomedical research body in India, frames and monitors guidelines for ethical practices in genetic testing and research."
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Why is Rajasthan’s Jal Dhara Mission significant in the context of sustainable development goals (SDGs)?",
+    "options": [
+      "It focuses on desert tourism development",
+      "It contributes to SDG 6 – Clean Water and Sanitation",
+      "It aims to increase urban infrastructure investment",
+      "It funds large dam construction exclusively"
+    ],
+    "correct_option": "It contributes to SDG 6 – Clean Water and Sanitation",
+    "explanation": "The mission aligns with SDG 6 by promoting access to clean water through groundwater recharge, traditional water system revival, and irrigation efficiency."
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following technologies are used in Rajasthan's Jal Dhara Mission?",
+    "options": [
+      "Artificial intelligence for weather prediction",
+      "Geotagging of water bodies",
+      "Blockchain for tracking water usage",
+      "CRISPR gene editing in crops"
+    ],
+    "correct_option": "Geotagging of water bodies",
+    "explanation": "The mission uses geotagging and GIS tools to monitor water bodies and ensure accountability and effectiveness of conservation interventions."
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following is NOT typically covered under India’s genetic testing regulatory framework?",
+    "options": [
+      "Consent and confidentiality",
+      "Data sharing with insurance companies",
+      "Clinical utility of tests",
+      "Qualified supervision and laboratory standards"
+    ],
+    "correct_option": "Data sharing with insurance companies",
+    "explanation": "India’s framework explicitly emphasizes confidentiality and prohibits indiscriminate data sharing with third parties like insurers."
+  },
+  {
+    "date": "22",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the core concern addressed by the new genetic testing regulations in India?",
+    "options": [
+      "Reducing the cost of genome sequencing",
+      "Promoting genetic patent rights",
+      "Preventing misuse and ensuring informed decisions",
+      "Supporting eugenics programs"
+    ],
+    "correct_option": "Preventing misuse and ensuring informed decisions",
+    "explanation": "The primary concern of the 2025 regulations is to ensure ethical use of genetic information, informed consent, and safeguard against misuse."
+  }
+]
