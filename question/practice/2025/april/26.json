@@ -1,0 +1,460 @@
+[
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "The Rafale-M fighter jet, recently in news, has which of the following capabilities?",
+    "statements": [
+      "Carrier-based take-off and arrested landing",
+      "Foldable wings for carrier operations",
+      "Capability for air superiority and ground attack missions"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Rafale-M is the naval version of the Rafale fighter jet with CATOBAR capability, foldable wings, and is suited for air superiority, ground attack, and reconnaissance missions.\n\nFor more, see [[Dassault Rafale]], [[Naval aviation]].",
+    "tags": "Defence, International Relations, Science and Technology"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "What is INS Vikrant, recently mentioned in defence news?",
+    "statements": [],
+    "options": [
+      "India’s first nuclear-powered aircraft carrier",
+      "India’s first indigenously built aircraft carrier",
+      "India’s first amphibious assault ship",
+      "India’s first stealth guided missile destroyer"
+    ],
+    "correct_option": "India’s first indigenously built aircraft carrier",
+    "explanation": "INS Vikrant, commissioned in 2022, is India's first indigenously built aircraft carrier, a key milestone in self-reliance in defence.\n\nSee [[INS Vikrant]].",
+    "tags": "Defence, Science and Technology"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "The 'Defence Acquisition Council (DAC)' is primarily responsible for which of the following?",
+    "statements": [],
+    "options": [
+      "Approving operational deployment of forces",
+      "Finalizing capital acquisitions for the armed forces",
+      "Supervising day-to-day activities of defence industries",
+      "Handling peacekeeping operations abroad"
+    ],
+    "correct_option": "Finalizing capital acquisitions for the armed forces",
+    "explanation": "The Defence Acquisition Council (DAC) is the apex body in the Ministry of Defence for finalizing capital procurements for the armed forces.\n\nSee [[Defence Acquisition Council]].",
+    "tags": "Defence, Governance, Security"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following sectors along the Line of Control (LoC) witnessed recent militant infiltration attempts?",
+    "statements": [],
+    "options": [
+      "Poonch and Rajouri",
+      "Kupwara and Anantnag",
+      "Baramulla and Pulwama",
+      "Srinagar and Leh"
+    ],
+    "correct_option": "Poonch and Rajouri",
+    "explanation": "Recent infiltration attempts along the LoC have been reported particularly in Poonch and Rajouri sectors, prompting intensified counter-insurgency operations.\n\nSee [[Line of Control]].",
+    "tags": "Internal Security, Geography, Defence"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "The 1972 Simla Agreement between India and Pakistan resulted in which of the following?",
+    "statements": [
+      "Formalization of the Line of Control (LoC)",
+      "Declaration of Jammu and Kashmir as Indian Territory",
+      "Commitment to bilateral resolution of issues"
+    ],
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Simla Agreement (1972) formalized the LoC and emphasized bilateral resolution of disputes but did not alter the disputed status of Jammu and Kashmir.\n\nSee [[Simla Agreement]].",
+    "tags": "International Relations, Internal Security"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following institutions manages waqf properties in India?",
+    "statements": [],
+    "options": [
+      "Ministry of Home Affairs",
+      "Central Waqf Council",
+      "Ministry of Law and Justice",
+      "National Commission for Minorities"
+    ],
+    "correct_option": "Central Waqf Council",
+    "explanation": "The Central Waqf Council, under the Ministry of Minority Affairs, oversees the administration and management of waqf properties across India.\n\nSee [[Waqf]] and [[Central Waqf Council]].",
+    "tags": "Polity, Governance, Minority Welfare"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "What was the primary reason cited for recent amendments to the Waqf Act?",
+    "statements": [],
+    "options": [
+      "Expansion of waqf jurisdiction to non-Islamic trusts",
+      "Strengthening regulation and preventing misuse of waqf properties",
+      "Privatization of waqf properties",
+      "Consolidation of waqf boards into a single national authority"
+    ],
+    "correct_option": "Strengthening regulation and preventing misuse of waqf properties",
+    "explanation": "The government cited misuse of waqf properties as the reason for amendments to the Waqf Act, aiming to strengthen regulation and ensure accountability.\n\nSee [[Waqf Act 1995]].",
+    "tags": "Governance, Polity, Minority Affairs"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "K. Kasturirangan, who recently passed away, was associated with which of the following achievements?",
+    "statements": [
+      "Operationalization of PSLV",
+      "Initiation of GSLV development",
+      "Drafting of India's National Education Policy 2020"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Dr. K. Kasturirangan was instrumental in PSLV operationalization, GSLV development, and chaired the committee that drafted the National Education Policy 2020.\n\nSee [[K. Kasturirangan]], [[ISRO]], [[NEP 2020]].",
+    "tags": "Science and Technology, Education, Important Personalities"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following was initiated under Dr. Kasturirangan's leadership at ISRO?",
+    "statements": [],
+    "options": [
+      "Chandrayaan-1",
+      "Indian Remote Sensing Satellite (IRS) program",
+      "Gaganyaan Human Spaceflight Mission",
+      "Mars Orbiter Mission"
+    ],
+    "correct_option": "Indian Remote Sensing Satellite (IRS) program",
+    "explanation": "Dr. K. Kasturirangan played a crucial role in operationalizing the IRS program for Earth observation and developmental applications.\n\nSee [[Indian Remote Sensing satellites]].",
+    "tags": "Space Technology, Science and Technology"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "The Greater Bengaluru Governance Act, 2024, aims to achieve which of the following?",
+    "statements": [
+      "Decentralization of governance at ward level",
+      "Creation of multiple zonal offices",
+      "Dissolution of the BBMP council"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Greater Bengaluru Governance Act, 2024 focuses on decentralization and setting up zonal offices but does not dissolve BBMP permanently; it restructures governance.\n\nSee [[Bruhat Bengaluru Mahanagara Palike]], [[Urban Governance]].",
+    "tags": "Governance, Urban Development, Local Bodies"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which scheme of the Government of India focuses on the development of pilgrimage and spiritual destinations?",
+    "statements": [],
+    "options": [
+      "PRASHAD Scheme",
+      "Swadesh Darshan Scheme",
+      "Dekho Apna Desh Initiative",
+      "Heritage City Development and Augmentation Yojana (HRIDAY)"
+    ],
+    "correct_option": "PRASHAD Scheme",
+    "explanation": "The PRASHAD Scheme (Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive) focuses on developing religious and spiritual destinations across India.\n\nSee [[PRASHAD Scheme]].",
+    "tags": "Governance, Culture, Tourism"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Cauvery River, where a 'Cauvery Aarti' is being planned, originates from which of the following locations?",
+    "statements": [],
+    "options": [
+      "Agumbe Hills",
+      "Brahmagiri Hills",
+      "Nilgiri Hills",
+      "Western Ghats near Mahabaleshwar"
+    ],
+    "correct_option": "Brahmagiri Hills",
+    "explanation": "The Cauvery River originates from Talakaveri in the Brahmagiri Hills located in Karnataka.\n\nSee [[Kaveri River]].",
+    "tags": "Geography, Culture, Environment"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly describes 'Aarti' in the context of Indian traditions?",
+    "statements": [],
+    "options": [
+      "A form of classical Indian dance",
+      "A type of Vedic sacrifice",
+      "A ritual offering of light to deities",
+      "A traditional water harvesting technique"
+    ],
+    "correct_option": "A ritual offering of light to deities",
+    "explanation": "Aarti is a Hindu religious ritual of offering light to one or more deities, often performed on river banks and temples.\n\nSee [[Aarti (Hinduism)]].",
+    "tags": "Culture, Religion, Indian Heritage"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "NEET will become mandatory from 2025–26 academic year onwards for admission into which of the following courses according to recent news?",
+    "statements": [],
+    "options": [
+      "Bachelor of Pharmacy",
+      "Bachelor of Physiotherapy",
+      "Bachelor of Veterinary Science",
+      "Bachelor of Ayurveda Medicine and Surgery"
+    ],
+    "correct_option": "Bachelor of Physiotherapy",
+    "explanation": "The Karnataka Government has decided that from 2025–26, admission to Bachelor of Physiotherapy (BPT) courses will require NEET qualification.\n\nSee [[NEET (India)]].",
+    "tags": "Education, Health, Governance"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "The National Testing Agency (NTA) conducts which of the following examinations?",
+    "statements": ["NEET", "UGC-NET", "JEE-Main"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The NTA conducts NEET (medical entrance), UGC-NET (lectureship), and JEE-Main (engineering entrance), among other exams.\n\nSee [[National Testing Agency]].",
+    "tags": "Governance, Education Policies"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Basava, whose Jayanti is to be celebrated in Parliament, is associated with which of the following concepts?",
+    "statements": [
+      "Anubhava Mantapa",
+      "Kayakave Kailasa",
+      "Vachana Literature"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Basava established the Anubhava Mantapa, propagated Kayakave Kailasa (Work is Worship), and composed Vachanas promoting spiritual and social equality.\n\nSee [[Basava]], [[Vachana Literature]].",
+    "tags": "Culture, Social Reformers, Indian History"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "The 'Anubhava Mantapa' founded by Basava is best described as:",
+    "statements": [],
+    "options": [
+      "A pilgrimage site in Karnataka",
+      "An academy of mystics, saints, and philosophers",
+      "A Shaivite temple dedicated to Shiva",
+      "An ancient Kannada epic poem"
+    ],
+    "correct_option": "An academy of mystics, saints, and philosophers",
+    "explanation": "Anubhava Mantapa was a spiritual and intellectual academy set up by Basava to discuss social, spiritual, and philosophical issues.\n\nSee [[Anubhava Mantapa]].",
+    "tags": "Indian Culture, Bhakti Movement, Medieval India"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best reflects the teachings of Basava?",
+    "statements": [
+      "Rejection of caste discrimination",
+      "Emphasis on personal devotion to God",
+      "Belief in ritualistic sacrifices"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Basava's teachings centered around personal devotion (Ishtalinga worship) and social equality, explicitly rejecting caste discrimination and ritualism.\n\nSee [[Lingayatism]], [[Basava]].",
+    "tags": "Ethics, Indian Culture, Bhakti Movement"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which constitutional amendments relate to Urban Local Bodies like BBMP?",
+    "statements": [],
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment",
+      "74th Amendment"
+    ],
+    "correct_option": "74th Amendment",
+    "explanation": "The 74th Constitutional Amendment Act, 1992 deals with the constitution and governance of Urban Local Bodies (Municipalities). BBMP functions under its provisions.\n\nSee [[74th Amendment to the Constitution of India]].",
+    "tags": "Polity, Governance, Urban Development"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements correctly describes the structure of BBMP after the Greater Bengaluru Governance Act, 2024?",
+    "statements": [
+      "Creation of multiple administrative zones",
+      "Empowerment of ward committees",
+      "Centralization of all powers at state government level"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Act focuses on decentralizing BBMP by creating zonal offices and empowering ward committees, not centralizing power.\n\nSee [[Greater Bengaluru Governance Act 2024]].",
+    "tags": "Governance, Urban Administration, Reforms"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following describes the main objective of the 'Border Area Development Programme (BADP)'?",
+    "statements": [],
+    "options": [
+      "Promoting organic farming near international borders",
+      "Developing infrastructure and socio-economic conditions in border areas",
+      "Providing exclusive military training in border villages",
+      "Establishing new towns along the border for population settlement"
+    ],
+    "correct_option": "Developing infrastructure and socio-economic conditions in border areas",
+    "explanation": "The BADP aims to meet the special developmental needs of people living in remote and inaccessible areas situated near the international border.\n\nSee [[Border Area Development Programme]].",
+    "tags": "Internal Security, Governance, Geography"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best explains the term 'Ceasefire Agreement' in the India-Pakistan context?",
+    "statements": [],
+    "options": [
+      "Permanent settlement of border disputes",
+      "Temporary agreement to stop active hostilities along the border",
+      "Recognition of LoC as an international boundary",
+      "Grant of autonomous status to border villages"
+    ],
+    "correct_option": "Temporary agreement to stop active hostilities along the border",
+    "explanation": "A ceasefire agreement is a temporary agreement between India and Pakistan to halt active hostilities, particularly along the Line of Control.\n\nSee [[India–Pakistan Ceasefire Agreement]].",
+    "tags": "International Relations, Internal Security"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which river is associated with the Srirangapatna town where a daily 'Cauvery Aarti' is proposed?",
+    "statements": [],
+    "options": ["Godavari", "Krishna", "Cauvery", "Tungabhadra"],
+    "correct_option": "Cauvery",
+    "explanation": "Srirangapatna is a historic town situated on an island formed by the Cauvery River in Karnataka.\n\nSee [[Srirangapatna]].",
+    "tags": "Geography, Culture, Tourism"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which satellite series launched under the leadership of Dr. K. Kasturirangan is primarily used for Earth observation?",
+    "statements": [],
+    "options": ["INSAT series", "IRS series", "NAVIC series", "GSAT series"],
+    "correct_option": "IRS series",
+    "explanation": "The Indian Remote Sensing (IRS) satellite series launched during Dr. Kasturirangan’s tenure is used for Earth observation applications.\n\nSee [[Indian Remote Sensing satellites]].",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which among the following is NOT a feature of Rafale-M aircraft?",
+    "statements": [],
+    "options": [
+      "Carrier-based operations",
+      "Arrestor hooks for landing",
+      "Stealth bomber capabilities",
+      "Foldable wings for storage"
+    ],
+    "correct_option": "Stealth bomber capabilities",
+    "explanation": "Rafale-M is a carrier-capable multirole fighter jet but it is not a stealth bomber; it has some stealth features but is not classified as a stealth bomber.\n\nSee [[Dassault Rafale]].",
+    "tags": "Defence, Science and Technology"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best explains 'Strategic Partnership' between India and France?",
+    "statements": [],
+    "options": [
+      "Cultural exchange agreements only",
+      "Only military alliance against third countries",
+      "Comprehensive cooperation across defence, trade, nuclear energy, and space",
+      "Free trade agreement excluding defence deals"
+    ],
+    "correct_option": "Comprehensive cooperation across defence, trade, nuclear energy, and space",
+    "explanation": "The India-France Strategic Partnership involves comprehensive cooperation across sectors like defence, trade, nuclear energy, and space.\n\nSee [[India–France relations]].",
+    "tags": "International Relations, Defence, Economy"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "The Waqf Act primarily governs the management of properties donated for which of the following purposes?",
+    "statements": [],
+    "options": [
+      "Personal inheritance",
+      "Religious and charitable purposes",
+      "Commercial trading",
+      "Government housing schemes"
+    ],
+    "correct_option": "Religious and charitable purposes",
+    "explanation": "The Waqf Act regulates endowments made for religious or charitable purposes in accordance with Islamic practices.\n\nSee [[Waqf]].",
+    "tags": "Governance, Polity, Minority Welfare"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which statement regarding Basava’s contribution is INCORRECT?",
+    "statements": [],
+    "options": [
+      "He founded the Anubhava Mantapa.",
+      "He promoted caste-based hierarchy.",
+      "He emphasized work as worship (Kayakave Kailasa).",
+      "He wrote spiritual Vachanas in Kannada."
+    ],
+    "correct_option": "He promoted caste-based hierarchy.",
+    "explanation": "Basava vehemently opposed caste hierarchy and promoted social equality through his teachings.\n\nSee [[Basava]].",
+    "tags": "Culture, Social Reform, Ethics"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "NEET is conducted by which agency under the Government of India?",
+    "statements": [],
+    "options": [
+      "University Grants Commission (UGC)",
+      "All India Council for Technical Education (AICTE)",
+      "National Testing Agency (NTA)",
+      "Medical Council of India (MCI)"
+    ],
+    "correct_option": "National Testing Agency (NTA)",
+    "explanation": "The National Testing Agency (NTA), an autonomous organization under the Ministry of Education, conducts NEET.\n\nSee [[National Testing Agency]].",
+    "tags": "Education, Governance, Health Policy"
+  },
+  {
+    "date": "26",
+    "month": "April",
+    "year": "2025",
+    "question": "Which constitutional body is India’s highest authority for judicial review, as seen in the Waqf amendments case?",
+    "statements": [],
+    "options": [
+      "High Court",
+      "Lok Sabha",
+      "Supreme Court",
+      "National Human Rights Commission"
+    ],
+    "correct_option": "Supreme Court",
+    "explanation": "The Supreme Court of India is the highest constitutional authority for interpreting laws and judicial review.\n\nSee [[Supreme Court of India]].",
+    "tags": "Polity, Judiciary, Governance"
+  }
+]
