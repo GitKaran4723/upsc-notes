@@ -1,0 +1,450 @@
+[
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the United Nations Security Council (UNSC), consider the following statements:",
+    "statements": [
+      "UNSC has 15 members, including 5 permanent members with veto power.",
+      "UNSC resolutions under Chapter VII of the UN Charter are legally binding on member states.",
+      "India is a permanent member of the UNSC."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The UNSC consists of 15 members (5 permanent and 10 non-permanent) and resolutions under Chapter VII are binding. India, although a founding member of the UN, is not a permanent member of the UNSC.\n\nFor more, see [[United Nations Security Council]].",
+    "tags": "International Relations, Polity, Current Affairs"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Cross-border terrorism, often mentioned regarding South Asia, implies which of the following?",
+    "statements": [],
+    "options": [
+      "Terrorist acts funded internally within a nation",
+      "Terrorist acts planned and executed from another country",
+      "Cyberattacks targeting financial institutions",
+      "Internal civil unrest causing political instability"
+    ],
+    "correct_option": "Terrorist acts planned and executed from another country",
+    "explanation": "Cross-border terrorism refers to acts of terrorism where groups based in one country carry out attacks in another, often with logistical and financial support. In South Asia, this frequently refers to attacks by Pakistan-based groups against India.\n\nFor more, see [[State-sponsored terrorism]].",
+    "tags": "Internal Security, International Relations"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "India's expansion of its continental shelf claim is guided by which of the following international treaties?",
+    "statements": [],
+    "options": ["UNCLOS", "UNFCCC", "UNESCO", "UNCTAD"],
+    "correct_option": "UNCLOS",
+    "explanation": "UNCLOS (United Nations Convention on the Law of the Sea) defines nations' rights over the use of the world's oceans, including continental shelf claims beyond 200 nautical miles.\n\nFor more, see [[United Nations Convention on the Law of the Sea]].",
+    "tags": "Geography, International Relations, Environment"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following about Continental Shelf claims under UNCLOS:",
+    "statements": [
+      "Countries can claim up to 200 nautical miles without UN approval.",
+      "Claims beyond 200 nautical miles require validation by the Commission on the Limits of the Continental Shelf (CLCS).",
+      "India's continental shelf claim in Arabian Sea expansion requires ratification by the International Court of Justice."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Under UNCLOS, a country's sovereign rights extend up to 200 nautical miles (Exclusive Economic Zone) without external approval. Claims beyond that require scientific submission to CLCS but not International Court of Justice ratification.\n\nFor more, see [[Exclusive economic zone]] and [[Continental shelf]].",
+    "tags": "Geography, International Relations"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Tangdhar block, which was recently connected via all-weather roads, is located near which important line?",
+    "statements": [],
+    "options": [
+      "Line of Actual Control (LAC)",
+      "Line of Control (LoC)",
+      "Durand Line",
+      "McMahon Line"
+    ],
+    "correct_option": "Line of Control (LoC)",
+    "explanation": "Tangdhar block is located near the Line of Control (LoC) between India and Pakistan in the Kupwara district of Jammu & Kashmir.\n\nFor more, see [[Line of Control]].",
+    "tags": "Internal Security, Geography, Infrastructure"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following initiatives directly aim to boost border area development?",
+    "statements": [
+      "Border Area Development Programme (BADP)",
+      "Aspirational Districts Programme (ADP)",
+      "Smart Cities Mission"
+    ],
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "BADP focuses specifically on developing infrastructure in border areas, while ADP targets underdeveloped districts, some of which include border regions. Smart Cities Mission is an urban initiative not targeted at border areas.\n\nFor more, see [[Border Area Development Programme]] and [[Aspirational Districts Programme]].",
+    "tags": "Internal Security, Governance, Geography"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following mountain passes is associated with the Kailash Mansarovar Yatra route?",
+    "statements": [],
+    "options": [
+      "Nathu La Pass",
+      "Rohtang Pass",
+      "Khardung La Pass",
+      "Zoji La Pass"
+    ],
+    "correct_option": "Nathu La Pass",
+    "explanation": "Nathu La Pass in Sikkim is one of the two official routes (the other being Lipulekh Pass) for the Kailash Mansarovar Yatra organized by the Indian government.\n\nFor more, see [[Nathu La]] and [[Kailash Mansarovar Yatra]].",
+    "tags": "Geography, Art and Culture, International Relations"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "The SMILE Scheme is primarily targeted toward which groups?",
+    "statements": [
+      "Scheduled Castes and Scheduled Tribes",
+      "Transgender persons and beggars",
+      "Farmers below the poverty line",
+      "Street vendors in metropolitan cities"
+    ],
+    "options": ["1 only", "2 only", "2 and 4 only", "1 and 3 only"],
+    "correct_option": "2 only",
+    "explanation": "The SMILE (Support for Marginalized Individuals for Livelihood and Enterprise) scheme primarily focuses on the welfare and rehabilitation of transgender persons and individuals engaged in begging.\n\nFor more, see [[SMILE Scheme]].",
+    "tags": "Social Justice, Government Schemes"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "According to reports, why has the SMILE Scheme struggled to reduce begging in India?",
+    "statements": [
+      "Inadequate shelter homes and skill training programs.",
+      "Low awareness and participation from state governments.",
+      "Strong community resistance against rehabilitation initiatives."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The main reasons cited include inadequate shelter facilities, limited skill development initiatives, lack of state government participation, and low awareness, rather than strong community resistance.\n\nFor more, see [[SMILE Scheme]].",
+    "tags": "Social Justice, Governance, Vulnerable Sections"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "The revival of 'Democratic Spaces' refers to the protection and promotion of which fundamental rights in India?",
+    "statements": [
+      "Freedom of speech and expression",
+      "Right to assemble peacefully",
+      "Right to own private property"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Freedom of speech and peaceful assembly are fundamental for a healthy democracy. The right to property, once a fundamental right, is now a legal right under Article 300A.\n\nFor more, see [[Fundamental Rights in India]].",
+    "tags": "Polity, Governance, Current Affairs"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following institutions are associated with maintaining democratic values in India?",
+    "statements": [
+      "Election Commission of India",
+      "Comptroller and Auditor General of India (CAG)",
+      "Supreme Court of India"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Institutions like the Election Commission, CAG, and Supreme Court act as vital pillars safeguarding democracy by ensuring free elections, financial accountability, and judicial independence.\n\nFor more, see [[Election Commission of India]] and [[Supreme Court of India]].",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which report publishes the Democracy Index ranking of countries globally?",
+    "statements": [],
+    "options": [
+      "United Nations Development Programme (UNDP)",
+      "World Economic Forum",
+      "Economist Intelligence Unit (EIU)",
+      "Freedom House"
+    ],
+    "correct_option": "Economist Intelligence Unit (EIU)",
+    "explanation": "The Democracy Index is published annually by the Economist Intelligence Unit (EIU), measuring the state of democracy across countries.\n\nFor more, see [[Democracy Index]].",
+    "tags": "Polity, Reports and Indices, Current Affairs"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following regarding the Ministry of Information and Broadcasting's advisory to media:",
+    "statements": [
+      "It prohibits live telecasting of ongoing counter-terrorism operations.",
+      "It is issued under the Cable Television Networks (Regulation) Act, 1995.",
+      "Violation can attract direct criminal proceedings without any regulatory process."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The advisory reminds media to avoid live coverage of sensitive security operations under the Cable TV Act. Violations generally lead to regulatory penalties, not immediate criminal action.\n\nFor more, see [[Cable Television Networks (Regulation) Act, 1995]].",
+    "tags": "Internal Security, Governance, Media Ethics"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "In which major security incident did media’s live telecast notably compromise operational secrecy?",
+    "statements": [],
+    "options": [
+      "Kargil Conflict (1999)",
+      "26/11 Mumbai Attacks (2008)",
+      "Pulwama Attack (2019)",
+      "Uri Attack (2016)"
+    ],
+    "correct_option": "26/11 Mumbai Attacks (2008)",
+    "explanation": "During the 26/11 Mumbai Attacks, live media coverage inadvertently revealed security force movements to terrorists, severely compromising operations.\n\nFor more, see [[2008 Mumbai attacks]].",
+    "tags": "Internal Security, Media Studies, Current Affairs"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are key features of the Border Roads Organisation (BRO)?",
+    "statements": [
+      "It operates under the Ministry of Road Transport and Highways.",
+      "Its primary mandate includes developing and maintaining roads in border areas.",
+      "Its motto is 'Shramena Sarvam Sadhyam' (Everything is achievable through hard work)."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "2 and 3 only",
+    "explanation": "The BRO operates under the Ministry of Defence, not the Ministry of Road Transport. Its main work is building infrastructure in strategic border areas, with the motto 'Shramena Sarvam Sadhyam.'\n\nFor more, see [[Border Roads Organisation]].",
+    "tags": "Internal Security, Infrastructure, Governance"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following fundamental rights protect the functioning of a healthy democracy in India?",
+    "statements": [
+      "Freedom of speech and expression under Article 19(1)(a)",
+      "Right to peaceful assembly under Article 19(1)(b)",
+      "Right to property under Article 19(1)(f)"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Freedom of speech and assembly are critical democratic rights. The right to property is no longer a fundamental right in India after the 44th Constitutional Amendment.\n\nFor more, see [[Fundamental Rights in India]].",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly describes the Commission on the Limits of the Continental Shelf (CLCS)?",
+    "statements": [],
+    "options": [
+      "It decides maritime boundary disputes between countries.",
+      "It validates scientific submissions for extended continental shelves beyond 200 nautical miles.",
+      "It functions under the International Court of Justice.",
+      "It is a specialized agency of UNESCO."
+    ],
+    "correct_option": "It validates scientific submissions for extended continental shelves beyond 200 nautical miles.",
+    "explanation": "The CLCS does not resolve disputes but verifies scientific data submitted by states seeking an extended continental shelf under UNCLOS.\n\nFor more, see [[Commission on the Limits of the Continental Shelf]].",
+    "tags": "Geography, International Law"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Indian government scheme aims specifically at providing livelihood and enterprise opportunities for marginalized communities including transgender persons?",
+    "statements": [],
+    "options": ["SMILE Scheme", "PM-KUSUM", "PM-DAKSH", "DAY-NULM"],
+    "correct_option": "SMILE Scheme",
+    "explanation": "The SMILE scheme is targeted at rehabilitation of transgender persons and those engaged in begging, offering livelihood and enterprise support.\n\nFor more, see [[SMILE Scheme]].",
+    "tags": "Government Schemes, Social Justice, Vulnerable Sections"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "The Kailash Mansarovar Yatra traverses which of the following countries?",
+    "statements": [],
+    "options": [
+      "India and Nepal",
+      "India and China",
+      "India, Nepal, and China",
+      "India and Bhutan"
+    ],
+    "correct_option": "India and China",
+    "explanation": "The Kailash Mansarovar Yatra passes from India into the Tibet Autonomous Region (China) via Lipulekh Pass (Uttarakhand) or Nathu La Pass (Sikkim).\n\nFor more, see [[Kailash Mansarovar Yatra]].",
+    "tags": "Geography, International Relations, Culture"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes Chapter VII of the UN Charter?",
+    "statements": [],
+    "options": [
+      "Deals with human rights and sustainable development",
+      "Deals with the powers of the International Court of Justice",
+      "Authorizes enforcement action to maintain or restore international peace and security",
+      "Defines the process for UN Security Council membership expansion"
+    ],
+    "correct_option": "Authorizes enforcement action to maintain or restore international peace and security",
+    "explanation": "Chapter VII of the UN Charter empowers the UNSC to take enforcement measures, including sanctions and military action, to maintain or restore peace and security.\n\nFor more, see [[Chapter VII of the United Nations Charter]].",
+    "tags": "International Relations, UN bodies"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best explains 'Democratic Backsliding'?",
+    "statements": [],
+    "options": [
+      "Transition of a democracy into a monarchy",
+      "Gradual decline in the quality of democracy",
+      "Sudden military takeover of a civilian government",
+      "Expansion of voting rights to marginalized groups"
+    ],
+    "correct_option": "Gradual decline in the quality of democracy",
+    "explanation": "Democratic backsliding refers to the incremental weakening of democratic institutions, freedoms, and norms without a complete collapse into authoritarianism.\n\nFor more, see [[Democratic backsliding]].",
+    "tags": "Polity, Governance, Current Affairs"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following factors are considered indicators of shrinking democratic spaces?",
+    "statements": [
+      "Suppression of free speech and dissent",
+      "Weakening of parliamentary debate and lawmaking",
+      "Strengthening of local governments and Panchayati Raj Institutions"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Suppression of free speech and weakening parliamentary institutions are signs of democratic erosion. Strengthening local governance actually enhances democracy.\n\nFor more, see [[Freedom of speech]] and [[Parliamentary democracy]].",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Act regulates the broadcasting of television content in India?",
+    "statements": [],
+    "options": [
+      "Information Technology Act, 2000",
+      "Cable Television Networks (Regulation) Act, 1995",
+      "Cinematograph Act, 1952",
+      "Press and Registration of Books Act, 1867"
+    ],
+    "correct_option": "Cable Television Networks (Regulation) Act, 1995",
+    "explanation": "The Cable Television Networks (Regulation) Act, 1995 lays down the framework for the content broadcasted via cable TV in India.\n\nFor more, see [[Cable Television Networks (Regulation) Act, 1995]].",
+    "tags": "Polity, Media Ethics, Governance"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "The 'Programme Code' mentioned in the Cable TV Act aims to prevent which of the following?",
+    "statements": [
+      "Broadcast of content endangering national security",
+      "Broadcast of content promoting communal disharmony",
+      "Broadcast of content critical of foreign governments"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Programme Code mandates that broadcast content must not endanger national security or promote communal disharmony. Criticism of foreign governments is not automatically restricted unless it affects India’s diplomatic interests.\n\nFor more, see [[Programme Code]].",
+    "tags": "Internal Security, Media Studies, Governance"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the primary function of the Broadcasting Content Complaints Council (BCCC)?",
+    "statements": [],
+    "options": [
+      "Regulate government advertisements",
+      "Monitor content standards for non-news television channels",
+      "Formulate censorship guidelines for films",
+      "Issue licenses for new TV channels"
+    ],
+    "correct_option": "Monitor content standards for non-news television channels",
+    "explanation": "The Broadcasting Content Complaints Council (BCCC) handles complaints and monitors content standards for non-news television channels in India.\n\nFor more, see [[Broadcasting Content Complaints Council]].",
+    "tags": "Governance, Media Ethics, Institutions"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly describes 'State-sponsored Terrorism'?",
+    "statements": [],
+    "options": [
+      "Terrorist activities by opposition parties against ruling governments",
+      "Terrorist acts funded, supported, or protected by a government",
+      "Terrorism arising due to economic distress in states",
+      "Cyberattacks committed by hackers unaffiliated with any state"
+    ],
+    "correct_option": "Terrorist acts funded, supported, or protected by a government",
+    "explanation": "State-sponsored terrorism involves acts where a government provides support, funding, or shelter to terrorist organizations operating against other nations.\n\nFor more, see [[State-sponsored terrorism]].",
+    "tags": "Internal Security, International Relations"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which article of the Indian Constitution deals with the Union's ownership of resources in territorial waters and continental shelf?",
+    "statements": [],
+    "options": ["Article 297", "Article 262", "Article 352", "Article 143"],
+    "correct_option": "Article 297",
+    "explanation": "Article 297 states that all lands, minerals, and other valuable things beneath territorial waters, the continental shelf, and the Exclusive Economic Zone belong to the Union of India.\n\nFor more, see [[Article 297 of the Constitution of India]].",
+    "tags": "Polity, Geography, Constitution"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements about the Kailash Mansarovar Yatra are correct?",
+    "statements": [
+      "It is sacred to Hindus, Buddhists, Jains, and Bon followers.",
+      "It is organized jointly by India and Nepal.",
+      "It is administered by the Ministry of External Affairs (India)."
+    ],
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Yatra is sacred to multiple religions and is administered by India's Ministry of External Affairs. It passes through India and China (Tibet), not Nepal administratively.\n\nFor more, see [[Kailash Mansarovar Yatra]].",
+    "tags": "Art and Culture, Geography, International Relations"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which initiative specifically targets development at the block level in India’s underdeveloped regions?",
+    "statements": [],
+    "options": [
+      "Smart Cities Mission",
+      "Aspirational Districts Programme",
+      "Aspirational Blocks Programme",
+      "Sansad Adarsh Gram Yojana"
+    ],
+    "correct_option": "Aspirational Blocks Programme",
+    "explanation": "The Aspirational Blocks Programme, launched in 2023, targets block-level development to reduce intra-district disparities in socio-economic indicators.\n\nFor more, see [[Aspirational Blocks Programme]].",
+    "tags": "Governance, Infrastructure Development"
+  },
+  {
+    "date": "27",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following Sustainable Development Goals (SDGs) relate to sustainable use of oceans and marine resources?",
+    "statements": [],
+    "options": ["SDG-13", "SDG-14", "SDG-15", "SDG-16"],
+    "correct_option": "SDG-14",
+    "explanation": "SDG-14 focuses on conserving and sustainably using the oceans, seas, and marine resources for sustainable development.\n\nFor more, see [[Sustainable Development Goal 14]].",
+    "tags": "Environment, International Development"
+  }
+]
