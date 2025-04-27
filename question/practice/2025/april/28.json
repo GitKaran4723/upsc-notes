@@ -1,0 +1,434 @@
+[
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following organizations have historically been involved in addressing the Israel-Palestine conflict?",
+    "statements": [
+      "Arab League",
+      "Organization of Islamic Cooperation (OIC)",
+      "United Nations Relief and Works Agency for Palestinian Refugees (UNRWA)"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Arab League, OIC, and UNRWA have been major organizations supporting Palestine’s cause and addressing humanitarian concerns. [[Arab League]], [[Organization of Islamic Cooperation]], and [[UNRWA]] are documented globally.",
+    "tags": "International Relations, World Geography, International Organizations"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "The Gaza Strip shares its borders with which of the following?",
+    "statements": ["Israel", "Egypt", "Jordan"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Gaza Strip borders Israel and Egypt but not Jordan. It lies along the Mediterranean coast. Refer [[Gaza Strip]] Wikipedia entry for verification.",
+    "tags": "World Geography, International Relations"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "The Oslo Accords, often mentioned in the Israel-Palestine peace process, were signed between which parties?",
+    "statements": [],
+    "options": [
+      "Israel and Hamas",
+      "Israel and Palestine Liberation Organization (PLO)",
+      "Israel and Arab League",
+      "Israel and United Nations"
+    ],
+    "correct_option": "Israel and Palestine Liberation Organization (PLO)",
+    "explanation": "The Oslo Accords (1993–95) were landmark agreements between Israel and the Palestine Liberation Organization (PLO) to initiate peace talks. See [[Oslo Accords]].",
+    "tags": "International Relations, Peace Agreements"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "In Tibetan Buddhism, the Panchen Lama is considered important for:",
+    "statements": [],
+    "options": [
+      "Selecting the next Dalai Lama",
+      "Leading the Tibetan Parliament",
+      "Heading the Central Tibetan Administration",
+      "Serving as the secular ruler of Tibet"
+    ],
+    "correct_option": "Selecting the next Dalai Lama",
+    "explanation": "The Panchen Lama traditionally plays a major role in recognizing and selecting the reincarnation of the Dalai Lama, a key religious function in Tibetan Buddhism. [[Panchen Lama]].",
+    "tags": "Buddhism, Religion and Culture, International Relations"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following about the Central Tibetan Administration (CTA):",
+    "statements": [
+      "It is headquartered in India.",
+      "It is officially recognized as a government by the United Nations.",
+      "It is headed by the Sikyong."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "The CTA is based in Dharamshala, India, and led by the Sikyong. It is not officially recognized by the UN. [[Central Tibetan Administration]].",
+    "tags": "International Relations, India-China Relations, Buddhism"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly explains NRC in Assam?",
+    "statements": [
+      "It is a register of Indian citizens in Assam.",
+      "It was updated recently to detect illegal migrants.",
+      "It confers citizenship based on Aadhaar enrollment."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The NRC in Assam is meant to record genuine Indian citizens. Aadhaar enrollment alone is not proof of citizenship. See [[National Register of Citizens (India)]].",
+    "tags": "Polity, Governance, Internal Security"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Under Indian law, Aadhaar Card is:",
+    "statements": [],
+    "options": [
+      "A valid proof of citizenship",
+      "A proof of residence and identity, but not citizenship",
+      "A voter ID substitute",
+      "A proof of income for taxation purposes"
+    ],
+    "correct_option": "A proof of residence and identity, but not citizenship",
+    "explanation": "The Aadhaar Act, 2016 clearly states that Aadhaar is not a proof of citizenship, only of identity and residence. [[Aadhaar]].",
+    "tags": "Polity, Governance, Identification Documents"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "The 'Patta' system, often seen in Indian land reforms, primarily refers to:",
+    "statements": [],
+    "options": [
+      "Land rent collection system",
+      "Land ownership document",
+      "Tax exemption document",
+      "Farming lease agreement"
+    ],
+    "correct_option": "Land ownership document",
+    "explanation": "A Patta is a land ownership document issued by the state revenue department, giving legal recognition to the titleholder. [[Patta]].",
+    "tags": "Land Reforms, Governance, Welfare Initiatives"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Constitutional articles guide land redistribution and welfare for weaker sections in India?",
+    "statements": ["Article 39(b)", "Article 46", "Article 21A"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Article 39(b) emphasizes equitable resource distribution, and Article 46 promotes economic interests of weaker sections. Article 21A relates to education, not land rights. [[Directive Principles of State Policy]].",
+    "tags": "Polity, Constitution, Welfare State"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "During whose tenure at ISRO was the concept of Chandrayaan-1 initiated?",
+    "statements": [],
+    "options": [
+      "Dr. Vikram Sarabhai",
+      "Dr. A.P.J Abdul Kalam",
+      "Dr. K. Kasturirangan",
+      "Dr. Radhakrishnan"
+    ],
+    "correct_option": "Dr. K. Kasturirangan",
+    "explanation": "The Chandrayaan-1 lunar mission was conceptualized during Dr. K. Kasturirangan’s tenure at ISRO (1994–2003). [[Chandrayaan-1]], [[K. Kasturirangan]].",
+    "tags": "Science and Technology, Space Research, Personalities"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "K. Kasturirangan chaired the committee responsible for which major policy in India?",
+    "statements": [],
+    "options": [
+      "National Policy on Education, 1986",
+      "New Education Policy, 2020",
+      "National Skill Development Mission, 2015",
+      "Science, Technology and Innovation Policy, 2013"
+    ],
+    "correct_option": "New Education Policy, 2020",
+    "explanation": "K. Kasturirangan chaired the committee that framed India's New Education Policy (NEP) 2020, aiming for flexible, holistic education reforms. See [[National Education Policy 2020]].",
+    "tags": "Education Reforms, Governance, Personalities"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following awards were conferred on K. Kasturirangan?",
+    "statements": ["Padma Shri", "Padma Bhushan", "Padma Vibhushan"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Dr. K. Kasturirangan was awarded Padma Shri (1982), Padma Bhushan (1992), and Padma Vibhushan (2000) for his outstanding contributions. [[K. Kasturirangan]].",
+    "tags": "Awards and Honors, Personalities"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "The National Institute of Virology (NIV) is headquartered in which Indian city?",
+    "statements": [],
+    "options": ["Delhi", "Hyderabad", "Bengaluru", "Pune"],
+    "correct_option": "Pune",
+    "explanation": "The National Institute of Virology (NIV), a premier virus research institute under ICMR, is located in Pune, Maharashtra. [[National Institute of Virology]].",
+    "tags": "Health, Science and Technology, Institutions"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which disease is associated with the H5N1 virus?",
+    "statements": [],
+    "options": ["Swine Flu", "Bird Flu", "Ebola", "SARS"],
+    "correct_option": "Bird Flu",
+    "explanation": "H5N1 is a highly pathogenic avian influenza virus that primarily causes Bird Flu, occasionally infecting humans with high mortality rates. [[H5N1]].",
+    "tags": "Health, Science and Technology, Infectious Diseases"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "GISAID, often mentioned in virology research, is related to:",
+    "statements": [],
+    "options": [
+      "Monitoring space weather events",
+      "Tracking zoonotic virus genome data",
+      "Collecting earthquake signals",
+      "Analyzing ocean current patterns"
+    ],
+    "correct_option": "Tracking zoonotic virus genome data",
+    "explanation": "GISAID (Global Initiative on Sharing All Influenza Data) is an international platform to share influenza and coronavirus genome sequences. [[GISAID]].",
+    "tags": "Science and Technology, Health, Global Initiatives"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best explains 'One Health Approach'?",
+    "statements": [],
+    "options": [
+      "Health of humans and animals is independent",
+      "Human, animal, and environmental health are interconnected",
+      "Only human health needs focus during pandemics",
+      "Veterinary services are unrelated to public health"
+    ],
+    "correct_option": "Human, animal, and environmental health are interconnected",
+    "explanation": "The One Health Approach recognizes that the health of humans, animals, and ecosystems are interlinked and essential for combating zoonotic diseases. [[One Health]].",
+    "tags": "Health, Governance, Science and Environment"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "RNAi technology, recently used in agricultural antivirals, works mainly by:",
+    "statements": [],
+    "options": [
+      "Increasing the DNA of plants",
+      "Blocking the expression of harmful genes",
+      "Enhancing chemical pesticide absorption",
+      "Accelerating seed germination"
+    ],
+    "correct_option": "Blocking the expression of harmful genes",
+    "explanation": "RNA interference (RNAi) technology works by silencing specific harmful genes, thus protecting plants from pests or viruses. [[RNA interference]].",
+    "tags": "Science and Technology, Biotechnology, Agriculture"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which virus was among the first in which RNA-based antiviral technologies were tested successfully in agriculture?",
+    "statements": [],
+    "options": ["Banana Bunchy Top Virus", "H5N1", "SARS-CoV-2", "Ebola"],
+    "correct_option": "Banana Bunchy Top Virus",
+    "explanation": "Banana Bunchy Top Virus (BBTV) is a major target for RNA-based antiviral research in agriculture to protect banana crops. [[Banana Bunchy Top Virus]].",
+    "tags": "Agriculture, Biotechnology, Plant Pathology"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Indian organization is primarily responsible for regulating biotech crops?",
+    "statements": [],
+    "options": [
+      "GEAC (Genetic Engineering Appraisal Committee)",
+      "FSSAI (Food Safety and Standards Authority of India)",
+      "ICMR (Indian Council of Medical Research)",
+      "ICAR (Indian Council of Agricultural Research)"
+    ],
+    "correct_option": "GEAC (Genetic Engineering Appraisal Committee)",
+    "explanation": "The Genetic Engineering Appraisal Committee (GEAC) is the apex body under the Ministry of Environment that regulates GM and biotech crops. [[Genetic Engineering Appraisal Committee]].",
+    "tags": "Governance, Science and Technology, Agriculture"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "RNA-based antivirals can contribute to sustainable agriculture by:",
+    "statements": [
+      "Reducing chemical pesticide use",
+      "Enhancing genetic diversity of crops",
+      "Accelerating post-harvest losses",
+      "Increasing dependence on chemical fertilizers"
+    ],
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 4 only"],
+    "correct_option": "1 only",
+    "explanation": "RNA-based antivirals reduce dependence on chemical pesticides, thereby promoting eco-friendly and sustainable agricultural practices. [[Sustainable Agriculture]].",
+    "tags": "Agriculture, Biotechnology, Environment"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which among the following best describes the Abraham Accords?",
+    "statements": [],
+    "options": [
+      "Peace agreements between Israel and Arab countries",
+      "Oil-sharing agreements among Gulf countries",
+      "Trade agreements between Palestine and Israel",
+      "A ceasefire agreement between Hamas and Israel"
+    ],
+    "correct_option": "Peace agreements between Israel and Arab countries",
+    "explanation": "The Abraham Accords (2020) were historic agreements where UAE, Bahrain, and other Arab nations normalized relations with Israel. [[Abraham Accords]].",
+    "tags": "International Relations, West Asia Politics"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which country does NOT border the Gaza Strip?",
+    "statements": [],
+    "options": ["Israel", "Egypt", "Lebanon", "Mediterranean Sea"],
+    "correct_option": "Lebanon",
+    "explanation": "The Gaza Strip borders Israel, Egypt, and the Mediterranean Sea, but not Lebanon. [[Gaza Strip]].",
+    "tags": "World Geography, International Relations"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Buddhist belief system explains the concept of reincarnation discussed in Tibetan politics?",
+    "statements": [],
+    "options": ["Hinayana", "Theravada", "Mahayana", "Vajrayana"],
+    "correct_option": "Vajrayana",
+    "explanation": "Tibetan Buddhism follows the Vajrayana tradition, where reincarnation of Lamas, including the Dalai Lama, is a core belief. [[Vajrayana]].",
+    "tags": "Culture, Religion, Buddhism"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "The Seventeen Point Agreement (1951) was signed between:",
+    "statements": [],
+    "options": [
+      "India and China",
+      "Tibet and China",
+      "Nepal and China",
+      "Tibet and India"
+    ],
+    "correct_option": "Tibet and China",
+    "explanation": "The 1951 Seventeen Point Agreement was signed between Tibet and China, marking Chinese sovereignty over Tibet. [[Seventeen Point Agreement]].",
+    "tags": "International Relations, History, Tibet Issue"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Article in the Indian Constitution deals with the promotion of education and economic interests of Scheduled Castes and Scheduled Tribes?",
+    "statements": [],
+    "options": ["Article 21", "Article 46", "Article 14", "Article 39(b)"],
+    "correct_option": "Article 46",
+    "explanation": "Article 46 of the Indian Constitution directs the State to promote educational and economic interests of weaker sections, especially SCs and STs. [[Directive Principles of State Policy]].",
+    "tags": "Polity, Constitution, Social Justice"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following explains 'D-voter' as seen in Assam?",
+    "statements": [],
+    "options": [
+      "Defence voter",
+      "Doubtful voter",
+      "Duplicate voter",
+      "Deceased voter"
+    ],
+    "correct_option": "Doubtful voter",
+    "explanation": "In Assam, a 'D-voter' is someone whose citizenship status is doubtful and under verification. [[D-voter]].",
+    "tags": "Internal Security, Citizenship, Polity"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "The Citizenship Amendment Act, 2019, provides citizenship to migrants from which countries?",
+    "statements": [],
+    "options": [
+      "Pakistan, Afghanistan, and Bangladesh",
+      "Pakistan, Nepal, and Sri Lanka",
+      "Bangladesh, Myanmar, and Bhutan",
+      "Afghanistan, Nepal, and Maldives"
+    ],
+    "correct_option": "Pakistan, Afghanistan, and Bangladesh",
+    "explanation": "The Citizenship Amendment Act, 2019, applies to non-Muslim migrants from Pakistan, Afghanistan, and Bangladesh. [[Citizenship Amendment Act, 2019]].",
+    "tags": "Polity, Citizenship, Governance"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly describes the role of UNRWA?",
+    "statements": [],
+    "options": [
+      "It aids Palestinian refugees in the Middle East.",
+      "It resolves Israel-Palestine peace negotiations.",
+      "It maintains UN peacekeeping forces in Gaza.",
+      "It enforces economic sanctions on Israel."
+    ],
+    "correct_option": "It aids Palestinian refugees in the Middle East.",
+    "explanation": "UNRWA provides education, health, relief, and social services to Palestinian refugees in West Asia. [[United Nations Relief and Works Agency]].",
+    "tags": "International Organizations, International Relations"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "India officially recognizes Tibet as:",
+    "statements": [],
+    "options": [
+      "An independent country",
+      "A special autonomous region under China",
+      "A disputed territory",
+      "A UN-administered zone"
+    ],
+    "correct_option": "A special autonomous region under China",
+    "explanation": "India recognizes Tibet as an autonomous region under China's sovereignty, though it supports Tibetan cultural rights. [[Tibet Autonomous Region]].",
+    "tags": "International Relations, India-China Relations"
+  },
+  {
+    "date": "28",
+    "month": "April",
+    "year": "2025",
+    "question": "What is the main objective of the Pradhan Mantri Awas Yojana (PMAY)?",
+    "statements": [],
+    "options": [
+      "Providing jobs to rural youth",
+      "Providing affordable housing to all",
+      "Reviving sick industries",
+      "Enhancing public-private partnerships in defense"
+    ],
+    "correct_option": "Providing affordable housing to all",
+    "explanation": "The Pradhan Mantri Awas Yojana (PMAY) aims to provide affordable housing for all by 2022, especially focusing on EWS and LIG categories. [[Pradhan Mantri Awas Yojana]].",
+    "tags": "Governance, Welfare Schemes, Housing"
+  }
+]
