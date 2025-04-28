@@ -1,0 +1,397 @@
+[
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements regarding the Padma Awards is/are correct?",
+    "statements": [
+      "Padma Awards are mentioned in the Indian Constitution.",
+      "Padma Awards are conferred by the President of India.",
+      "Padma Awards include Padma Vibhushan, Padma Bhushan, and Padma Shri."
+    ],
+    "options": ["2 and 3 only", "1 and 2 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "2 and 3 only",
+    "explanation": "Padma Awards are civilian awards instituted in 1954, comprising Padma Vibhushan, Padma Bhushan, and Padma Shri. They are **not mentioned** in the Constitution but are conferred by the President of India annually. \n\nFor more, see [[Padma Awards]].",
+    "tags": "Polity, Governance, Awards and Honours"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "With reference to the Deputy Speaker of Lok Sabha, consider the following statements:",
+    "statements": [
+      "Deputy Speaker is elected by Lok Sabha members.",
+      "Deputy Speaker traditionally belongs to the ruling party.",
+      "The Constitution specifies a fixed time for the election of Deputy Speaker."
+    ],
+    "options": ["1 only", "1 and 2 only", "1 and 3 only", "2 and 3 only"],
+    "correct_option": "1 only",
+    "explanation": "Deputy Speaker is elected by Lok Sabha members. Traditionally, the Deputy Speaker comes from the Opposition, not the ruling party. The Constitution states 'as soon as may be' but does not specify a fixed time limit for election.\n\nFor more, see [[Deputy Speaker of the Lok Sabha]].",
+    "tags": "Polity, Parliamentary System, Governance"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Shaji N. Karun, who passed away recently, was associated with which of the following?",
+    "statements": [],
+    "options": ["Classical Dance", "Literature", "Cinema", "Photography"],
+    "correct_option": "Cinema",
+    "explanation": "Shaji N. Karun was an acclaimed Indian filmmaker and cinematographer, known for films like 'Piravi', 'Swaham', and 'Vanaprastham', contributing to Indian parallel cinema.\n\nFor more, see [[Shaji N. Karun]].",
+    "tags": "Indian Culture, Art and Cinema"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "The Index of Industrial Production (IIP) is primarily compiled by which of the following agencies?",
+    "statements": [],
+    "options": [
+      "Reserve Bank of India",
+      "National Statistical Office",
+      "NITI Aayog",
+      "Ministry of Commerce and Industry"
+    ],
+    "correct_option": "National Statistical Office",
+    "explanation": "The Index of Industrial Production (IIP) is compiled and published by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI). \n\nFor more, see [[Index of Industrial Production]].",
+    "tags": "Indian Economy, Economic Indicators"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following statements regarding the Jammu and Kashmir Legislative Assembly:",
+    "statements": [
+      "It continues to function under Article 370 of the Constitution.",
+      "Currently, it operates as a unicameral legislature.",
+      "Bicameralism in J&K ended after the Reorganisation Act, 2019."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "2 and 3 only",
+    "explanation": "Post the abrogation of Article 370 and enactment of the Jammu and Kashmir Reorganisation Act, 2019, the region now has a unicameral legislature. \n\nFor more, see [[Jammu and Kashmir Legislative Assembly]].",
+    "tags": "Polity, Governance, Internal Security"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements is correct regarding disqualification of ministers under Indian law?",
+    "statements": [],
+    "options": [
+      "A minister is automatically disqualified if under arrest.",
+      "Only conviction under specific laws leads to disqualification.",
+      "Arrest under money laundering laws bars from holding office.",
+      "Investigation alone is sufficient for disqualification."
+    ],
+    "correct_option": "Only conviction under specific laws leads to disqualification.",
+    "explanation": "According to the Representation of the People Act, 1951, only a **conviction for specific offenses** leads to disqualification. Arrest or pending investigation alone does not automatically disqualify a person from being a minister.\n\nFor more, see [[Disqualification of legislators]].",
+    "tags": "Polity, Ethics in Governance"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "In the context of International Relations, what does the term 'truce' refer to?",
+    "statements": [],
+    "options": [
+      "Permanent end of hostilities",
+      "Temporary cessation of fighting",
+      "Formal peace treaty",
+      "Unilateral surrender"
+    ],
+    "correct_option": "Temporary cessation of fighting",
+    "explanation": "A truce is a temporary suspension of fighting agreed by opposing sides, typically to allow humanitarian efforts or negotiations. It differs from a permanent peace treaty.\n\nFor more, see [[Ceasefire Agreement]].",
+    "tags": "International Relations, Global Affairs"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "In the context of water crisis in rural India, which of the following statements is/are correct?",
+    "statements": [
+      "Women bear a disproportionate burden due to water scarcity.",
+      "Jal Jeevan Mission aims to provide piped water supply to all rural households.",
+      "Swajal Scheme is designed for large-scale industrial water supply."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Women in rural India often face a heavy burden of water collection. Jal Jeevan Mission focuses on household tap connections, whereas the Swajal Scheme is for community-managed drinking water, not industrial supply.\n\nFor more, see [[Jal Jeevan Mission]], [[Swajal Scheme]].",
+    "tags": "Governance, Women Issues, Sustainable Development Goals"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following initiatives relate(s) to sustainable agriculture and conservation, recently linked to Padma awardees?",
+    "statements": [
+      "National Mission for Sustainable Agriculture (NMSA)",
+      "Paramparagat Krishi Vikas Yojana (PKVY)",
+      "National Electric Mobility Mission (NEMM)"
+    ],
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "NMSA and PKVY aim at promoting sustainable agricultural practices and organic farming, respectively. NEMM relates to electric vehicles, not agriculture.\n\nFor more, see [[National Mission for Sustainable Agriculture]], [[Paramparagat Krishi Vikas Yojana]].",
+    "tags": "Agriculture, Environment, Rural Development"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements about Padma awards is/are correct?",
+    "statements": [
+      "Padma awards are announced every year on Republic Day.",
+      "Padma awards are given only to Indian citizens.",
+      "Padma awards can be given posthumously."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "Padma Awards are announced on Republic Day. Foreigners and NRIs can also receive them, and posthumous awards have been allowed since 1955.\n\nFor more, see [[Padma Awards]].",
+    "tags": "Polity, Governance, Awards and Honours"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Under the Indian Constitution, which Article provides for the election of the Speaker and Deputy Speaker of the Lok Sabha?",
+    "statements": [],
+    "options": ["Article 89", "Article 93", "Article 94", "Article 79"],
+    "correct_option": "Article 93",
+    "explanation": "Article 93 of the Indian Constitution mandates the Lok Sabha to elect a Speaker and Deputy Speaker 'as soon as may be' after the election.\n\nFor more, see [[Speaker of the Lok Sabha]].",
+    "tags": "Polity, Constitution of India"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following films directed by Shaji N. Karun was selected for Cannes Film Festival's Palme d'Or competition?",
+    "statements": [],
+    "options": ["Piravi", "Swaham", "Vanaprastham", "Nishad"],
+    "correct_option": "Swaham",
+    "explanation": "Shaji N. Karun's film 'Swaham' (1994) was officially selected for the Palme d'Or competition at the Cannes Film Festival.\n\nFor more, see [[Swaham]].",
+    "tags": "Art and Culture, Indian Cinema"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which sector holds the maximum weight in the calculation of the Index of Industrial Production (IIP)?",
+    "statements": [],
+    "options": ["Mining", "Manufacturing", "Electricity", "Construction"],
+    "correct_option": "Manufacturing",
+    "explanation": "Manufacturing has the highest weight (77.6%) in the Index of Industrial Production (IIP), making it the most influential sector.\n\nFor more, see [[Index of Industrial Production]].",
+    "tags": "Indian Economy, Economic Indicators"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "The 'effective majority' required to remove the Deputy Speaker of Lok Sabha excludes which of the following?",
+    "statements": [],
+    "options": [
+      "Total strength of Lok Sabha",
+      "Vacant seats",
+      "Present and voting members only",
+      "Speaker of Lok Sabha"
+    ],
+    "correct_option": "Vacant seats",
+    "explanation": "Effective majority refers to a majority of the total membership excluding vacancies. Hence, vacant seats are excluded.\n\nFor more, see [[Deputy Speaker of Lok Sabha]].",
+    "tags": "Polity, Parliamentary System"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which Act governs the legal provisions related to terrorism in Jammu and Kashmir?",
+    "statements": [],
+    "options": ["AFSPA", "UAPA", "NSA", "POTA"],
+    "correct_option": "UAPA",
+    "explanation": "Terror-related activities in Jammu and Kashmir are governed primarily under the Unlawful Activities (Prevention) Act (UAPA), 1967.\n\nFor more, see [[Unlawful Activities Prevention Act]].",
+    "tags": "Internal Security, Governance"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "In the context of the Padma Awards, which of the following statements is/are correct?",
+    "statements": [
+      "There is a cash prize associated with Padma awards.",
+      "Anyone can recommend a person for the Padma awards, including self-nominations.",
+      "The Padma awards committee functions under the Ministry of External Affairs."
+    ],
+    "options": ["2 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "2 only",
+    "explanation": "Anyone can recommend a person for Padma Awards, including self-nominations. There is no cash prize, and the committee functions under the Ministry of Home Affairs.\n\nFor more, see [[Padma Awards]].",
+    "tags": "Polity, Awards and Honours, Governance"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "The Enforcement Directorate (ED) in India primarily enforces which of the following laws?",
+    "statements": [],
+    "options": [
+      "Companies Act",
+      "Foreign Contribution Regulation Act",
+      "Prevention of Money Laundering Act",
+      "Representation of People Act"
+    ],
+    "correct_option": "Prevention of Money Laundering Act",
+    "explanation": "The Enforcement Directorate (ED) enforces the Prevention of Money Laundering Act (PMLA) and the Foreign Exchange Management Act (FEMA).\n\nFor more, see [[Enforcement Directorate]].",
+    "tags": "Governance, Internal Security, Polity"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following Sustainable Development Goals (SDGs) is related to water and sanitation?",
+    "statements": [],
+    "options": ["SDG 5", "SDG 6", "SDG 7", "SDG 9"],
+    "correct_option": "SDG 6",
+    "explanation": "Sustainable Development Goal 6 aims to ensure availability and sustainable management of water and sanitation for all.\n\nFor more, see [[Sustainable Development Goals]].",
+    "tags": "Environment, Sustainable Development, Governance"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following accurately describes the term 'effective majority' used in the removal of the Deputy Speaker?",
+    "statements": [],
+    "options": [
+      "Majority of present and voting members",
+      "Majority of total membership",
+      "Majority of total membership excluding vacancies",
+      "Absolute majority of the ruling party"
+    ],
+    "correct_option": "Majority of total membership excluding vacancies",
+    "explanation": "Effective majority means the majority of the effective strength of the House (total membership excluding vacant seats).\n\nFor more, see [[Deputy Speaker of Lok Sabha]].",
+    "tags": "Polity, Parliamentary System, Constitutional Provisions"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following awards is posthumously awarded to M.T. Vasudevan Nair in 2025?",
+    "statements": [],
+    "options": [
+      "Padma Bhushan",
+      "Padma Vibhushan",
+      "Padma Shri",
+      "Bharat Ratna"
+    ],
+    "correct_option": "Padma Vibhushan",
+    "explanation": "M.T. Vasudevan Nair, the renowned Malayalam writer, was conferred the Padma Vibhushan posthumously in 2025 for his contribution to literature.\n\nFor more, see [[M. T. Vasudevan Nair]].",
+    "tags": "Awards and Honours, Literature, Indian Culture"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "The Jal Jeevan Mission launched in India primarily focuses on which of the following objectives?",
+    "statements": [],
+    "options": [
+      "Ensuring irrigation facilities for farmers",
+      "Providing drinking water to all urban households",
+      "Providing functional tap water connection to every rural household",
+      "Cleaning and rejuvenating major Indian rivers"
+    ],
+    "correct_option": "Providing functional tap water connection to every rural household",
+    "explanation": "The Jal Jeevan Mission, launched in 2019, aims to provide Functional Household Tap Connections (FHTC) to all rural households by 2024.\n\nFor more, see [[Jal Jeevan Mission]].",
+    "tags": "Governance, Rural Development, Environment"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which organization releases the Composite Water Management Index (CWMI) in India?",
+    "statements": [],
+    "options": [
+      "Central Water Commission",
+      "Ministry of Jal Shakti",
+      "NITI Aayog",
+      "National Water Development Agency"
+    ],
+    "correct_option": "NITI Aayog",
+    "explanation": "NITI Aayog publishes the Composite Water Management Index (CWMI) to assess the performance of states in water management.\n\nFor more, see [[NITI Aayog]].",
+    "tags": "Environment, Water Management, Governance"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly explains 'drudgery' in the context of the rural water crisis faced by women?",
+    "statements": [],
+    "options": [
+      "Increased agricultural income",
+      "Physical hardship from repetitive water-fetching tasks",
+      "Government-sponsored employment programs",
+      "Technological improvements in water delivery"
+    ],
+    "correct_option": "Physical hardship from repetitive water-fetching tasks",
+    "explanation": "Drudgery refers to the physical hardship and repetitive, laborious tasks, such as the burden women face daily in fetching water in rural India.\n\nFor more, see [[Water Crisis in India]].",
+    "tags": "Society, Rural Issues, Gender Issues"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "In the context of Russia–Ukraine conflict, which international treaty governs the protection of civilians during conflicts?",
+    "statements": [],
+    "options": [
+      "Geneva Conventions",
+      "Warsaw Pact",
+      "Treaty of Versailles",
+      "Helsinki Accords"
+    ],
+    "correct_option": "Geneva Conventions",
+    "explanation": "The Geneva Conventions (1949) govern international humanitarian law, ensuring the protection of civilians during armed conflicts.\n\nFor more, see [[Geneva Conventions]].",
+    "tags": "International Relations, Humanitarian Law"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which institution plays a significant role in ensuring humanitarian assistance during armed conflicts, like in Ukraine?",
+    "statements": [],
+    "options": [
+      "World Bank",
+      "International Committee of the Red Cross",
+      "UNESCO",
+      "UNEP"
+    ],
+    "correct_option": "International Committee of the Red Cross",
+    "explanation": "The International Committee of the Red Cross (ICRC) plays a critical role in delivering humanitarian aid during armed conflicts globally.\n\nFor more, see [[International Committee of the Red Cross]].",
+    "tags": "International Relations, Global Institutions, Humanitarian Issues"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which sustainable agricultural practice was encouraged through government initiatives linked to Padma awardees’ fields?",
+    "statements": [],
+    "options": [
+      "Chemical Fertilizer Subsidy",
+      "Organic Farming under PKVY",
+      "Genetically Modified Crops",
+      "Industrial-Scale Farming"
+    ],
+    "correct_option": "Organic Farming under PKVY",
+    "explanation": "Padma awardees linked to agricultural fields were recognized for promoting organic farming practices, supported under the Paramparagat Krishi Vikas Yojana (PKVY).\n\nFor more, see [[Paramparagat Krishi Vikas Yojana]].",
+    "tags": "Agriculture, Sustainable Development, Environment"
+  },
+  {
+    "date": "29",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes the socio-political implication of honoring grassroots conservationists with Padma awards?",
+    "statements": [],
+    "options": [
+      "Increases urban industrialization",
+      "Boosts participatory development and community empowerment",
+      "Privatizes agricultural research",
+      "Discourages local innovation"
+    ],
+    "correct_option": "Boosts participatory development and community empowerment",
+    "explanation": "Honoring grassroots conservationists with national awards fosters participatory development models and empowers local communities.\n\nFor more, see [[Padma Awards]].",
+    "tags": "Governance, Rural Development, Agriculture and Environment"
+  }
+]
