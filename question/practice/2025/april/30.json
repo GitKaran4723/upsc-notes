@@ -1,0 +1,451 @@
+[
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following statements about the Right of Reply at the United Nations is/are correct?",
+    "statements": [
+      "It is a procedural right under Rule 73 of the General Assembly.",
+      "It allows a country to respond to criticism made by another country during debates.",
+      "Only Security Council members can exercise this right."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Right of Reply is a procedural right under Rule 73 of the UN General Assembly, allowing countries to respond to criticisms or accusations made during debates. It is not limited to Security Council members.\n\nSee [[Right of reply]], [[UN General Assembly procedure]].",
+    "tags": "International Relations, Polity, United Nations"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following with reference to the Pegasus spyware case:",
+    "statements": [
+      "Pegasus spyware was developed by an Israeli company called NSO Group.",
+      "The Supreme Court had appointed a technical committee to investigate its use in India.",
+      "The Supreme Court declared Pegasus illegal and unconstitutional."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Pegasus is a military-grade spyware developed by NSO Group. The Supreme Court appointed a technical committee in 2021 to investigate its use, but it has not yet declared Pegasus illegal or unconstitutional.\n\nSee [[Pegasus spyware]], [[Right to Privacy in India]].",
+    "tags": "Science and Technology, Polity, Internal Security"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Under which provision of the Motor Vehicles Act, 1988 is the licensing of ride aggregators such as bike taxis regulated?",
+    "statements": [],
+    "options": ["Section 87", "Section 92A", "Section 93", "Section 96"],
+    "correct_option": "Section 93",
+    "explanation": "Section 93 of the Motor Vehicles Act, 1988 governs the licensing and regulation of aggregators, including bike taxi services like Rapido, Ola, and Uber. It empowers state governments to frame necessary guidelines.\n\nSee [[Motor Vehicles Act 1988]], [[Transport aggregator]].",
+    "tags": "Polity, Economy, Governance"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following IPC sections are relevant in the case of anonymous bomb hoax threats?",
+    "statements": [
+      "Section 505(1)(b)",
+      "Section 507",
+      "Section 304B",
+      "Section 153A"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 4 only", "3 and 4 only"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Section 505(1)(b) deals with causing alarm to the public, while Section 507 addresses criminal intimidation by anonymous communication. These apply directly to hoax bomb threats.\n\nSee [[Indian Penal Code]], [[Cyber Crime]].",
+    "tags": "Internal Security, Cyber Law, Polity"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Section 69A of the Information Technology Act, 2000 empowers the government to do which of the following?",
+    "statements": [
+      "Intercept any communication without a warrant.",
+      "Block public access to any information on computer resources in public interest.",
+      "Enforce data localization without legislation."
+    ],
+    "options": ["1 and 2 only", "2 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "2 only",
+    "explanation": "Section 69A allows the Indian government to block access to online content in the interest of national security or public order. It does not allow interception without legal procedure or enforce data localization without legislation.\n\nSee [[Information Technology Act 2000]], [[Cybersecurity in India]].",
+    "tags": "Science and Technology, Cyber Law, Governance"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Despite receiving anti-rabies vaccination, a child in Kerala died of rabies. Which of the following factors could have led to vaccine failure?",
+    "statements": [
+      "Inadequate administration of Rabies Immunoglobulin (RIG) in Category III bites.",
+      "Delayed wound washing and post-exposure treatment.",
+      "Improper storage or expired anti-rabies vaccine.",
+      "Vaccines are always 100% effective regardless of bite severity."
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "In severe cases such as head injuries (Category III), both timely administration of Rabies Immunoglobulin (RIG) and proper wound care are essential. Vaccines, while highly effective, are not infallible if protocols are not followed.\n\nSee [[Rabies]], [[Post-Exposure Prophylaxis]], [[Category III exposure]].",
+    "tags": "Health, Governance, Science and Technology"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "What is 'Continuing Mandamus', recently mentioned in the context of India’s waste management litigation?",
+    "statements": [
+      "A legislative amendment process that allows continuous revision of laws.",
+      "A type of judicial order where the court retains jurisdiction to monitor compliance.",
+      "A tool used exclusively by the Supreme Court for economic reforms.",
+      "An executive guideline for implementing tribunal orders."
+    ],
+    "options": ["1 only", "2 only", "3 only", "4 only"],
+    "correct_option": "2 only",
+    "explanation": "'Continuing Mandamus' is a judicial innovation where the court keeps a case open to ensure long-term compliance with its orders. It is often used in environmental and governance-related PILs.\n\nSee [[Continuing Mandamus]], [[Indian environmental law]].",
+    "tags": "Environment, Judiciary, Governance"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following about the Index of Industrial Production (IIP):",
+    "statements": [
+      "It measures growth in mining, manufacturing, and electricity sectors.",
+      "Consumer durables are a part of the IIP calculation.",
+      "The base year for current IIP calculation is 2011–12."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "IIP tracks industrial output in mining, manufacturing, and electricity. Consumer durables are included under the manufacturing category. The base year was revised to 2011–12.\n\nSee [[Index of Industrial Production]], [[Indian Economy]].",
+    "tags": "Economy, Statistics, Infrastructure"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following practices were associated with Sri Lanka’s Prevention of Terrorism Act (PTA)?",
+    "statements": [
+      "Detention without judicial oversight for extended periods.",
+      "Admissibility of confessions made to police officers.",
+      "Criminal liability for failure to report suspected terrorism."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Sri Lanka’s PTA allowed prolonged detention without trial, made confessions to police admissible, and criminalized non-reporting. It has been criticized for human rights violations and calls for repeal are increasing.\n\nSee [[Prevention of Terrorism Act (Sri Lanka)]], [[Human Rights in South Asia]].",
+    "tags": "International Relations, Human Rights, Comparative Polity"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "What role does the Defence Cyber Agency play in India?",
+    "statements": [
+      "It manages India’s cyber operations for military purposes.",
+      "It is under the Ministry of Electronics and IT.",
+      "It assists in protecting classified military infrastructure from cyberattacks."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Defence Cyber Agency is a tri-services body under the Integrated Defence Staff, tasked with protecting military cyber infrastructure and conducting cyber operations. It is not under the Ministry of Electronics and IT.\n\nSee [[Defence Cyber Agency]], [[Cybersecurity in India]].",
+    "tags": "Internal Security, Defence, Cybersecurity"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following digital platforms have been established under NEP 2020 to promote inclusive education?",
+    "statements": ["DIKSHA", "PM e-Vidya", "One Nation, One Digital Platform"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Under the National Education Policy 2020, multiple platforms including DIKSHA (digital repository), PM e-Vidya (multi-modal access), and 'One Nation, One Digital Platform' have been introduced to make education more accessible and multilingual.\n\nSee [[National Education Policy 2020]], [[DIKSHA platform]], [[PM e-Vidya]].",
+    "tags": "Education, Governance, Science and Technology"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "The '5+3+3+4' curricular structure under NEP 2020 is intended to replace which existing structure?",
+    "statements": [],
+    "options": ["8+2 system", "12+3 system", "10+2 system", "4+4+4 system"],
+    "correct_option": "10+2 system",
+    "explanation": "NEP 2020 replaces the 10+2 schooling structure with the 5+3+3+4 framework to align with developmental stages of children, incorporating early childhood education into the formal structure.\n\nSee [[National Education Policy 2020]].",
+    "tags": "Education, Governance"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best explains the purpose of the National Credit Framework (NCrF)?",
+    "statements": [],
+    "options": [
+      "To regulate financial aid to higher education institutions",
+      "To integrate vocational and academic education through credit-based systems",
+      "To create a fund for national scholarship distribution",
+      "To replace the UGC and AICTE with a single regulator"
+    ],
+    "correct_option": "To integrate vocational and academic education through credit-based systems",
+    "explanation": "The National Credit Framework (NCrF) enables the accumulation and transfer of academic credits across formal and non-formal learning systems, bridging vocational and academic tracks.\n\nSee [[National Credit Framework]], [[NEP 2020]].",
+    "tags": "Education, Skill Development, Governance"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which agency in India is responsible for emergency response to cyber incidents?",
+    "statements": [],
+    "options": ["NCIIPC", "CERT-In", "NTRO", "RAW"],
+    "correct_option": "CERT-In",
+    "explanation": "CERT-In (Indian Computer Emergency Response Team) is the national nodal agency under the Ministry of Electronics and IT that responds to cybersecurity incidents.\n\nSee [[CERT-In]], [[Cybersecurity in India]].",
+    "tags": "Science and Technology, Internal Security"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following institutions with regard to cybersecurity in India:",
+    "statements": [
+      "CERT-In",
+      "National Critical Information Infrastructure Protection Centre (NCIIPC)",
+      "Defence Cyber Agency"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "CERT-In handles general cybersecurity; NCIIPC protects critical information infrastructure; the Defence Cyber Agency manages military-related cyber operations. All three play key roles in cybersecurity governance.\n\nSee [[CERT-In]], [[NCIIPC]], [[Defence Cyber Agency]].",
+    "tags": "Internal Security, Cybersecurity, Defence"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which principles form the basis of environmental jurisprudence in India?",
+    "statements": [
+      "Polluter Pays Principle",
+      "Precautionary Principle",
+      "Sustainable Development"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s environmental jurisprudence is founded on the Polluter Pays Principle, Precautionary Principle, and Sustainable Development, as interpreted in several Supreme Court cases.\n\nSee [[Polluter Pays Principle]], [[Environmental Law in India]].",
+    "tags": "Environment, Judiciary, Governance"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best defines a 'Sanitary Landfill'?",
+    "statements": [],
+    "options": [
+      "An open dump site managed by informal recyclers",
+      "A facility where untreated industrial waste is stored",
+      "A scientifically engineered site for waste disposal with leachate and gas management",
+      "A composting unit for biodegradable municipal waste"
+    ],
+    "correct_option": "A scientifically engineered site for waste disposal with leachate and gas management",
+    "explanation": "Sanitary landfills are designed to safely dispose of waste, preventing groundwater contamination and managing methane gas, unlike unregulated dumpsites.\n\nSee [[Sanitary Landfill]], [[Solid Waste Management]].",
+    "tags": "Environment, Infrastructure, Science and Technology"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which international organization suspended Sri Lanka’s GSP+ trade benefits due to human rights concerns under the PTA?",
+    "statements": [],
+    "options": [
+      "United Nations Human Rights Council",
+      "World Trade Organization",
+      "European Union",
+      "South Asian Association for Regional Cooperation"
+    ],
+    "correct_option": "European Union",
+    "explanation": "The European Union suspended GSP+ trade concessions to Sri Lanka due to its misuse of the Prevention of Terrorism Act (PTA), citing human rights violations.\n\nSee [[GSP+]], [[European Union–Sri Lanka relations]].",
+    "tags": "International Relations, Economy, Human Rights"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are components of Post-Exposure Prophylaxis (PEP) for rabies?",
+    "statements": [
+      "Thorough wound washing",
+      "Anti-Rabies Vaccine (ARV)",
+      "Rabies Immunoglobulin (RIG)"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Effective rabies PEP includes immediate wound washing, administration of anti-rabies vaccine, and Rabies Immunoglobulin in severe (Category III) bites.\n\nSee [[Post-exposure prophylaxis]], [[Rabies vaccine]].",
+    "tags": "Health, Science and Technology, Public Policy"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "The term 'Deepfake' is best associated with:",
+    "statements": [],
+    "options": [
+      "A type of cyberattack using ransomware",
+      "Fake information spread via fake news websites",
+      "AI-generated synthetic media used for impersonation or misinformation",
+      "Spoofing of biometric data in Aadhaar authentication"
+    ],
+    "correct_option": "AI-generated synthetic media used for impersonation or misinformation",
+    "explanation": "Deepfakes involve AI-generated audio or video content that mimics real people, often used for malicious purposes like impersonation or defamation.\n\nSee [[Deepfake]], [[Artificial intelligence in media]].",
+    "tags": "Science and Technology, Cybersecurity, Ethics"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Consider the following statements regarding the Index of Industrial Production (IIP):",
+    "statements": [
+      "It is compiled by the National Statistical Office (NSO).",
+      "Electricity, manufacturing, and mining are the three core sectors measured under IIP.",
+      "IIP does not reflect rural demand trends."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The IIP is compiled by NSO and measures growth in manufacturing, electricity, and mining. While rural demand can be indirectly inferred (e.g., through non-durable goods), it is not directly measured.\n\nSee [[Index of Industrial Production]], [[NSO India]].",
+    "tags": "Economy, Statistics, Governance"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following factors may be responsible for industrial slowdown in India, as reported recently?",
+    "statements": [
+      "Decline in rural demand for non-durable goods",
+      "Lower farm income due to vegetable price crash",
+      "Hesitancy in private capital expenditure"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Industrial slowdown is attributed to multiple factors including rural distress (non-durables), falling agricultural incomes, and slow private investment despite policy interventions.\n\nSee [[Indian Economy]], [[Index of Industrial Production]].",
+    "tags": "Economy, Rural Development, Industrial Policy"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best describes the Polluter Pays Principle?",
+    "statements": [],
+    "options": [
+      "The government bears the cost of environmental damage.",
+      "The courts compensate victims and close the case.",
+      "Polluting parties must compensate for the environmental harm they cause.",
+      "The local panchayat is responsible for all waste management costs."
+    ],
+    "correct_option": "Polluting parties must compensate for the environmental harm they cause.",
+    "explanation": "The Polluter Pays Principle is a cornerstone of environmental law where those who produce pollution are held responsible for the costs of managing it to prevent damage.\n\nSee [[Polluter Pays Principle]], [[Environmental Law in India]].",
+    "tags": "Environment, Governance, Law"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following are features of the One Health Approach?",
+    "statements": [
+      "Integration of human, animal, and environmental health systems",
+      "Joint surveillance of zoonotic diseases",
+      "Exclusive focus on non-communicable diseases"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The One Health approach addresses the interconnection between humans, animals, and ecosystems. It is key for managing zoonotic diseases, not non-communicable diseases.\n\nSee [[One Health]], [[Zoonotic diseases]].",
+    "tags": "Health, Environment, Governance"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Under Indian law, which of the following actions can be taken against anonymous cyber threats involving deepfake content?",
+    "statements": [
+      "Block offending URLs under Section 69A of IT Act",
+      "File FIR under IPC for criminal intimidation",
+      "Trace IP addresses using cyber forensic tools"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three actions—blocking under IT Act, FIR for criminal intimidation, and cyber forensic investigation—are valid legal tools for dealing with anonymous cyber threats involving offensive or deepfake content.\n\nSee [[IT Act 2000]], [[Cyber Crime in India]].",
+    "tags": "Cybersecurity, Polity, Internal Security"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following best defines the term 'Sealed Cover Jurisprudence'?",
+    "statements": [],
+    "options": [
+      "A process where sealed tenders are opened by courts",
+      "Judicial review of laws in camera",
+      "A practice where sensitive documents are submitted to the court confidentially",
+      "Use of confidential parliamentary reports in court decisions"
+    ],
+    "correct_option": "A practice where sensitive documents are submitted to the court confidentially",
+    "explanation": "Sealed cover jurisprudence refers to the submission of confidential documents to the court without sharing them with the opposing party, usually in matters involving national security.\n\nSee [[Sealed Cover Jurisprudence]], [[Judicial Transparency]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following websites were targeted in the recent cyberattacks by the group 'IOK Hacker'?",
+    "statements": [
+      "Army Public School, Srinagar",
+      "Indian Air Force Placement Organisation (IAFPO)",
+      "Ministry of Defence classified networks"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The reported attacks targeted public-facing defence-linked portals such as Army Public School and IAFPO, not classified MoD networks.\n\nSee [[Cyberattacks in India]], [[IOK Hacker Group]].",
+    "tags": "Internal Security, Defence, Cybersecurity"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following terms is correctly matched with its description?",
+    "statements": [],
+    "options": [
+      "VoTAN – Network supporting victims of terrorism",
+      "EPR – Government-run plastic collection agency",
+      "NCF – Policy for controlling fiscal deficit",
+      "ABC-AR – Scheme for eradicating vector-borne diseases"
+    ],
+    "correct_option": "VoTAN – Network supporting victims of terrorism",
+    "explanation": "VoTAN stands for Victims of Terrorism Association Network, an initiative to globally support victims of terrorism. The other terms are incorrectly matched in this context.\n\nSee [[VoTAN]], [[Victims of terrorism]].",
+    "tags": "International Relations, Internal Security, Current Affairs"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following steps can help improve solid waste management in rural India?",
+    "statements": [
+      "Mandating geotagged waste infrastructure",
+      "Linking all Panchayats with MRFs (Material Recovery Facilities)",
+      "Establishing PIBO-led kiosks for EPR compliance"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Improving rural waste management requires geotagged infrastructure, establishing material recovery linkages at panchayat level, and involving producers in collection through kiosks.\n\nSee [[Solid Waste Management Rules 2016]], [[Extended Producer Responsibility]].",
+    "tags": "Environment, Governance, Rural Development"
+  },
+  {
+    "date": "30",
+    "month": "April",
+    "year": "2025",
+    "question": "Which of the following correctly describe Extended Producer Responsibility (EPR)?",
+    "statements": [
+      "It applies to Producers, Importers, and Brand Owners (PIBOs).",
+      "It mandates collection and recycling of plastic waste.",
+      "It is regulated under Solid Waste Management Rules, 2016."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "EPR requires Producers, Importers, and Brand Owners to manage post-consumer waste. It is a legal obligation under the Plastic Waste and Solid Waste Management Rules, 2016.\n\nSee [[Extended Producer Responsibility]], [[Plastic Waste Management Rules]].",
+    "tags": "Environment, Economy, Waste Management"
+  }
+]
