@@ -1,0 +1,465 @@
+[
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to India’s Goods and Services Tax (GST), consider the following statements:",
+    "statements": [
+      "GST was implemented through the 101st Constitutional Amendment Act.",
+      "GST follows a dual model where both Centre and State levy tax on the same transaction.",
+      "GST Council is a statutory body formed under the Finance Act, 2017."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The GST was brought in through the 101st Constitutional Amendment Act, 2016 and follows a dual GST model where both Centre (CGST) and States (SGST) levy tax on the same supply. However, the GST Council is a constitutional body established under Article 279A, not under the Finance Act.\n\nSee [[Goods and Services Tax (India)]] and [[GST Council]].",
+    "tags": "Economy, Governance, Taxation"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "India recorded its highest-ever GST collection in April 2025. Which of the following contributed most significantly to this record?",
+    "statements": [
+      "A sharp rise in domestic transactions.",
+      "Higher imports contributing to IGST.",
+      "Increased refund processing leading to better net realization."
+    ],
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The April 2025 GST collection rose due to a 10.7% increase in domestic transactions and 20.8% growth in IGST from imports. Although refunds improved, that decreased net collection, not enhanced it.\n\nSee [[Goods and Services Tax (India)]].",
+    "tags": "Economy, Fiscal Policy"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "The term 'Orange Economy' recently seen in news refers to:",
+    "statements": [],
+    "options": [
+      "Trade in agricultural products and fruits",
+      "Sustainable urban development through recycling",
+      "Economic activities based on creative and cultural industries",
+      "Digital transformation of traditional handicrafts"
+    ],
+    "correct_option": "Economic activities based on creative and cultural industries",
+    "explanation": "The Orange Economy, also known as the Creative Economy, encompasses sectors rooted in creativity and intellectual property such as media, design, films, music, and performing arts. It is an emerging area of economic growth and soft power.\n\nRefer [[Orange economy]] and [[Creative industries]].",
+    "tags": "Economy, Culture, International Relations"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are objectives of India’s ‘Create in India’ initiative as emphasized at the WAVES 2025 Summit?",
+    "statements": [
+      "To establish India as a global content creation hub",
+      "To encourage foreign direct investment in the animation and gaming sectors",
+      "To create single-window clearance systems for film shooting and media startups"
+    ],
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "‘Create in India’ aims to transform India into a global creative hub. It includes FDI incentives in AVGC sectors, infrastructure for filming, and digital tools for content creation.\n\nRefer [[Media of India]], [[Creative industries]], and [[FDI in India]].",
+    "tags": "Economy, Culture, Governance"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following minerals are categorized as Rare Earth Elements (REEs)?",
+    "statements": ["Lanthanum", "Neodymium", "Titanium", "Cerium"],
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Lanthanum, Neodymium, and Cerium are all part of the 17 Rare Earth Elements. Titanium, while strategic, is not a REE. REEs are vital for electronics, defense, and renewable energy.\n\nSee [[Rare earth element]] and [[Strategic minerals]].",
+    "tags": "Geography, Economy, International Relations"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following statements regarding the U.S.–Ukraine Reinvestment Fund:",
+    "statements": [
+      "It grants the U.S. strategic access to Ukraine’s rare earth mineral deposits.",
+      "It was established during ongoing Russia–Ukraine peace negotiations.",
+      "It is administered by the United Nations Economic Council."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The U.S.–Ukraine Reinvestment Fund is a bilateral initiative granting the U.S. access to Ukraine's rare earths during sensitive peace talks. It is not administered by the UN.\n\nRefer [[Ukraine–United States relations]] and [[Rare earth industry]].",
+    "tags": "International Relations, Economy, Security"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the POCSO Act, 2012, consider the following provisions:",
+    "statements": [
+      "It provides for the establishment of special courts for child sexual abuse cases.",
+      "It criminalizes all forms of sexual abuse against children under 16 years.",
+      "It mandates child-friendly procedures for investigation and trial."
+    ],
+    "options": ["1 and 3 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "The POCSO Act covers children under 18 years, not just 16. It mandates special courts and child-friendly trial procedures to protect minors from sexual offences.\n\nRefer [[Protection of Children from Sexual Offences Act]] and [[Child protection laws in India]].",
+    "tags": "Polity, Social Justice, Law"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Section 153A of the Indian Penal Code is invoked in which of the following scenarios?",
+    "statements": [],
+    "options": [
+      "Organizing unauthorized protests",
+      "Promotion of enmity between different groups on grounds of religion, race, place of birth, etc.",
+      "Spreading fake news on digital platforms",
+      "Defamation of public servants"
+    ],
+    "correct_option": "Promotion of enmity between different groups on grounds of religion, race, place of birth, etc.",
+    "explanation": "Section 153A IPC penalizes acts that promote enmity between communities and disturb public harmony. It is often used in communal violence cases.\n\nSee [[Indian Penal Code]], [[Hate speech in India]].",
+    "tags": "Polity, Internal Security, Governance"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements regarding the GST revenue in April 2025 are correct?",
+    "statements": [
+      "It recorded over ₹2.37 lakh crore, the highest-ever monthly collection.",
+      "Net collections after refunds were ₹2.09 lakh crore.",
+      "It showed uniform growth across states, ranging from 1% to 5%."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "April 2025 marked a record ₹2.37 lakh crore collection with ₹2.09 lakh crore net of refunds. The growth across states ranged between 11% and 16%, not 1–5%.\n\nSee [[Goods and Services Tax (India)]].",
+    "tags": "Economy, Taxation, Governance"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following measures were highlighted by PM Modi to promote the ‘Orange Economy’ at the WAVES 2025 Summit?",
+    "statements": [
+      "Global outreach through co-production treaties",
+      "Creation of WAVES Awards to honor creative talent",
+      "Government investment in creativity tools for students and teachers"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "At WAVES 2025, PM Modi emphasized co-production treaties, honoring creators with WAVES Awards, and expanding digital tools in schools, including Adobe’s partnership to reach students.\n\nRefer [[Creative economy]], [[WAVES Summit]], and [[Digital India]].",
+    "tags": "Culture, Economy, Governance"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the Satavahana dynasty, consider the following statements:",
+    "statements": [
+      "They issued coins with Prakrit inscriptions.",
+      "They were known for patronage to Buddhism.",
+      "They ruled primarily over the Ganga plain and eastern coastal region."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Satavahanas ruled mainly the Deccan region, not the Ganga plain. They issued coins with Prakrit legends and were known for Buddhist patronage, including construction of stupas like Amaravati. Their inscriptions and coinage help trace early Deccan political history.\n\nRefer [[Satavahana dynasty]] and [[Ancient Indian numismatics]].",
+    "tags": "History, Art and Culture, Epigraphy"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "The Chutu dynasty, recently mentioned in ASI findings, is best described as:",
+    "statements": [],
+    "options": [
+      "A dynasty from the northwest allied with Kushanas",
+      "A subordinate or successor dynasty in the Deccan post-Satavahana era",
+      "A ruling clan from the Indo-Greek region",
+      "An early Gupta vassal state in Bengal"
+    ],
+    "correct_option": "A subordinate or successor dynasty in the Deccan post-Satavahana era",
+    "explanation": "The Chutus ruled in Karnataka and Telangana during the early Common Era and are often seen as successors or vassals of the Satavahanas. Their inscriptions show regional governance and religious patronage.\n\nRefer [[Chutu dynasty]] and [[Deccan history]].",
+    "tags": "History, Epigraphy, Culture"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following symbols, associated with Shaivism, were found in the newly discovered inscriptions in Telangana?",
+    "statements": ["Damaru", "Trident", "Lingam", "Nandi"],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The ASI discovered inscriptions bearing early Shaivite symbols such as the damaru (drum) and trident (trishul). These are some of the earliest known religious motifs indicating Shaivite influence in South Indian epigraphy.\n\nSee [[Shaivism]], [[Indian rock inscriptions]], and [[Religious symbols in India]].",
+    "tags": "Art and Culture, History, Religion"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following facts about the Near-Surface Shear Layer (NSSL) of the Sun:",
+    "statements": [
+      "It is located approximately 35,000 km below the Sun’s surface.",
+      "It plays a role in the Sun's magnetic cycle and space weather.",
+      "It contains the solar core where nuclear fusion occurs."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The NSSL is a dynamic region close to the Sun's surface, where plasma flow varies and contributes to the generation of magnetic fields. However, the core of the Sun lies much deeper, and it is the site of nuclear fusion—not the NSSL.\n\nRefer [[Structure of the Sun]] and [[Solar magnetic cycle]].",
+    "tags": "Science and Technology, Space, Astrophysics"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Aditya-L1, India’s solar observatory, will study which of the following aspects of the Sun?",
+    "statements": [
+      "Solar corona and solar winds",
+      "Near-Surface Shear Layer dynamics",
+      "Sunspot formations and solar flares"
+    ],
+    "options": ["1 only", "1 and 2 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Aditya-L1 is India's dedicated solar mission launched to study the Sun’s corona, solar flares, magnetic fields, solar winds, and associated space weather phenomena. It can contribute to understanding the NSSL indirectly via coronal studies.\n\nRefer [[Aditya-L1 mission]] and [[Space weather]].",
+    "tags": "Science and Technology, Space, Indian Missions"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the Veerashaiva-Lingayat community’s demand for a separate religion code, consider the following statements:",
+    "statements": [
+      "They are currently grouped under 'Hindu' in Census classification.",
+      "The demand for separate religion code was made before the 2011 Census.",
+      "The Justice Nagamohan Das Committee recommended granting them religious minority status."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Veerashaiva-Lingayat community has repeatedly demanded a separate religion code. All three statements are correct: they are currently under Hinduism, made demands before 2011, and the Nagamohan Das Committee recommended minority status in 2018.\n\nRefer [[Lingayatism]], [[Census of India]], and [[Nagamohan Das Committee]].",
+    "tags": "Polity, Society, Governance"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following constitutional articles are relevant in preventing communal targeting post-terror incidents?",
+    "statements": [
+      "Article 14 – Right to Equality",
+      "Article 15 – Prohibition of discrimination",
+      "Article 21 – Protection of life and personal liberty",
+      "Article 25 – Freedom of religion"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2, 3 and 4",
+    "explanation": "All four articles are relevant: Article 14 ensures equal protection of law; Article 15 prohibits discrimination; Article 21 guarantees life and liberty; Article 25 secures freedom of religion. These collectively protect citizens from post-terror communal backlash.\n\nRefer [[Fundamental Rights in India]].",
+    "tags": "Polity, Rights Issues, Internal Security"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "In the context of India’s response to terrorism, which of the following are correct initiatives or precedents?",
+    "statements": [
+      "Conduct of surgical strikes across the LoC in 2016",
+      "Balakot Air Strike in 2019 after the Pulwama attack",
+      "Designation of terror groups like Lashkar-e-Taiba under UNSC sanctions"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India has taken several strong responses to terrorism: the 2016 surgical strikes, the 2019 Balakot Air Strike, and pursuing global sanctions on groups like LeT and JeM through UN 1267 Committee.\n\nRefer [[2016 Uri attack]], [[Pulwama attack]], and [[UN Security Council Sanctions]].",
+    "tags": "Internal Security, International Relations, Defence"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements best reflect the ethical leadership shown by Lt. Vinay Narwal’s family after the Pahalgam attack?",
+    "statements": [
+      "They called for national unity and peace over revenge.",
+      "They demanded justice without inciting hatred.",
+      "They upheld the dignity of armed forces while condemning violence."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Lt. Narwal’s wife rejected communal hatred and appealed for peace, exemplifying moral strength and civic virtue. Their actions highlight ethical leadership amid grief and set a powerful precedent for harmony and rule of law.\n\nRefer [[Civil–military relations in India]], [[Ethics in public life]].",
+    "tags": "Ethics, Internal Security, Social Issues"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are potential applications of space weather forecasting as mentioned in the context of the IIA study?",
+    "statements": [
+      "Protection of satellite communication systems",
+      "Navigation safety in aviation and maritime sectors",
+      "Preventing electrical blackouts due to solar storms"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Space weather events like solar flares and CMEs can disrupt GPS, communication, aviation, and power grids. Forecasting such events helps build resilience in critical infrastructure.\n\nRefer [[Space weather]], [[Solar flares]], [[Geomagnetic storms]].",
+    "tags": "Science and Technology, Space, Disaster Management"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following mechanisms are used to strengthen GST compliance in India?",
+    "statements": [
+      "E-invoicing for B2B transactions",
+      "E-way bill system for goods transport",
+      "AI-based fraud detection algorithms"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "To enhance GST compliance, the government introduced e-invoicing for transparency in business transactions, e-way bills to track movement of goods, and AI-based tools to detect fraud and reduce evasion. These measures have boosted tax buoyancy and collection.\n\nSee [[Goods and Services Tax (India)]] and [[E-way bill]].",
+    "tags": "Economy, Governance, Taxation"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which global summit is dubbed as the 'Cultural Davos' and was recently hosted in India?",
+    "statements": [],
+    "options": [
+      "SAARC Cultural Conclave",
+      "Global Media and Democracy Forum",
+      "WAVES Summit",
+      "BRICS Cultural Exchange Meet"
+    ],
+    "correct_option": "WAVES Summit",
+    "explanation": "The WAVES (World Audio Visual and Entertainment Summit) 2025 was hosted in Mumbai, promoting India as a content hub and showcasing the Orange Economy. It gathered creators, policymakers, and industry leaders from 90+ countries.\n\nSee [[WAVES Summit]] and [[Orange Economy]].",
+    "tags": "Culture, International Relations, Economy"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Why is the U.S.–Ukraine rare earth mineral deal geopolitically significant?",
+    "statements": [
+      "It reduces global reliance on China for strategic minerals.",
+      "It is part of Ukraine’s post-war economic recovery.",
+      "It strengthens NATO’s direct involvement in Ukrainian mining."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The deal helps the U.S. diversify away from China’s monopoly over rare earths and aids Ukraine’s recovery by channeling funds into critical resource extraction. However, NATO is not directly involved in this economic agreement.\n\nRefer [[Rare earth industry]], [[Ukraine–United States relations]].",
+    "tags": "International Relations, Economy, Strategic Minerals"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following accurately describe the Chutu dynasty's contribution to Indian history?",
+    "statements": [
+      "Their inscriptions are among the earliest bearing Brahmi script in Deccan.",
+      "They were patrons of both Buddhism and Shaivism.",
+      "They were mentioned in the Arthashastra and Asokan edicts."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Chutus, a lesser-known Deccan dynasty, left behind inscriptions in early Brahmi and show influence of both Buddhist and Shaivite traditions. They are not mentioned in Arthashastra or Ashokan edicts, which predate their rule.\n\nSee [[Chutu dynasty]], [[Early Brahmi script]].",
+    "tags": "History, Culture, Epigraphy"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following about the Indian Institute of Astrophysics (IIA):",
+    "statements": [
+      "It is under the Ministry of Earth Sciences.",
+      "It is involved in both ground-based and space-based solar research.",
+      "It collaborated in Aditya-L1 and NLST projects."
+    ],
+    "options": ["2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "2 and 3 only",
+    "explanation": "IIA functions under the Department of Science and Technology (DST), not the Ministry of Earth Sciences. It plays a vital role in India's solar research, partnering in Aditya-L1 and the upcoming National Large Solar Telescope (NLST).\n\nRefer [[Indian Institute of Astrophysics]] and [[Aditya-L1]].",
+    "tags": "Science and Technology, Institutions, Space"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which legal and institutional tools are used to counter hate speech and communal incitement in India?",
+    "statements": [
+      "Section 153A of the IPC",
+      "The Representation of the People Act, 1951",
+      "The Information Technology Rules, 2021"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Section 153A penalizes promotion of enmity. The Representation of the People Act disqualifies candidates for communal speeches. The IT Rules empower digital platforms to remove hate content. Together, they form a legal firewall against hate speech.\n\nRefer [[Indian Penal Code]], [[Representation of the People Act, 1951]], and [[Information Technology Rules 2021]].",
+    "tags": "Polity, Law, Internal Security"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "What are the possible implications of giving Lingayats a separate religion code in the Census?",
+    "statements": [
+      "It could affect their reservation and minority welfare status.",
+      "It may lead to administrative restructuring in Census reporting.",
+      "It will remove them from the OBC list in all states."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "A separate religion code can alter socio-political categorization and require new administrative classifications. However, removal from OBC list would depend on state-specific decisions and isn’t automatic.\n\nSee [[Census of India]], [[OBC classification]], [[Lingayatism]].",
+    "tags": "Polity, Society, Governance"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following Indian constitutional provisions empower the government to protect victims of communal violence?",
+    "statements": [
+      "Directive Principles under Article 38",
+      "Emergency provisions under Article 356",
+      "Fundamental Duties under Article 51A(e)"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Article 38 directs the state to promote justice. Article 356 enables central intervention if public order fails. Article 51A(e) places a duty on citizens to promote harmony. These collectively provide legal and moral authority to prevent and respond to communal violence.\n\nSee [[Fundamental Duties]], [[Directive Principles of State Policy]].",
+    "tags": "Polity, Constitution, Social Justice"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following solar phenomena can potentially affect power grids and satellite operations on Earth?",
+    "statements": [
+      "Coronal Mass Ejections",
+      "Solar Flares",
+      "Solar Wind Stream Interactions"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "CMEs, solar flares, and interactions of solar wind streams with Earth's magnetosphere can all impact space weather—disrupting satellites, power grids, GPS, and radio signals. These are closely monitored for predictive alerts.\n\nRefer [[Space weather]], [[Coronal mass ejection]], [[Solar flare]].",
+    "tags": "Science and Technology, Space, Disaster Management"
+  },
+  {
+    "date": "2",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following accurately reflects a policy step under India's AVGC (Animation, Visual Effects, Gaming & Comics) Promotion Task Force?",
+    "statements": [],
+    "options": [
+      "Creation of new central law to regulate gaming platforms",
+      "Promotion of co-production treaties with other nations",
+      "Imposition of special taxes on foreign media platforms",
+      "Inclusion of gaming in the Defense Procurement Policy"
+    ],
+    "correct_option": "Promotion of co-production treaties with other nations",
+    "explanation": "The AVGC Task Force aims to boost India’s soft power by facilitating international co-productions, easing filming clearances, and developing domestic animation and gaming talent. It doesn’t propose taxation or defense applications.\n\nRefer [[AVGC sector in India]], [[Digital India Mission]].",
+    "tags": "Economy, Culture, Governance"
+  }
+]
