@@ -1,0 +1,477 @@
+[
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "With reference to India’s recent actions post the Pahalgam terror attack, consider the following statements:",
+    "statements": [
+      "India suspended postal and port links with Pakistan.",
+      "The Abdali missile tested by Pakistan is nuclear-capable.",
+      "India revoked all visa categories for Pakistani nationals."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "India suspended postal services and closed ports to Pakistani ships following the Pahalgam attack. The Abdali missile, tested by Pakistan, is nuclear-capable. However, only 14 categories of visas were revoked, with Long Term and diplomatic visas still valid.\n\nFor more, see [[India–Pakistan relations]], [[Abdali-I missile]], and [[Visa policy of India]].",
+    "tags": "International Relations, Internal Security"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following statements about the Lairai Jatra stampede are correct?",
+    "statements": [
+      "It occurred in North Goa’s Bicholim taluka.",
+      "Over 100 people were declared dead.",
+      "A magisterial inquiry was ordered by the Goa government."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "The stampede at Lairai Jatra happened in Shirgao village, Bicholim taluka, Goa. Only 7 people were reported dead. A magisterial inquiry has been launched by the state government.\n\nSee [[Lairai Temple]], [[Crowd management in India]].",
+    "tags": "Disaster Management, Governance"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Consider the following with respect to the Krishna Water Dispute:",
+    "statements": [
+      "The Krishna Water Disputes Tribunal-II (KWDT-II) was constituted in 2004.",
+      "The final award of KWDT-II has been notified by the Central Government.",
+      "Upper Krishna Project (UKP-III) is linked to the implementation of this award."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "KWDT-II was constituted in 2004, and its final award was given in 2013 but remains unnotified. UKP-III aims to utilize water allocated under this award.\n\nRefer to [[Krishna River water dispute]], [[Upper Krishna Project]].",
+    "tags": "Polity, Inter-State Relations, Water Resources"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "According to the Representation of the People Act, 1951, a legislator is disqualified if:",
+    "statements": [
+      "Convicted of any offence under any law",
+      "Sentenced to at least two years of imprisonment",
+      "Conviction is not stayed by any court"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "2 and 3 only",
+    "explanation": "Under Section 8(3) of the RPA, 1951, a legislator is disqualified if convicted and sentenced to two or more years, unless the conviction is stayed. Not all convictions lead to disqualification.\n\nSee [[Representation of the People Act, 1951]], [[Lily Thomas v. Union of India]].",
+    "tags": "Polity, Governance, Ethics"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which among the following are valid demands raised by Tejashwi Yadav in the context of caste census?",
+    "statements": [
+      "Reservation in private sector and judiciary",
+      "Delimitation of constituencies based on caste proportions",
+      "Complete removal of the 50% reservation cap"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Tejashwi Yadav demanded caste-based reservation in judiciary and private sector, and proportional delimitation. He did not demand full removal of the 50% cap but emphasized reviewing it through constitutional means.\n\nRefer to [[Caste-based reservation in India]], [[Mandal Commission]].",
+    "tags": "Social Justice, Polity, Governance"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Rafale-M aircraft recently procured by India are intended for use on which of the following carriers?",
+    "statements": ["INS Vikrant", "INS Vikramaditya", "INS Vishal"],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Rafale-M jets will operate from INS Vikrant and INS Vikramaditya. INS Vishal is a proposed third carrier and not part of current deployment plans.\n\nSee [[INS Vikrant]], [[Rafale-M]], [[Aircraft carriers of India]].",
+    "tags": "Defence, Science and Technology, Maritime Security"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "What are the key features of the Kolkata Port’s new night navigation system?",
+    "statements": [
+      "Allows 24-hour navigation on the Hooghly River",
+      "Implemented between Budge Budge and the Bay of Bengal",
+      "First vessel to use it was mv Sagar Ratna"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "The system enables round-the-clock navigation from Budge Budge to Bay of Bengal. The first vessel to use it was mv SinarPenida, not Sagar Ratna.\n\nRefer to [[Syama Prasad Mookerjee Port]], [[Hooghly River]].",
+    "tags": "Infrastructure, Economy, Transport"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following were outcomes of the report on Public R&D Units in India?",
+    "statements": [
+      "Less than one-third of labs support deep-tech startups.",
+      "Women scientists’ participation has increased sharply.",
+      "Only 15% of labs have international industry collaborations."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 3 only",
+    "explanation": "The report found that under 16% of labs support deep-tech startups and only 15% have global collaborations. Women scientists' participation has remained stagnant.\n\nSee [[Public sector research and development in India]], [[Anusandhan NRF]].",
+    "tags": "Science and Technology, Governance, Economy"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following are part of India's Universal Immunization Programme (UIP)?",
+    "statements": [
+      "Covers children and pregnant women",
+      "Includes vaccines for rotavirus and PCV",
+      "Implemented only in rural areas"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "UIP targets 26 million children and 34 million pregnant women annually across rural and urban areas, offering vaccines including those for rotavirus and PCV.\n\nSee [[Universal Immunization Programme]], [[Gavi]], [[Vaccine-preventable diseases]].",
+    "tags": "Health, Governance, Science and Technology"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "‘Kashmiriyat’, seen in news, refers to which of the following?",
+    "statements": [
+      "A syncretic cultural ethos promoting communal harmony",
+      "A doctrine of Kashmiri separatism",
+      "A form of local governance based on tribal identity"
+    ],
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 only",
+    "explanation": "Kashmiriyat is a traditional cultural ethos in Kashmir that promotes peace, tolerance, and coexistence, blending Sufi, Hindu, and Buddhist elements.\n\nRefer to [[Kashmiriyat]], [[Cultural syncretism]].",
+    "tags": "Culture, Internal Security, Society"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Consider the following regarding India’s trade restrictions on Pakistan post the April 2025 terror attack:",
+    "statements": [
+      "Imports from Pakistan were banned under the Foreign Trade (Development and Regulation) Act.",
+      "Pakistani-flagged ships were prohibited from docking at Indian ports.",
+      "Exceptions to the port ban will be allowed only with Parliamentary approval."
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "India invoked the Foreign Trade Act to ban imports and closed ports to Pakistani-flagged ships. Exceptions will be considered on a case-to-case basis, not via Parliamentary approval.\n\nSee [[India–Pakistan trade relations]], [[Foreign Trade (Development and Regulation) Act, 1992]].",
+    "tags": "Economy, Internal Security, International Relations"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "The Abdali missile, recently tested by Pakistan, is:",
+    "statements": [
+      "A short-range ballistic missile",
+      "Nuclear-capable",
+      "Inducted under India’s Integrated Guided Missile Programme"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Abdali is a short-range, nuclear-capable ballistic missile developed by Pakistan. It is not related to India's missile development programme.\n\nSee [[Abdali-I missile]], [[Ballistic missile]].",
+    "tags": "Defence, Science and Technology, International Security"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following best describes 'Magisterial Inquiry' ordered in the context of public disasters?",
+    "statements": [
+      "It is a criminal trial conducted by a magistrate.",
+      "It is an administrative investigation headed by a senior officer.",
+      "It is conducted by the Election Commission.",
+      "It is a judicial review initiated by the High Court."
+    ],
+    "options": ["1 only", "2 only", "3 only", "4 only"],
+    "correct_option": "2 only",
+    "explanation": "Magisterial Inquiry is a fact-finding administrative process conducted by senior civil officers (like a District Magistrate) to investigate incidents such as disasters or custodial deaths.\n\nRefer to [[Magisterial Inquiry]], [[District Administration in India]].",
+    "tags": "Governance, Disaster Management"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which constitutional provision allows Parliament to adjudicate inter-state water disputes?",
+    "statements": ["Article 261", "Article 262", "Article 263", "Article 280"],
+    "options": ["Article 261", "Article 262", "Article 263", "Article 280"],
+    "correct_option": "Article 262",
+    "explanation": "Article 262 empowers Parliament to provide for the adjudication of inter-state water disputes and bars the jurisdiction of the courts in such matters.\n\nSee [[Article 262 of the Indian Constitution]], [[Inter-State River Water Disputes Act, 1956]].",
+    "tags": "Polity, Constitution, Water Resources"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following are mentioned as urgent reforms in the context of the criminalization of politics?",
+    "statements": [
+      "Fast-track courts for lawmakers",
+      "Party-level accountability for ticket distribution",
+      "Constitutional amendment to bar accused from contesting elections"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1, 2 and 3",
+    "explanation": "To curb criminalization of politics, SC has recommended fast-track courts, candidate screening disclosures, and there are demands for barring chargesheeted individuals from contesting.\n\nRefer to [[Criminalization of Politics in India]], [[Supreme Court Judgments on Political Reforms]].",
+    "tags": "Polity, Ethics, Governance"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "The Delimitation of Parliamentary and Assembly constituencies in India is governed by which of the following?",
+    "statements": [
+      "Delimitation Commission Act",
+      "Article 82 of the Constitution",
+      "Recommendations of the National Statistical Commission"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Delimitation in India is governed by the Delimitation Commission Act and Article 82. The National Statistical Commission does not play a role.\n\nSee [[Delimitation Commission of India]], [[Article 82 of the Constitution]].",
+    "tags": "Polity, Governance, Elections"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which port recently implemented night navigation for cargo vessels on the Hooghly River?",
+    "statements": [
+      "Jawaharlal Nehru Port Trust",
+      "Visakhapatnam Port",
+      "Syama Prasad Mookerjee Port",
+      "Kandla Port"
+    ],
+    "options": [
+      "Jawaharlal Nehru Port Trust",
+      "Visakhapatnam Port",
+      "Syama Prasad Mookerjee Port",
+      "Kandla Port"
+    ],
+    "correct_option": "Syama Prasad Mookerjee Port",
+    "explanation": "SMPK, formerly Kolkata Port Trust, introduced night navigation on the Hooghly River, enhancing port efficiency.\n\nSee [[Syama Prasad Mookerjee Port]], [[Hooghly River Navigation]].",
+    "tags": "Infrastructure, Economy, Transport"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following statements about Performance-Based Logistics (PBL) contracts is correct?",
+    "statements": [
+      "It ensures periodic reviews by the Cabinet Committee on Security.",
+      "It guarantees minimum force availability and performance over a defined period.",
+      "It applies only to air force assets.",
+      "It is a procurement mechanism under the Finance Ministry."
+    ],
+    "options": ["1 only", "2 only", "3 only", "4 only"],
+    "correct_option": "2 only",
+    "explanation": "PBL contracts ensure defined performance levels and availability of defence assets over time. It applies across defence services and is not exclusive to any ministry.\n\nRefer to [[Performance-Based Logistics]], [[Defence Procurement in India]].",
+    "tags": "Defence, Economy, Science and Technology"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following reflect the ethos of 'Kashmiriyat'?",
+    "statements": [
+      "Promotion of communal harmony",
+      "Blending of Sufi, Hindu, and Buddhist traditions",
+      "Emphasis on regional identity over national unity"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Kashmiriyat is rooted in inclusive traditions and spiritual syncretism but does not prioritize regional identity at the cost of national unity.\n\nSee [[Kashmiriyat]], [[Communal harmony in Kashmir]].",
+    "tags": "Culture, Society, Internal Security"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which global initiative aims to recover immunisation coverage post-pandemic disruptions?",
+    "statements": [
+      "COVAX Recovery Program",
+      "The Big Catch-Up",
+      "Immunisation Agenda 2030",
+      "Vaccine Drive 2025"
+    ],
+    "options": [
+      "COVAX Recovery Program",
+      "The Big Catch-Up",
+      "Immunisation Agenda 2030",
+      "Vaccine Drive 2025"
+    ],
+    "correct_option": "The Big Catch-Up",
+    "explanation": "The Big Catch-Up, launched in 2023 by WHO, UNICEF, and Gavi, targets restoration of vaccination coverage disrupted by COVID-19.\n\nSee [[The Big Catch-Up (vaccination)]], [[Global Immunisation Strategies]].",
+    "tags": "Health, International Relations, Science and Technology"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following rivers flow through Karnataka and are part of inter-state water disputes?",
+    "statements": ["Krishna", "Godavari", "Cauvery", "Tungabhadra"],
+    "options": [
+      "1, 3 and 4 only",
+      "1 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 3 and 4 only",
+    "explanation": "Krishna, Cauvery, and its tributary Tungabhadra are involved in disputes affecting Karnataka. Godavari flows primarily through Maharashtra, Telangana, Andhra Pradesh, and Odisha.\n\nSee [[Krishna River]], [[Tungabhadra River]], [[Cauvery water dispute]].",
+    "tags": "Geography, Polity, Water Resources"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following indicators were highlighted as weaknesses in India’s public R&D ecosystem?",
+    "statements": [
+      "Low industry collaboration",
+      "Lack of international research tie-ups",
+      "High startup incubation rates",
+      "Over-dependence on contractual staff"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The report flagged low international collaboration, insufficient startup incubation, and rising reliance on temporary staff as major concerns.\n\nSee [[Public research in India]], [[CTIER Innovation Indicators]].",
+    "tags": "Science and Technology, Economy, Governance"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Under India's Universal Immunisation Programme (UIP), which of the following vaccines are administered?",
+    "statements": [
+      "Rotavirus vaccine",
+      "Polio vaccine",
+      "Measles-Rubella vaccine",
+      "Zoster vaccine"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "The UIP includes vaccines like rotavirus, polio, and MR (measles-rubella), but not zoster (shingles), which is used mainly in elderly populations.\n\nSee [[Universal Immunisation Programme]], [[List of vaccines in India]].",
+    "tags": "Health, Governance, Science and Technology"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "The term 'Section 8 Company' refers to which of the following?",
+    "statements": [
+      "A private defense contractor firm",
+      "A not-for-profit organization under Companies Act, 2013",
+      "An entity eligible for CSR funding",
+      "A SEBI-registered stock trading firm"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "2 and 4 only"],
+    "correct_option": "2 and 3 only",
+    "explanation": "Section 8 companies are non-profit organizations that can receive CSR funds and operate for charitable, educational, or scientific purposes.\n\nRefer to [[Section 8 Company under Companies Act, 2013]].",
+    "tags": "Economy, Governance, Science and Technology"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following were mentioned as mitigation strategies after the Lairai Jatra stampede?",
+    "statements": [
+      "Technological monitoring like drones and AI",
+      "SOPs for crowd control",
+      "Immediate judicial trial of the organizers",
+      "Training of volunteers in emergency response"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Post-stampede measures emphasized technology, SOPs, and training of personnel. No mention of judicial trials against organizers was reported.\n\nSee [[Disaster management in India]], [[Crowd control measures]].",
+    "tags": "Disaster Management, Governance, Society"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which tribunal is related to Krishna water sharing between states?",
+    "statements": [
+      "Cauvery Water Disputes Tribunal",
+      "Krishna Water Disputes Tribunal-II",
+      "Godavari Tribunal",
+      "Mahanadi Tribunal"
+    ],
+    "options": ["Only 1", "Only 2", "2 and 4 only", "1 and 2 only"],
+    "correct_option": "Only 2",
+    "explanation": "The Krishna Water Disputes Tribunal-II (KWDT-II) is the authority handling disputes between Karnataka, Andhra Pradesh, Telangana, and Maharashtra.\n\nSee [[Krishna Water Disputes Tribunal]], [[Inter-State River Water Disputes]].",
+    "tags": "Polity, Water Resources, Constitution"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which features distinguish Rafale-M from the standard Rafale aircraft?",
+    "statements": [
+      "Tailhook for arrested landing",
+      "Reinforced undercarriage for carrier operations",
+      "Equipped with CATOBAR only",
+      "Used for nuclear delivery by submarine platforms"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 4 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "Rafale-M is equipped with tailhooks and structural reinforcements for deck landings. It is compatible with CATOBAR and STOBAR; submarine nuclear delivery is not applicable.\n\nSee [[Rafale M]], [[Carrier-based aircraft]].",
+    "tags": "Defence, Science and Technology"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following statements is true regarding India’s recent defence capital allocation?",
+    "statements": [
+      "Funds for the Rafale-M deal were redirected to another indigenous aircraft deal.",
+      "All capital was allocated to imports from foreign vendors.",
+      "Capital budget was underutilized in 2024–25.",
+      "HAL’s Tejas was chosen for both carriers instead of Rafale-M."
+    ],
+    "options": ["1 only", "2 and 3 only", "1 and 4 only", "2 and 4 only"],
+    "correct_option": "1 only",
+    "explanation": "Funds originally set for Rafale-M were rescheduled, enabling the signing of HAL’s LCH deal. The capital budget was not surrendered, and Tejas is not yet carrier-ready.\n\nSee [[HAL LCH]], [[Rafale M deal India]].",
+    "tags": "Defence, Economy, Science and Technology"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following are goals of the Immunisation Agenda 2030 (IA2030)?",
+    "statements": [
+      "Expand vaccine access globally",
+      "Ensure vaccine equity in fragile states",
+      "Limit vaccinations to WHO-approved countries only"
+    ],
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "correct_option": "1 and 2 only",
+    "explanation": "IA2030 aims to expand access and equity in vaccination, especially for vulnerable populations. It does not restrict vaccination to WHO-approved states.\n\nSee [[Immunization Agenda 2030]], [[WHO Global Health Goals]].",
+    "tags": "Health, International Relations"
+  },
+  {
+    "date": "4",
+    "month": "May",
+    "year": 2025,
+    "question": "Which organisation is not directly involved in funding or administering vaccine programs?",
+    "statements": ["Gavi", "UNICEF", "WHO", "IMF"],
+    "options": ["Gavi", "UNICEF", "WHO", "IMF"],
+    "correct_option": "IMF",
+    "explanation": "The International Monetary Fund (IMF) is not involved in vaccine programs. Gavi, UNICEF, and WHO are key agencies supporting global immunisation efforts.\n\nSee [[Gavi]], [[UNICEF]], [[World Health Organization]], [[International Monetary Fund]].",
+    "tags": "Health, International Organisations"
+  }
+]
