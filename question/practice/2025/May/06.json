@@ -1,0 +1,513 @@
+[
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following are components of India's civil defence drills recently ordered by the Ministry of Home Affairs?",
+      "statements": [
+        "Blackout and air-raid sirens",
+        "Evacuation and bunker cleaning",
+        "Camouflaging of critical infrastructure"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "India's civil defence drills include blackouts, air-raid sirens, evacuation, bunker cleaning, and camouflaging critical infrastructure. These measures are part of passive defence strategy coordinated by the Directorate General of Civil Defence.\n\nRefer to [[Civil defence]], [[Blackout]], and [[Passive defence]].",
+      "tags": "Internal Security, Disaster Management, Governance"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which constitutional provision allows the Union Government to legislate on Civil Defence?",
+      "statements": [
+        "Entry 1 of the Union List",
+        "Entry 2 of the State List",
+        "Article 352 of the Constitution"
+      ],
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 only",
+      "explanation": "Entry 1 of the Union List in the Seventh Schedule empowers the Centre to legislate on Defence, including civil defence. Article 352 relates to Emergency provisions and Entry 2 of the State List deals with police.\n\nRefer to [[Seventh Schedule]], [[Civil Defence Act, 1968]].",
+      "tags": "Polity, Internal Security"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Consider the following statements about the Directorate General of Civil Defence (DGCD):",
+      "statements": [
+        "It was established after the Kargil conflict.",
+        "It functions under the Ministry of Home Affairs.",
+        "It is responsible for organizing civilian safety measures."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "2 and 3 only",
+      "explanation": "The Directorate General of Civil Defence was established in 1962, after the Sino-Indian War, not Kargil. It functions under the Ministry of Home Affairs and coordinates civilian safety and preparedness.\n\nRefer to [[Directorate General of Civil Defence]].",
+      "tags": "Governance, Internal Security"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "What is the primary legislation governing copyright protection in India?",
+      "statements": [
+        "Copyright Act, 1957",
+        "Cinematograph Act, 1952",
+        "Information Technology Act, 2000"
+      ],
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 3 only",
+      "explanation": "Copyright in India is governed by the Copyright Act, 1957. Digital piracy can also attract provisions under the Information Technology Act, 2000. The Cinematograph Act deals with film certification, not copyright.\n\nRefer to [[Copyright Act, 1957]] and [[Information Technology Act, 2000]].",
+      "tags": "Science and Technology, Governance"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following are punishable under the Copyright Act, 1957 for piracy?",
+      "statements": [
+        "Unauthorized duplication of films",
+        "Public screening without license",
+        "Digital streaming of pirated content"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "All three acts—unauthorized duplication, public screening, and illegal digital streaming—are punishable under the Copyright Act, 1957 with imprisonment up to 3 years and ₹2 lakh fine.\n\nRefer to [[Copyright Act, 1957]].",
+      "tags": "Science and Technology, Cyber Security"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "The Cinematograph (Amendment) Bill, 2023 seeks to:",
+      "statements": [
+        "Ban all online streaming platforms",
+        "Punish camcording and unauthorized sharing of films",
+        "Create a new censorship authority"
+      ],
+      "options": [
+        "1 only",
+        "2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "2 only",
+      "explanation": "The Cinematograph (Amendment) Bill, 2023 aims to penalize camcording and illegal uploading of films. It does not ban OTT platforms or create a new censorship body.\n\nRefer to [[Cinematograph (Amendment) Bill, 2023]].",
+      "tags": "Governance, Science and Tech"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Why was India’s early flushing of Baglihar and Salal dams significant?",
+      "statements": [
+        "It deviated from the Indus Waters Treaty protocol.",
+        "It increased downstream flow temporarily into Pakistan.",
+        "It was done in response to a terror attack."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "India conducted early flushing of Baglihar and Salal dams after the Pahalgam terror attack, increasing water flow into Pakistan without prior notice—departing from the usual Indus Waters Treaty norms.\n\nRefer to [[Indus Waters Treaty]], [[Baglihar Dam]].",
+      "tags": "International Relations, Environment, Security"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following rivers is Baglihar Dam built on?",
+      "options": [
+        "Jhelum",
+        "Chenab",
+        "Indus",
+        "Beas"
+      ],
+      "correct_option": "Chenab",
+      "explanation": "Baglihar Dam is a 900 MW hydropower project located on the Chenab River in Jammu & Kashmir. Under the Indus Waters Treaty, India can use western rivers like Chenab for non-consumptive purposes.\n\nRefer to [[Baglihar Dam]] and [[Chenab River]].",
+      "tags": "Geography, Environment, International Relations"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Consider the following statements about the Indus Waters Treaty:",
+      "statements": [
+        "India has full rights over eastern rivers.",
+        "Pakistan can utilize western rivers without restriction.",
+        "India can use western rivers for non-consumptive purposes."
+      ],
+      "options": [
+        "1 and 3 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 3 only",
+      "explanation": "Under the Indus Waters Treaty (1960), India controls the eastern rivers (Ravi, Beas, Sutlej) and can use the western rivers (Indus, Jhelum, Chenab) for non-consumptive uses like hydroelectricity. Pakistan does not have unrestricted use either.\n\nRefer to [[Indus Waters Treaty]].",
+      "tags": "International Relations, Geography"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which dam was operationally flushed by India in May 2025 without notifying Pakistan, contrary to Indus Treaty norms?",
+      "options": [
+        "Kishanganga Dam",
+        "Sardar Sarovar Dam",
+        "Baglihar Dam",
+        "Tehri Dam"
+      ],
+      "correct_option": "Baglihar Dam",
+      "explanation": "India flushed Baglihar Dam on the Chenab River without prior notification to Pakistan, contrary to standard practices under the Indus Waters Treaty. It was done as part of a strategic response after the Pahalgam terror attack.\n\nRefer to [[Indus Waters Treaty]], [[Baglihar Dam]].",
+      "tags": "International Relations, Environment, Current Affairs"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "The Khalistan movement has recently strained India's diplomatic ties with which of the following countries?",
+      "options": [
+        "United Kingdom",
+        "Australia",
+        "Canada",
+        "United States"
+      ],
+      "correct_option": "Canada",
+      "explanation": "India-Canada relations have worsened due to increased pro-Khalistan activities by extremist groups in Canada. India recently protested against a rally in Toronto featuring hate slogans and threats to Indian-origin citizens.\n\nRefer to [[India–Canada relations]], [[Khalistan movement]].",
+      "tags": "International Relations, Internal Security"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following organizations is banned in India under the UAPA for promoting Khalistani separatism?",
+      "options": [
+        "Babbar Khalsa",
+        "Sikhs for Justice",
+        "Khalistan Zindabad Force",
+        "International Sikh Youth Federation"
+      ],
+      "correct_option": "Sikhs for Justice",
+      "explanation": "Sikhs for Justice (SFJ), a U.S.-based pro-Khalistani organization, is banned in India under the Unlawful Activities (Prevention) Act (UAPA), 1967 for inciting separatist sentiments and promoting anti-India propaganda.\n\nRefer to [[Unlawful Activities Prevention Act]], [[Sikhs for Justice]].",
+      "tags": "Polity, Security, International Relations"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Consider the following about the Forest Rights Act, 2006:",
+      "statements": [
+        "It recognizes individual and community rights of forest dwellers.",
+        "It supports Gram Sabha-led forest governance.",
+        "It displaces forest dwellers from protected areas for conservation."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "The Forest Rights Act (FRA), 2006 empowers forest dwellers by recognizing their rights and promoting Gram Sabha-based governance. It acts as a corrective to earlier displacement-based models of conservation.\n\nRefer to [[Forest Rights Act, 2006]].",
+      "tags": "Environment, Governance, Social Justice"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "What does the '30 by 30' target refer to in global biodiversity goals?",
+      "options": [
+        "30% GDP investment in conservation by 2030",
+        "30% forest land under indigenous control by 2030",
+        "30% of land and ocean under protection by 2030",
+        "30% carbon reduction from biodiversity zones by 2030"
+      ],
+      "correct_option": "30% of land and ocean under protection by 2030",
+      "explanation": "The '30 by 30' goal under the Kunming-Montreal Global Biodiversity Framework aims to bring 30% of global land and oceans under protection by 2030. India aligns this with community-led conservation through FRA.\n\nRefer to [[Kunming-Montreal Global Biodiversity Framework]], [[Convention on Biological Diversity]].",
+      "tags": "Environment, International Agreements"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following statements about India’s AI infrastructure and energy concerns is/are correct?",
+      "statements": [
+        "Data centers may consume up to 10% of global electricity by 2030.",
+        "Training one AI model can emit as much CO₂ as five cars over their lifetime.",
+        "India is planning to power AI data centers using small modular reactors (SMRs)."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "All three statements are correct. AI training is highly energy intensive, leading to concerns about carbon emissions and sustainability. SMRs are being considered as a clean power solution.\n\nRefer to [[Data centers]], [[Generative AI]], [[Small Modular Reactor]].",
+      "tags": "Science and Technology, Environment, Energy"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which Indian body currently regulates nuclear safety, including Small Modular Reactors (SMRs)?",
+      "options": [
+        "Atomic Energy Commission",
+        "Bhabha Atomic Research Centre",
+        "Atomic Energy Regulatory Board",
+        "Department of Atomic Energy"
+      ],
+      "correct_option": "Atomic Energy Regulatory Board",
+      "explanation": "The Atomic Energy Regulatory Board (AERB) oversees nuclear safety in India, including future projects like SMRs. BARC handles research, while AEC and DAE are higher-level policy and research bodies.\n\nRefer to [[Atomic Energy Regulatory Board]], [[Small Modular Reactor]].",
+      "tags": "Energy, Governance, Science and Tech"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "According to recent data, what is the operational cost (per km) of green hydrogen buses in India?",
+      "options": [
+        "$0.27/km",
+        "$0.84/km",
+        "$0.91/km",
+        "$0.17/km"
+      ],
+      "correct_option": "$0.91/km",
+      "explanation": "Green hydrogen buses are environmentally friendly but currently have high operational costs at $0.91/km, compared to $0.17/km for electric buses and $0.27/km for diesel buses.\n\nRefer to [[Green hydrogen]], [[FAME India scheme]].",
+      "tags": "Economy, Environment, Science and Tech"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which national mission focuses on scaling up hydrogen-based technologies in India?",
+      "options": [
+        "FAME India Mission",
+        "Hydrogen Energy Mission",
+        "National Electric Mobility Mission Plan",
+        "National Green Hydrogen Mission"
+      ],
+      "correct_option": "National Green Hydrogen Mission",
+      "explanation": "Launched in 2023, the National Green Hydrogen Mission promotes domestic production and use of green hydrogen in industries and public transport.\n\nRefer to [[National Green Hydrogen Mission]].",
+      "tags": "Environment, Energy, Government Schemes"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following laws must be consulted before land is acquired near wetlands for industrial use?",
+      "options": [
+        "Biological Diversity Act, 2002",
+        "Forest Rights Act, 2006",
+        "Wetlands (Conservation and Management) Rules, 2017",
+        "Air (Prevention and Control of Pollution) Act, 1981"
+      ],
+      "correct_option": "Wetlands (Conservation and Management) Rules, 2017",
+      "explanation": "The Wetlands Rules, 2017 under MoEF&CC restrict land acquisition or construction near ecologically sensitive wetlands. FRA and BDA may also apply in broader contexts.\n\nRefer to [[Wetlands (Conservation and Management) Rules, 2017]], [[Forest Rights Act, 2006]].",
+      "tags": "Environment, Governance"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Who was recently appointed as India’s representative to the IMF Executive Board?",
+      "options": [
+        "K.V. Subramanian",
+        "Ajay Seth",
+        "Parameswaran Iyer",
+        "Rajiv Kumar"
+      ],
+      "correct_option": "Parameswaran Iyer",
+      "explanation": "Parameswaran Iyer, former NITI Aayog CEO, was temporarily appointed to the IMF Executive Board after K.V. Subramanian's early exit. He will represent India in an upcoming crucial loan review.\n\nRefer to [[IMF Executive Board]], [[Parameswaran Iyer]].",
+      "tags": "International Relations, Economy"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which country shares an IMF constituency with India at the Executive Board?",
+      "options": [
+        "Nepal",
+        "Sri Lanka",
+        "Myanmar",
+        "Bhutan"
+      ],
+      "correct_option": "Sri Lanka",
+      "explanation": "India shares its IMF constituency with Sri Lanka, Bangladesh, and Bhutan. Each constituency has one Executive Director representing member countries at the IMF Executive Board.\n\nRefer to [[IMF Executive Board]].",
+      "tags": "International Relations, Economy"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "What is the primary function of a transshipment port like Vizhinjam?",
+      "options": [
+        "Fishing and local trade",
+        "Cargo handling for domestic ships",
+        "Military logistics",
+        "Transfer of cargo between ships for global routing"
+      ],
+      "correct_option": "Transfer of cargo between ships for global routing",
+      "explanation": "Transshipment ports like Vizhinjam allow transfer of containers between vessels without the cargo entering domestic territory. This reduces time and cost in international shipping routes.\n\nRefer to [[Transshipment port]], [[Vizhinjam Port]].",
+      "tags": "Infrastructure, Economy, Geography"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which public-private partnership is responsible for developing Vizhinjam Port?",
+      "options": [
+        "L&T and Government of Tamil Nadu",
+        "Adani Ports and Government of Kerala",
+        "Reliance Ports and Ministry of Shipping",
+        "DP World and Chennai Port Trust"
+      ],
+      "correct_option": "Adani Ports and Government of Kerala",
+      "explanation": "Vizhinjam Port is being developed under a public-private partnership between Adani Ports and SEZ Ltd (APSEZ) and the Government of Kerala. It’s India's first deepwater semi-automated port.\n\nRefer to [[Vizhinjam Port]], [[Adani Ports]].",
+      "tags": "Economy, Infrastructure, Governance"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which national scheme aims to improve port infrastructure and integrate coastal development?",
+      "options": [
+        "PM Gati Shakti",
+        "Sagarmala Project",
+        "Bharatmala Pariyojana",
+        "Maritime India Vision"
+      ],
+      "correct_option": "Sagarmala Project",
+      "explanation": "The Sagarmala Project aims to modernize India's port infrastructure and boost coastal trade connectivity. It complements broader initiatives like Gati Shakti for multimodal transport.\n\nRefer to [[Sagarmala Project]], [[Port Development in India]].",
+      "tags": "Infrastructure, Economy, Government Schemes"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following are part of India’s EV ecosystem policies?",
+      "statements": [
+        "FAME Scheme",
+        "Battery Swapping Policy",
+        "Scrappage Policy"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "India’s EV policy ecosystem includes FAME for adoption incentives, battery swapping to promote convenience, and the Scrappage Policy to phase out old vehicles.\n\nRefer to [[FAME India scheme]], [[Battery Swapping Policy]], [[Vehicle Scrappage Policy]].",
+      "tags": "Science and Technology, Economy, Environment"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Dorabeel Grazing Land protest in Assam is mainly linked to which of the following concerns?",
+      "statements": [
+        "Loss of common grazing land",
+        "Ecological risk to wetlands",
+        "Violation of Scheduled Tribe land rights"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "The Dorabeel protest is rooted in loss of vital grazing land and environmental concerns due to its proximity to wetlands. It does not directly involve Scheduled Tribe land rights.\n\nRefer to [[Land acquisition in Assam]], [[Wetlands (Conservation and Management) Rules, 2017]].",
+      "tags": "Environment, Society, Governance"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "Which Act governs land acquisition and rehabilitation for industrial projects in India?",
+      "options": [
+        "Urban Land Ceiling Act, 1976",
+        "Forest Rights Act, 2006",
+        "Environment Protection Act, 1986",
+        "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013"
+      ],
+      "correct_option": "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+      "explanation": "The 2013 LARR Act governs land acquisition with provisions for social impact assessment and compensation to affected families, ensuring a rights-based approach.\n\nRefer to [[LARR Act, 2013]].",
+      "tags": "Polity, Economy, Governance"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "According to the Hindu analysis, how many three-wheel EVs were sold in India in 2023, making it the largest global market?",
+      "options": [
+        "0.28 million",
+        "0.58 million",
+        "0.88 million",
+        "1.2 million"
+      ],
+      "correct_option": "0.58 million",
+      "explanation": "India led the global three-wheeler EV market in 2023 with 0.58 million units sold, surpassing even China. This reflects strong adoption in urban and semi-urban mobility.\n\nRefer to [[India EV Market]].",
+      "tags": "Economy, Environment, Science and Technology"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "What is the main safety advantage of Small Modular Reactors (SMRs) over traditional nuclear plants?",
+      "options": [
+        "They use fossil fuel backups",
+        "They have larger fuel storage",
+        "They operate without water",
+        "They have passive safety mechanisms"
+      ],
+      "correct_option": "They have passive safety mechanisms",
+      "explanation": "SMRs use passive safety features like natural convection for cooling, allowing them to shut down safely without external power—a key advantage over traditional reactors.\n\nRefer to [[Small Modular Reactor]], [[Nuclear Safety]].",
+      "tags": "Science and Tech, Energy, Environment"
+    },
+    {
+      "date": "6",
+      "month": "May",
+      "year": "2025",
+      "question": "The Wildlife Protection Act, 1972 led to the displacement of approximately how many people in India?",
+      "options": [
+        "1 lakh",
+        "3 lakh",
+        "6 lakh",
+        "10 lakh"
+      ],
+      "correct_option": "6 lakh",
+      "explanation": "The displacement of nearly 6 lakh people in India due to exclusionary conservation under the Wildlife Protection Act, 1972 has been a major critique, prompting corrective legislation like FRA, 2006.\n\nRefer to [[Wildlife Protection Act, 1972]], [[Forest Rights Act, 2006]].",
+      "tags": "Environment, Society, Governance"
+    }
+  ]
+  
