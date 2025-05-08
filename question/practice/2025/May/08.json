@@ -1,0 +1,539 @@
+[
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "With reference to the global rice market trends in 2025, consider the following statements:",
+      "statements": [
+        "India is the world's largest rice exporter.",
+        "Minimum Support Price for rice is fixed by the Commission for Agricultural Costs and Prices.",
+        "Buffer stocks are maintained by the Reserve Bank of India to ensure food security."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "India accounts for over 40% of global rice trade and is the largest exporter. The MSP for rice is set by the Commission for Agricultural Costs and Prices (CACP). However, buffer stocks are maintained by the Food Corporation of India (FCI), not the RBI.\n\nSee [[Food Corporation of India]], [[Minimum Support Price]], and [[Rice production in India]].",
+      "tags": "Economy, Agriculture, Food Security"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "India signed a pact with which country in 2025 to jointly explore and secure critical minerals from third countries like Africa and South America?",
+      "statements": [],
+      "options": [
+        "Japan",
+        "Australia",
+        "United States",
+        "Russia"
+      ],
+      "correct_option": "United States",
+      "explanation": "On May 8, 2025, India signed an MoU with the United States to secure global supply chains of critical minerals like lithium and rare earths. This includes joint exploration in Africa and South America, enhancing India's clean energy and defence goals.\n\nRefer to [[Critical mineral]] and [[India–United States relations]].",
+      "tags": "Economy, International Relations, Resources"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following are included in India’s Critical Minerals List (2023)?",
+      "statements": [
+        "Lithium",
+        "Cobalt",
+        "Nickel",
+        "Uranium"
+      ],
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2 and 4 only",
+        "2, 3 and 4 only",
+        "1, 3 and 4 only"
+      ],
+      "correct_option": "1, 2 and 3 only",
+      "explanation": "India's 2023 Critical Minerals List includes lithium, cobalt, and nickel due to their significance in EVs and batteries. Uranium, although strategic, is not part of this list.\n\nFor more, refer [[Critical mineral]] and [[Mining in India]].",
+      "tags": "Resources, Economy, Science and Technology"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "TurkStream pipeline, recently seen in the news, is related to the supply of:",
+      "statements": [],
+      "options": [
+        "Oil from Russia to China",
+        "Natural gas from Russia to Europe",
+        "Electricity from Germany to France",
+        "Crude oil from Iran to India"
+      ],
+      "correct_option": "Natural gas from Russia to Europe",
+      "explanation": "TurkStream is a major pipeline transporting Russian natural gas to Southern Europe via Turkey. It remains operational despite EU’s sanctions on Russia.\n\nSee [[TurkStream]] and [[Natural gas in Europe]].",
+      "tags": "Geopolitics, Energy, International Relations"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Consider the following with reference to the U.S. FDA inspections in 2025:",
+      "statements": [
+        "They will now occur without prior notice to enhance transparency.",
+        "Over 650 Indian manufacturing plants are registered with the U.S. FDA.",
+        "A warning letter from FDA has no impact on Indian exports."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "As per the May 8, 2025 announcement, U.S. FDA inspections will be surprise visits. Over 650 Indian facilities are FDA-registered. However, a warning letter can impact exports, reputation, and market access.\n\nSee [[U.S. Food and Drug Administration]] and [[Pharmaceutical industry in India]].",
+      "tags": "Health, Economy, International Relations"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following best describes Agrivoltaics?",
+      "statements": [],
+      "options": [
+        "Growing crops on rooftop gardens of solar plants",
+        "Using solar panels above farmland to generate energy and grow crops simultaneously",
+        "Hydroponic farming using solar energy",
+        "Installing solar panels on vertical walls of greenhouses"
+      ],
+      "correct_option": "Using solar panels above farmland to generate energy and grow crops simultaneously",
+      "explanation": "Agrivoltaics (also agrovoltaics) is the simultaneous use of land for both solar photovoltaic power and agriculture. Elevated panels allow crops to grow below while generating electricity.\n\nSee [[Agrivoltaic system]] and [[Solar power in agriculture]].",
+      "tags": "Science and Technology, Agriculture, Environment"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following schemes support the use of solar energy in agriculture?",
+      "statements": [
+        "PM-KUSUM",
+        "National Solar Mission",
+        "National Electric Mobility Mission",
+        "National Mission for Sustainable Agriculture"
+      ],
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1, 3 and 4 only"
+      ],
+      "correct_option": "1, 2 and 4 only",
+      "explanation": "PM-KUSUM and National Solar Mission directly support solar energy use in agriculture. The National Mission for Sustainable Agriculture also encourages solar-based irrigation. The Electric Mobility Mission is focused on transport, not agriculture.\n\nRefer to [[PM-KUSUM]], [[National Solar Mission]], and [[Sustainable agriculture]].",
+      "tags": "Environment, Agriculture, Government Schemes"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Climate change can affect gut microbiota primarily through which of the following?",
+      "statements": [
+        "Air pollution",
+        "Water scarcity",
+        "Heatwaves",
+        "Antibiotic overuse"
+      ],
+      "options": [
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "correct_option": "1, 2 and 3 only",
+      "explanation": "Climate change affects gut microbiota through rising temperatures, water quality degradation, and air pollution. Antibiotic overuse is a microbiota disruptor, but it's not a direct consequence of climate change.\n\nSee [[Gut microbiota]] and [[Health effects of climate change]].",
+      "tags": "Health, Environment, Science and Technology"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "The ‘Made of Chennai’ initiative recently won a global award for promoting:",
+      "statements": [],
+      "options": [
+        "Digital transformation in education",
+        "Smart urban policing solutions",
+        "Urban identity and civic engagement",
+        "Green building technologies"
+      ],
+      "correct_option": "Urban identity and civic engagement",
+      "explanation": "‘Made of Chennai’, by The Hindu Group, received the WAN-IFRA award for promoting urban storytelling and civic pride. It focuses on preserving Chennai’s cultural heritage and engaging youth.\n\nRefer to [[Smart Cities Mission]] and [[Urban governance in India]].",
+      "tags": "Governance, Urbanization, Society"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Consider the following with respect to India’s pharmaceutical exports and U.S. FDA regulations:",
+      "statements": [
+        "India supplies about 40% of U.S. generic drugs.",
+        "Form 483 from the U.S. FDA is a clearance certificate for exports.",
+        "Good Manufacturing Practices (GMP) compliance is essential for continued access to U.S. markets."
+      ],
+      "options": [
+        "1 and 3 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 3 only",
+      "explanation": "India provides nearly 40% of U.S. generics. Form 483 is not a clearance but an observation of non-compliance. GMP adherence is crucial for retaining access to regulated markets like the U.S.\n\nSee [[Pharmaceutical industry in India]] and [[U.S. FDA Form 483]].",
+      "tags": "Health, Economy, International Relations"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following best explains the purpose of the REPowerEU Plan?",
+      "statements": [],
+      "options": [
+        "To develop nuclear power projects across the EU",
+        "To reduce EU’s dependence on Russian fossil fuels",
+        "To promote gas exploration in the Arctic region",
+        "To establish LNG export terminals in Africa"
+      ],
+      "correct_option": "To reduce EU’s dependence on Russian fossil fuels",
+      "explanation": "The REPowerEU Plan was launched in 2022 to reduce the European Union’s reliance on Russian fossil fuels by accelerating the adoption of renewables and energy efficiency measures.\n\nRefer to [[REPowerEU]] and [[Energy security in Europe]].",
+      "tags": "Environment, Energy Security, International Relations"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "The Carbon Border Adjustment Mechanism (CBAM), recently seen in news, aims to:",
+      "statements": [],
+      "options": [
+        "Offer carbon credit to exporters from developing countries",
+        "Impose tariffs on imports based on their carbon footprint",
+        "Subsidize carbon-intensive industries in the EU",
+        "Replace the Kyoto Protocol framework"
+      ],
+      "correct_option": "Impose tariffs on imports based on their carbon footprint",
+      "explanation": "CBAM is a trade mechanism introduced by the EU to tax imports of goods like steel and cement based on their carbon intensity, ensuring fair competition and climate action alignment.\n\nSee [[Carbon Border Adjustment Mechanism]].",
+      "tags": "Environment, Economy, International Relations"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Consider the following statements about the PM-KUSUM Scheme:",
+      "statements": [
+        "It supports stand-alone solar pumps and grid-connected pumps.",
+        "It includes a component to set up decentralized ground-mounted solar plants.",
+        "It is implemented by the Ministry of Environment, Forest and Climate Change."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "PM-KUSUM is implemented by the Ministry of New and Renewable Energy. It has three components: solar pumps (stand-alone and grid-connected) and decentralized solar plants.\n\nRefer to [[PM-KUSUM]] and [[Solar power in India]].",
+      "tags": "Agriculture, Energy, Government Schemes"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following agencies maintains India’s buffer stock norms for food security?",
+      "statements": [],
+      "options": [
+        "Reserve Bank of India",
+        "National Bank for Agriculture and Rural Development (NABARD)",
+        "Food Corporation of India",
+        "Ministry of Finance"
+      ],
+      "correct_option": "Food Corporation of India",
+      "explanation": "The Food Corporation of India (FCI), under the Ministry of Consumer Affairs, Food and Public Distribution, is responsible for maintaining buffer stock norms for the Public Distribution System.\n\nSee [[Food Corporation of India]] and [[Public Distribution System]].",
+      "tags": "Economy, Food Security, Agriculture"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Consider the following with respect to Routematic, recently in news:",
+      "statements": [
+        "It is an AI-based urban mobility startup based in Bengaluru.",
+        "It aims to electrify part of its fleet using recent funding.",
+        "It focuses solely on inter-state transport of goods."
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 and 2 only",
+      "explanation": "Routematic is a Bengaluru-based mobility startup that integrates AI and EV technology for employee transportation. It does not focus on inter-state goods transport.\n\nRefer to [[Routematic]] and [[Electric vehicle industry in India]].",
+      "tags": "Science and Technology, Urban Development, Startups"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following is/are part of India’s strategy to boost critical mineral availability?",
+      "statements": [
+        "Establishing KABIL for overseas mineral acquisition",
+        "Collaborating with Australia on lithium sourcing",
+        "Participating in Deep Ocean Mission to explore seabed minerals"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "India has a multi-pronged strategy involving international collaborations (e.g., with Australia), a dedicated agency (KABIL), and exploration through the Deep Ocean Mission.\n\nSee [[KABIL]], [[Critical mineral]] and [[Deep Ocean Mission]].",
+      "tags": "Economy, Resources, Science and Technology"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following best defines 'Dysbiosis'?",
+      "statements": [],
+      "options": [
+        "The state of equilibrium between human and animal gut systems",
+        "A genetic mutation in gut cells causing cancer",
+        "An imbalance in the gut microbiota leading to health issues",
+        "The absorption of microplastics through the intestinal lining"
+      ],
+      "correct_option": "An imbalance in the gut microbiota leading to health issues",
+      "explanation": "Dysbiosis is a condition where the balance of gut microbes is disturbed, often leading to disorders like malnutrition, immune dysfunction, or metabolic syndromes.\n\nSee [[Gut microbiota]] and [[Dysbiosis]].",
+      "tags": "Health, Environment, Science and Technology"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "The Integrated Air Command & Control System (IACCS), often mentioned in India’s defence preparedness, is:",
+      "statements": [],
+      "options": [
+        "A civil aviation safety mechanism",
+        "A satellite-based navigation system for border regions",
+        "A radar and control grid for real-time airspace monitoring",
+        "A logistics support platform for Navy operations"
+      ],
+      "correct_option": "A radar and control grid for real-time airspace monitoring",
+      "explanation": "IACCS is a real-time, pan-India network of sensors and control centers used by the Indian Air Force for monitoring and securing airspace.\n\nSee [[Integrated Air Command and Control System]].",
+      "tags": "Internal Security, Defence, Science and Technology"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "What is the main aim of India’s National Green Hydrogen Mission?",
+      "statements": [],
+      "options": [
+        "To substitute petroleum with ethanol in transport",
+        "To promote use of hydrogen as a clean energy carrier",
+        "To expand solar parks in desert regions",
+        "To set up green cover around coal mines"
+      ],
+      "correct_option": "To promote use of hydrogen as a clean energy carrier",
+      "explanation": "The National Green Hydrogen Mission focuses on producing green hydrogen using renewable energy, for applications in industry, transport, and energy storage.\n\nRefer to [[Green hydrogen]] and [[Renewable energy in India]].",
+      "tags": "Environment, Energy, Science and Technology"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "WAN-IFRA, which recently awarded 'Made of Chennai', is best described as:",
+      "statements": [],
+      "options": [
+        "An Indian agency for climate innovation",
+        "A global journalism and media association",
+        "A French museum body",
+        "An urban development think tank"
+      ],
+      "correct_option": "A global journalism and media association",
+      "explanation": "WAN-IFRA stands for the World Association of News Publishers. It promotes high-quality journalism and media innovation globally.\n\nSee [[World Association of News Publishers]].",
+      "tags": "Society, Media, International Bodies"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following is/are likely environmental impacts of excessive paddy cultivation in India?",
+      "statements": [
+        "Groundwater depletion",
+        "Soil salinization",
+        "Methane emissions"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "Paddy cultivation, particularly in water-stressed regions, contributes to groundwater depletion, soil salinity due to over-irrigation, and methane emissions from flooded fields, impacting climate.\n\nRefer to [[Environmental impact of agriculture]] and [[Paddy field]].",
+      "tags": "Environment, Agriculture, Climate Change"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which organization is responsible for fixing the Minimum Support Price (MSP) for agricultural commodities in India?",
+      "statements": [],
+      "options": [
+        "Food Corporation of India",
+        "Commission for Agricultural Costs and Prices",
+        "Ministry of Finance",
+        "NITI Aayog"
+      ],
+      "correct_option": "Commission for Agricultural Costs and Prices",
+      "explanation": "The CACP recommends MSPs to the Government of India after analyzing production costs, supply-demand trends, and international prices.\n\nSee [[Commission for Agricultural Costs and Prices]].",
+      "tags": "Economy, Agriculture, Government Schemes"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following correctly describes the concept of 'Greenwashing'?",
+      "statements": [],
+      "options": [
+        "Providing subsidies to promote sustainable agriculture",
+        "Reducing greenhouse gas emissions through biofuels",
+        "Falsely portraying an organization’s environmental credentials",
+        "Using algae-based systems for carbon sequestration"
+      ],
+      "correct_option": "Falsely portraying an organization’s environmental credentials",
+      "explanation": "Greenwashing refers to the deceptive practice where companies or governments misrepresent their environmental initiatives to appear more eco-friendly than they actually are.\n\nSee [[Greenwashing]].",
+      "tags": "Environment, Ethics, International Affairs"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following correctly explains the term 'Strategic Mineral Reserves'?",
+      "statements": [],
+      "options": [
+        "Minerals used in traditional crafts and heritage industries",
+        "Minerals reserved exclusively for export markets",
+        "Stockpiling critical minerals for national energy and security needs",
+        "Unexplored mineral deposits in tribal belts"
+      ],
+      "correct_option": "Stockpiling critical minerals for national energy and security needs",
+      "explanation": "Strategic mineral reserves are critical stockpiles maintained to ensure national self-sufficiency during emergencies or supply disruptions, especially in energy and defense sectors.\n\nRefer to [[Strategic mineral reserve]] and [[Resource security]].",
+      "tags": "Resources, Economy, Internal Security"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following are key elements of India’s Deep Ocean Mission?",
+      "statements": [
+        "Exploration of polymetallic nodules",
+        "Development of manned submersibles",
+        "Study of climate change impact on marine ecosystems"
+      ],
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1, 2 and 3",
+      "explanation": "Deep Ocean Mission includes mining polymetallic nodules, development of underwater vehicles, and understanding marine biodiversity and climate change impacts.\n\nSee [[Deep Ocean Mission]] and [[Marine geology]].",
+      "tags": "Science and Technology, Environment, Economy"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "‘One Nation One Ration Card’ (ONORC) scheme aims to:",
+      "statements": [],
+      "options": [
+        "Allow multiple ration cards for urban and rural homes",
+        "Digitally link ration distribution across states for migrant workers",
+        "Provide ration subsidies to citizens of other countries",
+        "Distribute ration only through private fair price shops"
+      ],
+      "correct_option": "Digitally link ration distribution across states for migrant workers",
+      "explanation": "ONORC allows beneficiaries to access subsidized food grains from any fair price shop in India using Aadhaar-based authentication, aiding inter-state migrants.\n\nRefer to [[One Nation One Ration Card]].",
+      "tags": "Governance, Welfare Schemes, Economy"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "What does the term 'LiFE movement' refer to in India’s climate policy?",
+      "statements": [],
+      "options": [
+        "Legal Initiative for Forest Ecosystems",
+        "Lifestyle for Environment",
+        "Livelihood and Food Empowerment",
+        "Local Infrastructure for Energy"
+      ],
+      "correct_option": "Lifestyle for Environment",
+      "explanation": "The LiFE movement, launched by India, promotes sustainable lifestyles and behavioral changes to address environmental challenges.\n\nSee [[LiFE movement (India)]].",
+      "tags": "Environment, Governance, Sustainable Development"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following correctly pairs the organization with its mandate?",
+      "statements": [
+        "CDSCO – Drug safety regulation",
+        "IPC – Control of communicable diseases",
+        "NALCO – Overseas gold exploration"
+      ],
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correct_option": "1 only",
+      "explanation": "CDSCO (Central Drugs Standard Control Organization) regulates drug safety. IPC is the Indian Pharmacopoeia Commission (not related to communicable disease control), and NALCO deals with aluminium, not gold.\n\nRefer to [[CDSCO]], [[Indian Pharmacopoeia Commission]], and [[NALCO]].",
+      "tags": "Health, Economy, Government Agencies"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following Indian cities are part of the UNESCO Creative Cities Network?",
+      "statements": [
+        "Jaipur",
+        "Chennai",
+        "Hyderabad",
+        "Mumbai"
+      ],
+      "options": [
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1, 2 and 4 only",
+        "1, 3 and 4 only"
+      ],
+      "correct_option": "1, 2 and 3 only",
+      "explanation": "Jaipur (Crafts), Chennai (Music), and Hyderabad (Gastronomy) are part of UNESCO's Creative Cities Network. Mumbai is not currently listed.\n\nSee [[UNESCO Creative Cities Network]].",
+      "tags": "Culture, International Recognition, Urban Development"
+    },
+    {
+      "date": "8",
+      "month": "May",
+      "year": "2025",
+      "question": "Which of the following is a key feature of the Smart Cities Mission in India?",
+      "statements": [],
+      "options": [
+        "Focus only on infrastructure for tier-3 cities",
+        "Urban renewal without any public participation",
+        "Integration of ICT and citizen-centric planning",
+        "Private ownership of all urban land and assets"
+      ],
+      "correct_option": "Integration of ICT and citizen-centric planning",
+      "explanation": "Smart Cities Mission aims at improving urban living through technology integration, participatory governance, sustainability, and livability.\n\nSee [[Smart Cities Mission]].",
+      "tags": "Urban Development, Governance, ICT"
+    }
+  ]
+  

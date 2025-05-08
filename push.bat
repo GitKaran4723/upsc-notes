@@ -1,3 +1,3 @@
 git add .
-git commit -m "News Update"
+git commit -m "quiz Update"
 git push
