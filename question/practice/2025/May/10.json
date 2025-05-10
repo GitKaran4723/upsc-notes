@@ -1,0 +1,607 @@
+[
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the Indian Constitution, consider the following statements regarding the Freedom of Press:",
+    "statements": [
+      "It is explicitly mentioned in Article 19(1)(a) of the Constitution.",
+      "Courts have the power to order deletion of online content as part of press regulation.",
+      "Press freedom is derived from the fundamental right to freedom of speech and expression."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "3 only",
+    "explanation": "Freedom of Press is not explicitly mentioned but is derived from Article 19(1)(a) which guarantees freedom of speech and expression. \n\nThe Supreme Court has ruled that courts do not have the constitutional authority to order takedowns of press content; such powers lie with the executive under laws like the [[Information Technology Act, 2000]].",
+    "tags": "Polity, Governance, Fundamental Rights"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Section 69A of the Information Technology Act, 2000 allows which of the following?",
+    "statements": [
+      "Courts to initiate content takedowns directly.",
+      "Government to block access to digital content for public safety reasons.",
+      "Social media platforms to bypass Indian regulations."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 only",
+    "explanation": "Section 69A of the [[Information Technology Act, 2000]] empowers the central government to direct blocking of public access to any information for reasons like sovereignty, integrity, or public order. Courts do not have direct takedown powers under this section.",
+    "tags": "Polity, Governance, Internal Security"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "‘UP AGREES’ scheme, recently launched, aims to promote which of the following?",
+    "statements": [
+      "AI-based automation in judiciary.",
+      "Agricultural innovation in backward districts of Uttar Pradesh.",
+      "Digital surveillance in border areas."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 only",
+    "explanation": "‘UP AGREES’ is an agricultural reform initiative targeting 28 districts in Bundelkhand and Purvanchal in Uttar Pradesh. It focuses on improving rural agricultural productivity and resilience in collaboration with institutions like the [[World Bank]].",
+    "tags": "Agriculture, Economy, Government Schemes"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "The ‘AI Pragya’ initiative recently launched by the Uttar Pradesh government aims to:",
+    "statements": [
+      "Train 10 lakh youth in Artificial Intelligence.",
+      "Provide financial literacy for rural women.",
+      "Establish AI laboratories in each Panchayat.",
+      "Create a blockchain-based grievance system."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 4"
+    ],
+    "correct_option": "1 only",
+    "explanation": "‘AI Pragya’ is an initiative to train over 10 lakh youth in [[Artificial Intelligence]] skills and promote digital transformation. It aligns with goals under the Digital India mission but does not involve blockchain or panchayat-based labs directly.",
+    "tags": "Science and Technology, Economy, Skill Development"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following about the Press Council of India:",
+    "statements": [
+      "It is a constitutional body under Article 324.",
+      "It can enforce penalties against errant media houses.",
+      "It can only issue warnings and censures without enforcement power."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "1 and 2 only"
+    ],
+    "correct_option": "3 only",
+    "explanation": "The [[Press Council of India]] is a statutory body and not a constitutional one. It can caution or censure newspapers and journalists but cannot impose penalties or enforcement actions.",
+    "tags": "Governance, Polity, Media Ethics"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following statements regarding India’s Civil Defence framework:",
+    "statements": [
+      "Civil Defence Act, 1968 provides a legal framework for wartime emergency preparedness.",
+      "Section 11 of its Rules allows urgent fund usage by civil defence authorities.",
+      "Civil defence is managed solely by the Ministry of Defence."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The [[Civil Defence Act, 1968]] governs emergency civilian preparedness, especially in wartime. Section 11 allows States to bypass procedural delays for emergency fund usage. Civil Defence is overseen by the Home Ministry, not the Defence Ministry.",
+    "tags": "Internal Security, Disaster Management, Governance"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following regions are specifically targeted under the ‘UP AGREES’ programme?",
+    "statements": [
+      "Terai region",
+      "Purvanchal",
+      "Bundelkhand"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "‘UP AGREES’ targets 28 backward districts of [[Purvanchal]] and [[Bundelkhand]], both facing agricultural distress and low productivity. Terai is not a focus area under this scheme.",
+    "tags": "Geography, Agriculture, Government Schemes"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "In context of recent developments, which body is empowered to conduct cyber audits of critical infrastructure in India?",
+    "statements": [
+      "CERT-In",
+      "National Cyber Security Strategy Committee",
+      "NCIIPC"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "[[CERT-In]] and [[NCIIPC]] are responsible for cybersecurity readiness and audits. CERT-In handles general threats, while NCIIPC protects critical information infrastructure. National Cyber Security Strategy is proposed but not yet a statutory body.",
+    "tags": "Science and Technology, Cybersecurity, Governance"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following correctly describe the purpose of 'War Rooms' set up by Maharashtra government?",
+    "statements": [
+      "Coordinating emergency response including blackout drills.",
+      "Managing economic planning for post-pandemic recovery.",
+      "Enabling real-time monitoring of security threats."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The war rooms aim to coordinate emergency responses like blackout drills and cyber threats across districts, especially in MMR. They are not focused on economic recovery planning.",
+    "tags": "Internal Security, Disaster Management, State Governance"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements regarding the 'AI Pragya' initiative is/are correct?",
+    "statements": [
+      "It is part of the Digital India campaign.",
+      "It is aimed at transforming agriculture through robotics.",
+      "It focuses on skill development for youth in emerging tech sectors."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "‘AI Pragya’ aligns with the goals of [[Digital India]] by skilling youth in AI and digital technologies. It is not directly linked to agricultural robotics—that is the focus of UP AGREES.",
+    "tags": "Science and Technology, Skill Development, Governance"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to Operation Sindoor, which of the following statements is/are correct?",
+    "statements": [
+      "It is a classified military operation reported to involve counter-terror efforts along India's western borders.",
+      "It led to the invocation of civil defence emergency powers under the Civil Defence Rules, 1968.",
+      "It involved international collaboration with Israel and the U.S."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Operation Sindoor is a classified operation, reportedly involving aerial attacks from Pakistan. It triggered the invocation of Section 11 of [[Civil Defence Rules, 1968]] allowing emergency funds usage. No official international collaboration was reported.",
+    "tags": "Internal Security, Defence, Governance"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following correctly explains Section 11 of the Civil Defence Rules, 1968?",
+    "statements": [
+      "It empowers States to impose martial law in civil zones.",
+      "It allows Civil Defence Directors to bypass financial delays for emergency procurements.",
+      "It creates a legal basis for arrest of civilians during wartime."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "Section 11 of the [[Civil Defence Rules, 1968]] allows civil defence authorities to use emergency funds quickly during hostile threats. It does not permit martial law or arrests.",
+    "tags": "Polity, Internal Security, Disaster Management"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the role of NCIIPC in India's cybersecurity architecture?",
+    "statements": [
+      "It protects India's critical infrastructure including finance, energy, and transport sectors.",
+      "It is an independent statutory body under the Ministry of Electronics and IT.",
+      "It collaborates with CERT-In in threat response and policy coordination."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "[[NCIIPC]] operates under the National Technical Research Organisation (NTRO) and is responsible for securing critical infrastructure. It works with CERT-In but is not a statutory body.",
+    "tags": "Cybersecurity, Internal Security, Science & Technology"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "TRAI recently recommended a 4% Spectrum Usage Fee (SUF) on Adjusted Gross Revenue (AGR) for which type of service?",
+    "statements": [
+      "Mobile telephony services",
+      "Satellite internet services",
+      "Fixed-line broadband services",
+      "Undersea cable-based services"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "2 and 3 only",
+      "1 and 4 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The [[Telecom Regulatory Authority of India]] recommended a 4% SUF on AGR for satellite internet services, impacting global players like [[Starlink]].",
+    "tags": "Economy, Science & Tech, Digital India"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are impacts of prolonged blackout drills and civil defence exercises in metropolitan regions?",
+    "statements": [
+      "Disruption of essential services if not managed carefully.",
+      "Increased awareness and preparedness among citizens.",
+      "Encourages private sector to avoid investments in high-risk zones."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "While blackout drills enhance preparedness and awareness, they may disrupt essential services and deter private investment due to perceived risks.",
+    "tags": "Internal Security, Disaster Management, Economy"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following features of the TRAI proposal on satellite internet:",
+    "statements": [
+      "Annual user fee of ₹500 per urban subscriber.",
+      "Spectrum validity of 5 years, extendable by 2 years.",
+      "Spectrum cost of ₹15,000 per MHz for Starlink-like operators."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "TRAI's proposal includes a ₹500 annual fee, 5-year spectrum tenure extendable by 2 years, and ₹3,500/MHz—not ₹15,000—for spectrum cost. This targets foreign satellite ISPs like [[Starlink]].",
+    "tags": "Science and Technology, Economy, Digital India"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following best defines the term 'Adjusted Gross Revenue' (AGR) as used in telecom regulation?",
+    "statements": [
+      "Total revenue from all business activities before tax deductions.",
+      "Revenue earned from telecom services after excluding non-telecom income and permitted deductions.",
+      "Net profit of telecom companies before interest and depreciation."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "1 and 2 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "[[Adjusted Gross Revenue (AGR)]] refers to the income earned by telecom firms from core services after subtracting allowed deductions. It forms the base for spectrum usage fees and license charges.",
+    "tags": "Economy, Telecom Policy, Infrastructure"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following statements regarding the role of India in the disintegrating world order:",
+    "statements": [
+      "India seeks to lead the Global South as an autonomous power.",
+      "India is a formal military ally of the United States through QUAD.",
+      "India benefits from production relocation as companies diversify away from China."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "India maintains [[strategic autonomy]] and is not part of any formal military alliance like NATO or even QUAD. It is positioning itself as a leader of the [[Global South]] and is benefiting from companies like Apple shifting production away from China.",
+    "tags": "International Relations, Economy, Polity"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following institutions are involved in India’s leadership on climate diplomacy?",
+    "statements": [
+      "International Solar Alliance (ISA)",
+      "Coalition for Disaster Resilient Infrastructure (CDRI)",
+      "Global Environment Facility (GEF)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India co-founded the [[International Solar Alliance]] and [[CDRI]] to lead global climate resilience efforts. The [[Global Environment Facility]] is a global body, not India-led.",
+    "tags": "Environment, International Relations, Governance"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which among the following are objectives of India's 'Act East Policy'?",
+    "statements": [
+      "Strengthen economic ties with Central Asia",
+      "Deepen strategic partnerships in the Indo-Pacific",
+      "Enhance cultural and trade links with ASEAN countries"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "India’s [[Act East Policy]] primarily focuses on deepening relations with East and Southeast Asian countries (including ASEAN) and enhancing Indo-Pacific engagement. Central Asia falls under the ‘Connect Central Asia’ initiative.",
+    "tags": "International Relations, Foreign Policy"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following statements about the Nipah Virus (NiV):",
+    "statements": [
+      "It is a zoonotic virus primarily transmitted by mosquitoes.",
+      "It can cause both Acute Encephalitis Syndrome (AES) and Acute Respiratory Distress Syndrome (ARDS).",
+      "Genomic surveillance can help detect more virulent strains early."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "The [[Nipah virus]] is a zoonotic virus transmitted from fruit bats, not mosquitoes. It can cause both AES and ARDS, with genomic surveillance aiding in early detection of mutations and outbreak risks.",
+    "tags": "Science and Technology, Health, Environment"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which institutions are involved in India’s genomic surveillance for viral outbreaks like Nipah?",
+    "statements": [
+      "ICMR-NIV, Pune",
+      "GISAID",
+      "GenBank"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "[[ICMR-NIV, Pune]] conducts domestic surveillance and sequencing, while [[GISAID]] and [[GenBank]] are global platforms for sharing viral genomes.",
+    "tags": "Health, Science and Tech, International Cooperation"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "The concept of ‘One Health’ refers to:",
+    "statements": [
+      "An insurance scheme to cover both human and animal healthcare costs.",
+      "An integrated approach to health that connects humans, animals, and the environment.",
+      "A United Nations declaration on universal health coverage."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The [[One Health Mission]] adopts an integrated, unifying approach to balance and optimize the health of people, animals, and the environment. It is critical in managing zoonotic diseases like Nipah.",
+    "tags": "Health, Environment, Governance"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following steps were taken by Indian banks to ensure cybersecurity amid recent border tensions?",
+    "statements": [
+      "Designation of senior officials for incident reporting and operations continuity.",
+      "Conducting mock drills against DDoS attacks.",
+      "Shifting all banking servers to offline systems."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Banks were asked to designate cybersecurity leads and conduct mock drills, especially for [[DDoS attacks]]. However, there is no directive to shift to offline-only systems.",
+    "tags": "Cybersecurity, Economy, Governance"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "CERT-In, a nodal body in India, is responsible for:",
+    "statements": [
+      "Reporting and managing cybersecurity threats.",
+      "Regulating telecom pricing and spectrum fees.",
+      "Maintaining India’s critical infrastructure grid."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "[[CERT-In]] (Indian Computer Emergency Response Team) is the national agency for responding to cyber incidents. It is not involved in telecom pricing or infrastructure regulation.",
+    "tags": "Science and Tech, Cybersecurity, Governance"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Port Sudan, recently in news, is strategically located along which of the following?",
+    "statements": [
+      "Red Sea",
+      "Black Sea",
+      "Gulf of Oman",
+      "Caspian Sea"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "3 and 4 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "[[Port Sudan]] lies on the coast of the [[Red Sea]] and has gained strategic importance during Sudan’s ongoing civil conflict as the de facto administrative capital.",
+    "tags": "International Relations, Geography, Current Affairs"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Victory Day Parade in Russia commemorates which of the following events?",
+    "statements": [
+      "Fall of Berlin Wall",
+      "Victory of Soviet Union over Nazi Germany",
+      "End of the Cold War"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "1 and 2 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The [[Victory Day Parade]] held on May 9 each year in [[Red Square, Moscow]] commemorates the Soviet victory over [[Nazi Germany]] in World War II (1945).",
+    "tags": "History, International Affairs, Defence"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "The presence of troops from which countries at Russia’s 2025 Victory Day Parade signals closer military ties?",
+    "statements": [
+      "North Korea",
+      "China",
+      "Japan",
+      "Belarus"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 4",
+      "1, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4",
+    "explanation": "Troops from [[China]], [[North Korea]], and [[Belarus]] participated in the 2025 parade, reflecting deeper alignment with Russia amid global geopolitical tensions.",
+    "tags": "Defence, International Relations, Current Affairs"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following about drone warfare in urban conflicts:",
+    "statements": [
+      "Drones are increasingly used due to their precision and low cost.",
+      "They are banned under international humanitarian law.",
+      "They pose a high risk to civilian infrastructure."
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Drones are widely used in modern urban warfare for their affordability and precision. They are not entirely banned under international law, though their use on civilians raises ethical concerns.",
+    "tags": "Science and Tech, Defence, Ethics"
+  },
+  {
+    "date": "10",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following organisations have condemned recent takedowns of X (formerly Twitter) accounts in India?",
+    "statements": [
+      "Press Club of India",
+      "Delhi Union of Journalists",
+      "Inter-Services Public Relations (ISPR)",
+      "IWPC (Indian Women’s Press Corps)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The [[Press Club of India]], [[Delhi Union of Journalists]], and [[IWPC]] condemned the takedown as suppressing press freedom. ISPR is Pakistan's military PR wing and not relevant here.",
+    "tags": "Governance, Polity, Freedom of Speech"
+  }
+]
