@@ -1,0 +1,521 @@
+[
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following accurately describe the nature and implications of the 2003 India-Pakistan ceasefire understanding?",
+    "statements": [
+      "It is an informal military agreement, not a formal treaty.",
+      "It was initiated during the Vajpayee-Musharraf era to prevent cross-border hostilities.",
+      "UNMOGIP is formally recognized by India to monitor this agreement."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The 2003 ceasefire is an informal understanding, initiated during Vajpayee-Musharraf talks. While UNMOGIP exists, India does not formally recognize its role, asserting bilateralism in conflict resolution. \n\nSee [[India–Pakistan relations]], [[Line of Control]], and [[UNMOGIP]] on Wikipedia.",
+    "tags": "Internal Security, International Relations"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following best describes the Doval Doctrine in India's strategic policy?",
+    "statements": [
+      "It promotes a purely defensive approach to border management.",
+      "It combines offensive defence with diplomacy to address national security threats.",
+      "It discourages backchannel diplomacy with hostile neighbors."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The Doval Doctrine advocates offensive defence along with diplomacy as a strategy to counter security threats, especially cross-border terrorism. It does not rule out backchannel diplomacy.\n\nRefer [[Ajit Doval]], [[India–Pakistan relations]], [[National security doctrine]].",
+    "tags": "Internal Security, Strategic Doctrine, International Relations"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the significance of the Indian Ocean Dipole (IOD) in the context of Indian monsoons?",
+    "statements": [
+      "Positive IOD events lead to enhanced rainfall over the Indian subcontinent.",
+      "It has the opposite impact of El Niño on Indian rainfall.",
+      "IOD is a Pacific Ocean phenomenon that affects Indian weather patterns."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "IOD is an Indian Ocean phenomenon. Its positive phase brings rain to India and acts contrary to El Niño, which usually weakens monsoons. \n\nSee [[Indian Ocean Dipole]] and [[Monsoon in India]].",
+    "tags": "Geography, Environment, Climate Science"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which scheme provides crop insurance to Indian farmers based on monsoon performance?",
+    "statements": [],
+    "options": [
+      "Pradhan Mantri Fasal Bima Yojana",
+      "PM-KISAN",
+      "Soil Health Card Scheme",
+      "eNAM"
+    ],
+    "correct_option": "Pradhan Mantri Fasal Bima Yojana",
+    "explanation": "PMFBY is India’s flagship crop insurance scheme that offers protection against crop losses due to events like delayed or erratic monsoons.\n\nRefer to [[Pradhan Mantri Fasal Bima Yojana]] on Wikipedia.",
+    "tags": "Agriculture, Economy, Government Schemes"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements about the Commission for Air Quality Management (CAQM) are correct?",
+    "statements": [
+      "It was established under the Air (Prevention and Control of Pollution) Act, 1981.",
+      "It is a statutory body formed in 2020 to manage air quality in the Delhi-NCR region.",
+      "It oversees the enforcement of anti-stubble burning measures in Punjab, Haryana, and Uttar Pradesh."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "CAQM is a statutory body under the Air Act, 1981, established in 2020. It coordinates air quality efforts in the NCR including stubble burning control in neighboring states.\n\nSee [[Commission for Air Quality Management]] and [[Stubble burning in India]].",
+    "tags": "Environment, Governance, Pollution"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the 'Happy Seeder' machine used for?",
+    "statements": [],
+    "options": [
+      "Sowing wheat without removing paddy stubble",
+      "Spraying pesticides in standing crops",
+      "Measuring moisture in soil before sowing",
+      "Harvesting pulses using AI sensors"
+    ],
+    "correct_option": "Sowing wheat without removing paddy stubble",
+    "explanation": "The Happy Seeder is an eco-friendly machine that sows wheat directly into fields with standing paddy stubble, reducing the need for burning.\n\nRefer to [[Happy Seeder]] and [[Stubble burning]].",
+    "tags": "Environment, Agriculture, Technology"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which agency is responsible for issuing nationwide alerts on cyberattacks in India?",
+    "statements": [],
+    "options": [
+      "CERT-In",
+      "NITI Aayog",
+      "DRDO",
+      "NIC"
+    ],
+    "correct_option": "CERT-In",
+    "explanation": "CERT-In (Computer Emergency Response Team – India) is the national nodal agency under the Ministry of Electronics and IT for handling cybersecurity threats.\n\nSee [[CERT-In]] and [[Cybersecurity in India]].",
+    "tags": "Science and Technology, Internal Security"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "What is 'Operation Sindoor' recently seen in news?",
+    "statements": [],
+    "options": [
+      "India's counter-terror operation after Pahalgam attack",
+      "A scheme for promoting menstrual hygiene",
+      "Operation to build shelters for tribal women",
+      "Border road project in Ladakh"
+    ],
+    "correct_option": "India's counter-terror operation after Pahalgam attack",
+    "explanation": "Operation Sindoor refers to India’s recent counter-terror military operation conducted after the Pahalgam terror attack in April 2025.\n\nRefer [[Indian military operations]] and [[Pahalgam attack]].",
+    "tags": "Internal Security, Current Affairs"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following accurately describe the Tapti Basin Inter-State Water Recharge Project?",
+    "statements": [
+      "It involves joint efforts by Madhya Pradesh and Maharashtra.",
+      "The project focuses on groundwater recharge through check dams and percolation tanks.",
+      "It is the first inter-state project under the Jal Jeevan Mission."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Tapti Basin project involves MP and Maharashtra and aims to recharge groundwater using check dams. It is not linked to Jal Jeevan Mission.\n\nSee [[Tapti River]] and [[Groundwater recharge]].",
+    "tags": "Geography, Water Resources, Environment"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which constitutional amendment gave constitutional status to the National Commission for Backward Classes (NCBC)?",
+    "statements": [],
+    "options": [
+      "102nd Amendment",
+      "103rd Amendment",
+      "100th Amendment",
+      "97th Amendment"
+    ],
+    "correct_option": "102nd Amendment",
+    "explanation": "The 102nd Constitutional Amendment Act, 2018 granted constitutional status to the NCBC under Article 338B.\n\nRefer [[102nd Amendment of the Constitution of India]] and [[National Commission for Backward Classes]].",
+    "tags": "Polity, Social Justice, Constitutional Amendments"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are benefits of an early and above-normal Southwest Monsoon forecast by IMD?",
+    "statements": [
+      "Improved Kharif crop yields in rainfed regions",
+      "Stabilization of food inflation",
+      "Rise in hydropower production and reservoir levels"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "An early and above-normal monsoon can enhance crop output, boost rural demand, reduce inflation, and improve water availability for hydropower and irrigation.\n\nRefer [[Southwest Monsoon]], [[Kharif crop]], and [[Indian Meteorological Department]].",
+    "tags": "Agriculture, Economy, Geography"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following best describes the concept of 'backchannel diplomacy'?",
+    "statements": [],
+    "options": [
+      "Secret or informal negotiations outside official diplomatic frameworks",
+      "A United Nations-mandated resolution for bilateral peace",
+      "A treaty ratified by both houses of Parliament",
+      "Publicly broadcasted summit-level dialogue"
+    ],
+    "correct_option": "Secret or informal negotiations outside official diplomatic frameworks",
+    "explanation": "Backchannel diplomacy refers to unofficial and informal communication between countries to resolve sensitive issues, often away from public or media scrutiny.\n\nSee [[Backchannel diplomacy]].",
+    "tags": "International Relations, Polity"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which states jointly launched the Tapti Basin Inter-State Recharge Project?",
+    "statements": [],
+    "options": [
+      "Madhya Pradesh and Maharashtra",
+      "Maharashtra and Gujarat",
+      "Gujarat and Rajasthan",
+      "Madhya Pradesh and Chhattisgarh"
+    ],
+    "correct_option": "Madhya Pradesh and Maharashtra",
+    "explanation": "The Tapti Recharge Project is a cooperative water management initiative by Madhya Pradesh and Maharashtra to improve groundwater in drought-prone regions.\n\nRefer [[Tapti River]] and [[Groundwater recharge]].",
+    "tags": "Geography, Environment, Inter-State Relations"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "The UN SDG 3 targets for 2030 include which of the following?",
+    "statements": [
+      "Reducing Maternal Mortality Ratio (MMR) to less than 70 per 100,000 live births",
+      "Reducing Under-5 Mortality Rate (U5MR) to below 25 per 1,000 live births"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "SDG 3 aims to ensure healthy lives, including reducing MMR to under 70 per 100,000 live births and U5MR to under 25 per 1,000 live births.\n\nRefer [[Sustainable Development Goal 3]].",
+    "tags": "Health, SDGs, International Development"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following features of the Pusa Bio-decomposer:",
+    "statements": [
+      "It is developed by the Indian Agricultural Research Institute (IARI).",
+      "It helps decompose stubble into manure, reducing the need for burning.",
+      "It is sprayed through satellites using AI-based targeting."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Pusa Bio-decomposer, developed by IARI, is a microbial solution used for in-situ decomposition of stubble to prevent burning. It is applied manually or via machines, not satellites.\n\nSee [[Pusa decomposer]].",
+    "tags": "Environment, Agriculture, Technology"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "What was the reason cited by India for abstaining from the IMF vote on Pakistan’s bailout?",
+    "statements": [
+      "Concerns over misuse of funds by the Pakistan establishment",
+      "Pakistan’s continued support for cross-border terrorism",
+      "Lack of fiscal transparency in Pakistan"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India abstained due to all three concerns: terror support, poor fiscal governance, and fears of fund diversion. This aligns with its firm anti-terror diplomacy.\n\nSee [[India–Pakistan relations]] and [[IMF bailout]].",
+    "tags": "International Relations, Economy, Security"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following Indian states have already achieved the UN SDG 3 targets for MMR and U5MR?",
+    "statements": [],
+    "options": [
+      "Kerala, Tamil Nadu, and Maharashtra",
+      "Kerala, Punjab, and Gujarat",
+      "Tamil Nadu, Karnataka, and Haryana",
+      "Maharashtra, West Bengal, and Kerala"
+    ],
+    "correct_option": "Kerala, Tamil Nadu, and Maharashtra",
+    "explanation": "Kerala, Tamil Nadu, and Maharashtra have achieved SDG 3 goals for maternal and child mortality due to strong public health systems and social indicators.\n\nRefer [[Health in India]], [[Maternal mortality in India]].",
+    "tags": "Health, SDGs, Governance"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following is NOT part of the National Health Mission's sub-schemes?",
+    "statements": [],
+    "options": [
+      "Janani Suraksha Yojana",
+      "Ayushman Bharat",
+      "Janani Shishu Suraksha Karyakram",
+      "National Nutrition Mission (POSHAN Abhiyaan)"
+    ],
+    "correct_option": "National Nutrition Mission (POSHAN Abhiyaan)",
+    "explanation": "POSHAN Abhiyaan is a separate scheme under the Ministry of Women and Child Development, not a sub-scheme of NHM.\n\nSee [[National Health Mission]] and [[POSHAN Abhiyaan]].",
+    "tags": "Health, Schemes, Social Development"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which river basin is targeted under the new inter-state groundwater recharge project launched in May 2025?",
+    "statements": [],
+    "options": [
+      "Tapti Basin",
+      "Krishna Basin",
+      "Narmada Basin",
+      "Godavari Basin"
+    ],
+    "correct_option": "Tapti Basin",
+    "explanation": "The Tapti Basin is the focus of the latest inter-state project for groundwater recharge between Maharashtra and Madhya Pradesh.\n\nSee [[Tapti River]] and [[Water management in India]].",
+    "tags": "Geography, Environment, Inter-State Relations"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which constitutional provision empowers the President to appoint a commission to investigate the condition of backward classes?",
+    "statements": [],
+    "options": [
+      "Article 340",
+      "Article 338",
+      "Article 324",
+      "Article 142"
+    ],
+    "correct_option": "Article 340",
+    "explanation": "Article 340 of the Constitution allows the President to appoint a commission to examine the condition of backward classes—basis of Mandal Commission.\n\nRefer [[Article 340 of the Constitution of India]].",
+    "tags": "Polity, Social Justice, Constitutional Provisions"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following Indian agencies is responsible for protecting critical sectors like energy and defense from cyber threats?",
+    "statements": [],
+    "options": [
+      "National Critical Information Infrastructure Protection Centre (NCIIPC)",
+      "Central Bureau of Investigation (CBI)",
+      "Indian Computer Emergency Response Team (CERT-In)",
+      "National Informatics Centre (NIC)"
+    ],
+    "correct_option": "National Critical Information Infrastructure Protection Centre (NCIIPC)",
+    "explanation": "NCIIPC is a unit under the NTRO responsible for securing India's critical information infrastructure like power, defense, and finance sectors.\n\nRefer [[NCIIPC]] and [[Cyber security in India]].",
+    "tags": "Internal Security, Science and Technology, Governance"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "The term 'Beauty With a Purpose' is associated with which of the following?",
+    "statements": [],
+    "options": [
+      "Miss World Pageant",
+      "International Yoga Day",
+      "UNESCO Heritage Campaign",
+      "Digital India Initiative"
+    ],
+    "correct_option": "Miss World Pageant",
+    "explanation": "‘Beauty With a Purpose’ is the social outreach and humanitarian project platform of the Miss World pageant to support community service.\n\nRefer [[Miss World]] and [[Beauty with a Purpose]].",
+    "tags": "Culture, International Relations, Soft Power"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following cultural elements were showcased during the Miss World 2025 inauguration in Hyderabad?",
+    "statements": [
+      "Perini Shiv Tandavam dance",
+      "Pochampally Ikat textiles",
+      "Millet-based cuisine"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three—Perini dance, Pochampally Ikat, and millet cuisine—were featured to represent Telangana's heritage during Miss World 2025.\n\nRefer [[Perini dance]], [[Pochampally Ikat]], and [[Miss World]].",
+    "tags": "Culture, Economy, Tourism"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following is true about the UNMOGIP with reference to India?",
+    "statements": [],
+    "options": [
+      "India does not recognize its mandate in Jammu and Kashmir.",
+      "India invites UNMOGIP for every LoC-related incident.",
+      "UNMOGIP was established post Kargil War.",
+      "UNMOGIP monitors Indo-Nepal border."
+    ],
+    "correct_option": "India does not recognize its mandate in Jammu and Kashmir.",
+    "explanation": "UNMOGIP was established in 1949 to monitor the ceasefire in J&K, but India no longer recognizes its relevance post the 1972 Shimla Agreement.\n\nRefer [[UNMOGIP]] and [[India–Pakistan relations]].",
+    "tags": "International Relations, Security, UN Bodies"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following best defines the Line of Control (LoC)?",
+    "statements": [],
+    "options": [
+      "It is the de facto military border between Indian and Pakistani controlled parts of Jammu & Kashmir.",
+      "It is an internationally recognized boundary.",
+      "It is a maritime boundary in the Arabian Sea.",
+      "It is a peace corridor established by the United Nations."
+    ],
+    "correct_option": "It is the de facto military border between Indian and Pakistani controlled parts of Jammu & Kashmir.",
+    "explanation": "LoC is the military control line between Indian and Pakistani controlled parts of J&K, established post-1971 war but not a legally recognized international border.\n\nRefer [[Line of Control]].",
+    "tags": "Geography, International Relations, Security"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements best define the doctrine of 'Hot Pursuit' in Indian strategic context?",
+    "statements": [],
+    "options": [
+      "Conducting cross-border strikes against terrorists",
+      "Suspending diplomatic ties during war",
+      "Mobilizing UN Peacekeepers on borders",
+      "Establishing buffer zones for ceasefire"
+    ],
+    "correct_option": "Conducting cross-border strikes against terrorists",
+    "explanation": "Hot Pursuit allows a nation to enter foreign territory to neutralize imminent terror threats—used by India post-Uri and Pulwama attacks.\n\nRefer [[Surgical strikes]] and [[Hot pursuit]].",
+    "tags": "Internal Security, Defence Strategy"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following schemes is aimed at promoting rainwater harvesting and aquifer recharge at the community level?",
+    "statements": [],
+    "options": [
+      "Jal Shakti Abhiyan",
+      "Smart Cities Mission",
+      "Atal Innovation Mission",
+      "National Bio-Energy Mission"
+    ],
+    "correct_option": "Jal Shakti Abhiyan",
+    "explanation": "Jal Shakti Abhiyan is a government campaign to promote rainwater harvesting, watershed management, and aquifer recharge across water-stressed districts.\n\nRefer [[Jal Shakti Abhiyan]].",
+    "tags": "Environment, Water Resources, Governance"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the main function of the Parliamentary Standing Committees in India?",
+    "statements": [],
+    "options": [
+      "Detailed examination of bills and policy issues",
+      "Announcing budget allocations to states",
+      "Conducting judicial reviews of government actions",
+      "Implementing central schemes at district level"
+    ],
+    "correct_option": "Detailed examination of bills and policy issues",
+    "explanation": "Parliamentary Standing Committees scrutinize bills, examine budgets, and review government functioning in detail to ensure accountability.\n\nRefer [[Parliamentary Committees of India]].",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following best defines the term ‘Caste Census’ in the Indian context?",
+    "statements": [],
+    "options": [
+      "Enumeration of population based on caste identity",
+      "Compilation of voter lists for scheduled castes",
+      "Listing of caste-based jobs in government offices",
+      "Collection of data on caste-related crimes"
+    ],
+    "correct_option": "Enumeration of population based on caste identity",
+    "explanation": "A caste census involves counting and categorizing the population based on caste identity, to aid in reservation and welfare policies.\n\nSee [[Caste Census in India]].",
+    "tags": "Polity, Social Justice, Governance"
+  },
+  {
+    "date": "11",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following schemes is designed to improve respectful and quality maternity care in Indian hospitals?",
+    "statements": [],
+    "options": [
+      "SUMAN",
+      "RUSA",
+      "PM POSHAN",
+      "SWADESH"
+    ],
+    "correct_option": "SUMAN",
+    "explanation": "SUMAN (Surakshit Matritva Aashwasan) provides assured, dignified, respectful, and zero-expense delivery care to all pregnant women.\n\nRefer [[SUMAN scheme]].",
+    "tags": "Health, Women Welfare, Government Schemes"
+  }
+]
