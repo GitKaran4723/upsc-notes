@@ -1,0 +1,37 @@
+[
+    {
+        "subject": "economy",
+        "type": "GS",
+        "year": "2024",
+        "question": "Consider the following statements:",
+        "statements": [
+            "If the United States of America (USA) were to default on its debt, holders of US Treasury Bonds will not be able to exercise their claims to receive payment.",
+            "The USA Government debt is not backed by any hard assets, but only by the faith of the Government"
+        ],
+        "options": [
+            "Both Statement-I and Statement-II are correct, and Statement-II explains Statement-I",
+            "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I", 
+            "Statement I is correct, but Statement II is incorrect", 
+            "Statement I is incorrect, but Statement II is correct"
+        ],
+        "correct_option": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+        "explanation": "Both statements are correct. If the USA defaults on its debt, holders of Treasury Bonds cannot enforce repayment due to sovereign immunity—governments cannot be sued like private entities. US government debt is not backed by physical assets but by the government's credibility, taxation power, and monetary control. However, Statement-II does not explain Statement-I. The inability to claim payment stems from the legal status of sovereign debt, not the absence of asset backing. Thus, while both statements are factually accurate, the reasoning in Statement-II does not directly justify the conclusion in Statement-I. Hence, option (b) is the correct answer."
+    },
+    {
+         "subject": "economy",
+        "type": "GS",
+        "year": "2024",
+        "question": "Consider the following statements:",
+        "statements": [
+            "Syndicated lending spreads the risk of borrower default across multiple lenders.",
+            "The syndicated loan can be a fixed amount/lump sum of funds, but cannot be a credit line."
+        ],
+        "options": [
+            "Both Statement-I and Statement-II are correct, and Statement-II explains Statement-I",
+            "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I", 
+            "Statement I is correct, but Statement II is incorrect", 
+            "Statement I is incorrect, but Statement II is correct"
+        ],
+        "correct_option": "Statement-I is correct because syndicated lending involves a group of lenders jointly funding a single borrower, which distributes the risk of default among them rather than concentrating it with one lender. This is common in large infrastructure or corporate loans. Statement-II is incorrect because syndicated loans can be structured as either a lump sum (term loan) or a credit line (revolving facility). There is no restriction that prevents syndicated loans from being offered as credit lines. Thus, while the first statement is accurate, the second is factually wrong, making option (c) the correct choice."
+    }
+]
