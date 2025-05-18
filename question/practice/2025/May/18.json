@@ -1,0 +1,559 @@
+[
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following states are involved in the Mhadei River water dispute?",
+    "statements": [
+      "Karnataka",
+      "Goa",
+      "Maharashtra"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Mhadei River water dispute involves Karnataka (where the river originates), Goa (where it's known as Mandovi and vital for ecology), and Maharashtra (through which part of the basin flows). \n\nThe Kalasa-Banduri project by Karnataka triggered objections from Goa. The case reached the Supreme Court under Article 131. \n\nSee [[Mhadei River Water Dispute]] and [[Inter-State Water Disputes Act, 1956]].",
+    "tags": "Polity, Environment, Geography, Federalism"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the Kalasa-Banduri Project, consider the following statements:",
+    "statements": [
+      "It involves diversion of Mhadei river water to Malaprabha river.",
+      "It aims to meet the drinking water needs of Hubballi-Dharwad region.",
+      "It is being implemented by Goa government."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Kalasa-Banduri Project is implemented by Karnataka to divert water from Mhadei's tributaries to the Malaprabha river to meet the drinking water needs of the Hubballi-Dharwad region. It is not implemented by the Goa government. \n\nSee [[Kalasa-Banduri Nala project]] and [[Malaprabha River]].",
+    "tags": "Geography, Environment, Polity"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Why is the Western Ghats a critical factor in the Mhadei river water dispute?",
+    "statements": [
+      "It is a biodiversity hotspot and ecologically sensitive area.",
+      "It has been declared a UNESCO World Heritage Site.",
+      "Environmental clearances in this region are governed by MoEFCC due to its fragile ecology."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Western Ghats, part of the Mhadei basin, is a UNESCO World Heritage Site and one of the eight 'hottest hotspots' of biological diversity. Hence, any diversion or infrastructure development requires strict environmental scrutiny under MoEFCC norms. \n\nSee [[Western Ghats]], [[UNESCO World Heritage Sites in India]], and [[Environmental Impact Assessment in India]].",
+    "tags": "Environment, Geography, Polity"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which constitutional article empowers the Supreme Court to adjudicate inter-state disputes such as the Mhadei water conflict?",
+    "statements": [],
+    "options": [
+      "Article 131",
+      "Article 262",
+      "Article 143",
+      "Article 246"
+    ],
+    "correct_option": "Article 131",
+    "explanation": "Article 131 of the Constitution of India provides the Supreme Court exclusive jurisdiction over disputes between states, such as inter-state river water conflicts. \n\nArticle 262 deals with the establishment of Inter-State Water Disputes Tribunals, while Article 143 pertains to Presidential reference. \n\nSee [[Article 131 of Indian Constitution]].",
+    "tags": "Polity, Constitution, Inter-State Disputes"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "What was the ruling of the Karnataka High Court regarding power subsidies to farmer collectives?",
+    "statements": [
+      "It upheld that denying subsidies to farmer societies while providing them to individuals violates the Right to Equality.",
+      "The court relied on Article 14 of the Constitution.",
+      "It mandated equal treatment of all agricultural electricity consumers."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Karnataka High Court held that denying power subsidies to registered farmer cooperatives while providing them to individuals is discriminatory under Article 14 of the Constitution. It emphasized the equal treatment principle enshrined in the Right to Equality. \n\nSee [[Article 14 of the Indian Constitution]].",
+    "tags": "Polity, Economy, Governance, Agriculture"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are features of the PM-KUSUM scheme?",
+    "statements": [
+      "It promotes the use of solar pumps in agriculture.",
+      "It aims to reduce the burden of power subsidies on the state.",
+      "It is implemented by the Ministry of Education."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthan Mahabhiyan) is a scheme under the Ministry of New and Renewable Energy. It promotes solar energy for irrigation and aims to reduce states’ electricity subsidy burden. \n\nSee [[PM-KUSUM Scheme]].",
+    "tags": "Agriculture, Economy, Energy"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Why has CBSE mandated 'Sugar Boards' in schools?",
+    "statements": [
+      "To raise awareness about the risks of excessive sugar consumption.",
+      "To tackle the rise of Type-2 diabetes in school children.",
+      "To implement dietary reforms in midday meals."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "CBSE directed schools to display 'Sugar Boards' to educate students on the health hazards of excessive sugar intake, especially with rising childhood diabetes cases. It is a behavioral communication strategy, not directly linked to midday meals. \n\nSee [[Central Board of Secondary Education]] and [[Type 2 Diabetes]].",
+    "tags": "Health, Education, Governance"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "‘Eat Right School’ campaign, often seen in news, is implemented by which of the following?",
+    "statements": [],
+    "options": [
+      "FSSAI",
+      "CBSE",
+      "Ministry of Education",
+      "Ministry of Health"
+    ],
+    "correct_option": "FSSAI",
+    "explanation": "‘Eat Right School’ is an initiative by the Food Safety and Standards Authority of India (FSSAI) to promote food safety and nutritional awareness among school children. \n\nIt complements broader campaigns like Fit India and NEP health initiatives. \n\nSee [[Eat Right School]].",
+    "tags": "Health, Nutrition, Governance"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following with respect to the 'Drone Shaatir' programme:",
+    "statements": [
+      "It is an initiative to involve local villagers in drone detection.",
+      "It was launched to combat cross-border drone infiltration.",
+      "It is implemented by the National Technical Research Organisation (NTRO)."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The 'Drone Shaatir' programme trains local villagers in Punjab and border areas to report drone sightings and alert security forces. It is led by local police and BSF, not the NTRO. \n\nSee [[Drone Shaatir Program]] and [[Border Security Force]].",
+    "tags": "Internal Security, Border Management, Technology"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements are correct about the use of drones in India-Pakistan border areas?",
+    "statements": [
+      "Drones are used to smuggle arms and drugs across the Punjab border.",
+      "Low-flying drones often escape radar detection.",
+      "DGMO talks between India and Pakistan address drone-related issues."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Drones are increasingly used by Pakistan-based operatives to smuggle narcotics and arms. Their low-altitude flights often evade radar detection. DGMO-level communications are used to manage such ceasefire violations. \n\nSee [[India–Pakistan Border Security]] and [[Drone Infiltration]].",
+    "tags": "Internal Security, Technology, IR"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following states has the highest Total Fertility Rate (TFR) as per NFHS-5 data?",
+    "statements": [],
+    "options": [
+      "Uttar Pradesh",
+      "Bihar",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "correct_option": "Bihar",
+    "explanation": "According to NFHS-5, Bihar recorded the highest Total Fertility Rate (TFR) at 3.0, which is well above the replacement level of 2.1. This indicates high population growth in the state. \n\nSee [[Total Fertility Rate]], [[NFHS-5]].",
+    "tags": "Society, Demographics, Health, Economy"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following correctly explains the term 'Replacement Level Fertility'?",
+    "statements": [],
+    "options": [
+      "Fertility rate needed to double the population",
+      "Fertility rate at which a population exactly replaces itself",
+      "Fertility rate required to halt all population growth",
+      "Fertility rate needed to increase youth population"
+    ],
+    "correct_option": "Fertility rate at which a population exactly replaces itself",
+    "explanation": "Replacement Level Fertility refers to the level of fertility at which a population exactly replaces itself from one generation to the next, without migration. It is typically 2.1 for most countries. \n\nSee [[Replacement-level fertility]].",
+    "tags": "Society, Demographics, Population Studies"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Why has India’s declining TFR raised concerns among policymakers?",
+    "statements": [
+      "It may lead to an aging population.",
+      "It could reduce the future working-age population.",
+      "It increases pressure on pension and healthcare systems."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "A declining TFR below the replacement level may result in population aging, a shrinking workforce, and higher dependency on public health and pension systems. \n\nSee [[Demographic dividend]], [[Aging population]].",
+    "tags": "Society, Economy, Governance"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following correctly describes 'Project Lion'?",
+    "statements": [
+      "A central government initiative for the conservation of Asiatic Lions.",
+      "It includes relocation, disease management, and habitat improvement.",
+      "It is implemented in Kaziranga National Park."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Project Lion is implemented in Gir Forest, Gujarat, and aims at holistic conservation of Asiatic Lions, including habitat development and relocation plans—not in Kaziranga. \n\nSee [[Project Lion]], [[Asiatic Lion]].",
+    "tags": "Environment, Biodiversity, Conservation"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "SIMBA software, recently seen in the news, is used for which of the following?",
+    "statements": [],
+    "options": [
+      "Tracking tiger movements in Sundarbans",
+      "Monitoring financial frauds",
+      "Real-time lion tracking and behaviour analysis",
+      "Drone surveillance in border areas"
+    ],
+    "correct_option": "Real-time lion tracking and behaviour analysis",
+    "explanation": "SIMBA (Software for Intelligent Monitoring of Big Animals) is AI-based software used in the Gir Forest to monitor Asiatic lion movement and behaviour. \n\nSee [[SIMBA software]], [[Gir National Park]].",
+    "tags": "Technology, Wildlife Conservation, Environment"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements is/are true about cyberbullying in India?",
+    "statements": [
+      "There is no comprehensive law specifically addressing cyberbullying.",
+      "Section 66A of the IT Act is still used to punish online harassment.",
+      "Cybercrime portal and helpline have been launched to assist victims."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "India lacks a dedicated cyberbullying law. Section 66A of the IT Act was struck down in 2015 (Shreya Singhal case). However, cybercrime.gov.in and helpline 1930 offer redressal mechanisms. \n\nSee [[Cyberbullying in India]], [[Section 66A]].",
+    "tags": "Internal Security, Law, Governance"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which section of the IT Act penalizes publishing obscene material online?",
+    "statements": [],
+    "options": [
+      "Section 66A",
+      "Section 72",
+      "Section 67",
+      "Section 66E"
+    ],
+    "correct_option": "Section 67",
+    "explanation": "Section 67 of the Information Technology Act, 2000, penalizes publishing or transmitting obscene material in electronic form. It is often invoked in cybercrime cases. \n\nSee [[Section 67 IT Act]].",
+    "tags": "Law, Cybersecurity, IT Act"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which port infrastructure initiative aims to promote border trade and port-led development in India?",
+    "statements": [],
+    "options": [
+      "Smart Cities Mission",
+      "Sagarmala Project",
+      "PM Gati Shakti",
+      "Samarth Scheme"
+    ],
+    "correct_option": "Sagarmala Project",
+    "explanation": "The Sagarmala Project aims at port modernization, development of coastal economic zones, and improving logistics for domestic and international trade. \n\nSee [[Sagarmala Project]].",
+    "tags": "Infrastructure, Economy, IR"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Why did India impose port restrictions on Bangladesh in May 2025?",
+    "statements": [
+      "Bangladesh blocked land import of Indian yarn.",
+      "India retaliated to protect its textile sector.",
+      "BBIN agreement required reciprocal action."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India imposed port restrictions in retaliation to Bangladesh's ban on land imports of Indian yarn. The move aims to protect Indian textile traders. The BBIN agreement does not mandate such action. \n\nSee [[India–Bangladesh Trade Relations]].",
+    "tags": "IR, Trade, Economy"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which organization partnered with DPIIT to fund climate-tech startups through the ENTICE Challenge?",
+    "statements": [],
+    "options": [
+      "World Bank",
+      "GEAPP",
+      "UNEP",
+      "IREDA"
+    ],
+    "correct_option": "GEAPP",
+    "explanation": "The Global Energy Alliance for People and Planet (GEAPP) partnered with DPIIT to launch the ENTICE Challenge and support climate-tech startups in India. \n\nSee [[Global Energy Alliance for People and Planet]], [[DPIIT]].",
+    "tags": "Economy, Environment, Startup, Governance"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are objectives of the ENTICE Challenge launched by DPIIT and GEAPP?",
+    "statements": [
+      "Support climate-tech startups in India",
+      "Provide seed funding and mentorship to clean energy innovators",
+      "Expand fossil fuel extraction in renewable energy zones"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The ENTICE Challenge aims to fund and mentor climate-tech startups working on clean energy solutions. It does not support fossil fuel extraction. \n\nSee [[ENTICE Challenge]], [[Startup India]].",
+    "tags": "Economy, Environment, Startup"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following Indian states are known for high wind energy potential, especially during the monsoon?",
+    "statements": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Gujarat"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Tamil Nadu, Andhra Pradesh, and Gujarat are leading states in India for wind energy, especially due to favorable monsoon winds. \n\nSee [[Wind power in India]].",
+    "tags": "Environment, Energy, Geography"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "How does India plan to optimize wind power generation using new technologies?",
+    "statements": [
+      "Use of AI and high-resolution weather forecasting models",
+      "Integration of monsoon pattern data",
+      "Deployment of underwater turbines along coastal areas"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India is using AI and detailed weather models to improve wind energy forecasting. Underwater turbines are not part of wind energy but related to tidal energy. \n\nSee [[Wind power forecasting]].",
+    "tags": "Science and Technology, Environment, Energy"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which institution provides wind resource assessment and simulation data in India?",
+    "statements": [],
+    "options": [
+      "IMD",
+      "NIWE",
+      "ISRO",
+      "CSIR-CMERI"
+    ],
+    "correct_option": "NIWE",
+    "explanation": "The National Institute of Wind Energy (NIWE), under the Ministry of New and Renewable Energy, provides wind resource data and assessments. \n\nSee [[NIWE India]].",
+    "tags": "Environment, Energy, Institutions"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following schemes are aimed at promoting health and fitness among school students?",
+    "statements": [
+      "Fit India Movement",
+      "Eat Right School",
+      "School Health & Wellness Programme"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three initiatives—Fit India Movement, Eat Right School (FSSAI), and the School Health & Wellness Programme—aim to improve student health through awareness, better food practices, and fitness promotion. \n\nSee [[Fit India Movement]], [[School Health & Wellness Programme]].",
+    "tags": "Health, Education, Governance"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the role of ASHA workers in India's population policy?",
+    "statements": [
+      "They promote awareness on family planning.",
+      "They assist in maternal and child health services.",
+      "They supervise public distribution of food grains."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "ASHA workers are frontline health workers who educate communities on reproductive health and assist in maternal and child care. PDS supervision is not their responsibility. \n\nSee [[Accredited Social Health Activist]].",
+    "tags": "Health, Governance, Population Policy"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following Indian initiatives supports infrastructure for renewable energy evacuation?",
+    "statements": [],
+    "options": [
+      "National Grid Expansion Mission",
+      "Green Energy Corridor",
+      "PM Gati Shakti Yojana",
+      "Renew India Scheme"
+    ],
+    "correct_option": "Green Energy Corridor",
+    "explanation": "The Green Energy Corridor aims to build transmission infrastructure for evacuating renewable power from energy-rich states to the national grid. \n\nSee [[Green Energy Corridor India]].",
+    "tags": "Environment, Energy, Infrastructure"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following wildlife conservation concerns is associated with Gir Forest National Park?",
+    "statements": [
+      "Overconcentration of species population",
+      "Genetic bottlenecks",
+      "Frequent man-animal conflict"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Gir Forest hosts all Asiatic Lions, making it ecologically risky due to disease and disaster vulnerability. Limited gene pool and human-lion conflict are also key issues. \n\nSee [[Gir Forest National Park]].",
+    "tags": "Environment, Biodiversity, Wildlife Conservation"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Under which Article of the Constitution can a state move the Supreme Court in an inter-state water dispute?",
+    "statements": [],
+    "options": [
+      "Article 131",
+      "Article 32",
+      "Article 246",
+      "Article 356"
+    ],
+    "correct_option": "Article 131",
+    "explanation": "Article 131 gives the Supreme Court exclusive jurisdiction to hear disputes between the Union and states or between states, including inter-state river water disputes. \n\nSee [[Article 131 of Indian Constitution]].",
+    "tags": "Polity, Constitution, Governance"
+  },
+  {
+    "date": "18",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are part of the BIMARU states, often discussed in demographic debates?",
+    "statements": [
+      "Bihar",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Kerala"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "BIMARU is an acronym for Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh—states historically associated with high population growth and development challenges. Kerala is not included. \n\nSee [[BIMARU States]].",
+    "tags": "Society, Demographics, Economy"
+  }
+]
