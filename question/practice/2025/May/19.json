@@ -1,0 +1,632 @@
+[
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What caused the failure of the PSLV-C61 mission launched by ISRO on May 18, 2025?",
+    "statements": [
+      "A malfunction in the payload integration system",
+      "Loss of pressure in the third stage solid rocket motor",
+      "Telemetry failure during launch countdown",
+      "Liquid fuel stage explosion"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 4 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The PSLV-C61 mission failed due to a sudden pressure drop in the third stage of the rocket, which is a solid fuel stage responsible for mid-phase propulsion. This led to an incomplete orbital insertion.\n\nISRO will conduct a failure analysis and continue its development of SSLV and Gaganyaan.\n\nSee also [[PSLV]], [[Indian Space Research Organisation]], and [[NewSpace India Limited]].",
+    "tags": "Science and Technology, Space, ISRO"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following statements are correct regarding PSLV (Polar Satellite Launch Vehicle)?",
+    "statements": [
+      "It uses alternating solid and liquid propulsion stages",
+      "It is primarily used to place satellites into geostationary orbits",
+      "It was first launched in 1993",
+      "It is developed by ISRO for low-cost satellite launches"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 3 and 4 only",
+    "explanation": "PSLV is a 4-stage rocket developed by ISRO, using alternating solid and liquid fuel stages. It is primarily used to place satellites into polar and sun-synchronous orbits, not geostationary ones.\n\nSee [[PSLV]] and [[ISRO]].",
+    "tags": "Science and Technology, Space, ISRO"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "India sent diplomatic delegations to global capitals in May 2025 after which of the following events?",
+    "statements": [
+      "A major terror attack in Pahalgam",
+      "Bilateral trade disagreement with the EU",
+      "Drone strikes by China in Arunachal Pradesh",
+      "Cross-border attacks by Pakistan-based terror groups"
+    ],
+    "options": [
+      "1 and 4 only",
+      "2 and 3 only",
+      "1, 2 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 4 only",
+    "explanation": "India launched a diplomatic offensive after the Pahalgam terror attack, allegedly by Pakistan-backed groups, to expose Pakistan’s role and promote India's pluralistic society abroad.\n\nSee [[Pahalgam attack]], [[Cross-border terrorism]], and [[Ministry of External Affairs (India)]].",
+    "tags": "International Relations, Internal Security, Diplomacy"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What is the primary objective of India's recent global diplomatic outreach following the Pahalgam terror attack?",
+    "statements": [
+      "To seek asylum for Kashmiri migrants",
+      "To counter Pakistan’s international narrative",
+      "To showcase India’s secular and pluralistic credentials",
+      "To raise financial aid for border infrastructure"
+    ],
+    "options": [
+      "1 and 4 only",
+      "2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "The global diplomatic outreach focused on exposing Pakistan’s support to terror groups and presenting India as a pluralistic democracy. Financial aid or asylum wasn’t the intent.\n\nSee [[Indian diplomacy]], [[Cross-border terrorism]], and [[Soft power]].",
+    "tags": "International Relations, Security, Governance"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Why did Tamil Nadu transfer its ₹50 crore endangered species fund from SFDA to AIWC?",
+    "statements": [
+      "SFDA was found to be dysfunctional",
+      "AIWC is a specialized wildlife conservation NGO",
+      "There was a court order mandating the transfer",
+      "Funds were underutilized by SFDA"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Tamil Nadu handed over conservation funds to AIWC due to SFDA’s poor utilization. The AIWC is an expert body in wildlife conservation. There was no court order mentioned.\n\nSee [[Animal Welfare and Conservation Society]], [[State Forest Development Agency]], and [[Biodiversity in India]].",
+    "tags": "Environment, Governance, Biodiversity"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which critically endangered species are among the focus of Tamil Nadu's conservation efforts under AIWC?",
+    "statements": [
+      "Great Indian Bustard",
+      "Nilgiri Tahr",
+      "Snow Leopard",
+      "Olive Ridley Turtle"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Tamil Nadu’s fund under AIWC focuses on the Great Indian Bustard and Nilgiri Tahr. Snow leopards are Himalayan species and Olive Ridleys are marine and not the direct focus here.\n\nSee [[Nilgiri Tahr]], [[Great Indian Bustard]], and [[Tamil Nadu Biodiversity]].",
+    "tags": "Environment, Species Conservation, Biodiversity"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What does the Sansad Ratna Award primarily recognize?",
+    "statements": [
+      "High voter turnout in constituencies",
+      "Outstanding performance of Members of Parliament",
+      "Parliamentary attendance and debates",
+      "Introduction of Private Member Bills"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "2, 3 and 4 only",
+    "explanation": "The Sansad Ratna Award honors MPs based on criteria like debates, attendance, and Private Member Bills. Voter turnout is not a parameter.\n\nSee [[Sansad Ratna Award]], [[PRS Legislative Research]], and [[Private Member Bill]].",
+    "tags": "Polity, Governance, Parliament"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which among the following was a reason for Adani-Sparton collaboration in May 2025?",
+    "statements": [
+      "To co-develop anti-submarine warfare systems in India",
+      "To build India’s first nuclear submarine",
+      "To manufacture sonobuoys locally",
+      "To reduce import dependency for ASW technologies"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 3 and 4 only",
+    "explanation": "Adani and Sparton aim to indigenize ASW systems like sonobuoys and underwater sensors, reducing import reliance. Nuclear submarine development was not part of the deal.\n\nSee [[Adani Defence]], [[Anti-submarine warfare]], and [[Sparton Corporation]].",
+    "tags": "Defense, Science & Tech, Strategic Security"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What is the function of a sonobuoy in anti-submarine warfare?",
+    "statements": [
+      "Detect enemy aircraft in high-altitude zones",
+      "Monitor radio signals from enemy submarines",
+      "Detect underwater acoustic signals from submarines",
+      "Track movement of surface vessels"
+    ],
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "3 and 4 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "3 only",
+    "explanation": "Sonobuoys are deployed in water to detect underwater acoustic signatures, helping track submarines. They do not detect aircraft or radio signals.\n\nSee [[Sonobuoy]], [[Anti-submarine warfare]], and [[Indian Navy]].",
+    "tags": "Defense, Science and Technology, Maritime Security"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which institution is associated with promoting private participation in India’s space sector?",
+    "statements": [
+      "ISRO",
+      "IN-SPACe",
+      "NSIL",
+      "DRDO"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "IN-SPACe promotes private players in India’s space sector, and NSIL acts as ISRO’s commercial arm. DRDO is primarily defense-focused, and ISRO is the core space agency.\n\nSee [[IN-SPACe]], [[NewSpace India Limited]], and [[ISRO]].",
+    "tags": "Science and Technology, Space Policy, Public-Private Partnership"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following were targeted in India’s Operation Sindoor in May 2025?",
+    "statements": [
+      "Terror launchpads in Pakistan-occupied Kashmir",
+      "Civilian shelters near the Line of Control",
+      "Terror bases in Muridke, Pakistan",
+      "Military bases in Afghanistan"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Operation Sindoor targeted terror infrastructure in PoK and Pakistan, including Muridke. Civilian areas and Afghan bases were not part of the operation.\n\nSee [[Operation Sindoor]], [[Line of Control]], and [[Muridke]].",
+    "tags": "Internal Security, Defence, India-Pakistan Relations"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which bodies are typically involved in coordinating India's national security operations like Operation Sindoor?",
+    "statements": [
+      "National Security Council Secretariat (NSCS)",
+      "Research and Analysis Wing (RAW)",
+      "National Technical Research Organisation (NTRO)",
+      "Election Commission of India"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "NSCS, RAW, and NTRO are core institutions in India’s national security architecture. The Election Commission is unrelated to military operations.\n\nSee [[National Security Council (India)]], [[RAW]], and [[NTRO]].",
+    "tags": "Internal Security, Governance, Intelligence"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Why was Kenyan politician Martha Karua deported from Tanzania in May 2025?",
+    "statements": [
+      "She violated immigration laws",
+      "She was accused of inciting violence",
+      "She attempted to observe a treason trial",
+      "She held a protest rally in Dar es Salaam"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Martha Karua was deported for observing the trial of opposition leader Zitto Kabwe. While Tanzania cited immigration violation, there was no evidence of violence or protests.\n\nSee [[Martha Karua]], [[Zitto Kabwe]], and [[Democracy in Africa]].",
+    "tags": "International Relations, Governance, Africa"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following reflect signs of democratic backsliding?",
+    "statements": [
+      "Censorship of opposition media",
+      "Deportation of foreign observers",
+      "Transparent elections and public debates",
+      "Intimidation of civil society"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Censorship, intimidation, and deportation of observers are red flags of democratic backsliding. Transparent elections are signs of a healthy democracy.\n\nSee [[Democratic backsliding]] and [[Human rights]].",
+    "tags": "Polity, International Affairs, Ethics"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What challenge did Indian agri-influencers face in May 2025 due to Meta’s new content policy?",
+    "statements": [
+      "Removal from government welfare schemes",
+      "Demonetization of social media content",
+      "Reduced reach due to algorithm changes",
+      "Forced migration to paid course models"
+    ],
+    "options": [
+      "2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "2, 3 and 4 only",
+    "explanation": "Agri-influencers were demonetized by Meta and faced reduced visibility due to new engagement algorithms, forcing them to explore alternate models like paid courses.\n\nSee [[Meta Platforms]], [[Agri influencers in India]], and [[Digital economy]].",
+    "tags": "Economy, Agriculture, Digital Governance"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which government platforms can support digital agri-entrepreneurs in India?",
+    "statements": [
+      "Digital Agriculture Mission",
+      "PM-KISAN Portal",
+      "Kisan Sarathi Platform",
+      "e-SHRAM Portal"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "The Digital Agriculture Mission, PM-KISAN, and Kisan Sarathi help agri-entrepreneurs. e-SHRAM is a labor registration platform for unorganized workers.\n\nSee [[Digital Agriculture Mission]], [[PM-KISAN]], and [[Kisan Sarathi]].",
+    "tags": "Agriculture, Digital India, Rural Development"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What was the purpose of the Iran-Azerbaijan military drill 'Aras-2025'?",
+    "statements": [
+      "To increase border security cooperation",
+      "To rehearse an offensive on Turkey",
+      "To reduce mistrust post-political tensions",
+      "To mark Iran’s entry into NATO"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Aras-2025 drill was aimed at improving border security and rebuilding trust between Iran and Azerbaijan. It had no NATO or Turkey-related purpose.\n\nSee [[Aras River]], [[Iran-Azerbaijan relations]], and [[Military exercises]].",
+    "tags": "International Relations, Defence, Eurasian Geopolitics"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "INSTC, important for India's Eurasian trade, passes through which of the following countries?",
+    "statements": [
+      "India",
+      "Iran",
+      "Russia",
+      "Turkey"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "The INSTC connects India, Iran, and Russia for trade, avoiding Turkey. It’s vital for Eurasian and Central Asian connectivity.\n\nSee [[International North–South Transport Corridor]].",
+    "tags": "Economy, IR, Infrastructure"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What was the key feature of Russia’s drone attack on Ukraine in May 2025?",
+    "statements": [
+      "Use of over 120 drones in one strike",
+      "Deployment of Turkish drones by Ukraine",
+      "Shahed drones supplied by Iran",
+      "Complete withdrawal of Russian troops from Kyiv"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Russia used over 120 drones, including Iranian-made Shahed series, in the largest drone attack. There was no full troop withdrawal or Turkish drones in use by Ukraine.\n\nSee [[Russia–Ukraine War]], [[Shahed drones]], and [[Drone warfare]].",
+    "tags": "International Affairs, Security, Technology"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What is a significant consequence of prolonged drone warfare as seen in Ukraine-Russia conflict?",
+    "statements": [
+      "Decline in international food supply chains",
+      "Civilian infrastructure destruction",
+      "Strengthening of ceasefire agreements",
+      "Increased military expenditure"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Drone warfare has led to food insecurity, civilian damage, and higher defense spending. Ceasefire talks have stalled, not strengthened.\n\nSee [[Drone warfare]], [[Black Sea Grain Initiative]], and [[Russia–Ukraine conflict]].",
+    "tags": "World Affairs, Economy, Defence"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following correctly match with their associated space policy initiatives in India?",
+    "statements": [
+      "IN-SPACe – Regulatory support for private space players",
+      "NSIL – Commercial arm of ISRO for satellite launches",
+      "Spacecom Policy – Regulates spectrum allocation for communication satellites",
+      "SSLV – Strategic communication platform for satellite news"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "IN-SPACe supports private participation in the space sector. NSIL commercializes ISRO missions. Spacecom Policy governs satellite communications. SSLV is a launch vehicle, not a communication platform.\n\nSee [[IN-SPACe]], [[NewSpace India Limited]], [[Spacecom Policy 2020]].",
+    "tags": "Science and Technology, Governance, Space Policy"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which award uses PRS Legislative Research data to evaluate MPs in India?",
+    "statements": [
+      "Bharat Ratna",
+      "Sansad Ratna",
+      "National Democracy Award",
+      "Padma Shri"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 4 only",
+      "1, 2 and 3 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The Sansad Ratna Award is based on PRS Legislative Research data, assessing MPs’ questions, debates, and attendance. Bharat Ratna and Padma Awards are not performance-based legislative awards.\n\nSee [[Sansad Ratna Award]], [[PRS Legislative Research]].",
+    "tags": "Polity, Governance, Parliament"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which Indian programs aim to enhance anti-submarine warfare capabilities?",
+    "statements": [
+      "Make in India",
+      "iDEX (Innovation for Defence Excellence)",
+      "GSLV Mk III",
+      "Defence Acquisition Procedure (DAP) 2020"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Make in India, iDEX, and DAP 2020 all support domestic defence production including ASW tech. GSLV Mk III is a space launch vehicle, not related to ASW.\n\nSee [[Make in India]], [[iDEX]], [[Defence Acquisition Procedure]].",
+    "tags": "Defence, Science & Tech, Strategic Security"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following is NOT a feature of the GSLV rocket?",
+    "statements": [
+      "Cryogenic upper stage",
+      "Four-stage configuration",
+      "Launch of heavy satellites",
+      "Developed by ISRO"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "4 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "GSLV is a three-stage rocket, not four-stage like PSLV. It includes a cryogenic upper stage and is used for launching heavier payloads.\n\nSee [[GSLV]], [[Cryogenic engine]], [[ISRO]].",
+    "tags": "Science and Technology, Space Missions"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What role does the Financial Action Task Force (FATF) play in global security?",
+    "statements": [
+      "Regulates nuclear weapons programs",
+      "Monitors terror financing and money laundering",
+      "Headquartered in Geneva, Switzerland",
+      "Maintains grey and blacklist of non-compliant countries"
+    ],
+    "options": [
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "2 and 4 only",
+    "explanation": "FATF combats terror financing and maintains blacklists. It is headquartered in Paris, not Geneva. It does not regulate nuclear arms.\n\nSee [[Financial Action Task Force]].",
+    "tags": "International Relations, Security, Economy"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Why is the Gulf of Mannar significant in India’s environmental landscape?",
+    "statements": [
+      "It is India’s first marine biosphere reserve",
+      "It supports coral reefs and seagrass ecosystems",
+      "It lies on the western coast of India",
+      "It hosts endangered marine species"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The Gulf of Mannar is on the southeastern coast (not western), noted for marine biodiversity and India’s first marine biosphere reserve.\n\nSee [[Gulf of Mannar Marine National Park]].",
+    "tags": "Environment, Geography, Biodiversity"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "What was the criticism against the government post-Operation Sindoor?",
+    "statements": [
+      "Lack of consultation with opposition parties",
+      "Involvement of foreign troops in the strike",
+      "No briefing to Parliament after the operation",
+      "Delayed diplomatic outreach"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Criticism included non-inclusion of opposition leaders and lack of briefing to Parliament. No foreign troops or delayed diplomacy was reported.\n\nSee [[Operation Sindoor]], [[Parliamentary briefings]].",
+    "tags": "Polity, Internal Security, Governance"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which challenges are associated with multistage rocket launches like PSLV?",
+    "statements": [
+      "Technical vulnerabilities in stage separation",
+      "Real-time failure recovery systems are limited",
+      "All stages use the same type of fuel",
+      "Each stage has different propulsion needs"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "PSLV uses alternating solid and liquid stages. Technical faults in separation and lack of failure recovery in flight are challenges. Not all stages use the same fuel.\n\nSee [[Multistage rocket]], [[PSLV]].",
+    "tags": "Science and Technology, Space Engineering"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which platform helps track real-time performance of Indian Parliamentarians?",
+    "statements": [
+      "PRS Legislative Research",
+      "Digital Parliament Dashboard",
+      "Election Commission Portal",
+      "Sansad TV"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "PRS and Digital Parliament Dashboard track MPs' performance. Sansad TV broadcasts parliamentary debates. The Election Commission doesn’t monitor parliamentary activities.\n\nSee [[PRS India]], [[Sansad TV]], [[Digital Parliament]].",
+    "tags": "Polity, Governance, Parliament"
+  },
+  {
+    "date": "19",
+    "month": "May",
+    "year": 2025,
+    "question": "Which of the following best define India’s 'Soft Power Diplomacy' in counter-terror contexts?",
+    "statements": [
+      "Showcasing cultural pluralism and democratic values",
+      "Using military force to retaliate against terror",
+      "Engaging with global media and diaspora",
+      "Promoting international law and human rights"
+    ],
+    "options": [
+      "1, 3 and 4 only",
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 3 and 4 only",
+    "explanation": "Soft power includes cultural diplomacy, media engagement, and human rights advocacy. Military action is hard power, not soft diplomacy.\n\nSee [[Soft power]], [[Public diplomacy]], [[India’s foreign policy]].",
+    "tags": "International Relations, Governance, Ethics"
+  }
+]
