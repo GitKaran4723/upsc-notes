@@ -1,0 +1,522 @@
+[
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to blue light exposure and its effects, consider the following statements:",
+    "statements": [
+      "Blue light has been found to increase genetic mutations such as Loss of Heterozygosity (LOH) in yeast.",
+      "Prolonged exposure to blue light could potentially be mutagenic to humans.",
+      "Blue light exposure has been traditionally regulated under environmental safety norms in India."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "A study by IISER Thiruvananthapuram revealed that blue light can significantly increase LOH in yeast, a type of mutation linked with genetic disorders and cancer. Though implications in humans are still under study, blue light is not yet traditionally regulated under environmental safety laws.\n\nRefer [[Blue light]], [[Genetic mutation]], and [[Loss of heterozygosity]].",
+    "tags": "Science and Technology, Health, Environment"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following government programs is directly associated with regulating or studying the effects of environmental mutagens like blue light?",
+    "statements": [],
+    "options": [
+      "National Programme on Light Pollution & Circadian Health (Draft)",
+      "POSHAN Abhiyaan",
+      "National AYUSH Mission",
+      "Rashtriya Kishor Swasthya Karyakram"
+    ],
+    "correct_option": "National Programme on Light Pollution & Circadian Health (Draft)",
+    "explanation": "The National Programme on Light Pollution & Circadian Health (Draft) aims to address health and environmental issues arising from excessive artificial light exposure, including blue light, under the Ministry of Health and Family Welfare.\n\nRefer [[Light pollution]], [[Circadian rhythm]], and [[Environmental mutagens]].",
+    "tags": "Health, Environment, Science and Technology"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "INS Kiltan, recently in news, is associated with which of the following?",
+    "statements": [],
+    "options": [
+      "India's submarine-launched ballistic missile system",
+      "An anti-submarine warfare corvette under Project 28",
+      "A newly commissioned Indian aircraft carrier",
+      "India’s maritime satellite surveillance system"
+    ],
+    "correct_option": "An anti-submarine warfare corvette under Project 28",
+    "explanation": "INS Kiltan is an anti-submarine warfare corvette developed under Project 28. It is notable for being the first Indian ship with a carbon-fiber composite superstructure. It recently participated in ASEAN-India Maritime Exercise 2025.\n\nRefer [[INS Kiltan]], [[Project 28 (India)]], and [[Anti-submarine warfare]].",
+    "tags": "Defence, International Relations, Maritime Security"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following statements about the SAGAR doctrine:",
+    "statements": [
+      "It was launched in 2015 as India’s maritime vision for the Indian Ocean Region.",
+      "It includes humanitarian initiatives like Mission Sagar during COVID-19.",
+      "It is led by the Indian Army for terrestrial border security."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The SAGAR doctrine (Security and Growth for All in the Region), launched in 2015, guides India’s maritime outreach. It includes humanitarian missions like Mission Sagar. However, it is led by the Indian Navy, not the Army.\n\nRefer [[SAGAR (India)]], [[Mission Sagar]], and [[Indian maritime doctrine]].",
+    "tags": "International Relations, Defence, Maritime Security"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "What does the acronym 'UNCLOS' stand for, often seen in the context of maritime exercises like AIME?",
+    "statements": [],
+    "options": [
+      "United Nations Convention on Laws of Ships",
+      "United Nations Charter on Lawful Oceanic Surveillance",
+      "United Nations Convention on the Law of the Sea",
+      "United Nations Code on Naval Cooperation and Law"
+    ],
+    "correct_option": "United Nations Convention on the Law of the Sea",
+    "explanation": "UNCLOS stands for United Nations Convention on the Law of the Sea (1982). It is a key international treaty governing rights and responsibilities of nations in maritime environments.\n\nRefer [[United Nations Convention on the Law of the Sea]].",
+    "tags": "International Relations, Maritime Law, Defence"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following explains the increasing formation of cyclones in the Arabian Sea in recent years?",
+    "statements": [
+      "Presence of Indian Ocean Dipole (IOD)",
+      "Warming of sea surface temperatures",
+      "Increased volcanic activity along the Konkan Coast"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The increased formation of cyclones in the Arabian Sea is attributed to the Indian Ocean Dipole (IOD) and rising sea surface temperatures due to climate change. Volcanic activity is not a causative factor.\n\nRefer [[Indian Ocean Dipole]], [[Cyclones in Arabian Sea]], and [[Climate change]].",
+    "tags": "Geography, Environment, Disaster Management"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which Indian scheme is directly focused on reducing the impact of cyclones?",
+    "statements": [],
+    "options": [
+      "National Cyclone Risk Mitigation Project (NCRMP)",
+      "Unnat Jyoti by Affordable LEDs for All (UJALA)",
+      "National Adaptation Fund for Climate Change (NAFCC)",
+      "PM-PRANAM"
+    ],
+    "correct_option": "National Cyclone Risk Mitigation Project (NCRMP)",
+    "explanation": "The NCRMP is a World Bank-supported initiative aimed at enhancing India’s preparedness and resilience against cyclones, especially in coastal states.\n\nRefer [[National Cyclone Risk Mitigation Project]].",
+    "tags": "Disaster Management, Environment, Governance"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Gruha Lakshmi Scheme of Karnataka aims to:",
+    "statements": [],
+    "options": [
+      "Provide housing loans to rural families",
+      "Transfer monthly financial assistance to women heads of households",
+      "Subsidize LPG usage for women in urban areas",
+      "Train women for employment in state industries"
+    ],
+    "correct_option": "Transfer monthly financial assistance to women heads of households",
+    "explanation": "The Gruha Lakshmi Scheme offers ₹2,000 per month via DBT to the woman head of eligible households in Karnataka, aimed at empowering women economically.\n\nRefer [[Gruha Lakshmi scheme]], [[Direct Benefit Transfer]], and [[Women empowerment]].",
+    "tags": "Governance, Welfare Schemes, Women Empowerment"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which constitutional provisions are linked to the Gruha Lakshmi Scheme?",
+    "statements": [
+      "Article 15(3)",
+      "Article 21",
+      "Article 39(a)"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Gruha Lakshmi supports Article 15(3), allowing special provisions for women and children, and Article 39(a), ensuring adequate livelihood for all. Article 21 is more broadly about life and personal liberty.\n\nRefer [[Article 15 of the Constitution of India]], [[Article 39]], and [[Direct Benefit Transfer in India]].",
+    "tags": "Polity, Governance, Women Empowerment"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the JAM Trinity, often mentioned in the context of welfare delivery?",
+    "statements": [],
+    "options": [
+      "Janani Suraksha Yojana, Aadhaar, Mobile",
+      "Jan Dhan, Aadhaar, Mobile",
+      "Jeevan Pramaan, Agriculture, Market",
+      "Jan Arogya Mission, Aadhaar, Money"
+    ],
+    "correct_option": "Jan Dhan, Aadhaar, Mobile",
+    "explanation": "JAM Trinity stands for Jan Dhan (bank accounts), Aadhaar (unique ID), and Mobile connectivity. It enables efficient, transparent welfare delivery via DBT.\n\nRefer [[JAM trinity]], [[Direct Benefit Transfer]], and [[Financial inclusion in India]].",
+    "tags": "Governance, Economy, Welfare Schemes"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "IN-SPACe, recently seen in news, is associated with which of the following?",
+    "statements": [],
+    "options": [
+      "A central agency to monitor nuclear power stations",
+      "A military program for cyber warfare",
+      "A nodal agency promoting private sector participation in space",
+      "An international cooperation program in deep ocean mining"
+    ],
+    "correct_option": "A nodal agency promoting private sector participation in space",
+    "explanation": "IN-SPACe (Indian National Space Promotion and Authorization Center), created in 2020, facilitates non-government entities in India's space sector. It acts as a bridge between ISRO and private players.\n\nRefer [[IN-SPACe]], [[Private spaceflight in India]], and [[ISRO]].",
+    "tags": "Science and Technology, Space Policy, Governance"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following Indian private space startups and their focus areas:",
+    "statements": [
+      "Skyroot Aerospace – Rocket launch systems",
+      "Pixxel – Hyperspectral Earth imaging satellites",
+      "Agnikul Cosmos – Drone-based surveillance for agriculture"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Skyroot Aerospace and Pixxel are part of India’s growing private space ecosystem. Skyroot focuses on small launch vehicles, while Pixxel specializes in hyperspectral imaging. Agnikul Cosmos is also into launch tech, not agriculture drones.\n\nRefer [[Skyroot Aerospace]], [[Pixxel]], and [[Private space industry in India]].",
+    "tags": "Science and Technology, Economy, Space"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements about India-Maldives relations is/are correct?",
+    "statements": [
+      "India withdrew all its military personnel from Maldives in 2025.",
+      "Maldives is strategically located in Indian Ocean shipping lanes.",
+      "India has abandoned all security cooperation with Maldives post withdrawal."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India completed its troop withdrawal from Maldives in 2025 after a diplomatic request by the Maldivian government. However, India continues to maintain strategic ties and cooperation under broader maritime frameworks.\n\nRefer [[India–Maldives relations]], [[SAGAR]], and [[Indian Ocean diplomacy]].",
+    "tags": "International Relations, Defence, Geopolitics"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following exercises involves India, Maldives, and Sri Lanka and focuses on trilateral maritime cooperation?",
+    "statements": [],
+    "options": [
+      "Exercise Malabar",
+      "Exercise Dosti",
+      "Exercise Varuna",
+      "Exercise Cutlass Express"
+    ],
+    "correct_option": "Exercise Dosti",
+    "explanation": "Exercise Dosti is a trilateral coast guard exercise between India, Maldives, and Sri Lanka aimed at enhancing regional maritime cooperation and interoperability.\n\nRefer [[Exercise Dosti]], [[Indian Navy exercises]], and [[India-Maldives-Sri Lanka relations]].",
+    "tags": "Defence, International Relations, Indian Ocean Region"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Section 84 of the Indian Penal Code is related to:",
+    "statements": [],
+    "options": [
+      "Protection of wildlife habitats",
+      "Regulation of financial frauds",
+      "Insanity as a legal defense",
+      "Cybersecurity-related offences"
+    ],
+    "correct_option": "Insanity as a legal defense",
+    "explanation": "Section 84 IPC states that nothing is an offence if the person was incapable of understanding the act due to unsoundness of mind, forming the legal basis for insanity as a defense.\n\nRefer [[Section 84 IPC]], [[Insanity defense in India]], and [[McNaghten Rules]].",
+    "tags": "Polity, Law, Mental Health"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "The McNaghten Rules, recently in news, are associated with:",
+    "statements": [],
+    "options": [
+      "Genetically modified crop regulations",
+      "Cybercrime data protection framework",
+      "Legal standards for determining insanity",
+      "Military tribunal procedures"
+    ],
+    "correct_option": "Legal standards for determining insanity",
+    "explanation": "The McNaghten Rules, originating from English common law, form the basis for determining legal insanity in several jurisdictions, including India, under Section 84 IPC.\n\nRefer [[McNaghten Rules]], [[Insanity in law]], and [[Section 84 IPC]].",
+    "tags": "Polity, Legal Reforms, Mental Health"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "India’s Defence Export Promotion Policy (DEPP) 2020 aims to achieve which of the following targets?",
+    "statements": [],
+    "options": [
+      "₹10,000 crore in exports by 2023",
+      "₹35,000 crore in exports by 2025",
+      "₹50,000 crore in exports by 2027",
+      "₹1 lakh crore in exports by 2030"
+    ],
+    "correct_option": "₹35,000 crore in exports by 2025",
+    "explanation": "India’s Defence Export Promotion Policy 2020 aims to boost exports to ₹35,000 crore by 2025. This includes exports of helicopters, radars, and defense systems to over 85 countries.\n\nRefer [[Defence Export Promotion Policy]], [[Make in India (defence)]], and [[Indian defence exports]].",
+    "tags": "Defence, Economy, International Trade"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are part of India’s defence exports?",
+    "statements": [
+      "ALH Dhruv helicopters",
+      "BrahMos cruise missiles",
+      "Offshore patrol vessels"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s defense exports include ALH Dhruv helicopters, offshore patrol vessels, radars, and BrahMos missiles (joint venture with Russia). These exports support India’s strategic diplomacy.\n\nRefer [[ALH Dhruv]], [[BrahMos]], and [[Indian defence manufacturing]].",
+    "tags": "Defence, International Relations, Make in India"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which app is used by forest staff in India to monitor tiger movements and habitats?",
+    "statements": [],
+    "options": [
+      "VANRAKSHA",
+      "WildScan",
+      "M-STrIPES",
+      "Parivesh"
+    ],
+    "correct_option": "M-STrIPES",
+    "explanation": "M-STrIPES (Monitoring System for Tigers – Intensive Protection and Ecological Status) is used by forest officials to record geotagged tiger sightings and patrol movements in real time.\n\nRefer [[M-STrIPES]], [[Project Tiger]], and [[Wildlife conservation in India]].",
+    "tags": "Environment, Wildlife Conservation, Technology"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "The Global Tiger Forum, often seen in the news, primarily aims to:",
+    "statements": [],
+    "options": [
+      "Create a global tiger reserve under the UN",
+      "Coordinate trade in captive-bred tigers",
+      "Double the wild tiger population worldwide",
+      "Fund international zoos for tiger breeding"
+    ],
+    "correct_option": "Double the wild tiger population worldwide",
+    "explanation": "The Global Tiger Forum is an inter-governmental alliance working toward the TX2 goal — to double the global wild tiger population. India is a key participant and hosts ~75% of the world’s tigers.\n\nRefer [[Global Tiger Forum]], [[TX2 goal]], and [[Tiger conservation]].",
+    "tags": "Environment, International Organizations, Biodiversity"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following correctly describes the term 'NewSpace' in the Indian context?",
+    "statements": [],
+    "options": [
+      "ISRO’s new mission for Mars exploration",
+      "A coalition of public-private satellite defence units",
+      "A wave of private startups in space tech and services",
+      "A government-owned space research zone in Andhra Pradesh"
+    ],
+    "correct_option": "A wave of private startups in space tech and services",
+    "explanation": "The term 'NewSpace' refers to the rise of private space startups in India developing commercial and affordable technologies like launch systems, satellites, and analytics, supported by IN-SPACe.\n\nRefer [[NewSpace India]], [[Private space industry in India]].",
+    "tags": "Science and Technology, Space Policy, Economy"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following best explains the significance of drones and AI in India’s 2026 Tiger Census?",
+    "statements": [
+      "AI helps identify individual tigers via image recognition.",
+      "Drones help survey inaccessible forest terrain.",
+      "They replace forest staff in daily patrol duties."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "AI is used for facial recognition of individual tigers while drones provide access to difficult terrains. Forest staff still remain central to patrol and monitoring.\n\nRefer [[Tiger Census India]], [[Drone conservation]], and [[Wildlife monitoring technology]].",
+    "tags": "Environment, Science and Technology, Governance"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Anemia Mukt Bharat (AMB) is a government initiative primarily targeted at which group?",
+    "statements": [],
+    "options": [
+      "Elderly men and women above 60",
+      "Infants under 1 year of age",
+      "Pregnant women and adolescent girls",
+      "Tribal forest-dwelling populations"
+    ],
+    "correct_option": "Pregnant women and adolescent girls",
+    "explanation": "Anemia Mukt Bharat provides weekly Iron and Folic Acid (IFA) supplementation, especially targeting adolescent girls and pregnant/lactating women to reduce iron deficiency.\n\nRefer [[Anemia Mukt Bharat]], [[NFHS-5]], and [[Adolescent nutrition in India]].",
+    "tags": "Health, Governance, Women and Child Development"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following schemes is directly linked to improving adolescent health in India?",
+    "statements": [],
+    "options": [
+      "PM Ujjwala Yojana",
+      "Rashtriya Kishor Swasthya Karyakram",
+      "Unnat Bharat Abhiyan",
+      "Beti Bachao Beti Padhao"
+    ],
+    "correct_option": "Rashtriya Kishor Swasthya Karyakram",
+    "explanation": "Rashtriya Kishor Swasthya Karyakram (RKSK) focuses on adolescent health, including nutrition, mental health, and reproductive health, supported by MoHFW and UNICEF.\n\nRefer [[RKSK India]], [[Adolescent health programs in India]].",
+    "tags": "Health, Governance, Social Justice"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are key challenges highlighted in adolescent nutrition in India?",
+    "statements": [
+      "High anaemia rates among adolescent girls",
+      "Increased intake of ultra-processed foods",
+      "Lack of nutrition awareness and dietary diversity"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "NFHS-5 data shows high anaemia levels among adolescent girls. Along with this, increased consumption of processed food and lack of diet diversity further worsen adolescent nutrition.\n\nRefer [[NFHS-5]], [[Adolescent health in India]], and [[Malnutrition]].",
+    "tags": "Health, Education, Social Development"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following policy measures is recommended to promote adolescent nutrition in schools?",
+    "statements": [],
+    "options": [
+      "Mandating martial arts training",
+      "Incorporating nutrition education in curricula",
+      "Banning smart phones in all schools",
+      "Offering financial literacy classes only"
+    ],
+    "correct_option": "Incorporating nutrition education in curricula",
+    "explanation": "The new guidelines emphasize nutrition education in school curricula as a key step toward promoting healthy habits among adolescents.\n\nRefer [[Adolescent Nutrition Guidelines India 2025]], [[POSHAN Abhiyaan]], and [[School Health Programme]].",
+    "tags": "Health, Education, Governance"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following initiatives:\n1. M-STrIPES\n2. SRIJAN Portal\n3. iDEX\n4. JAM Trinity\nWhich of the above are related to defence and manufacturing?",
+    "statements": [],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "SRIJAN is a platform for defence indigenization. iDEX promotes innovation among defence startups. M-STrIPES is for tiger monitoring, while JAM Trinity relates to welfare delivery.\n\nRefer [[SRIJAN Portal]], [[iDEX]], [[M-STrIPES]], [[JAM Trinity]].",
+    "tags": "Defence, Science and Technology, Governance"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which Indian city hosts the Information Fusion Centre – Indian Ocean Region (IFC-IOR)?",
+    "statements": [],
+    "options": [
+      "Mumbai",
+      "Port Blair",
+      "Gurugram",
+      "Kochi"
+    ],
+    "correct_option": "Gurugram",
+    "explanation": "IFC-IOR is hosted in Gurugram, Haryana. It enhances maritime domain awareness and coordination among friendly nations in the Indian Ocean Region.\n\nRefer [[IFC-IOR]], [[Indian Ocean Security]], and [[Maritime surveillance]].",
+    "tags": "Defence, International Relations, Security"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following seas is landlocked?",
+    "statements": [],
+    "options": [
+      "Red Sea",
+      "Caspian Sea",
+      "Arabian Sea",
+      "Mediterranean Sea"
+    ],
+    "correct_option": "Caspian Sea",
+    "explanation": "The Caspian Sea is the world’s largest enclosed inland water body, bordered by five countries and entirely landlocked. Other seas mentioned are connected to oceans.\n\nRefer [[Caspian Sea]], [[Geography of seas]], and [[Landlocked water bodies]].",
+    "tags": "Geography, Physical Geography, World Map"
+  },
+  {
+    "date": "25",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following explains the significance of SAGAR doctrine for India?",
+    "statements": [
+      "It promotes India's strategic presence in the Indian Ocean Region.",
+      "It supports maritime cooperation and humanitarian missions.",
+      "It aims to eliminate piracy through naval strikes."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "SAGAR (Security and Growth for All in the Region) promotes maritime diplomacy, regional cooperation, and India’s role as a net security provider. It does not advocate offensive naval strikes as policy.\n\nRefer [[SAGAR]], [[Indian maritime strategy]].",
+    "tags": "International Relations, Defence, Maritime Security"
+  }
+]
