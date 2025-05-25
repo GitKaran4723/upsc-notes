@@ -1,0 +1,560 @@
+[
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the Bharat Forecasting System (BFS), consider the following statements:",
+    "statements": [
+      "It is a high-resolution numerical weather prediction system with a resolution of 6 km.",
+      "It replaces the Unified Model (UM) that was used earlier for global weather forecasts.",
+      "It was launched by the Ministry of Science and Technology in collaboration with DRDO."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Bharat Forecasting System (BFS) is a numerical weather prediction model launched by the India Meteorological Department (IMD), under the Ministry of Earth Sciences. It offers a 6 km resolution, replacing the older Global Forecasting System (GFS), not the Unified Model (UM). DRDO is not involved in this collaboration.",
+    "tags": "Science and Technology, Disaster Management, Environment"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the key advantage of the Bharat Forecasting System (BFS) over its predecessor?",
+    "statements": [],
+    "options": [
+      "Wider international collaboration",
+      "Use of Doppler radars in rural areas",
+      "Higher spatial resolution for weather prediction",
+      "Integration with the Meghdoot mobile app"
+    ],
+    "correct_option": "Higher spatial resolution for weather prediction",
+    "explanation": "The BFS provides 6 km resolution—the highest globally—enabling better prediction of rainfall, temperature, cyclones, and extreme weather. This represents a significant upgrade over the older Global Forecasting System (GFS).",
+    "tags": "Science and Technology, Environment, Disaster Management"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following apps is/are associated with public dissemination of weather and agricultural information in India?",
+    "statements": [
+      "Mausam App",
+      "Meghdoot App",
+      "Umang App"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Mausam and Meghdoot apps are launched by the Ministry of Earth Sciences and IMD to disseminate weather and agricultural forecasts. Umang is a broader app for government services but not specific to weather.",
+    "tags": "Science and Technology, Governance, Agriculture"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Tamil Nadu’s Space Industrial Policy 2025 focuses on which of the following?",
+    "statements": [
+      "Propulsion testing infrastructure for startups",
+      "Single-window clearance for space sector firms",
+      "Liberalising foreign direct investment in the telecom sector"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Tamil Nadu’s Space Industrial Policy offers land, capital, and testing support for space startups and provides a stable policy environment with single-window clearances. It does not deal with telecom FDI.",
+    "tags": "Economy, Science and Technology, Industry"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "The National Oil Spill Disaster Contingency Plan (NOS-DCP) is primarily managed by which of the following agencies?",
+    "statements": [],
+    "options": [
+      "National Disaster Management Authority (NDMA)",
+      "Directorate General of Shipping",
+      "Ministry of Earth Sciences",
+      "Indian Coast Guard"
+    ],
+    "correct_option": "Indian Coast Guard",
+    "explanation": "The NOS-DCP is India's central oil spill response mechanism and is coordinated by the Indian Coast Guard, which is the designated national authority for oil spill response under maritime law.",
+    "tags": "Environment, Disaster Management, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements best describes the term ‘Coastline Paradox’?",
+    "statements": [],
+    "options": [
+      "The coastline of a country always remains constant",
+      "Shorter measurement scales result in a longer measured coastline",
+      "The coastline changes only due to sea level rise",
+      "It refers to the erosion of coastal boundaries"
+    ],
+    "correct_option": "Shorter measurement scales result in a longer measured coastline",
+    "explanation": "The Coastline Paradox is a mathematical concept which shows that the measured length of a coastline increases as the scale of measurement becomes finer due to its irregular, fractal-like nature.",
+    "tags": "Geography, Science and Technology, Environment"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "India's revised coastline length of 11,098.8 km was assessed using which of the following technologies?",
+    "statements": [
+      "LIDAR",
+      "GIS",
+      "Remote Sensing"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s coastline was remeasured using high-resolution digital mapping tools like GIS, Remote Sensing, and LIDAR at 1:5000 scale by NCSCM under the Ministry of Environment, Forest and Climate Change.",
+    "tags": "Geography, Environment, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "The synchronised elephant census in South India was conducted jointly by which of the following states?",
+    "statements": [
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The synchronised elephant census conducted in May 2025 was carried out across the elephant corridors of Kerala, Karnataka, and Tamil Nadu to improve the accuracy of elephant population estimates.",
+    "tags": "Environment, Biodiversity, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following programs aims to prevent and control Non-Communicable Diseases (NCDs) in India?",
+    "statements": [],
+    "options": [
+      "National Health Protection Scheme (NHPS)",
+      "National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke (NPCDCS)",
+      "Ayushman Bharat – Digital Health Mission",
+      "National Mission on Nutrition and Wellness"
+    ],
+    "correct_option": "National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke (NPCDCS)",
+    "explanation": "NPCDCS is the flagship health program launched by the Ministry of Health and Family Welfare to address the increasing burden of NCDs like diabetes, cardiovascular disease, and cancer in India.",
+    "tags": "Health, Governance, Social Issues"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "The Mother and Child Protection (MCP) Card is jointly issued by which of the following ministries?",
+    "statements": [
+      "Ministry of Health and Family Welfare",
+      "Ministry of Women and Child Development"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "The MCP Card is a joint initiative of the Ministry of Health and Family Welfare and the Ministry of Women and Child Development. It tracks health and immunization services from pregnancy to early childhood.",
+    "tags": "Health, Women and Child Development, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Project Elephant, aimed at conserving elephants in India, was launched in which year?",
+    "statements": [],
+    "options": [
+      "1987",
+      "1992",
+      "2001",
+      "2007"
+    ],
+    "correct_option": "1992",
+    "explanation": "Project Elephant was launched in 1992 as a centrally sponsored scheme to protect elephants, their habitat and corridors, and to address issues of human-elephant conflict and welfare.",
+    "tags": "Environment, Biodiversity, Conservation"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following statements about the Monitoring of Illegal Killing of Elephants (MIKE) Programme:",
+    "statements": [
+      "It is an initiative under the Convention on International Trade in Endangered Species (CITES).",
+      "It is implemented in select protected areas like Kaziranga and Nagarhole.",
+      "It is mandatory for all tiger reserves in India."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The MIKE programme is a CITES initiative to monitor elephant killings in select protected areas like Kaziranga and Nagarhole. It is not mandatory for all tiger reserves.",
+    "tags": "Environment, Wildlife Protection, International Conventions"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following initiatives aim at improving early detection and screening of Non-Communicable Diseases (NCDs)?",
+    "statements": [
+      "Ayushman Bharat Health and Wellness Centres",
+      "National Digital Health Mission",
+      "POSHAN Abhiyaan"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Health and Wellness Centres under Ayushman Bharat and the National Digital Health Mission both aim to improve NCD screening and monitoring. POSHAN Abhiyaan focuses on malnutrition, not NCDs.",
+    "tags": "Health, Governance, Social Development"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 was enacted to prevent:",
+    "statements": [],
+    "options": [
+      "Religious conversion of SC/ST persons",
+      "Displacement of SC/ST from forest areas",
+      "Caste-based discrimination and symbolic violence",
+      "Economic marginalisation of backward classes"
+    ],
+    "correct_option": "Caste-based discrimination and symbolic violence",
+    "explanation": "The SC/ST (Prevention of Atrocities) Act, 1989 aims to protect members of Scheduled Castes and Tribes from caste-based discrimination, humiliation, violence, and symbolic attacks like desecration of statues.",
+    "tags": "Polity, Social Justice, Law"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following legal provisions were invoked in the Ambedkar statue vandalism incident in Punjab?",
+    "statements": [
+      "Indian Penal Code Sections 295 and 295A",
+      "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act",
+      "Unlawful Activities (Prevention) Act"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The relevant provisions include IPC Sections 295/295A (intent to insult religion/caste) and the SC/ST Atrocities Act. UAPA is not invoked in such symbolic social violence cases.",
+    "tags": "Polity, Internal Security, Law and Order"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the significance of the MCP (Mother and Child Protection) Card?",
+    "statements": [
+      "It tracks key maternal and child health services.",
+      "It ensures eligibility for maternity benefit schemes like PMMVY.",
+      "It is mandatory only for urban health centres."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The MCP Card tracks health services for pregnant women and children and is used as proof for benefits under PMMVY. It is used both in rural and urban areas.",
+    "tags": "Health, Women and Child Development, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following institutions regulate or support India's private space sector?",
+    "statements": [
+      "IN-SPACe",
+      "NewSpace India Ltd. (NSIL)",
+      "Indian Space Research Organisation (ISRO)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "IN-SPACe authorises private space activity, NSIL manages commercial operations, and ISRO provides technical support, thus all three support private space sector growth.",
+    "tags": "Science and Technology, Economy, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are the correct pairs of technologies and their use in coastal mapping?",
+    "statements": [
+      "LIDAR – Altitude and elevation detection",
+      "Remote Sensing – Land-water boundary mapping",
+      "GIS – Data integration and spatial analysis"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "LIDAR provides elevation data, Remote Sensing captures land-ocean features, and GIS is used to integrate and analyze spatial data for coastal management.",
+    "tags": "Geography, Environment, Science and Technology"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Who among the following was the main figure behind protests against Bishop Franco Mulakkal?",
+    "statements": [],
+    "options": [
+      "Sister Anupama",
+      "Sister Lucy Kalappura",
+      "Sister Jesme",
+      "Sister Mary Prema"
+    ],
+    "correct_option": "Sister Anupama",
+    "explanation": "Sister Anupama, a Kerala-based nun, led the protests against Bishop Franco Mulakkal in 2018 over sexual assault allegations, eventually leaving her congregation due to harassment.",
+    "tags": "Ethics, Governance, Women Empowerment"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following legal frameworks can be applied to religious institutions for workplace harassment?",
+    "statements": [
+      "POSH Act, 2013",
+      "Indian Penal Code Sections 376 and 509",
+      "The Companies Act, 2013"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The POSH Act, 2013 and IPC Sections 376 and 509 apply to sexual harassment in any workplace, including religious institutions. The Companies Act is unrelated to harassment laws.",
+    "tags": "Polity, Ethics, Women Safety"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "The revised length of India’s coastline includes which of the following previously excluded components?",
+    "statements": [
+      "Islands",
+      "Estuarine boundaries",
+      "Exclusive Economic Zone (EEZ) limits"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The revised coastline length includes islands and estuarine boundaries, which were earlier excluded. The EEZ is a maritime boundary, not part of the physical coastline.",
+    "tags": "Geography, Environment, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are features of Tamil Nadu’s Space Industrial Policy 2025?",
+    "statements": [
+      "Capital subsidies for space startups",
+      "Policy stability for 10 years",
+      "Mandatory foreign partnerships for propulsion tech"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Tamil Nadu’s policy offers capital support and policy stability to startups. It encourages private innovation but does not mandate foreign partnerships.",
+    "tags": "Economy, Science and Technology, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following tools are used in oil spill control?",
+    "statements": [
+      "Booms",
+      "Skimmers",
+      "Bioremediation"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three—booms (containment), skimmers (removal), and bioremediation (biological breakdown)—are used in oil spill control operations.",
+    "tags": "Environment, Disaster Management, Science and Technology"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which central law provides the framework for penalizing marine polluters in India?",
+    "statements": [],
+    "options": [
+      "Environment Protection Act, 1986",
+      "Coastal Regulation Zone Notification",
+      "Disaster Management Act, 2005",
+      "Territorial Waters Act, 1976"
+    ],
+    "correct_option": "Environment Protection Act, 1986",
+    "explanation": "The Environment Protection Act, 1986 provides the overarching framework to penalize polluters, including marine pollution by ships and offshore activities.",
+    "tags": "Environment, Law, Disaster Management"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which among the following are roles of elephants as a keystone species?",
+    "statements": [
+      "Dispersing seeds and shaping forests",
+      "Regulating tiger populations",
+      "Indicating forest ecosystem health"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Elephants disperse seeds and help maintain forest structure, and their presence is an indicator of forest health. They do not regulate tiger populations.",
+    "tags": "Environment, Ecology, Biodiversity"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the primary objective of the ‘Blue Economy Policy’ of India?",
+    "statements": [],
+    "options": [
+      "Enhancing inland water transport",
+      "Promoting sustainable use of ocean resources",
+      "Expansion of naval capabilities",
+      "Protecting religious and cultural sites on the coast"
+    ],
+    "correct_option": "Promoting sustainable use of ocean resources",
+    "explanation": "India’s Blue Economy Policy promotes sustainable utilization of marine and coastal resources for economic growth, improved livelihoods, and ocean ecosystem health.",
+    "tags": "Economy, Environment, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following about Sister Anupama’s case:",
+    "statements": [
+      "She was part of protests against Bishop Franco Mulakkal.",
+      "She formally left her religious order citing harassment.",
+      "The bishop was convicted and imprisoned in 2022."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Sister Anupama protested against Bishop Franco but he was acquitted in 2022, not convicted. She left her order citing harassment and institutional alienation.",
+    "tags": "Ethics, Women Empowerment, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following ministries are jointly responsible for the Mother and Child Protection (MCP) Card?",
+    "statements": [
+      "Ministry of Health and Family Welfare",
+      "Ministry of Women and Child Development"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "The MCP Card is a collaborative initiative by both ministries to ensure health tracking from pregnancy to early childhood, and links with schemes like PMMVY and ICDS.",
+    "tags": "Health, Women and Child Development, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following describe correct impacts of Non-Communicable Diseases (NCDs) on governance and society?",
+    "statements": [
+      "Increased healthcare burden and productivity loss",
+      "Need for inter-sectoral coordination",
+      "Improved short-term public expenditure"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "NCDs cause long-term economic and healthcare burdens and require coordination across food, urban planning, and education sectors. They worsen, not improve, public expenditure scenarios.",
+    "tags": "Health, Economy, Governance"
+  },
+  {
+    "date": "26",
+    "month": "May",
+    "year": "2025",
+    "question": "Which initiative links digital health records to early screening and health services in India?",
+    "statements": [],
+    "options": [
+      "POSHAN Abhiyaan",
+      "National Nutrition Mission",
+      "National Digital Health Mission",
+      "Smart Cities Mission"
+    ],
+    "correct_option": "National Digital Health Mission",
+    "explanation": "The National Digital Health Mission (NDHM) aims to create digital health records for individuals and enhance access to health services, including NCD screening.",
+    "tags": "Health, Digital Governance, Social Development"
+  }
+]
