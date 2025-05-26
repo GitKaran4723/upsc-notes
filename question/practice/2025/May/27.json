@@ -1,0 +1,365 @@
+[
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the key feature of the Bharat Forecasting System (BFS) launched by IMD?",
+    "statements": [
+      "It offers 6 km x 6 km resolution weather forecasts",
+      "It was developed under the National Monsoon Mission",
+      "It uses traditional manual observation techniques"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Bharat Forecasting System provides hyperlocal forecasts at a resolution of 6x6 km, enhancing India’s precision weather prediction capability. It builds upon the National Monsoon Mission’s legacy. It relies on numerical weather prediction models using supercomputers, not manual techniques.\n\nRefer to [[India Meteorological Department]], [[Numerical Weather Prediction]], and [[National Monsoon Mission]].",
+    "tags": "Science and Technology, Environment, Disaster Management"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "University of Liverpool's new campus in India will primarily focus on which of the following fields?",
+    "statements": [
+      "Business studies",
+      "Computer Science",
+      "Marine Engineering",
+      "Biomedical Sciences"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The University of Liverpool will offer courses in Business, Computer Science, and Biomedical Sciences at its new Bengaluru campus starting in 2026. Marine Engineering is not included in the current list.\n\nSee [[University of Liverpool]], [[UGC Regulations 2023]], and [[National Education Policy 2020]].",
+    "tags": "Education, Governance, International Relations"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the Supreme Court Collegium, consider the following statements:",
+    "statements": [
+      "It consists of the Chief Justice of India and four senior-most judges of the Supreme Court.",
+      "It has a constitutional basis laid down in Article 124.",
+      "The NJAC Act of 2014 reinforced the Collegium system."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Collegium system is an outcome of judicial interpretation (not constitutionally defined) and includes the CJI with four senior-most SC judges. Article 124 pertains to SC appointments. The NJAC Act aimed to replace, not reinforce, the Collegium system and was struck down in 2015.\n\nRefer to [[Supreme Court of India]], [[National Judicial Appointments Commission]], and [[Three Judges Cases]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following constitutional articles are related to Centre-State relations and cooperative federalism?",
+    "statements": [
+      "Article 263",
+      "Article 280",
+      "Article 368",
+      "Article 279A"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Articles 263 (Inter-State Council), 280 (Finance Commission), and 279A (GST Council) relate directly to Centre-State financial and administrative coordination. Article 368 deals with constitutional amendments and is not directly related to federal fiscal institutions.\n\nSee [[Finance Commission of India]], [[GST Council]], and [[Inter-State Council]].",
+    "tags": "Polity, Governance, Federalism"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the primary objective of the Special Assistance to States for Capital Investment scheme?",
+    "statements": [
+      "To provide interest-free loans to states for reforms",
+      "To fund central public sector undertakings",
+      "To promote reform-based cooperative federalism"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "This scheme encourages states to undertake reforms (like land digitization and contract enforcement) by offering interest-free loans, fostering cooperative federalism. It is not meant to fund central PSUs.\n\nRefer to [[Special Assistance to States for Capital Investment]], [[Finance Commission]], and [[NITI Aayog]].",
+    "tags": "Economy, Governance, Federalism"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "What was the purpose of senior Indian MEA officials visiting the U.S. in May 2025?",
+    "options": [
+      "To sign a trade deal on agriculture exports",
+      "To de-escalate tensions post Operation Sindoor",
+      "To discuss military deployment under QUAD",
+      "To finalize dual citizenship policies"
+    ],
+    "correct_option": "To de-escalate tensions post Operation Sindoor",
+    "explanation": "The visit aimed to repair diplomatic ties after India's Operation Sindoor, which had caused surveillance-related tensions with the U.S. It was a diplomatic reset to resume strategic cooperation.\n\nSee [[India–United States relations]], [[Operation Sindoor]], and [[Track II diplomacy]].",
+    "tags": "International Relations, Diplomacy, Internal Security"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which technology was used by ONGC JV to restart oil production in PY-3 of Cauvery Basin?",
+    "options": [
+      "Hydraulic fracturing",
+      "Horizontal drilling",
+      "Enhanced Oil Recovery (EOR)",
+      "Shale gas extraction"
+    ],
+    "correct_option": "Enhanced Oil Recovery (EOR)",
+    "explanation": "ONGC and its partners restarted oil production in the PY-3 field using Enhanced Oil Recovery, which helps extract more oil from older fields. EOR includes thermal, chemical, and gas injection methods.\n\nRefer to [[Enhanced Oil Recovery]], [[Cauvery Basin]], and [[ONGC]].",
+    "tags": "Energy, Economy, Environment"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Why are autonomous satellites with AI being considered a legal challenge in global space policy?",
+    "statements": [
+      "They may misclassify threats autonomously",
+      "There is no clear attribution of liability in case of harm",
+      "They are banned under the Outer Space Treaty"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "AI-driven satellites can make independent decisions that may lead to misclassifications, especially in military contexts. Currently, space law doesn’t provide clear liability attribution. They are not banned under the Outer Space Treaty.\n\nSee [[Outer Space Treaty]], [[Artificial intelligence in space]], and [[IN-SPACe]].",
+    "tags": "Science and Technology, Space, Ethics"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which institutions collaborated in solving the 160-year-old mystery of Mendel’s peas?",
+    "statements": [
+      "Gregor Mendel Institute, Austria",
+      "An Indian partner institution",
+      "NASA",
+      "University of Cambridge"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The pea genome research involved international collaboration, including Austria, India, and the University of Cambridge. NASA was not involved in this genetic mapping project.\n\nRefer to [[Gregor Mendel]], [[Genomics]], and [[Pea plant genetics]].",
+    "tags": "Science and Technology, Agriculture, History of Science"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which among the following were cited as major concerns during the NITI Aayog meeting on Centre–State relations?",
+    "statements": [
+      "Delay in GST compensation",
+      "Misuse of Governor’s office",
+      "Unequal distribution of Smart City funds"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "At the NITI Aayog meeting, CMs raised issues including GST compensation delays and the role of Governors. Unequal Smart City fund distribution was not a major cited issue in this context.\n\nRefer to [[NITI Aayog]], [[Cooperative federalism]], and [[GST Council]].",
+    "tags": "Polity, Governance, Federalism"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following initiatives and match them with their objectives:",
+    "statements": [
+      "Gramin Krishi Mausam Sewa – Weather-based agri advisories",
+      "Genome India Project – Mapping crop genome for food security",
+      "iCET – India–US cooperation in frontier technologies"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three initiatives serve distinct yet critical objectives: GKMS for agri-weather services, Genome India for genomic mapping (including crops), and iCET for bilateral cooperation on critical technologies.\n\nRefer to [[Gramin Krishi Mausam Sewa]], [[Genome India Project]], and [[India–US iCET]].",
+    "tags": "Agriculture, Science and Technology, International Relations"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "What are the key challenges facing the Indian judiciary as highlighted by recent Collegium discussions?",
+    "statements": [
+      "Vacancies in High Courts and Supreme Court",
+      "Lack of diversity in appointments",
+      "Delays in executive approval of Collegium recommendations"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Collegium highlighted all three issues: significant judicial vacancies, underrepresentation of women and SC/ST judges, and delays in the executive's response.\n\nSee [[Judicial Appointments in India]], [[Supreme Court Collegium]], and [[Judicial Diversity in India]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which among the following best defines 'Track II Diplomacy'?",
+    "options": [
+      "Secret military cooperation between nations",
+      "Backchannel trade negotiations by business leaders",
+      "Informal and unofficial diplomatic negotiations",
+      "Public opinion campaigns run by embassies"
+    ],
+    "correct_option": "Informal and unofficial diplomatic negotiations",
+    "explanation": "Track II diplomacy involves unofficial discussions between influential non-state actors or former officials to resolve or manage conflicts discreetly.\n\nRefer to [[Track II diplomacy]].",
+    "tags": "International Relations, Diplomacy"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which field was reactivated by ONGC in the Cauvery Basin using EOR technology?",
+    "options": [
+      "KG-D6",
+      "PY-3",
+      "Mumbai High",
+      "Tapti"
+    ],
+    "correct_option": "PY-3",
+    "explanation": "PY-3, located off the Tamil Nadu coast, was restarted using Enhanced Oil Recovery by ONGC and partners like HOEC and Hardy Oil after nearly a decade.\n\nSee [[PY-3 field]], [[Enhanced Oil Recovery]], and [[ONGC]].",
+    "tags": "Energy, Economy, Science and Technology"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are recommended to improve the Collegium system?",
+    "statements": [
+      "Time-bound executive approvals",
+      "Transparent selection criteria",
+      "Constitutional amendment to replace it with NJAC"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Improvements suggested include timely executive approval and transparency. The NJAC was struck down, so replacing the Collegium through constitutional amendment is not currently pursued.\n\nSee [[Collegium System]], [[Memorandum of Procedure]], [[Judicial Reform]].",
+    "tags": "Polity, Judiciary, Reforms"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following does not align with the objectives of NITI Aayog’s Governing Council?",
+    "options": [
+      "Fostering cooperative federalism",
+      "Promoting centralized policy implementation",
+      "Encouraging state-level reforms",
+      "Facilitating Centre-State dialogue"
+    ],
+    "correct_option": "Promoting centralized policy implementation",
+    "explanation": "NITI Aayog promotes cooperative federalism and state reforms. Centralized policy control contradicts its aim of consensus-based planning.\n\nRefer to [[NITI Aayog]], [[Cooperative Federalism]].",
+    "tags": "Governance, Polity, Federalism"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which program aims to increase India’s indigenous capabilities in weather modeling?",
+    "options": [
+      "National Monsoon Mission",
+      "Mausam App",
+      "Genome India Project",
+      "Digital India Mission"
+    ],
+    "correct_option": "National Monsoon Mission",
+    "explanation": "The National Monsoon Mission has been a key driver in enhancing India’s capacity for indigenous weather forecasting models like the BFS.\n\nSee [[National Monsoon Mission]], [[India Meteorological Department]].",
+    "tags": "Science and Technology, Environment, Government Schemes"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following about the Outer Space Treaty of 1967:",
+    "statements": [
+      "It bans placement of nuclear weapons in space",
+      "It mandates peaceful use of outer space",
+      "It explicitly addresses AI applications in satellites"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The treaty ensures peaceful use and prohibits WMDs in space. It does not yet cover AI technologies or autonomous satellite behavior.\n\nRefer to [[Outer Space Treaty]], [[International Space Law]].",
+    "tags": "International Relations, Space, Ethics"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "What role does IN-SPACe play in India’s space ecosystem?",
+    "options": [
+      "It develops India's navigation satellites",
+      "It funds ISRO missions directly",
+      "It regulates private sector space activities",
+      "It handles India's astronaut training program"
+    ],
+    "correct_option": "It regulates private sector space activities",
+    "explanation": "IN-SPACe is the nodal agency for overseeing and facilitating private participation in India's space programs.\n\nSee [[IN-SPACe]], [[Indian Space Policy 2023]].",
+    "tags": "Science and Technology, Governance, Space"
+  },
+  {
+    "date": "27",
+    "month": "May",
+    "year": "2025",
+    "question": "Which Indian supercomputers are used in weather forecasting?",
+    "options": [
+      "PARAM and Shaurya",
+      "Mihir and Pratyush",
+      "Vikram and Aryabhata",
+      "C-DAC and SAGA"
+    ],
+    "correct_option": "Mihir and Pratyush",
+    "explanation": "Mihir and Pratyush are two powerful supercomputers used by IMD and IITM for weather modeling and simulations.\n\nRefer to [[Mihir (supercomputer)]], [[Pratyush (supercomputer)]], [[IMD]].",
+    "tags": "Science and Technology, Environment, Infrastructure"
+  }
+]
