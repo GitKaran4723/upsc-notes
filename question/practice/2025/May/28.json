@@ -1,14 +1,285 @@
 [
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "Which of the following best explains the significance of the Bharat Forecasting System (BFS) launched by IMD?",
+    "question": "Which of the following are reasons behind the recent deadlock at the WTO?",
     "statements": [
-      "It provides weather forecasts at 6 km x 6 km resolution, the highest in the world.",
-      "It replaces all existing weather models of the Indian Meteorological Department.",
-      "It plays a critical role in disaster preparedness and agriculture.",
-      "It is part of the National Monsoon Mission initiated in 2012."
+      "India refused to sign new rules on digital trade",
+      "Developed nations demanded stricter limits on agricultural subsidies",
+      "WTO agreed to India's proposal for permanent solution on public stockholding"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The deadlock arose as developing countries, including India, opposed new digital trade rules and resisted restrictions on subsidies critical for food security. WTO has not yet agreed to India's proposal on public stockholding.\n\nThis relates to ongoing debates over digital sovereignty, agricultural protections, and the Bali Peace Clause.\n\nFor more, see [[World Trade Organization]], [[Agreement on Agriculture]], and [[Public Stockholding for Food Security]].",
+    "tags": "Economy, International Relations, WTO"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the WTO, consider the following statements:",
+    "statements": [
+      "The Peace Clause under the WTO allows temporary immunity to public food stockholding programs",
+      "India is a part of the Joint Statement Initiative on e-commerce under WTO",
+      "Agreement on Agriculture includes rules on domestic support"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "India is not a part of the Joint Statement Initiative (JSI) on e-commerce. The Peace Clause (from Bali, 2013) protects developing countries’ food stockholding temporarily. The Agreement on Agriculture governs domestic support, market access, and export subsidies.\n\nFor more, see [[Agreement on Agriculture]], [[Peace Clause]], and [[E-Commerce in WTO]].",
+    "tags": "International Relations, Economy, Trade Policy"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "The Katchatheevu island is located in which of the following geographical regions?",
+    "statements": [],
+    "options": [
+      "Andaman Sea",
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Palk Strait"
+    ],
+    "correct_option": "Palk Strait",
+    "explanation": "Katchatheevu is a small uninhabited island located in the Palk Strait between India and Sri Lanka. It was ceded to Sri Lanka by India in 1974, sparking a long-standing dispute.\n\nFor more, see [[Katchatheevu]], [[Palk Strait]], and [[India–Sri Lanka maritime boundary]].",
+    "tags": "Geography, International Relations"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following Articles are relevant in the context of the Katchatheevu island dispute?",
+    "statements": [
+      "Article 1 – Territory of India",
+      "Article 21 – Protection of Life and Personal Liberty",
+      "Article 368 – Amendment of the Constitution"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Article 1 defines India’s territory; Article 21 concerns the right to livelihood, which fishermen cite; Article 368 mandates that any territorial change should require a constitutional amendment. These were central to legal challenges regarding Katchatheevu’s cession.\n\nSee [[Katchatheevu]], [[Indian Constitution – Article 1]], and [[Territorial Integrity]].",
+    "tags": "Polity, Geography, International Relations"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are challenges in implementing simultaneous elections in India?",
+    "statements": [
+      "It requires multiple constitutional amendments",
+      "It strengthens the federal structure",
+      "It may affect voter behavior through a single national narrative"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Simultaneous elections require constitutional amendments (e.g., Articles 83, 172). It may centralize narratives, impacting federal balance. It doesn't strengthen federalism—in fact, it may undermine it.\n\nSee [[Simultaneous Elections in India]], [[Article 83 of Constitution of India]].",
+    "tags": "Polity, Governance, Election Reforms"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which constitutional articles relate to the tenure of Lok Sabha and State Assemblies?",
+    "statements": [],
+    "options": [
+      "Article 82 and 171",
+      "Article 83 and 172",
+      "Article 84 and 173",
+      "Article 85 and 174"
+    ],
+    "correct_option": "Article 83 and 172",
+    "explanation": "Article 83 relates to the tenure of the Lok Sabha (5 years) and Article 172 to the State Legislative Assemblies. These are key to the discussion on simultaneous elections.\n\nRefer to [[Article 83]] and [[Article 172]] of the Constitution of India.",
+    "tags": "Polity, Constitutional Provisions"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following statements regarding the Insolvency and Bankruptcy Code (IBC):",
+    "statements": [
+      "IBC covers corporates, LLPs, and individuals",
+      "IBC allows resolution within 180 days extendable to a maximum of 270 days",
+      "National Green Tribunal is the adjudicating authority under IBC"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "IBC applies to corporates, LLPs, and individuals. It sets 180 days (extendable by 90) as the resolution window. The adjudicating body is the National Company Law Tribunal (NCLT), not the NGT.\n\nSee [[Insolvency and Bankruptcy Code, 2016]], [[IBBI]].",
+    "tags": "Economy, Governance, Financial Reforms"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "The Pre-Packaged Insolvency Resolution Process (PPIRP) under IBC is applicable to which of the following?",
+    "statements": [],
+    "options": [
+      "Only large companies",
+      "Micro, Small and Medium Enterprises (MSMEs)",
+      "Non-Banking Financial Companies",
+      "All private entities"
+    ],
+    "correct_option": "Micro, Small and Medium Enterprises (MSMEs)",
+    "explanation": "PPIRP is designed for MSMEs with defaults below ₹1 crore, allowing a faster, debtor-in-possession resolution. Introduced during COVID-19 to aid small firms.\n\nSee [[Pre-Packaged Insolvency]], [[MSME]], and [[IBBI]].",
+    "tags": "Economy, Financial Sector, MSMEs"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following countries are involved in the South China Sea territorial disputes?",
+    "statements": [
+      "China",
+      "Philippines",
+      "Brunei",
+      "Thailand"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "The South China Sea dispute involves China, Philippines, Brunei, Malaysia, Vietnam, and Taiwan. Thailand is not directly involved.\n\nSee [[South China Sea dispute]], [[UNCLOS]], [[ASEAN]].",
+    "tags": "International Relations, Geography, Maritime Security"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following agreements or doctrines are associated with India’s Indo-Pacific strategy?",
+    "statements": [
+      "SAGAR Doctrine",
+      "Indo-Pacific Oceans Initiative",
+      "Malabar Exercise"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s Indo-Pacific strategy includes SAGAR (Security and Growth for All in the Region), IPOI, and multilateral naval exercises like Malabar with Quad members.\n\nSee [[SAGAR doctrine]], [[Indo-Pacific Oceans Initiative]], [[Malabar Naval Exercise]].",
+    "tags": "International Relations, Maritime Security"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following countries are part of the Gulf Cooperation Council (GCC)?",
+    "statements": [
+      "Qatar",
+      "Oman",
+      "Iran",
+      "Kuwait"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The GCC includes Qatar, Oman, Kuwait, UAE, Bahrain, and Saudi Arabia. Iran is not a member.\n\nSee [[Gulf Cooperation Council]], [[West Asian Diplomacy]], and [[India–Gulf Relations]].",
+    "tags": "International Relations, Indian Diaspora, Geography"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the Blue Economy, consider the following statements:",
+    "statements": [
+      "It focuses only on fisheries and marine tourism",
+      "It includes deep-sea mining and marine biotechnology",
+      "It aims to balance economic growth with ocean health"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "The Blue Economy goes beyond fisheries and tourism; it includes marine biotechnology, renewable ocean energy, deep-sea exploration, and sustainable practices.\n\nSee [[Blue Economy]], [[SDG 14]], [[Deep Ocean Mission]].",
+    "tags": "Economy, Environment, Marine Resources"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are components of India’s Blue Economy Mission 2.0?",
+    "statements": [
+      "Marine biodiversity conservation",
+      "Deep-sea fisheries management",
+      "Satellite-based weather modeling"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Blue Economy Mission 2.0 focuses on marine biodiversity, deep-sea fisheries, ocean resource mapping, and coastal tourism. Satellite modeling is more related to IMD and BFS.\n\nSee [[Blue Economy Policy]], [[Marine Fisheries]], [[India–Norway Marine Partnership]].",
+    "tags": "Economy, Environment, Government Schemes"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following indicators are used in the Global Hunger Index (GHI)?",
+    "statements": [
+      "Child mortality",
+      "Child stunting",
+      "Access to clean water",
+      "Child wasting"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "GHI uses undernourishment, child wasting, child stunting, and child mortality as indicators. Access to clean water is not one of them.\n\nSee [[Global Hunger Index]], [[Malnutrition in India]].",
+    "tags": "Governance, Reports and Indices, Social Issues"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which government schemes aim to combat malnutrition in India?",
+    "statements": [
+      "POSHAN Abhiyan",
+      "PM-KISAN",
+      "Integrated Child Development Services (ICDS)",
+      "Mid-Day Meal Scheme"
     ],
     "options": [
       "1, 2 and 3 only",
@@ -17,18 +288,18 @@
       "1, 2, 3 and 4"
     ],
     "correct_option": "1, 3 and 4 only",
-    "explanation": "The Bharat Forecasting System (BFS), launched by IMD, offers a global best resolution of 6 km and strengthens agriculture and disaster preparedness. It is supported by previous missions like the National Monsoon Mission. However, it does not replace all existing IMD models, rather complements them.\n\nRefer: [[India Meteorological Department]], [[Numerical Weather Prediction]], [[National Monsoon Mission]]",
-    "tags": "Science and Technology, Environment, Disaster Management, Agriculture"
+    "explanation": "POSHAN Abhiyan, ICDS, and the Mid-Day Meal Scheme (now PM POSHAN) target child and maternal nutrition. PM-KISAN is an income support scheme for farmers.\n\nSee [[POSHAN Abhiyan]], [[ICDS]], [[PM POSHAN]].",
+    "tags": "Health, Welfare Schemes, Governance"
   },
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "With reference to foreign university campuses in India, consider the following statements:",
+    "question": "What is the objective of Aadhaar-based biometric authentication in the Public Distribution System?",
     "statements": [
-      "The University of Liverpool is the first foreign university to set up a campus in India.",
-      "Foreign universities can operate in India under UGC’s 2023 regulations.",
-      "Such campuses are permitted to offer only postgraduate programs."
+      "To eliminate duplicate beneficiaries",
+      "To provide portability of rations across states",
+      "To allow online food orders under NFSA"
     ],
     "options": [
       "1 and 2 only",
@@ -37,95 +308,18 @@
       "1, 2 and 3"
     ],
     "correct_option": "1 and 2 only",
-    "explanation": "The University of Liverpool became the first foreign university to open a campus in India under UGC's 2023 regulations. These institutions can offer both undergraduate and postgraduate courses. Limiting to PG only is incorrect.\n\nRefer: [[University Grants Commission]], [[Foreign university campuses in India]], [[NEP 2020]]",
-    "tags": "Education, Governance, Economy"
+    "explanation": "Biometric authentication aims to eliminate ghost beneficiaries and enable portability via the One Nation One Ration Card (ONORC) system. Online food ordering is not a PDS function.\n\nSee [[Public Distribution System]], [[ONORC]], [[Aadhaar]].",
+    "tags": "Governance, Science and Tech, Welfare Schemes"
   },
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "Supreme Court Collegium is primarily responsible for which of the following?",
+    "question": "Consider the following about the Reusable Launch Vehicle (RLV) tested by ISRO:",
     "statements": [
-      "Appointments and transfers of judges of the Supreme Court and High Courts",
-      "Reviewing decisions of constitutional benches",
-      "Handling appeals related to judicial misconduct"
-    ],
-    "options": [
-      "1 only",
-      "1 and 2 only",
-      "2 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 only",
-    "explanation": "The Supreme Court Collegium is responsible for recommending appointments and transfers of judges in the SC and HCs. It does not review constitutional bench decisions or handle judicial misconduct appeals.\n\nRefer: [[Collegium System (India)]], [[Judicial Appointments in India]]",
-    "tags": "Polity, Governance, Judiciary"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Consider the following with respect to the NITI Aayog Governing Council meeting held in May 2025:",
-    "statements": [
-      "Chief Ministers raised concerns about the centralization of schemes.",
-      "GST Council delays were highlighted.",
-      "The meeting was chaired by the Vice President of India."
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "The NITI Aayog meet was chaired by the Prime Minister, not the Vice President. CMs raised concerns over centralization and GST compensation delays.\n\nRefer: [[NITI Aayog]], [[Federalism in India]], [[GST Council]]",
-    "tags": "Polity, Governance, Economy"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which reform-linked areas are supported by the ₹1.5 lakh crore capital assistance to states under the Centre’s FY26 plan?",
-    "statements": [
-      "Urban land digitization",
-      "Industrial land allotment",
-      "Electric mobility",
-      "Judicial appointments"
-    ],
-    "options": [
-      "1, 2 and 3 only",
-      "2, 3 and 4 only",
-      "1, 3 and 4 only",
-      "1, 2, 3 and 4"
-    ],
-    "correct_option": "1, 2 and 3 only",
-    "explanation": "The ₹1.5 lakh crore assistance supports reforms in land digitization, industrial land policy, and electric mobility. Judicial appointments are not part of the linked reforms.\n\nRefer: [[Special Assistance to States for Capital Investment]], [[Reform-linked funding]]",
-    "tags": "Economy, Governance, Infrastructure"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Operation Sindoor, recently seen in the news, is associated with which of the following?",
-    "statements": [],
-    "options": [
-      "India’s anti-terror operation in Jammu & Kashmir",
-      "A counter-intelligence operation impacting Indo-U.S. relations",
-      "Humanitarian rescue mission in the Middle East",
-      "Cyberattack response unit under DRDO"
-    ],
-    "correct_option": "A counter-intelligence operation impacting Indo-U.S. relations",
-    "explanation": "Operation Sindoor was a 2024 Indian counter-intelligence operation that caused diplomatic strain with the U.S., highlighting surveillance and cybersecurity concerns.\n\nRefer: [[India–United States relations]], [[Counter-intelligence]]",
-    "tags": "International Relations, Internal Security"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "With reference to the PY-3 offshore field, consider the following statements:",
-    "statements": [
-      "It is located in the Krishna-Godavari basin.",
-      "ONGC uses Enhanced Oil Recovery (EOR) to extract light crude oil.",
-      "It was restarted after a decade-long hiatus."
+      "It is a type of expendable launch system used for deep space missions",
+      "Its successful landing was carried out in Karnataka",
+      "It aims to reduce launch costs through reusability"
     ],
     "options": [
       "1 and 2 only",
@@ -134,360 +328,86 @@
       "1, 2 and 3"
     ],
     "correct_option": "2 and 3 only",
-    "explanation": "PY-3 field is located in the Cauvery basin, not Krishna-Godavari. ONGC resumed oil production using EOR techniques after nearly 10 years.\n\nRefer: [[ONGC]], [[Cauvery Basin]], [[Enhanced Oil Recovery]]",
-    "tags": "Energy, Economy, Environment"
+    "explanation": "ISRO’s RLV is not expendable—it is reusable. The test took place in Chitradurga, Karnataka, and it aims to reduce costs and improve efficiency.\n\nSee [[Reusable Launch Vehicle]], [[ISRO Missions]], [[Space Reusability]].",
+    "tags": "Science and Technology, ISRO, Space Missions"
   },
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "Why are AI-driven satellites raising legal concerns, as discussed in the 2025 AI and Space Summit?",
-    "statements": [
-      "They may misclassify threats and escalate conflicts.",
-      "There is no clear global liability framework for AI errors in space.",
-      "India has already signed a UN treaty addressing AI in satellites."
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "Autonomous satellites with AI capabilities can misidentify threats, and there's no international treaty explicitly addressing AI liability in space. India is a party to the Outer Space Treaty but not a specific AI treaty.\n\nRefer: [[Outer Space Treaty]], [[Artificial intelligence in space]]",
-    "tags": "Science and Technology, International Law, Space"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following correctly describes Mendel’s recent pea genome discovery?",
+    "question": "Which institution serves as the commercial arm of ISRO?",
     "statements": [],
     "options": [
-      "Mendel’s laws were completely invalidated by modern gene mapping.",
-      "Pea traits Mendel observed were found to be genetically linked.",
-      "The traits were governed by environmental factors, not genetics.",
-      "Only hybrid pea plants were studied in the new research."
-    ],
-    "correct_option": "Pea traits Mendel observed were found to be genetically linked.",
-    "explanation": "Modern genomic research revealed that some of Mendel's studied traits in peas were genetically linked—contrary to his assumption of independent assortment. This validates but refines Mendelian genetics.\n\nRefer: [[Gregor Mendel]], [[Genetic linkage]]",
-    "tags": "Science and Technology, Agriculture, History of Science"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which institution regulates private space activities in India, especially after the AI-in-satellite debate?",
-    "statements": [],
-    "options": [
-      "ISRO",
-      "IN-SPACe",
       "DRDO",
-      "NITI Aayog"
+      "IN-SPACe",
+      "NewSpace India Ltd. (NSIL)",
+      "Antrix Corporation"
     ],
-    "correct_option": "IN-SPACe",
-    "explanation": "IN-SPACe (Indian National Space Promotion and Authorization Centre) is the regulatory body overseeing private sector participation in India’s space sector, including AI integration.\n\nRefer: [[IN-SPACe]], [[Private space sector in India]]",
-    "tags": "Science and Technology, Space Policy, Governance"
+    "correct_option": "NewSpace India Ltd. (NSIL)",
+    "explanation": "NSIL is the commercial arm of ISRO, set up to transfer technologies and launch commercial satellites. Antrix has been replaced in many roles by NSIL.\n\nSee [[NewSpace India Limited]], [[ISRO Commercial Activities]].",
+    "tags": "Science and Technology, Government Bodies"
   },
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "Which of the following best describes the role of the Collegium System in Indian Judiciary?",
+    "question": "Which of the following are true regarding One Nation One Ration Card (ONORC)?",
     "statements": [
-      "It was established by a constitutional amendment in 1993.",
-      "It is involved in the selection and transfer of judges to the High Courts and Supreme Court.",
-      "It includes members from the executive branch."
+      "It ensures food security only in urban areas",
+      "It enables interstate portability of PDS benefits",
+      "It uses Aadhaar authentication for verification"
     ],
     "options": [
       "1 and 2 only",
-      "2 only",
-      "2 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "2 only",
-    "explanation": "The Collegium System was established by judicial interpretation, not a constitutional amendment, in the Second Judges Case (1993). It is comprised entirely of judges and not members of the executive.\n\nRefer: [[Collegium System (India)]], [[Second Judges Case]]",
-    "tags": "Polity, Judiciary, Governance"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Consider the following statements about the Indian Council of Agricultural Research (ICAR):",
-    "statements": [
-      "It plays a key role in crop genome mapping and genetic improvements.",
-      "It is responsible for implementing the Genome India Project.",
-      "It works under the Ministry of Science and Technology."
-    ],
-    "options": [
-      "1 only",
-      "1 and 2 only",
-      "2 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 only",
-    "explanation": "ICAR supports agricultural genetic improvements but does not implement the Genome India Project, which is under DBT. It also functions under the Ministry of Agriculture, not Science & Technology.\n\nRefer: [[Indian Council of Agricultural Research]], [[Genome India Project]]",
-    "tags": "Agriculture, Science and Technology"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "What is the significance of Enhanced Oil Recovery (EOR) in India’s energy strategy?",
-    "statements": [
-      "It allows extraction of additional oil from aging wells.",
-      "It is used only in onshore fields in India.",
-      "It contributes to reducing crude oil import dependence."
-    ],
-    "options": [
-      "1 and 3 only",
-      "2 and 3 only",
-      "1 and 2 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 3 only",
-    "explanation": "EOR helps tap residual oil in both onshore and offshore fields, boosting domestic output and reducing reliance on imports. It's not limited to onshore fields.\n\nRefer: [[Enhanced oil recovery]], [[Energy security in India]]",
-    "tags": "Energy, Economy, Science and Technology"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following are initiatives to promote climate resilience in Indian agriculture?",
-    "statements": [
-      "PM-Fasal Bima Yojana (PMFBY)",
-      "National Monsoon Mission",
-      "Gramin Krishi Mausam Sewa (GKMS)"
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1, 2 and 3",
-    "explanation": "All three initiatives — PMFBY, GKMS, and the National Monsoon Mission — support farmers through weather forecasting, insurance, and resilience against climate events.\n\nRefer: [[PMFBY]], [[Gramin Krishi Mausam Sewa]], [[National Monsoon Mission]]",
-    "tags": "Agriculture, Environment, Governance"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following statements best describes the role of NITI Aayog?",
-    "statements": [],
-    "options": [
-      "It implements centrally-sponsored schemes across India.",
-      "It is a policy think-tank replacing the Planning Commission.",
-      "It prepares annual budgets for the central government.",
-      "It adjudicates inter-state disputes."
-    ],
-    "correct_option": "It is a policy think-tank replacing the Planning Commission.",
-    "explanation": "NITI Aayog, established in 2015, is a policy think-tank. It does not prepare budgets, implement schemes directly, or adjudicate disputes.\n\nRefer: [[NITI Aayog]], [[Planning Commission (India)]]",
-    "tags": "Polity, Governance, Economy"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following correctly pairs the treaty with its subject?",
-    "statements": [],
-    "options": [
-      "COMCASA – Space Cooperation",
-      "Outer Space Treaty – Nuclear weapon ban in outer space",
-      "LEMOA – Cybersecurity data exchange",
-      "BECA – Military logistics sharing"
-    ],
-    "correct_option": "Outer Space Treaty – Nuclear weapon ban in outer space",
-    "explanation": "The Outer Space Treaty bans the placement of nuclear weapons in orbit. COMCASA is for encrypted communications, LEMOA is for logistics, and BECA is for geospatial sharing.\n\nRefer: [[Outer Space Treaty]], [[COMCASA]], [[BECA]], [[LEMOA]]",
-    "tags": "International Relations, Security, Science and Technology"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following reforms are linked to the ₹1.5 lakh crore capital loan assistance to states?",
-    "statements": [
-      "Urban planning and digitization",
-      "Judicial infrastructure development",
-      "Industrial land reforms",
-      "Public healthcare upgradation"
-    ],
-    "options": [
-      "1 and 3 only",
-      "2 and 4 only",
-      "1, 2 and 3 only",
-      "1, 2, 3 and 4"
-    ],
-    "correct_option": "1 and 3 only",
-    "explanation": "Capital loans were linked to urban digitization and land reforms. Judicial infrastructure and healthcare were not specified under this funding.\n\nRefer: [[Special Assistance to States for Capital Investment]], [[NITI Aayog reforms]]",
-    "tags": "Governance, Economy, Federalism"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following challenges were raised by Chief Ministers during the NITI Aayog meet in May 2025?",
-    "statements": [
-      "Delay in GST compensation",
-      "Misuse of Governor’s office",
-      "Unequal fund allocation",
-      "Lack of local body elections"
-    ],
-    "options": [
-      "1, 2 and 3 only",
-      "1 and 2 only",
-      "1, 2 and 4 only",
-      "1, 2, 3 and 4"
-    ],
-    "correct_option": "1, 2 and 3 only",
-    "explanation": "CMs raised concerns about GST delays, misuse of Governor’s office, and fiscal centralisation. Local body elections were not mentioned in the NITI Aayog context.\n\nRefer: [[GST Council]], [[Federalism in India]], [[Governor’s role in India]]",
-    "tags": "Polity, Governance, Federalism"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which among the following are correctly matched regarding Indian space and AI regulation?",
-    "statements": [
-      "IN-SPACe – Regulates private space sector",
-      "Indian Space Policy 2023 – Encourages AI integration",
-      "Outer Space Treaty – Prohibits satellite imagery of other countries"
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "IN-SPACe is India's nodal body for private space sector; the 2023 policy supports AI in satellites. The Outer Space Treaty does not prohibit satellite imaging but bans weapons of mass destruction.\n\nRefer: [[IN-SPACe]], [[Indian Space Policy 2023]], [[Outer Space Treaty]]",
-    "tags": "Science and Technology, Space, International Law"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "The discovery of linked inheritance in pea traits studied by Mendel implies which of the following?",
-    "statements": [
-      "All of Mendel’s laws have been disproven.",
-      "Modern genomics can refine classical biological theories.",
-      "Trait inheritance may not always be independent."
-    ],
-    "options": [
-      "1 only",
       "2 and 3 only",
       "1 and 3 only",
       "1, 2 and 3"
     ],
     "correct_option": "2 and 3 only",
-    "explanation": "While Mendel’s observations were foundational, modern genomic tools revealed genetic linkage in some traits, refining— not disproving — classical genetics.\n\nRefer: [[Mendelian inheritance]], [[Genetic linkage]], [[Modern genetics]]",
-    "tags": "Science and Technology, Agriculture, History of Science"
+    "explanation": "ONORC is a nationwide food security reform allowing PDS portability using Aadhaar authentication. It applies to both rural and urban beneficiaries.\n\nSee [[One Nation One Ration Card]], [[NFSA 2013]].",
+    "tags": "Governance, Welfare Schemes, Aadhaar"
   },
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "Which of the following are true regarding the University Grants Commission (UGC) Regulations, 2023 on foreign universities?",
-    "statements": [
-      "They allow foreign universities to repatriate funds to their parent institution.",
-      "They require maintaining quality parity with the foreign university's home campus.",
-      "They prohibit offering any technical or vocational courses."
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "The UGC Regulations 2023 permit repatriation of surplus and mandate academic parity with parent institutions. There is no bar on offering technical or vocational courses.\n\nRefer: [[UGC FHEI Regulations 2023]], [[Foreign university campuses in India]]",
-    "tags": "Education, Governance, Economy"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following are features of the Indian Space Policy 2023?",
-    "statements": [
-      "Encouragement of private sector participation in space activities",
-      "Integration of AI in satellite-based remote sensing",
-      "Creation of an international AI-in-space legal framework"
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "The Indian Space Policy 2023 promotes private sector and AI integration. However, legal frameworks for AI in space remain underdeveloped globally.\n\nRefer: [[Indian Space Policy 2023]], [[IN-SPACe]]",
-    "tags": "Science and Technology, Space, Governance"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following are goals of the iCET (Initiative on Critical and Emerging Technology) between India and the U.S.?",
-    "statements": [
-      "Collaboration in quantum computing and semiconductors",
-      "Development of surveillance protocols in cyberspace",
-      "Promotion of AI and clean energy technologies"
-    ],
-    "options": [
-      "1 and 2 only",
-      "1 and 3 only",
-      "2 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 3 only",
-    "explanation": "The iCET aims to advance cooperation in AI, quantum, semiconductors, and clean energy. Surveillance protocols are not part of its agenda.\n\nRefer: [[iCET]], [[India–United States relations]]",
-    "tags": "International Relations, Science and Technology, Economy"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following are recent judicial reforms or proposals in India?",
-    "statements": [
-      "National Judicial Appointments Commission (NJAC)",
-      "Digital dashboards to monitor judicial vacancies",
-      "All India Judicial Services (AIJS)"
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1, 2 and 3",
-    "explanation": "While NJAC was struck down, AIJS is a proposed reform and digital dashboards are a recent innovation to increase transparency in judicial appointments.\n\nRefer: [[NJAC]], [[AIJS]], [[Collegium System]]",
-    "tags": "Polity, Judiciary, Governance"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following best defines ‘Track II Diplomacy’?",
+    "question": "The term 'Nine-Dash Line' is often in news in relation to:",
     "statements": [],
     "options": [
-      "Diplomatic discussions between the military and civilians",
-      "Official bilateral agreements between countries",
-      "Unofficial, informal interactions to resolve or manage conflicts",
-      "Cyber communication between intelligence agencies"
+      "India–China border disputes",
+      "China’s maritime claims in the South China Sea",
+      "Territorial claims over Arctic resources",
+      "Disputed river water sharing with Myanmar"
     ],
-    "correct_option": "Unofficial, informal interactions to resolve or manage conflicts",
-    "explanation": "Track II Diplomacy involves informal dialogue and problem-solving activities between non-official actors to build trust and resolve conflict.\n\nRefer: [[Track II diplomacy]]",
-    "tags": "International Relations, Diplomacy, Governance"
+    "correct_option": "China’s maritime claims in the South China Sea",
+    "explanation": "The Nine-Dash Line is China’s controversial claim over most of the South China Sea, contested by other Southeast Asian nations and ruled invalid by the PCA in 2016.\n\nSee [[Nine-Dash Line]], [[South China Sea dispute]].",
+    "tags": "International Relations, Geography, Maritime Security"
   },
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "Which institutions were involved in solving Mendel’s pea plant genetic mystery using whole-genome sequencing?",
+    "question": "Which of the following best explains the Peace Clause under the WTO framework?",
+    "statements": [],
+    "options": [
+      "It permanently exempts developing nations from subsidy limits",
+      "It is a temporary safeguard allowing food security programs despite subsidy breaches",
+      "It mandates developed countries to subsidize poor nations",
+      "It allows sanctions against countries violating digital trade rules"
+    ],
+    "correct_option": "It is a temporary safeguard allowing food security programs despite subsidy breaches",
+    "explanation": "The Peace Clause, introduced in the 2013 Bali Package, allows developing countries like India to continue food subsidies under public stockholding programs temporarily, even if they breach WTO limits.\n\nSee [[Peace Clause]], [[Agreement on Agriculture]].",
+    "tags": "WTO, Economy, Agriculture, International Agreements"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following about POSHAN Abhiyan:",
     "statements": [
-      "Gregor Mendel Institute, Austria",
-      "Indian Council of Agricultural Research (ICAR)",
-      "Cambridge Genomics Centre, UK"
+      "It aims to reduce stunting and anaemia in children and women",
+      "It is implemented by the Ministry of Health and Family Welfare",
+      "It uses digital platforms like POSHAN Tracker for monitoring"
     ],
     "options": [
       "1 and 2 only",
@@ -496,18 +416,82 @@
       "1, 2 and 3"
     ],
     "correct_option": "1 and 3 only",
-    "explanation": "The genome study involved Gregor Mendel Institute and UK research bodies. ICAR was not listed as a direct research contributor.\n\nRefer: [[Gregor Mendel Institute]], [[Pea genome research]]",
-    "tags": "Science and Technology, Agriculture, History of Science"
+    "explanation": "POSHAN Abhiyan is implemented by the Ministry of Women and Child Development, not MoHFW. It focuses on reducing stunting, wasting, anaemia, and uses the POSHAN Tracker app.\n\nSee [[POSHAN Abhiyan]], [[National Nutrition Mission]].",
+    "tags": "Governance, Health, Welfare Schemes"
   },
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "Consider the following uses of BFS (Bharat Forecasting System):",
+    "question": "India’s refusal to join the Joint Statement Initiative (JSI) at WTO relates to which domain?",
+    "statements": [],
+    "options": [
+      "Climate Change and Carbon Markets",
+      "Agriculture and Export Subsidies",
+      "Digital Trade and E-Commerce Rules",
+      "Fisheries and Marine Biodiversity"
+    ],
+    "correct_option": "Digital Trade and E-Commerce Rules",
+    "explanation": "India has declined to join the JSI on E-Commerce at WTO, citing concerns over digital sovereignty and the need for policy space to regulate its data economy.\n\nSee [[Joint Statement Initiative]], [[E-commerce in WTO]].",
+    "tags": "International Relations, Digital Economy, WTO"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which body is the adjudicating authority under the Insolvency and Bankruptcy Code (IBC)?",
+    "statements": [],
+    "options": [
+      "National Green Tribunal (NGT)",
+      "Debt Recovery Tribunal (DRT)",
+      "National Company Law Tribunal (NCLT)",
+      "Securities Appellate Tribunal (SAT)"
+    ],
+    "correct_option": "National Company Law Tribunal (NCLT)",
+    "explanation": "The National Company Law Tribunal (NCLT) handles corporate insolvency resolution under the IBC. DRT deals with individuals and partnerships. NGT is for environmental matters.\n\nSee [[National Company Law Tribunal]], [[Insolvency and Bankruptcy Code, 2016]].",
+    "tags": "Economy, Judiciary, Financial Governance"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following correctly defines the Exclusive Economic Zone (EEZ) as per UNCLOS?",
+    "statements": [],
+    "options": [
+      "Territorial waters extending up to 12 nautical miles",
+      "A zone extending 200 nautical miles from the baseline where a state has rights over resources",
+      "A zone of military control over 500 km from coastlines",
+      "A coastal buffer zone under national parks regulation"
+    ],
+    "correct_option": "A zone extending 200 nautical miles from the baseline where a state has rights over resources",
+    "explanation": "As per UNCLOS 1982, the EEZ is a maritime zone extending 200 nautical miles from the coast, where the coastal nation has exclusive rights over natural resources.\n\nSee [[Exclusive Economic Zone]], [[UNCLOS]].",
+    "tags": "Geography, International Law, Maritime Boundaries"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "India’s maritime policy vision 'SAGAR' stands for:",
+    "statements": [],
+    "options": [
+      "Sustainable Agriculture Growth and Resilience",
+      "Security and Growth for All in the Region",
+      "Safe Access to Global Aquatic Resources",
+      "Scientific Advancement for Geopolitical Readiness"
+    ],
+    "correct_option": "Security and Growth for All in the Region",
+    "explanation": "‘SAGAR’ is India's strategic vision for the Indian Ocean region, focusing on maritime cooperation, economic development, and regional stability.\n\nSee [[SAGAR Doctrine]], [[India’s Indo-Pacific Strategy]].",
+    "tags": "International Relations, Security, Maritime Policy"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are among India’s flagship deep-sea and port-related initiatives?",
     "statements": [
-      "Real-time urban weather alerts",
-      "Climate-resilient planning for farmers",
-      "Monitoring seismic activity"
+      "Sagarmala Project",
+      "Deep Ocean Mission",
+      "Bharatmala Pariyojana"
     ],
     "options": [
       "1 and 2 only",
@@ -516,34 +500,18 @@
       "1, 2 and 3"
     ],
     "correct_option": "1 and 2 only",
-    "explanation": "BFS is focused on weather forecasting, benefiting cities and agriculture. Seismic activity monitoring is done by other agencies like IMD’s seismology division, not BFS.\n\nRefer: [[Bharat Forecasting System]], [[Weather forecasting in India]]",
-    "tags": "Environment, Agriculture, Science and Technology"
+    "explanation": "Sagarmala focuses on port-led development, while Deep Ocean Mission deals with seabed research. Bharatmala relates to highways, not marine development.\n\nSee [[Sagarmala]], [[Deep Ocean Mission]], [[Ministry of Ports, Shipping and Waterways]].",
+    "tags": "Infrastructure, Economy, Environment"
   },
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "What is the objective of GKMS under the IMD?",
-    "statements": [],
-    "options": [
-      "Providing weather insurance to farmers",
-      "Offering weather-based agricultural advisories",
-      "Distributing seeds to small farmers",
-      "Monitoring irrigation projects"
-    ],
-    "correct_option": "Offering weather-based agricultural advisories",
-    "explanation": "Gramin Krishi Mausam Sewa (GKMS) disseminates timely weather forecasts and advisories to farmers through multiple platforms.\n\nRefer: [[Gramin Krishi Mausam Sewa]], [[India Meteorological Department]]",
-    "tags": "Agriculture, Environment, Governance"
-  },
-  {
-    "date": "27",
-    "month": "May",
-    "year": "2025",
-    "question": "Which of the following are key impacts of foreign university campuses in India?",
+    "question": "Which of the following challenges are associated with biometric authentication in PDS?",
     "statements": [
-      "Enhances India’s soft power",
-      "Reduces foreign exchange outflow for education",
-      "Promotes regional inequality in higher education"
+      "Exclusion due to fingerprint mismatch",
+      "Lack of internet in remote areas",
+      "Leakage of food grains due to storage issues"
     ],
     "options": [
       "1 and 2 only",
@@ -551,24 +519,44 @@
       "1 and 3 only",
       "1, 2 and 3"
     ],
-    "correct_option": "1, 2 and 3",
-    "explanation": "Foreign university campuses help project India's soft power, reduce forex spent on education abroad, but if restricted to metros, may worsen regional education inequalities.\n\nRefer: [[Foreign universities in India]], [[NEP 2020]]",
-    "tags": "Education, Economy, Governance"
+    "correct_option": "1 and 2 only",
+    "explanation": "While fingerprint mismatch and connectivity issues hamper biometric PDS, storage-related leakage is a supply chain problem not addressed by biometric systems.\n\nSee [[Aadhaar-enabled PDS]], [[One Nation One Ration Card]].",
+    "tags": "Governance, Technology, Welfare Delivery"
   },
   {
-    "date": "27",
+    "date": "28",
     "month": "May",
     "year": "2025",
-    "question": "Which of the following treaties prohibits placement of weapons of mass destruction in orbit?",
+    "question": "Which of the following statements about ISRO’s RLV test in 2025 are correct?",
+    "statements": [
+      "It achieved autonomous horizontal landing",
+      "It was launched from Satish Dhawan Space Centre",
+      "It demonstrates India's capability for future space shuttle missions"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The RLV was air-dropped from a helicopter over Chitradurga and landed autonomously. It was not launched from SDSC. The success boosts India's reusable launch program.\n\nSee [[Reusable Launch Vehicle]], [[ISRO Missions 2025]].",
+    "tags": "Science and Tech, ISRO, Space Policy"
+  },
+  {
+    "date": "28",
+    "month": "May",
+    "year": "2025",
+    "question": "The phrase 'Constructive Vote of No Confidence' is seen in the context of:",
     "statements": [],
     "options": [
-      "Outer Space Treaty, 1967",
-      "Comprehensive Nuclear Test Ban Treaty (CTBT)",
-      "Space Militarization Convention, 2001",
-      "Non-Proliferation Treaty (NPT)"
+      "Judicial review of executive decisions",
+      "Parliamentary privilege violations",
+      "Simultaneous elections reform",
+      "Removal of Election Commissioners"
     ],
-    "correct_option": "Outer Space Treaty, 1967",
-    "explanation": "The Outer Space Treaty of 1967 prohibits placing nuclear weapons or other WMDs in Earth's orbit. CTBT deals with nuclear testing, while NPT covers non-proliferation.\n\nRefer: [[Outer Space Treaty]]",
-    "tags": "International Law, Space, Security"
+    "correct_option": "Simultaneous elections reform",
+    "explanation": "The 'Constructive Vote of No Confidence' is a proposed reform to ensure stability in legislatures, allowing replacement of a government only with an agreed alternative—used in Germany.\n\nSee [[Constructive Vote of No Confidence]], [[Simultaneous Elections in India]].",
+    "tags": "Polity, Governance, Electoral Reforms"
   }
 ]
