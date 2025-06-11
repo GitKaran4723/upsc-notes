@@ -1,0 +1,517 @@
+[
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "As per the UNFPA 2025 report, which of the following statements about India’s population are correct?",
+    "statements": [
+      "India’s population reached 146.39 crore by April 2025.",
+      "India’s Total Fertility Rate (TFR) is above the replacement level of 2.1.",
+      "68% of the population is in the working-age group.",
+      "India’s life expectancy is projected at 71 years."
+    ],
+    "options": [
+      "1, 3 and 4 only",
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 3 and 4 only",
+    "explanation": "India’s population reached 146.39 crore as per the UNFPA 2025 report. The TFR has declined to 1.9, which is below the replacement level of 2.1. 68% of the population is of working age, and life expectancy is projected at 71 years.\n\nSee [[Demographics of India]] and [[UNFPA]].",
+    "tags": "Society, Economy, Population Studies, Governance"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "India’s National Population Policy 2000 aims at achieving which of the following?",
+    "statements": [
+      "Stabilization of Total Fertility Rate.",
+      "Universal access to reproductive health services.",
+      "Reducing maternal and infant mortality rates.",
+      "Promoting outmigration from high-density states."
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "India’s National Population Policy 2000 focuses on stabilizing TFR, ensuring universal access to reproductive healthcare, and reducing maternal and infant mortality rates. Promoting outmigration is not an objective.\n\nSee [[National Population Policy]].",
+    "tags": "Governance, Society, Population Policy, Health"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "India has adopted which international framework to manage marine oil spill disasters?",
+    "statements": [],
+    "options": [
+      "MARPOL Convention",
+      "OPRC Convention",
+      "UNCLOS Convention",
+      "IMO Polar Code"
+    ],
+    "correct_option": "OPRC Convention",
+    "explanation": "India is a participant in the [[International Convention on Oil Pollution Preparedness, Response and Co-operation (OPRC)]], which provides a framework for responding to marine oil spills.\n\nThis is supplemented by India’s National Oil Spill Disaster Contingency Plan (NOS-DCP).",
+    "tags": "Environment, Disaster Management, Governance, International Relations"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following measures can help mitigate the risk of marine oil spill disasters off the Indian coast?",
+    "statements": [
+      "Strengthening real-time satellite monitoring of coastal waters.",
+      "Upgrading Indian Coast Guard’s pollution response capacity.",
+      "Mandating the use of eco-friendly fuel in Indian coastal waters.",
+      "Establishing deep-sea oil drilling platforms."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "Real-time satellite monitoring, strengthening pollution response capacity, and mandating eco-friendly fuels can significantly reduce the risk and impact of marine oil spills.\n\nDeep-sea drilling increases environmental risks.\n\nSee [[Marine pollution]] and [[Indian Coast Guard]].",
+    "tags": "Environment, Disaster Management, Science & Tech, Governance"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "The Vibrant Villages Programme recently linked to border tourism is associated with which of the following objectives?",
+    "statements": [
+      "Strengthening economic development in border villages.",
+      "Promoting cultural exchange in frontier areas.",
+      "Enhancing strategic presence in sensitive border regions.",
+      "Facilitating free movement of goods and people across international borders."
+    ],
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "The Vibrant Villages Programme promotes economic growth, cultural exchange, and strategic presence in border areas. Facilitating unrestricted cross-border movement is not part of the programme’s mandate.\n\nSee [[Vibrant Villages Programme]] and [[Border Area Development]].",
+    "tags": "Governance, Internal Security, Geography, Economy"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Shipki La, recently in news, is located in which of the following?",
+    "statements": [],
+    "options": [
+      "Arunachal Pradesh",
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Ladakh"
+    ],
+    "correct_option": "Himachal Pradesh",
+    "explanation": "Shipki La is a mountain pass located in Kinnaur district, Himachal Pradesh, on the India-China border. It is historically an important trade route.\n\nSee [[Shipki La]].",
+    "tags": "Geography, Internal Security, Border Studies"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "The Madras High Court ruling on Tamil Nadu’s RTE funds is significant in the context of which Constitutional principle?",
+    "statements": [],
+    "options": [
+      "Directive Principles of State Policy",
+      "Federalism",
+      "Judicial review",
+      "Judicial activism"
+    ],
+    "correct_option": "Federalism",
+    "explanation": "The Madras High Court emphasized that the Centre should not withhold funds meant for a Constitutionally guaranteed right (RTE) on account of political differences. This upholds the principle of federalism.\n\nSee [[Federalism in India]].",
+    "tags": "Polity, Governance, Federalism, Education"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Article of the Indian Constitution guarantees free and compulsory education for children aged 6-14?",
+    "statements": [],
+    "options": [
+      "Article 19A",
+      "Article 21A",
+      "Article 25A",
+      "Article 46"
+    ],
+    "correct_option": "Article 21A",
+    "explanation": "Article 21A of the Indian Constitution guarantees the right to free and compulsory education for all children in the age group of 6-14 years.\n\nSee [[Right to Education Act]].",
+    "tags": "Polity, Governance, Education, Fundamental Rights"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following is a valid concern regarding the promotion of border tourism in Himalayan regions?",
+    "statements": [
+      "Risk of unregulated tourism causing environmental damage.",
+      "Potential for increased cross-border infiltration.",
+      "Infrastructure gaps such as poor road connectivity.",
+      "Excessive militarization of tourist areas."
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "Border tourism faces risks such as environmental damage, cross-border security concerns, and infrastructure gaps. However, controlled military presence usually enhances, rather than detracts from, safety in such areas.\n\nSee [[Border tourism]] and [[Ecotourism]].",
+    "tags": "Environment, Internal Security, Governance, Tourism"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Mission Parivar Vikas aims to address which of the following in India?",
+    "statements": [],
+    "options": [
+      "Maternal and child health in high-fertility districts.",
+      "Universal education for girls.",
+      "Promoting urban housing schemes.",
+      "Employment guarantee for rural women."
+    ],
+    "correct_option": "Maternal and child health in high-fertility districts",
+    "explanation": "Mission Parivar Vikas is a focused programme targeting maternal and child health and family planning in high-fertility districts of India.\n\nSee [[Mission Parivar Vikas]].",
+    "tags": "Governance, Health, Population Policy, Society"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following statements best explains the term ‘Demographic Dividend’?",
+    "statements": [],
+    "options": [
+      "Declining fertility rate leads to an ageing population.",
+      "Increasing population results in a higher unemployment rate.",
+      "A larger working-age population leads to potential economic growth.",
+      "Reduction in population density in rural areas."
+    ],
+    "correct_option": "A larger working-age population leads to potential economic growth.",
+    "explanation": "A demographic dividend refers to the economic growth potential that can result from shifts in a population’s age structure, mainly when the working-age population is larger than the dependent population.\n\nSee [[Demographic dividend]].",
+    "tags": "Economy, Society, Population Studies"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Indian government initiative is specifically aimed at promoting family planning and reproductive health?",
+    "statements": [],
+    "options": [
+      "Samagra Shiksha Abhiyan",
+      "Janani Suraksha Yojana",
+      "Digital India Programme",
+      "Ayushman Bharat"
+    ],
+    "correct_option": "Janani Suraksha Yojana",
+    "explanation": "The Janani Suraksha Yojana promotes institutional deliveries and focuses on maternal and child health, which is part of broader reproductive health initiatives.\n\nSee [[Janani Suraksha Yojana]].",
+    "tags": "Governance, Health, Population Policy"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "The National Oil Spill Disaster Contingency Plan (NOS-DCP) in India is implemented under the leadership of which organisation?",
+    "statements": [],
+    "options": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Directorate General of Shipping",
+      "Indian Coast Guard",
+      "Ministry of Home Affairs"
+    ],
+    "correct_option": "Indian Coast Guard",
+    "explanation": "The Indian Coast Guard leads the implementation of the National Oil Spill Disaster Contingency Plan (NOS-DCP) and coordinates responses to marine pollution incidents.\n\nSee [[Indian Coast Guard]] and [[Oil Spill]].",
+    "tags": "Environment, Disaster Management, Governance"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Border Area Development Programme (BADP) focuses on which of the following?",
+    "statements": [
+      "Development of infrastructure in border areas.",
+      "Promotion of cross-border trade without security checks.",
+      "Encouraging migration from border villages.",
+      "Establishment of military cantonments in border regions."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Border Area Development Programme (BADP) focuses on building infrastructure and improving living standards in border areas. It does not aim to promote cross-border trade without security checks or encourage migration.\n\nSee [[Border Area Development Programme]].",
+    "tags": "Internal Security, Governance, Border Management"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Article of the Indian Constitution empowers States to frame their own education policies under the Concurrent List?",
+    "statements": [],
+    "options": [
+      "Article 21",
+      "Article 246",
+      "Article 356",
+      "Article 368"
+    ],
+    "correct_option": "Article 246",
+    "explanation": "Article 246 of the Constitution divides the subject matter of laws between the Union and the States. Education is a Concurrent List subject, allowing both to legislate on it.\n\nSee [[Constitution of India]] and [[Education in India]].",
+    "tags": "Polity, Governance, Federalism, Education"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "The ‘Three-language formula’ in India is primarily associated with which sector?",
+    "statements": [],
+    "options": [
+      "Defence",
+      "Environment",
+      "Education",
+      "Energy"
+    ],
+    "correct_option": "Education",
+    "explanation": "The Three-language formula relates to the Education sector and promotes learning of three languages — regional, Hindi/English, and one additional language — to encourage multilingualism.\n\nSee [[Three-language formula]].",
+    "tags": "Polity, Education, Society"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "The recent move by Karnataka Government to resurvey caste data aims primarily to:",
+    "statements": [],
+    "options": [
+      "Enhance tax collection from backward classes.",
+      "Expand military recruitment.",
+      "Influence reservation policies and resource allocation.",
+      "Develop a national-level employment guarantee scheme."
+    ],
+    "correct_option": "Influence reservation policies and resource allocation.",
+    "explanation": "The Karnataka Government’s caste resurvey aims to update caste demographics and influence reservation policies and resource allocation for social justice.\n\nSee [[Caste census in India]].",
+    "tags": "Governance, Society, Social Justice"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "The Supreme Court’s K.S. Puttaswamy judgment is related to which fundamental right?",
+    "statements": [],
+    "options": [
+      "Right to Education",
+      "Right to Privacy",
+      "Right to Constitutional Remedies",
+      "Right to Equality"
+    ],
+    "correct_option": "Right to Privacy",
+    "explanation": "The K.S. Puttaswamy judgment of the Supreme Court declared the Right to Privacy as a fundamental right under Article 21 of the Indian Constitution.\n\nSee [[Right to privacy in India]].",
+    "tags": "Polity, Fundamental Rights, Judiciary, Governance"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "As per constitutional provisions, which Article protects the linguistic and cultural rights of minorities in India?",
+    "statements": [],
+    "options": [
+      "Article 19",
+      "Article 21A",
+      "Article 29",
+      "Article 39"
+    ],
+    "correct_option": "Article 29",
+    "explanation": "Article 29 of the Constitution of India protects the right of minorities to conserve their distinct language, script, and culture.\n\nSee [[Fundamental Rights in India]].",
+    "tags": "Polity, Governance, Minority Rights, Culture"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Which judicial case established secularism as part of the basic structure of the Indian Constitution?",
+    "statements": [],
+    "options": [
+      "Kesavananda Bharati case",
+      "Maneka Gandhi case",
+      "S.R. Bommai case",
+      "Minerva Mills case"
+    ],
+    "correct_option": "S.R. Bommai case",
+    "explanation": "The Supreme Court in the S.R. Bommai case ruled that secularism is part of the basic structure of the Indian Constitution.\n\nSee [[S. R. Bommai v. Union of India]].",
+    "tags": "Polity, Judiciary, Secularism, Constitutional Law"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Mumbai Metro tragedy recently prompted Indian Railways to implement which safety feature?",
+    "statements": [],
+    "options": [
+      "Emergency ladders in coaches",
+      "Automatic sliding doors",
+      "Onboard fire suppression systems",
+      "Track fencing along suburban routes"
+    ],
+    "correct_option": "Automatic sliding doors",
+    "explanation": "In response to a recent tragedy, Indian Railways decided to install automatic sliding doors on Mumbai suburban trains to enhance passenger safety.\n\nSee [[Mumbai Suburban Railway]] and [[Indian Railways]].",
+    "tags": "Governance, Infrastructure, Urban Transport, Safety"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Mission Zero Accident, launched by Indian Railways, primarily focuses on which of the following?",
+    "statements": [],
+    "options": [
+      "Reducing railway accidents and enhancing passenger safety",
+      "Eliminating corruption in railway procurement",
+      "Promoting green energy in rail transport",
+      "Improving profitability of Indian Railways"
+    ],
+    "correct_option": "Reducing railway accidents and enhancing passenger safety",
+    "explanation": "Mission Zero Accident aims to reduce railway accidents and enhance passenger safety through various infrastructural and operational measures.\n\nSee [[Indian Railways]].",
+    "tags": "Governance, Infrastructure, Transport Safety"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "The UNSC Counterterrorism Committee (CTC) was established following which major event?",
+    "statements": [],
+    "options": [
+      "World War II",
+      "9/11 terrorist attacks",
+      "Kargil War",
+      "Paris Climate Agreement"
+    ],
+    "correct_option": "9/11 terrorist attacks",
+    "explanation": "The UNSC Counterterrorism Committee was established after the 9/11 attacks to monitor the implementation of counterterrorism measures globally.\n\nSee [[Counter-Terrorism Committee]].",
+    "tags": "International Relations, Security, Global Governance"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "India’s proposal of the Comprehensive Convention on International Terrorism (CCIT) at the UN primarily aims to:",
+    "statements": [],
+    "options": [
+      "Establish a global framework for countering money laundering",
+      "Define terrorism and criminalize its sponsorship globally",
+      "Promote international cooperation in environmental protection",
+      "Support global nuclear disarmament"
+    ],
+    "correct_option": "Define terrorism and criminalize its sponsorship globally",
+    "explanation": "The Comprehensive Convention on International Terrorism (CCIT) proposed by India seeks to define terrorism comprehensively and criminalize its sponsorship globally.\n\nSee [[Comprehensive Convention on International Terrorism]].",
+    "tags": "International Relations, Security, Terrorism"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "The U.S. Embassy in India recently issued an advisory against which type of visa misuse?",
+    "statements": [],
+    "options": [
+      "Diplomatic visa misuse",
+      "Student visa misuse",
+      "Tourist visa misuse",
+      "Business visa misuse"
+    ],
+    "correct_option": "Student visa misuse",
+    "explanation": "The U.S. Embassy warned against the rising misuse of student visas (F-1 category) amid increasing reports of visa abuse.\n\nSee [[United States student visa]].",
+    "tags": "International Relations, Diaspora, Governance"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Indian portal is used for redressing grievances of Indians abroad?",
+    "statements": [],
+    "options": [
+      "e-Sampark",
+      "UMANG",
+      "Madad",
+      "PRAGATI"
+    ],
+    "correct_option": "Madad",
+    "explanation": "The Madad portal, operated by the Ministry of External Affairs, is used to address grievances of Indians abroad.\n\nSee [[Madad (portal)]].",
+    "tags": "Governance, Diaspora, International Relations"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "KATRIN experiment, recently in news, is related to the study of:",
+    "statements": [],
+    "options": [
+      "Gravitational waves",
+      "Neutrino mass",
+      "Black holes",
+      "Quantum entanglement"
+    ],
+    "correct_option": "Neutrino mass",
+    "explanation": "The KATRIN experiment aims to measure the absolute mass of neutrinos using the beta decay of tritium.\n\nSee [[Karlsruhe Tritium Neutrino Experiment]].",
+    "tags": "Science & Technology, Physics, Space Science"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "Which upcoming Indian project is dedicated to studying neutrinos?",
+    "statements": [],
+    "options": [
+      "India-based Neutrino Observatory (INO)",
+      "Aditya-L1 Mission",
+      "Chandrayaan-3",
+      "Gaganyaan"
+    ],
+    "correct_option": "India-based Neutrino Observatory (INO)",
+    "explanation": "The India-based Neutrino Observatory (INO) is an upcoming project aimed at studying neutrino oscillations and related phenomena.\n\nSee [[India-based Neutrino Observatory]].",
+    "tags": "Science & Technology, Physics, Big Science Projects"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "India’s participation in which of the following international neutrino experiments was mentioned?",
+    "statements": [
+      "DUNE (U.S.)",
+      "T2K (Japan)",
+      "KATRIN (Germany)",
+      "INO (India)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India collaborates in international neutrino experiments such as DUNE (U.S.) and T2K (Japan), in addition to its own INO project.\n\nSee [[Deep Underground Neutrino Experiment]] and [[T2K experiment]].",
+    "tags": "Science & Technology, Physics, International Collaboration"
+  },
+  {
+    "date": "11",
+    "month": "June",
+    "year": "2025",
+    "question": "The Supreme Court ruling in the S.R. Bommai case reinforced which fundamental aspect of Indian polity?",
+    "statements": [],
+    "options": [
+      "Democratic decentralization",
+      "Judicial activism",
+      "Secularism as part of the basic structure",
+      "Federalism with a unitary bias"
+    ],
+    "correct_option": "Secularism as part of the basic structure",
+    "explanation": "The S.R. Bommai judgment reinforced that secularism is part of the basic structure of the Indian Constitution.\n\nSee [[S. R. Bommai v. Union of India]].",
+    "tags": "Polity, Judiciary, Constitutional Law, Secularism"
+  }
+]
