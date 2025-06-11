@@ -1,0 +1,480 @@
+[
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "India and the US are currently negotiating a Bilateral Trade Agreement (BTA). Which of the following statements is/are correct regarding its key features?",
+    "statements": [
+      "It aims to reduce tariffs on selected goods and services.",
+      "It is targeted to be signed by Fall 2025.",
+      "It focuses only on agriculture market access."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The ongoing India-US BTA negotiations aim to reduce tariffs on selected goods and services and promote regulatory cooperation. The target signing date is Fall 2025. However, the agreement is not focused solely on agriculture; it also covers digital trade and market access for services.\n\nFor more, see [[India–United States relations]] and [[Bilateral Trade Agreement]].",
+    "tags": "Economy, International Relations, Trade Policy"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Why has the Indian government made Aadhaar mandatory for Tatkal ticket booking from July 1, 2025?",
+    "statements": [
+      "To curb black marketing and touting.",
+      "To enhance transparency and passenger convenience.",
+      "To allow dynamic pricing based on passenger profiles."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The mandatory Aadhaar linkage for Tatkal ticket booking aims to prevent black marketing and touting, and improve transparency and convenience for passengers. Dynamic pricing is unrelated to Aadhaar linkage.\n\nFor more, see [[Tatkal scheme]] and [[Aadhaar]].",
+    "tags": "Governance, Internal Security, Digital Governance"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which agency is primarily responsible for marine pollution response in India?",
+    "options": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Indian Coast Guard",
+      "Ministry of Shipping",
+      "Directorate General of Shipping"
+    ],
+    "correct_option": "Indian Coast Guard",
+    "explanation": "The Indian Coast Guard is the lead agency responsible for responding to marine pollution incidents under the National Oil Spill Disaster Contingency Plan (NOS-DCP).\n\nFor more, see [[Indian Coast Guard]] and [[Marine pollution]].",
+    "tags": "Environment, Disaster Management, Governance"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "The Quad Minerals Partnership, which includes India, aims to strengthen supply chains for which category of materials?",
+    "options": [
+      "Crude Oil",
+      "Rare Earth Minerals",
+      "Coal and Natural Gas",
+      "Precious Metals like Gold and Silver"
+    ],
+    "correct_option": "Rare Earth Minerals",
+    "explanation": "The Quad Minerals Partnership (India, US, Japan, Australia) focuses on building resilient supply chains for Rare Earth Minerals, which are critical for green energy, electronics, and defence industries.\n\nFor more, see [[Rare-earth element]] and [[Quad (dialogue)]].",
+    "tags": "Science and Technology, International Relations, Economy"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "India’s first astronaut mission to the International Space Station will be through which mission?",
+    "options": [
+      "Chandrayaan-4",
+      "Axiom Mission 4",
+      "Gaganyaan Orbital Flight",
+      "Artemis Gateway Mission"
+    ],
+    "correct_option": "Axiom Mission 4",
+    "explanation": "India’s first astronaut to the International Space Station will fly via the US-led Axiom Mission 4. The mission forms part of India's broader space cooperation with the US and prepares for Gaganyaan.\n\nFor more, see [[Axiom Space]] and [[International Space Station]].",
+    "tags": "Science and Technology, International Relations, Space Policy"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "The PESA Act, relevant to governance in Scheduled Areas, stands for:",
+    "options": [
+      "Panchayats Extension to Scheduled Areas Act",
+      "Public Education and Services Accessibility Act",
+      "Public Environmental Sustainability Act",
+      "Participatory E-Governance and Services Act"
+    ],
+    "correct_option": "Panchayats Extension to Scheduled Areas Act",
+    "explanation": "The Panchayats Extension to Scheduled Areas (PESA) Act enables tribal self-governance through Gram Sabhas in Scheduled Areas and is critical for ensuring rights-based governance in Naxalism-affected regions.\n\nFor more, see [[Panchayats (Extension to Scheduled Areas) Act, 1996]].",
+    "tags": "Polity, Governance, Internal Security"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Tamil Nadu government is setting up detention camps for which groups of illegal immigrants?",
+    "options": [
+      "Sri Lankan Tamils",
+      "Bangladeshi migrants and Rohingya",
+      "Nepali citizens",
+      "Pakistani nationals"
+    ],
+    "correct_option": "Bangladeshi migrants and Rohingya",
+    "explanation": "Tamil Nadu is setting up detention camps targeting illegal immigrants, specifically Bangladeshi migrants and Rohingya, based on intelligence reports and national security concerns.\n\nFor more, see [[Rohingya]] and [[Illegal immigration to India]].",
+    "tags": "Internal Security, Governance, Polity"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Under which article of the Indian Constitution does the Right to Privacy fall, relevant in the Aadhaar debate?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 32"
+    ],
+    "correct_option": "Article 21",
+    "explanation": "The Right to Privacy has been read into Article 21 (Right to Life and Personal Liberty) of the Indian Constitution, making it a key issue in debates around Aadhaar linkage.\n\nFor more, see [[Right to privacy in India]] and [[Aadhaar]].",
+    "tags": "Polity, Governance, Rights Issues"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "What is the main legal basis for declaring Eco-Sensitive Zones (ESZ) in India?",
+    "options": [
+      "Forest Conservation Act, 1980",
+      "Wildlife Protection Act, 1972",
+      "Environment Protection Act, 1986",
+      "Biological Diversity Act, 2002"
+    ],
+    "correct_option": "Environment Protection Act, 1986",
+    "explanation": "Eco-Sensitive Zones (ESZs) around protected areas are notified under the Environment Protection Act, 1986 to regulate activities and protect fragile ecosystems.\n\nFor more, see [[Eco-Sensitive Zone]] and [[Environment Protection Act, 1986]].",
+    "tags": "Environment, Polity, Governance"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Indian initiative is focused on securing overseas sources of Critical Minerals, including Rare Earths?",
+    "options": [
+      "NITI Aayog's Strategic Resources Program",
+      "Atmanirbhar Bharat Initiative",
+      "KABIL (Khanij Bidesh India Ltd)",
+      "Digital India Initiative"
+    ],
+    "correct_option": "KABIL (Khanij Bidesh India Ltd)",
+    "explanation": "KABIL (Khanij Bidesh India Ltd) is a joint venture set up to acquire strategic mineral assets abroad and secure India's supply of critical minerals including Rare Earth Elements.\n\nFor more, see [[KABIL]] and [[Rare-earth element]].",
+    "tags": "Economy, International Relations, Science and Technology"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which forum is used by India and the US to resolve trade disputes and promote bilateral trade policy dialogue?",
+    "options": [
+      "India-US Strategic Partnership Forum",
+      "India-US CEO Forum",
+      "India-US Trade Policy Forum",
+      "World Trade Organization (WTO)"
+    ],
+    "correct_option": "India-US Trade Policy Forum",
+    "explanation": "The India-US Trade Policy Forum is the principal platform for resolving trade issues and promoting bilateral trade relations between India and the United States.\n\nFor more, see [[India–United States relations]] and [[Trade Policy Forum]].",
+    "tags": "Economy, International Relations, Trade Policy"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "The MARPOL Convention, to which India is a signatory, primarily aims to address:",
+    "options": [
+      "Marine biodiversity conservation",
+      "Marine pollution from ships",
+      "Fisheries management",
+      "High seas piracy"
+    ],
+    "correct_option": "Marine pollution from ships",
+    "explanation": "The MARPOL Convention (International Convention for the Prevention of Pollution from Ships) is the key international legal framework to prevent marine pollution caused by ships.\n\nFor more, see [[MARPOL]] and [[Marine pollution]].",
+    "tags": "Environment, International Relations, Governance"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "India signed an MoU with which private company to send an astronaut to the ISS via Axiom Mission 4?",
+    "options": [
+      "SpaceX",
+      "Blue Origin",
+      "Axiom Space",
+      "Virgin Galactic"
+    ],
+    "correct_option": "Axiom Space",
+    "explanation": "India signed an MoU with Axiom Space to send an Indian astronaut to the International Space Station as part of Axiom Mission 4, under India-US space cooperation.\n\nFor more, see [[Axiom Space]] and [[International Space Station]].",
+    "tags": "Science and Technology, Space Policy, International Relations"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Indian district recently witnessed a major anti-Naxal operation resulting in the death of 12 Maoists?",
+    "options": [
+      "Dantewada",
+      "Gadchiroli",
+      "Sukma",
+      "Simdega"
+    ],
+    "correct_option": "Sukma",
+    "explanation": "A significant anti-Naxal operation was conducted in Sukma district of Chhattisgarh, leading to the killing of 12 Maoists.\n\nFor more, see [[Naxalite–Maoist insurgency]] and [[Sukma district]].",
+    "tags": "Internal Security, Governance, Polity"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "India's National Policy & Action Plan to combat Left Wing Extremism (LWE) was launched in which year?",
+    "options": [
+      "2005",
+      "2010",
+      "2015",
+      "2020"
+    ],
+    "correct_option": "2015",
+    "explanation": "The Government of India launched the National Policy & Action Plan to combat Left Wing Extremism (LWE) in 2015 to address the security, developmental, and governance aspects of the issue.\n\nFor more, see [[Naxalite–Maoist insurgency]] and [[Internal security of India]].",
+    "tags": "Internal Security, Governance, Polity"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "The Quad grouping, of which India is a member, includes which of the following countries besides India?",
+    "statements": [
+      "United States",
+      "Japan",
+      "Australia",
+      "Germany"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "The Quad grouping comprises India, United States, Japan, and Australia. Germany is not a member of the Quad.\n\nFor more, see [[Quadrilateral Security Dialogue]].",
+    "tags": "International Relations, Economy, Strategic Affairs"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Tamil Nadu government’s STF to trace illegal immigrants will primarily coordinate with which central agencies?",
+    "statements": [
+      "Central Bureau of Investigation (CBI)",
+      "National Investigation Agency (NIA)",
+      "Central Intelligence Agencies",
+      "State Police"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "3 and 4 only",
+    "explanation": "Tamil Nadu’s Special Task Force (STF) to trace illegal immigrants will primarily coordinate with central intelligence agencies and the state police.\n\nFor more, see [[Illegal immigration to India]] and [[Rohingya]].",
+    "tags": "Internal Security, Governance, Polity"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following legal instruments governs the detention and deportation of illegal immigrants in India?",
+    "options": [
+      "Citizenship Act, 1955",
+      "Foreigners Act, 1946",
+      "Passports Act, 1967",
+      "National Security Act, 1980"
+    ],
+    "correct_option": "Foreigners Act, 1946",
+    "explanation": "The Foreigners Act, 1946 governs the legal framework for the detention and deportation of illegal immigrants in India.\n\nFor more, see [[Foreigners Act, 1946]] and [[Illegal immigration to India]].",
+    "tags": "Polity, Governance, Internal Security"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which constitutional article is most relevant to the Right to Dignified Living Conditions, recently highlighted in the issue of poor social welfare hostel conditions?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 23"
+    ],
+    "correct_option": "Article 21",
+    "explanation": "Article 21 of the Indian Constitution guarantees the Right to Life and Personal Liberty, which includes the Right to Dignified Living Conditions. This is relevant to the issue of poor hostel conditions for marginalised students.\n\nFor more, see [[Right to life under Article 21]].",
+    "tags": "Polity, Governance, Social Justice"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "India-EU FTA negotiations are focusing on which of the following areas?",
+    "statements": [
+      "Carbon border taxes",
+      "Market access for Indian IT & services",
+      "Agriculture subsidies",
+      "Stronger IPR regime in India"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The India-EU FTA negotiations are focusing on carbon border taxes, market access for Indian IT and services, and stronger IPR regime in India. Agriculture subsidies are not a current focus area.\n\nFor more, see [[India–European Union relations]] and [[Free trade agreement]].",
+    "tags": "Economy, International Relations, Trade Policy"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Indian initiative supports marginalised students through hostel accommodation and scholarships?",
+    "options": [
+      "Sarva Shiksha Abhiyan",
+      "National Skill Development Mission",
+      "Post-Matric Scholarship (PMS)",
+      "Pradhan Mantri Yuva Yojana"
+    ],
+    "correct_option": "Post-Matric Scholarship (PMS)",
+    "explanation": "The Post-Matric Scholarship (PMS) scheme provides financial support to SC, ST, OBC, and minority students for higher education and hostel accommodation.\n\nFor more, see [[Post-Matric Scholarship Scheme]].",
+    "tags": "Governance, Social Justice, Education"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "India’s Eco-Sensitive Zones (ESZs) are notified by which ministry?",
+    "options": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Rural Development",
+      "Ministry of Home Affairs",
+      "Ministry of Panchayati Raj"
+    ],
+    "correct_option": "Ministry of Environment, Forest and Climate Change",
+    "explanation": "Eco-Sensitive Zones (ESZs) are notified by the Ministry of Environment, Forest and Climate Change under the Environment Protection Act, 1986.\n\nFor more, see [[Eco-Sensitive Zone]] and [[Ministry of Environment, Forest and Climate Change]].",
+    "tags": "Environment, Governance, Polity"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Indian PSU venture is exploring overseas Rare Earth Minerals (REMs) under India’s Critical Minerals Strategy?",
+    "options": [
+      "GAIL",
+      "KABIL",
+      "ONGC Videsh",
+      "NMDC Global"
+    ],
+    "correct_option": "KABIL",
+    "explanation": "KABIL (Khanij Bidesh India Ltd) is a joint venture created to secure strategic mineral assets abroad, including Rare Earth Minerals, under India’s Critical Minerals Strategy.\n\nFor more, see [[KABIL]] and [[Critical Minerals]].",
+    "tags": "Economy, International Relations, Science and Technology"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Under which act are Solid Waste Management Rules, 2016, framed in India?",
+    "options": [
+      "Water (Prevention and Control of Pollution) Act, 1974",
+      "Air (Prevention and Control of Pollution) Act, 1981",
+      "Environment Protection Act, 1986",
+      "Factories Act, 1948"
+    ],
+    "correct_option": "Environment Protection Act, 1986",
+    "explanation": "Solid Waste Management Rules, 2016 are framed under the Environment Protection Act, 1986 to regulate waste management practices in India.\n\nFor more, see [[Solid Waste Management Rules]] and [[Environment Protection Act, 1986]].",
+    "tags": "Environment, Governance, Polity"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which chemical pollutants are typically associated with emissions from solid waste incinerators?",
+    "options": [
+      "Ozone and methane",
+      "Dioxins and furans",
+      "Sulphur dioxide and nitrogen dioxide",
+      "Chlorofluorocarbons (CFCs)"
+    ],
+    "correct_option": "Dioxins and furans",
+    "explanation": "Solid waste incinerators emit highly toxic pollutants such as dioxins and furans, which pose serious environmental and health hazards.\n\nFor more, see [[Dioxin]] and [[Waste incineration]].",
+    "tags": "Environment, Governance, Health"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following is a recent governance mechanism established between India and the European Union to promote technology cooperation?",
+    "options": [
+      "India-EU Climate Council",
+      "India-EU Trade & Technology Council",
+      "India-EU Digital Sovereignty Forum",
+      "India-EU Strategic Energy Dialogue"
+    ],
+    "correct_option": "India-EU Trade & Technology Council",
+    "explanation": "The India-EU Trade & Technology Council was launched in 2023 to promote cooperation on trade, technology, and strategic issues.\n\nFor more, see [[India–European Union relations]] and [[Trade and Technology Council]].",
+    "tags": "Economy, International Relations, Governance"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which type of vessels are posing new risks to Indian coastal disaster management due to complex cargo profiles?",
+    "options": [
+      "Fishing trawlers",
+      "Chemical-carrying ships",
+      "Passenger cruise ships",
+      "Oil tankers"
+    ],
+    "correct_option": "Chemical-carrying ships",
+    "explanation": "Chemical-carrying ships pose complex and emerging risks to coastal disaster management due to the hazardous nature of their cargo.\n\nFor more, see [[Marine pollution]] and [[Chemical tanker]].",
+    "tags": "Environment, Disaster Management, Governance"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which state government is setting up Special Task Force and Detention Centres specifically for illegal immigrants like Rohingya and Bangladeshis?",
+    "options": [
+      "Assam",
+      "West Bengal",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "correct_option": "Tamil Nadu",
+    "explanation": "Tamil Nadu government has announced the setting up of a Special Task Force and Detention Centres to trace and manage illegal immigrants, particularly Rohingya and Bangladeshi migrants.\n\nFor more, see [[Illegal immigration to India]] and [[Tamil Nadu]].",
+    "tags": "Internal Security, Governance, Polity"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "India recently revived FTA talks with which major economic bloc after a pause since 2013?",
+    "options": [
+      "ASEAN",
+      "European Union",
+      "SAARC",
+      "Gulf Cooperation Council"
+    ],
+    "correct_option": "European Union",
+    "explanation": "India revived its Free Trade Agreement (FTA) negotiations with the European Union (EU), aiming to conclude a comprehensive trade pact.\n\nFor more, see [[India–European Union relations]] and [[Free trade agreement]].",
+    "tags": "Economy, International Relations, Trade Policy"
+  },
+  {
+    "date": "12",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Indian state was recently in news due to the illegal operation of a waste incinerator in its Eco-Sensitive Zone?",
+    "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Jammu and Kashmir",
+      "Sikkim"
+    ],
+    "correct_option": "Uttarakhand",
+    "explanation": "Uttarakhand was in the news due to the illegal operation of a solid waste incinerator within the Eco-Sensitive Zone of Gangotri National Park.\n\nFor more, see [[Eco-Sensitive Zone]] and [[Uttarakhand]].",
+    "tags": "Environment, Governance, Polity"
+  }
+]
