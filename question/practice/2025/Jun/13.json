@@ -1,0 +1,522 @@
+[
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "The Directorate General of Civil Aviation (DGCA) in India functions under which Ministry?",
+    "statements": [],
+    "options": [
+      "Ministry of Defence",
+      "Ministry of Civil Aviation",
+      "Ministry of Home Affairs",
+      "Ministry of Transport"
+    ],
+    "correct_option": "Ministry of Civil Aviation",
+    "explanation": "The DGCA is the apex aviation safety regulator in India and operates under the Ministry of Civil Aviation. It oversees aircraft safety, licensing, and airworthiness in line with international standards such as those set by [[International Civil Aviation Organization]].",
+    "tags": "Governance, Science and Technology, Internal Security"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Consider the following statements regarding the Global Gender Gap Index 2025:",
+    "statements": [
+      "It is published by the International Labour Organization.",
+      "It measures gender-based gaps in economic participation, education, health, and political empowerment.",
+      "India ranked 127th out of 146 countries in 2025."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "The Global Gender Gap Index is published by the [[World Economic Forum]], not by ILO. It assesses gender-based gaps in four areas: economic participation, educational attainment, health and survival, and political empowerment.",
+    "tags": "Society, Governance, Reports and Indices"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "What is a 'sunset clause' as recently mandated by India’s Finance Ministry?",
+    "statements": [],
+    "options": [
+      "It requires schemes to provide benefits only during sunset hours.",
+      "It mandates automatic expiration of a scheme unless renewed after a fixed period.",
+      "It ensures that subsidies continue indefinitely.",
+      "It allows schemes to run without parliamentary approval."
+    ],
+    "correct_option": "It mandates automatic expiration of a scheme unless renewed after a fixed period.",
+    "explanation": "A sunset clause ensures that a scheme or law expires automatically after a set period unless it is explicitly renewed. This encourages periodic review, fiscal discipline, and avoids redundancy in government programs [[Sunset provision]].",
+    "tags": "Governance, Economy, Public Policy"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Consider the following statements regarding Retail Inflation in India:",
+    "statements": [
+      "Retail Inflation in India is measured by the Wholesale Price Index (WPI).",
+      "Consumer Price Index (CPI) tracks price changes at the retail level.",
+      "RBI targets inflation using the Flexible Inflation Targeting framework."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "Retail Inflation in India is measured by the [[Consumer Price Index]], not WPI. The Reserve Bank of India uses a Flexible Inflation Targeting framework to maintain price stability with a target of 4% ±2%.",
+    "tags": "Economy, Monetary Policy, Reports and Indices"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "The Mettur Dam, crucial for delta irrigation, is located on which river?",
+    "statements": [],
+    "options": [
+      "Godavari",
+      "Krishna",
+      "Cauvery",
+      "Tungabhadra"
+    ],
+    "correct_option": "Cauvery",
+    "explanation": "The Mettur Dam, located in Tamil Nadu, is built on the [[Cauvery River]]. It is vital for irrigation in the Cauvery Delta, known as the 'Rice Bowl of Tamil Nadu'.",
+    "tags": "Geography, Agriculture, Environment"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which organization publishes the Global Trends Report on displacement and refugees?",
+    "statements": [],
+    "options": [
+      "UNDP",
+      "UNICEF",
+      "UNHCR",
+      "UNESCO"
+    ],
+    "correct_option": "UNHCR",
+    "explanation": "The [[United Nations High Commissioner for Refugees]] (UNHCR) publishes the annual Global Trends Report, which tracks global displacement due to conflict, persecution, and disasters.",
+    "tags": "International Relations, Reports and Indices, Human Rights"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following diseases was recently reported in Iraq, causing concern about zoonotic transmission?",
+    "statements": [],
+    "options": [
+      "Ebola",
+      "Crimean-Congo Hemorrhagic Fever",
+      "Lassa Fever",
+      "Nipah Virus"
+    ],
+    "correct_option": "Crimean-Congo Hemorrhagic Fever",
+    "explanation": "Iraq reported a surge in [[Crimean-Congo Hemorrhagic Fever]] (CCHF), a zoonotic viral disease transmitted through tick bites or contact with infected animal blood or human bodily fluids.",
+    "tags": "Health, Science and Technology, International Affairs"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Consider the following about the India–US Limited Trade Agreement:",
+    "statements": [
+      "It aims to reduce tariffs and promote investment between India and the US.",
+      "Restoration of GSP benefits for India is part of the negotiations.",
+      "Digital trade norms and agricultural market access are contentious issues."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The India–US Limited Trade Agreement seeks to reduce tariffs and promote investment. Restoration of [[Generalized System of Preferences]] benefits for Indian exports and contentious issues like digital trade norms and agricultural market access are key negotiation points.",
+    "tags": "International Relations, Economy, Trade Policy"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which body guides the preparation of NCERT textbooks in India?",
+    "statements": [],
+    "options": [
+      "University Grants Commission",
+      "Central Board of Secondary Education",
+      "Ministry of Human Resource Development",
+      "National Curriculum Framework"
+    ],
+    "correct_option": "National Curriculum Framework",
+    "explanation": "The [[National Curriculum Framework]] (NCF), developed under the guidance of NCERT and the Ministry of Education, provides the basis for designing school curricula and textbooks in India.",
+    "tags": "Education, Governance, Society"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following factors contributed to India’s retail inflation reaching a 6-year low?",
+    "statements": [
+      "Softening food prices",
+      "Stable fuel prices",
+      "Improved agricultural supply chains"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s retail inflation reached a 6-year low due to a combination of softening food prices, stable fuel prices, and improved agricultural supply chains. These factors collectively supported price stability [[Consumer Price Index]].",
+    "tags": "Economy, Agriculture, Governance"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "The Black Box of an aircraft typically contains which of the following?",
+    "statements": [
+      "Cockpit Voice Recorder",
+      "Flight Data Recorder",
+      "Passenger Seating Data"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The aircraft's Black Box includes the [[Cockpit Voice Recorder]] (CVR) and the [[Flight Data Recorder]] (FDR), which help investigators analyze the causes of accidents. It does not store passenger seating data.",
+    "tags": "Science and Technology, Internal Security, Aviation"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "The first ever global crash of which aircraft model occurred in Ahmedabad on 12 June 2025?",
+    "statements": [],
+    "options": [
+      "Airbus A350",
+      "Boeing 747",
+      "Boeing 787 Dreamliner",
+      "Airbus A320neo"
+    ],
+    "correct_option": "Boeing 787 Dreamliner",
+    "explanation": "The 2025 Air India crash marked the first-ever global crash of the [[Boeing 787 Dreamliner]], a modern, wide-body aircraft known for its fuel efficiency and advanced materials.",
+    "tags": "Science and Technology, Internal Security, Aviation"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Consider the following with respect to India’s Gender Gap in 2025:",
+    "statements": [
+      "India showed improvement in political empowerment of women.",
+      "Labor force participation of women in India exceeds 50%.",
+      "India’s rank improved from 129th to 127th in the Global Gender Gap Index."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "India improved in [[political empowerment]] and moved from 129th to 127th rank. However, labor force participation for women remains low (~25%), well below 50%.",
+    "tags": "Society, Reports and Indices, Governance"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "The Flexible Inflation Targeting (FIT) framework is operated by which institution in India?",
+    "statements": [],
+    "options": [
+      "Ministry of Finance",
+      "Planning Commission",
+      "Reserve Bank of India",
+      "NITI Aayog"
+    ],
+    "correct_option": "Reserve Bank of India",
+    "explanation": "The [[Reserve Bank of India]] operates the Flexible Inflation Targeting (FIT) framework to maintain price stability. The current target is 4% ±2% as decided by the Monetary Policy Committee (MPC).",
+    "tags": "Economy, Monetary Policy, Governance"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "The Mettur Dam primarily supports irrigation for which of the following crop seasons?",
+    "statements": [],
+    "options": [
+      "Rabi and Zaid",
+      "Kuruvai and Samba",
+      "Kharif and Zaid",
+      "Rabi and Kharif"
+    ],
+    "correct_option": "Kuruvai and Samba",
+    "explanation": "The [[Mettur Dam]] on the Cauvery River supports irrigation for Tamil Nadu’s Kuruvai (short-term) and Samba (long-term) paddy crops in the Cauvery Delta.",
+    "tags": "Agriculture, Geography, Environment"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which international agreement guides air accident investigations globally?",
+    "statements": [],
+    "options": [
+      "Montreal Protocol",
+      "Paris Agreement",
+      "ICAO Annex 13",
+      "Geneva Convention"
+    ],
+    "correct_option": "ICAO Annex 13",
+    "explanation": "Air accident investigations are guided by [[ICAO Annex 13]], an international framework under the [[International Civil Aviation Organization]] as part of the Chicago Convention.",
+    "tags": "International Relations, Internal Security, Science and Technology"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following sectors in India faces major gender gaps, as per the 2025 Global Gender Gap Report?",
+    "statements": [
+      "Political empowerment",
+      "Health",
+      "Economic participation"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Despite gains in political empowerment, India faces large gender gaps in [[health]] (skewed sex ratio), [[economic participation]] (low labor force participation), and leadership positions.",
+    "tags": "Society, Reports and Indices, Governance"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which country hosts the highest number of displaced persons, according to UNHCR's 2025 Global Trends Report?",
+    "statements": [],
+    "options": [
+      "USA",
+      "India",
+      "Turkey",
+      "Germany"
+    ],
+    "correct_option": "Turkey",
+    "explanation": "[[Turkey]] continues to host the largest number of displaced persons globally, primarily Syrian refugees, as per UNHCR’s 2025 Global Trends Report [[UNHCR]].",
+    "tags": "International Relations, Human Rights, Reports and Indices"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "The Nirbhaya-type fund proposed in the aviation sector aims to address which of the following?",
+    "statements": [],
+    "options": [
+      "Women’s employment in aviation",
+      "Passenger experience enhancement",
+      "Aviation safety upgrades",
+      "Pilot training scholarships"
+    ],
+    "correct_option": "Aviation safety upgrades",
+    "explanation": "The Nirbhaya-type fund discussed after the Air India Boeing 787 crash is intended for upgrading [[aviation safety]] systems and preparedness across Indian airports and airlines.",
+    "tags": "Governance, Science and Technology, Internal Security"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following Indian schemes promotes gender equity through education?",
+    "statements": [],
+    "options": [
+      "Pradhan Mantri Gram Sadak Yojana",
+      "Sukanya Samriddhi Yojana",
+      "Ayushman Bharat",
+      "Faster Adoption and Manufacturing of Hybrid and Electric Vehicles"
+    ],
+    "correct_option": "Sukanya Samriddhi Yojana",
+    "explanation": "The [[Sukanya Samriddhi Yojana]] is a savings scheme aimed at promoting the education and welfare of girl children in India as part of broader gender equity initiatives.",
+    "tags": "Society, Governance, Social Welfare"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which organization is primarily responsible for managing inter-state water sharing in the Cauvery River basin?",
+    "statements": [],
+    "options": [
+      "Central Water Commission",
+      "Cauvery Water Management Authority",
+      "Ministry of Jal Shakti",
+      "National Green Tribunal"
+    ],
+    "correct_option": "Cauvery Water Management Authority",
+    "explanation": "The [[Cauvery Water Management Authority]] (CWMA) is the key institution overseeing the implementation of water sharing arrangements in the Cauvery basin among Karnataka, Tamil Nadu, Kerala, and Puducherry.",
+    "tags": "Polity, Governance, Environment"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following Indian schemes provides free food grains to the poor and supports food security?",
+    "statements": [],
+    "options": [
+      "Ayushman Bharat",
+      "Ujjwala Yojana",
+      "PM Garib Kalyan Anna Yojana",
+      "Deen Dayal Upadhyaya Grameen Kaushalya Yojana"
+    ],
+    "correct_option": "PM Garib Kalyan Anna Yojana",
+    "explanation": "The [[PM Garib Kalyan Anna Yojana]] provides free food grains to vulnerable sections of the population to ensure food security, especially during economic or health crises.",
+    "tags": "Governance, Economy, Social Welfare"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following is a zoonotic disease with potential pandemic risk, recently reported in Iraq?",
+    "statements": [],
+    "options": [
+      "Zika Virus",
+      "Crimean-Congo Hemorrhagic Fever",
+      "Yellow Fever",
+      "Leptospirosis"
+    ],
+    "correct_option": "Crimean-Congo Hemorrhagic Fever",
+    "explanation": "[[Crimean-Congo Hemorrhagic Fever]] (CCHF) is a zoonotic viral disease that spreads through tick bites or contact with infected animal or human blood and is recognized as a priority disease by WHO.",
+    "tags": "Health, Science and Technology, International Affairs"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "The India–US Limited Trade Agreement aims to address which of the following contentious issues?",
+    "statements": [
+      "Digital trade norms",
+      "Intellectual Property Rights (IPR)",
+      "Agricultural market access"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The [[India–US Limited Trade Agreement]] negotiations are addressing multiple contentious issues such as digital trade norms, Intellectual Property Rights (IPR), and agricultural market access.",
+    "tags": "International Relations, Economy, Trade Policy"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "The NCERT is an autonomous body under which Ministry?",
+    "statements": [],
+    "options": [
+      "Ministry of Women and Child Development",
+      "Ministry of Education",
+      "Ministry of Human Resource Development",
+      "Ministry of Skill Development and Entrepreneurship"
+    ],
+    "correct_option": "Ministry of Education",
+    "explanation": "The [[National Council of Educational Research and Training]] (NCERT) is an autonomous organization under the [[Ministry of Education]] responsible for developing school curricula and textbooks in India.",
+    "tags": "Governance, Education, Society"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Consider the following about the Hamas-Israel conflict as reported in June 2025:",
+    "statements": [
+      "12 militia members were killed in Israeli airstrikes.",
+      "Ceasefire talks in Cairo have failed.",
+      "India supports a two-state solution and condemned all forms of terrorism."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "In June 2025, Israel’s airstrikes killed 12 militia members linked to Hamas. Ceasefire talks in Cairo failed, and India reiterated support for a two-state solution while condemning terrorism [[Israel–Palestine conflict]].",
+    "tags": "International Relations, Internal Security, Current Affairs"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following challenges are associated with the increasing number of displaced persons globally?",
+    "statements": [
+      "Climate-induced displacement",
+      "Protracted conflicts",
+      "Rising xenophobia and anti-refugee sentiments"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The UNHCR’s 2025 Global Trends Report highlights [[climate-induced displacement]], [[protracted conflicts]], and [[rising xenophobia]] as key challenges driving the record number of displaced persons worldwide.",
+    "tags": "International Relations, Human Rights, Environment"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which international organization has called for the implementation of the Global Compact on Refugees?",
+    "statements": [],
+    "options": [
+      "UNESCO",
+      "UNDP",
+      "UNHCR",
+      "WHO"
+    ],
+    "correct_option": "UNHCR",
+    "explanation": "The [[United Nations High Commissioner for Refugees]] (UNHCR) has advocated for the implementation of the [[Global Compact on Refugees]] to address displacement challenges through better international cooperation.",
+    "tags": "International Relations, Human Rights, Reports and Indices"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "According to recent government circulars, new Centrally Sponsored and Central Sector Schemes must include which provision?",
+    "statements": [],
+    "options": [
+      "Mandatory gender budgeting",
+      "Digital implementation",
+      "Sunset clause",
+      "Reservation for minorities"
+    ],
+    "correct_option": "Sunset clause",
+    "explanation": "The Finance Ministry mandated that new Centrally Sponsored and Central Sector Schemes must include a [[sunset clause]], which ensures periodic review and prevents indefinite continuation of schemes.",
+    "tags": "Governance, Economy, Public Policy"
+  },
+  {
+    "date": "13",
+    "month": "June",
+    "year": "2025",
+    "question": "Which Indian scheme promotes irrigation efficiency in agriculture?",
+    "statements": [],
+    "options": [
+      "PMGSY",
+      "PMKSY",
+      "PMAY",
+      "PMUY"
+    ],
+    "correct_option": "PMKSY",
+    "explanation": "The [[Pradhan Mantri Krishi Sinchayee Yojana]] (PMKSY) promotes irrigation efficiency and aims to ensure water-use efficiency across various agricultural practices in India.",
+    "tags": "Agriculture, Environment, Governance"
+  }
+]
