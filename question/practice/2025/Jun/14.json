@@ -1,0 +1,541 @@
+[
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following is true regarding the Air India Flight AI171 crash?",
+    "statements": [
+      "It was the first hull loss globally of the Boeing 787 Dreamliner.",
+      "Bird ingestion and compressor stall were possible causes of the crash.",
+      "Landing gear remained retracted, which reduced drag and helped in climb."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Air India Flight AI171 crash was the first global hull loss of a Boeing 787 Dreamliner. Bird ingestion leading to compressor stall and extended landing gear (not retracted) contributed to the accident.\n\nSee [[Air India Flight 171]], [[Bird strike]], [[Foreign Object Damage]].",
+    "tags": "Internal Security, Science and Technology, Aviation Safety"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Vihaan.AI is related to which of the following?",
+    "statements": [],
+    "options": [
+      "ISRO's AI-based weather prediction model",
+      "Air India's transformation roadmap under Tata Group",
+      "DRDO’s UAV development project",
+      "AI-powered airport surveillance system"
+    ],
+    "correct_option": "Air India's transformation roadmap under Tata Group",
+    "explanation": "Vihaan.AI is Air India’s 5-year transformation roadmap launched under Tata Group to modernize and improve safety, quality, and service delivery.\n\nSee [[Vihaan.AI]].",
+    "tags": "Governance, Internal Security, Aviation Policy"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which global agencies are participating in the investigation of Air India AI171 crash?",
+    "statements": [
+      "National Transportation Safety Board (NTSB) of the USA",
+      "Air Accident Investigation Branch (AAIB) of the UK",
+      "Federal Aviation Administration (FAA) of the USA",
+      "European Union Aviation Safety Agency (EASA)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The investigation of Air India AI171 crash includes participation from the US NTSB and UK AAIB to ensure transparency and adherence to global aviation standards.\n\nSee [[National Transportation Safety Board]], [[Air Accidents Investigation Branch]].",
+    "tags": "International Relations, Aviation Safety, Governance"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "India abstained from a UNGA resolution concerning which conflict on June 13, 2025?",
+    "statements": [],
+    "options": [
+      "Russia-Ukraine conflict",
+      "Israel-Iran conflict",
+      "Sudan civil war",
+      "North Korea nuclear tests"
+    ],
+    "correct_option": "Israel-Iran conflict",
+    "explanation": "India abstained from voting on a UNGA resolution condemning hostilities between Israel and Iran, reflecting its policy of strategic autonomy and balancing interests.\n\nSee [[Israel–Iran relations]], [[United Nations General Assembly]].",
+    "tags": "International Relations, Foreign Policy, Governance"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "What percentage of India’s crude oil needs are met through imports?",
+    "statements": [],
+    "options": [
+      "50%",
+      "60%",
+      "80%",
+      "90%"
+    ],
+    "correct_option": "80%",
+    "explanation": "India imports about 80% of its crude oil requirements, making it highly vulnerable to disruptions in West Asian geopolitics.\n\nSee [[Energy policy of India]].",
+    "tags": "Economy, International Relations, Energy Security"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "The Strait of Hormuz is critical because:",
+    "statements": [
+      "It is a key route for global oil transport.",
+      "It connects the Mediterranean Sea with the Indian Ocean.",
+      "Around 20% of global oil passes through it.",
+      "It is located between Saudi Arabia and Iran."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Strait of Hormuz is a strategic choke point through which about 20% of global oil flows; it connects the Persian Gulf with the Arabian Sea, not the Mediterranean.\n\nSee [[Strait of Hormuz]].",
+    "tags": "Geography, International Relations, Economy"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which section of the Motor Vehicles Act, 1988 governs licensing of transport aggregators in India?",
+    "statements": [],
+    "options": [
+      "Section 86",
+      "Section 93",
+      "Section 102",
+      "Section 112"
+    ],
+    "correct_option": "Section 93",
+    "explanation": "Section 93 of the Motor Vehicles Act, 1988 deals with licensing and regulation of transport aggregators, which has been a key legal point in the Karnataka bike taxi policy row.\n\nSee [[Motor Vehicles Act, 1988]].",
+    "tags": "Governance, Polity, Economy"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following states formally permit bike taxi services?",
+    "statements": [
+      "Delhi",
+      "Telangana",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "1, 2 and 4"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Delhi and Telangana are among the few Indian states that formally permit bike taxi services under regulatory oversight.\n\nSee [[Bike taxi]], [[Transport in India]].",
+    "tags": "Governance, Polity, Economy"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Bengaluru was ranked what position globally in the Global Startup Ecosystem Report (GSER) 2025?",
+    "statements": [],
+    "options": [
+      "10th",
+      "12th",
+      "14th",
+      "16th"
+    ],
+    "correct_option": "14th",
+    "explanation": "Bengaluru ranked 14th globally in the Global Startup Ecosystem Report (GSER) 2025, maintaining its top position among Indian cities.\n\nSee [[Startup Genome]], [[Global Startup Ecosystem Report]].",
+    "tags": "Economy, Science and Technology, Governance"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "As per the HelpAge India Report 2025, approximately what percentage of elderly respondents said their children do not spend adequate time with them?",
+    "statements": [],
+    "options": [
+      "25%",
+      "35%",
+      "45%",
+      "59%"
+    ],
+    "correct_option": "59%",
+    "explanation": "According to the HelpAge India Report on Inter-generational Dynamics (2025), 59% of elderly respondents reported that their children do not spend adequate time with them.\n\nSee [[HelpAge India]], [[Aging in India]].",
+    "tags": "Society, Governance, Demographics"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "The CASAC, as mentioned in the context of Indian aviation, serves what function?",
+    "statements": [],
+    "options": [
+      "Judicial body overseeing civil aviation safety",
+      "Advisory body to DGCA on safety matters",
+      "Regulatory body for aircraft manufacturing",
+      "Committee for air traffic management"
+    ],
+    "correct_option": "Advisory body to DGCA on safety matters",
+    "explanation": "CASAC stands for Civil Aviation Safety Advisory Council. It is an advisory body to DGCA that provides recommendations on improving aviation safety in India.\n\nSee [[Civil Aviation Safety Advisory Council]].",
+    "tags": "Governance, Internal Security, Aviation Safety"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "As per the news, what is a key risk factor for aircraft on Indian runways?",
+    "statements": [
+      "Bird strikes",
+      "Foreign Object Damage (FOD)",
+      "Pilot error only",
+      "Engine manufacturing defects"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, and 4"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Bird strikes and Foreign Object Damage (FOD) are major risk factors on Indian runways, contributing to aviation incidents like the AI171 crash.\n\nSee [[Bird strike]], [[Foreign Object Damage]].",
+    "tags": "Science and Technology, Internal Security, Environment"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which legal act governs maintenance claims by parents against their children in India?",
+    "statements": [],
+    "options": [
+      "Senior Citizens Act, 2010",
+      "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "Family Courts Act, 1984",
+      "Persons with Disabilities Act, 2016"
+    ],
+    "correct_option": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+    "explanation": "The Maintenance and Welfare of Parents and Senior Citizens Act, 2007 provides a legal mechanism for parents and senior citizens to claim maintenance from their children.\n\nSee [[Maintenance and Welfare of Parents and Senior Citizens Act, 2007]].",
+    "tags": "Polity, Governance, Society"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "SAGE Portal recently seen in the news is aimed at promoting:",
+    "statements": [],
+    "options": [
+      "E-learning for rural women",
+      "Elder-care startups ecosystem",
+      "AI-based weather forecasting",
+      "Organic farming techniques"
+    ],
+    "correct_option": "Elder-care startups ecosystem",
+    "explanation": "SAGE stands for Seniorcare Aging Growth Engine Portal. It promotes startups that offer innovative products and services for elderly care in India.\n\nSee [[SAGE Portal]].",
+    "tags": "Governance, Economy, Society"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following issues are linked to the Israel-Iran conflict's impact on India?",
+    "statements": [
+      "Rising gold prices due to global uncertainty",
+      "Potential disruption of oil supplies via Strait of Hormuz",
+      "Increased shipping costs via Suez Canal closure",
+      "Strengthening India’s defence exports"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "Rising gold prices, oil supply disruption, and increased shipping costs are key risks to India from the Israel-Iran conflict. It is not directly linked to strengthening India's defence exports.\n\nSee [[Israel–Iran relations]], [[Strait of Hormuz]], [[Suez Canal]].",
+    "tags": "International Relations, Economy, Governance"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following challenges are faced by gig workers in Karnataka due to the bike taxi policy decision?",
+    "statements": [
+      "Sudden loss of income",
+      "No social security coverage",
+      "Availability of cheap EV-based alternatives",
+      "Regulatory uncertainty"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2 and 4 only",
+      "1 and 4 only"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Gig workers in Karnataka face sudden loss of income, lack of social security, and regulatory uncertainty due to the state’s decision not to allow bike taxis. Availability of EV-based alternatives is not a direct challenge cited in this context.\n\nSee [[Gig economy]], [[Bike taxi]].",
+    "tags": "Economy, Governance, Polity"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "What is the role of the UN’s IAEA in the context of the Israel-Iran conflict?",
+    "statements": [],
+    "options": [
+      "Conducting nuclear inspections in Iran",
+      "Providing peacekeeping forces in the Gulf",
+      "Mediating ceasefire agreements",
+      "Issuing economic sanctions"
+    ],
+    "correct_option": "Conducting nuclear inspections in Iran",
+    "explanation": "The IAEA (International Atomic Energy Agency) is the UN’s nuclear watchdog, responsible for conducting nuclear inspections in Iran under frameworks like the JCPOA.\n\nSee [[International Atomic Energy Agency]].",
+    "tags": "International Relations, Governance, Science and Technology"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which initiative was launched in India to promote digital innovation and ease of doing business for startups?",
+    "statements": [],
+    "options": [
+      "Digital India Mission",
+      "Atal Innovation Mission",
+      "Startup India Initiative",
+      "Make in India Initiative"
+    ],
+    "correct_option": "Startup India Initiative",
+    "explanation": "Startup India Initiative, launched in 2016, aims to promote entrepreneurship, provide funding support, and ease regulatory burdens for startups in India.\n\nSee [[Startup India]].",
+    "tags": "Economy, Science and Technology, Governance"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which cities topped the Global Startup Ecosystem Report (GSER) 2025 rankings?",
+    "statements": [],
+    "options": [
+      "Silicon Valley, New York, London",
+      "Bengaluru, Delhi, Shenzhen",
+      "Singapore, Berlin, Paris",
+      "Silicon Valley, Bengaluru, London"
+    ],
+    "correct_option": "Silicon Valley, New York, London",
+    "explanation": "According to the GSER 2025, the top 3 global startup ecosystems were Silicon Valley, New York, and London.\n\nSee [[Global Startup Ecosystem Report]].",
+    "tags": "Economy, Science and Technology, Governance"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "What percentage of elderly in the HelpAge India report cited feelings of neglect?",
+    "statements": [],
+    "options": [
+      "25%",
+      "35%",
+      "45%",
+      "59%"
+    ],
+    "correct_option": "35%",
+    "explanation": "According to HelpAge India's latest report, 35% of elderly respondents reported feelings of neglect, highlighting growing inter-generational challenges.\n\nSee [[HelpAge India]].",
+    "tags": "Society, Governance, Demographics"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "As per the Mains relevance section, what is a systemic weakness in India’s aviation safety governance?",
+    "statements": [
+      "Regulatory capture of DGCA and AAI",
+      "Political interference in accident investigations",
+      "Lack of ICAO compliance in safety governance",
+      "Overdependence on foreign aircraft manufacturers"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "India's aviation safety governance faces regulatory capture of DGCA/AAI, political interference in accident investigations, and gaps in ICAO compliance. Overdependence on foreign aircraft manufacturers was not cited as a systemic flaw in governance.\n\nSee [[Directorate General of Civil Aviation]], [[International Civil Aviation Organization]].",
+    "tags": "Governance, Internal Security, Aviation Policy"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "In the context of the Israel-Iran conflict, why is the Strait of Hormuz significant for India?",
+    "statements": [
+      "It is a key transit route for India’s oil imports",
+      "It connects the Persian Gulf to the Arabian Sea",
+      "It carries about 80% of India’s crude oil imports",
+      "It is directly controlled by India under maritime treaties"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Strait of Hormuz is a key transit route for Indian oil imports and connects the Persian Gulf to the Arabian Sea. However, it is not directly controlled by India, and India imports ~80% of crude oil overall (not via this Strait alone).\n\nSee [[Strait of Hormuz]].",
+    "tags": "Geography, International Relations, Economy"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "India’s abstention in the recent UNGA vote reflects which core principle of Indian foreign policy?",
+    "statements": [],
+    "options": [
+      "Bandwagoning with major powers",
+      "Alignment with Israel",
+      "Strategic autonomy",
+      "Complete disengagement from West Asia"
+    ],
+    "correct_option": "Strategic autonomy",
+    "explanation": "India’s abstention in the UNGA vote on Israel-Iran conflict aligns with its core foreign policy principle of maintaining strategic autonomy.\n\nSee [[Strategic autonomy (India)]], [[Indian foreign policy]].",
+    "tags": "International Relations, Foreign Policy, Governance"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "The I2U2 grouping consists of which countries?",
+    "statements": [],
+    "options": [
+      "India, Israel, USA, UAE",
+      "India, Iran, USA, UAE",
+      "India, Israel, UK, USA",
+      "India, Iraq, UK, USA"
+    ],
+    "correct_option": "India, Israel, USA, UAE",
+    "explanation": "The I2U2 grouping includes India, Israel, USA, and UAE — a collaborative platform focusing on economic and strategic cooperation.\n\nSee [[I2U2 Group]].",
+    "tags": "International Relations, Governance, Foreign Policy"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "As per GSER 2025, Bengaluru is ranked as #1 in Asia for which parameter?",
+    "statements": [],
+    "options": [
+      "Startup exits",
+      "Affordable talent",
+      "Funding received",
+      "Market reach"
+    ],
+    "correct_option": "Affordable talent",
+    "explanation": "Bengaluru ranked #1 in Asia for Affordable Talent according to the Global Startup Ecosystem Report (GSER) 2025.\n\nSee [[Global Startup Ecosystem Report]].",
+    "tags": "Economy, Science and Technology, Governance"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "What is the demographic trend highlighted by the HelpAge India Report?",
+    "statements": [
+      "India’s elderly population is declining",
+      "Elderly dependency on family is reducing",
+      "Urban areas show sharper breakdown of family support",
+      "Elderly are more digitally literate than younger populations"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "3 only",
+    "explanation": "The HelpAge India report highlights that urban areas show a sharper breakdown of family support structures for the elderly, increasing loneliness and neglect.\n\nSee [[HelpAge India]], [[Demographics of India]].",
+    "tags": "Society, Governance, Demographics"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Which of the following are cited governance deficits in India’s aviation sector?",
+    "statements": [
+      "Premature blaming of pilots against ICAO norms",
+      "Delayed and sanitised crash reports",
+      "Independent and transparent crash investigations",
+      "Judicial reluctance to enforce accountability"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "India’s aviation governance deficits include premature blaming of pilots, delayed crash reports, and judicial reluctance. Independent crash investigations are desirable but currently lacking.\n\nSee [[International Civil Aviation Organization]], [[Aviation safety]].",
+    "tags": "Governance, Aviation Policy, Internal Security"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "Bike taxis in Karnataka were opposed mainly due to which concerns?",
+    "statements": [
+      "Unfair competition to auto-rickshaws",
+      "Safety and insurance standards",
+      "Encouraging public transport",
+      "Revenue losses for state transport corporations"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The main concerns cited against bike taxis in Karnataka were unfair competition to auto-rickshaws and lack of adequate safety and insurance standards.\n\nSee [[Bike taxi]], [[Transport in India]].",
+    "tags": "Governance, Polity, Economy"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "What is a cited environmental risk of aviation accidents?",
+    "statements": [],
+    "options": [
+      "Greenhouse gas emissions from airlines",
+      "Deforestation around airports",
+      "Fuel spills and debris causing environmental damage",
+      "Excessive bird migration"
+    ],
+    "correct_option": "Fuel spills and debris causing environmental damage",
+    "explanation": "Aviation accidents pose risks of fuel spills and debris causing significant environmental damage, especially near populated or ecologically sensitive areas.\n\nSee [[Environmental impact of aviation]].",
+    "tags": "Environment, Governance, Internal Security"
+  },
+  {
+    "date": "14",
+    "month": "June",
+    "year": "2025",
+    "question": "A key goal for India’s long-term aviation safety reform is to:",
+    "statements": [],
+    "options": [
+      "Increase aircraft imports",
+      "Shift from compliance-driven to culture-of-safety-driven model",
+      "Privatise DGCA",
+      "Merge DGCA with AAI"
+    ],
+    "correct_option": "Shift from compliance-driven to culture-of-safety-driven model",
+    "explanation": "A long-term goal for India’s aviation sector is to move from a compliance-driven to a culture-of-safety-driven model, ensuring proactive and systemic improvements.\n\nSee [[Aviation safety]], [[International Civil Aviation Organization]].",
+    "tags": "Governance, Aviation Policy, Internal Security"
+  }
+]
