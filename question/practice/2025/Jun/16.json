@@ -1,0 +1,572 @@
+[
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following factors contributed to the bridge collapse over the Indrayani River in Pune district?",
+    "statements": [
+      "Lack of structural audits and maintenance",
+      "Overcrowding during peak tourist hour",
+      "Unusual seismic activity in the region",
+      "Rust and age-related degradation of the bridge"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The bridge collapse was attributed to poor maintenance, overcrowding, and structural degradation. There was no mention of seismic activity. \n\nBritish-era bridges like this one often suffer from neglect, highlighting the need for stringent safety audits. \n\nRefer to [[Bridge]] and [[Indrayani River]] for more context.",
+    "tags": "Disaster Management, Infrastructure, Governance"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to the National Disaster Response Force (NDRF), consider the following statements:",
+    "statements": [
+      "It was established under the Disaster Management Act, 2005.",
+      "It functions under the Ministry of Defence.",
+      "It is India’s first dedicated disaster response agency."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "NDRF was formed under the Disaster Management Act, 2005, and is India’s premier disaster response force. It functions under the Ministry of Home Affairs, not Defence. \n\nSee [[National Disaster Response Force]] and [[Disaster Management Act 2005]].",
+    "tags": "Disaster Management, Internal Security, Governance"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "What is a solatium in the context of disaster governance in India?",
+    "statements": [
+      "It is a type of compensation given to victims or their families after calamities.",
+      "It is a legal term used for advance relief payments.",
+      "It is a social welfare pension for disaster-prone communities."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Solatium refers to monetary compensation granted by the government to victims or their families following disasters. It is not a pension or legal pre-relief term. \n\nSee [[Solatium]] and [[Disaster compensation]].",
+    "tags": "Governance, Disaster Management, Social Welfare"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following is/are part of the National Hydrogen Mission's objectives?",
+    "statements": [
+      "Promote indigenous development of electrocatalysts for hydrogen production",
+      "Facilitate clean energy alternatives like water electrolysis",
+      "Subsidize import of platinum-based catalyst materials"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The National Hydrogen Mission aims to promote indigenous technologies for green hydrogen, such as nickel-based electrocatalysts, and reduce reliance on imports like platinum. \n\nRefer to [[National Hydrogen Mission (India)]] and [[Electrocatalysis]].",
+    "tags": "Science and Technology, Energy, Environment"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "CeNS-developed catalyst for electrocatalysis includes which of the following elements?",
+    "statements": [
+      "Nickel",
+      "Selenium",
+      "Ruthenium",
+      "Iron"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The catalyst developed by CeNS includes Nickel, Selenium, and Iron. Ruthenium, being expensive, was not used. This highlights a move towards cost-effective, non-precious metal catalysis. \n\nSee [[Electrocatalysis]] and [[CeNS]].",
+    "tags": "Science and Technology, Environment, Innovation"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "India’s wind energy installed capacity as of FY 2024–25 ranks globally at which position?",
+    "statements": [],
+    "options": [
+      "2nd",
+      "3rd",
+      "4th",
+      "5th"
+    ],
+    "correct_option": "4th",
+    "explanation": "India is the 4th largest country in terms of installed wind energy capacity globally. It aims to achieve 100 GW by 2030, including offshore installations. \n\nRefer to [[Wind power in India]].",
+    "tags": "Environment, Energy, Economy"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Consider the following about the RE Cluster Programme and Green Energy Corridor Project:",
+    "statements": [
+      "RE Cluster Programme aims to develop region-specific renewable energy infrastructure.",
+      "Green Energy Corridor strengthens transmission networks for integrating renewable power.",
+      "Both are managed by Ministry of Power."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The RE Cluster Programme and Green Energy Corridor are managed by the Ministry of New and Renewable Energy (MNRE), not Power. They focus on infrastructure and integration of RE. \n\nSee [[Green Energy Corridor]] and [[MNRE]].",
+    "tags": "Environment, Energy, Governance"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following ships was involved in a hazardous maritime fire incident off Kerala in June 2025?",
+    "statements": [],
+    "options": [
+      "VLCC New Diamond",
+      "MV Wan Hai 503",
+      "INS Shardul",
+      "MV Ever Given"
+    ],
+    "correct_option": "MV Wan Hai 503",
+    "explanation": "MV Wan Hai 503, a Singapore-flagged container ship carrying hazardous cargo, caught fire off the Kerala coast. Indian Coast Guard and Navy led the firefighting and towing operations. \n\nSee [[MV Wan Hai 503 incident]].",
+    "tags": "Disaster Management, Maritime Security, Environment"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which agency is primarily responsible for oil spill response under India’s National Oil Spill Disaster Contingency Plan (NOSDCP)?",
+    "statements": [],
+    "options": [
+      "Directorate General of Shipping",
+      "Ministry of Earth Sciences",
+      "Indian Coast Guard",
+      "Central Pollution Control Board"
+    ],
+    "correct_option": "Indian Coast Guard",
+    "explanation": "The Indian Coast Guard leads maritime search and rescue, oil spill response, and firefighting under the NOSDCP framework. \n\nRefer to [[Indian Coast Guard]] and [[NOSDCP]].",
+    "tags": "Environment, Internal Security, Governance"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "What was the significance of the catalyst developed by CeNS in 2025?",
+    "statements": [
+      "It reduced dependence on platinum-based industrial catalysts.",
+      "It was used for efficient hydrogen peroxide production.",
+      "It introduced digital twins for electrocatalytic simulation.",
+      "It employed selenium and iron doping in MOF structures."
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The catalyst from CeNS was cost-effective, used selenium and iron in MOF structures, and efficiently produced hydrogen peroxide. There was no mention of digital twins in this research. \n\nRefer to [[CeNS]] and [[Oxygen Reduction Reaction]].",
+    "tags": "Science and Technology, Chemistry, Clean Energy"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "With reference to India’s Global Gender Gap Report 2025, consider the following statements:",
+    "statements": [
+      "India’s overall parity score was below 65%.",
+      "Political empowerment of women saw the sharpest decline.",
+      "Women’s Reservation Act, 2023 is already in force in Lok Sabha."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India’s parity score was 64.1% and the sharpest drop was in political empowerment. The Women’s Reservation Act will come into force only after 2029. \n\nSee [[Global Gender Gap Report]] and [[Women’s Reservation Bill]].",
+    "tags": "Society, Governance, Polity"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are components of the Global Gender Gap Index by WEF?",
+    "statements": [
+      "Health and Survival",
+      "Economic Participation and Opportunity",
+      "Political Empowerment",
+      "Technological Access"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "The WEF’s Global Gender Gap Index includes Health and Survival, Economic Participation, Educational Attainment, and Political Empowerment. Technological Access is not a core subindex. \n\nRefer to [[Global Gender Gap Index]].",
+    "tags": "Society, Reports and Indices, International Affairs"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the significance of Schwarzman Scholars Programme in geopolitics?",
+    "statements": [
+      "It is China’s premier global leadership programme based in Tsinghua University.",
+      "It aims to build China-centric elite networks globally.",
+      "It is jointly sponsored by the UN and Indian Council for Cultural Relations (ICCR)."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Schwarzman Scholars Programme is a China-based initiative modeled after the Rhodes Scholarship, designed to enhance China’s soft power. It has no connection with ICCR or the UN. \n\nSee [[Schwarzman Scholars]] and [[Soft Power]].",
+    "tags": "International Relations, Education, Soft Power"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "What is the primary objective of India’s Digital Census scheduled for 2027?",
+    "statements": [
+      "To digitally enumerate every citizen using mobile applications",
+      "To collect caste data at the national level",
+      "To replace the need for manual enumeration entirely",
+      "To generate electoral constituency boundaries post-2026"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The Census includes digital enumeration and caste data, and will be used for delimitation post-2026. Manual options will still be available. \n\nSee [[Census of India]] and [[Delimitation Commission]].",
+    "tags": "Governance, Digital India, Polity"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are included in the AI-based biomanufacturing efforts of India?",
+    "statements": [
+      "Use of digital twins for bioprocess optimization",
+      "AI-driven predictive diagnostics and drug discovery",
+      "IndiaAI Mission to regulate data privacy in biotech",
+      "BioE3 policy to set up biofoundries and AI labs"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2, 3 and 4",
+    "explanation": "India’s AI-biotech policies include digital twins, IndiaAI Mission, BioE3 policy, and predictive applications. Together they aim to promote innovation and ensure data security. \n\nRefer to [[Biomanufacturing]] and [[IndiaAI Mission]].",
+    "tags": "Science and Technology, Health, Governance"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following challenges affect AI-integrated biomanufacturing in India?",
+    "statements": [
+      "Lack of specific regulatory framework for AI-controlled drug production",
+      "Inadequate rural data representation in training models",
+      "Unclear intellectual property rules for AI-generated innovations"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three are genuine challenges: regulatory gaps, data bias, and legal ambiguity in AI-generated outcomes hinder India’s bio-AI ambitions. \n\nSee [[AI in Healthcare]] and [[Intellectual Property Rights in India]].",
+    "tags": "Science and Technology, Governance, Ethics"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following best describes a Digital Twin in industrial applications?",
+    "statements": [],
+    "options": [
+      "A virtual simulation of a physical system used for testing and optimization",
+      "A hardware backup of a critical device for cybersecurity",
+      "An AI chatbot used to replicate human conversations",
+      "A software to mirror social media trends in real time"
+    ],
+    "correct_option": "A virtual simulation of a physical system used for testing and optimization",
+    "explanation": "Digital Twins are virtual representations of real-world systems used in manufacturing, healthcare, and energy sectors to simulate and optimize operations. \n\nSee [[Digital twin]].",
+    "tags": "Science and Technology, Industry 4.0, Innovation"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "The BioE3 policy of India aims to achieve which of the following?",
+    "statements": [
+      "Set up Bio-AI Hubs and biofoundries",
+      "Support AI integration in drug discovery",
+      "Develop green and sustainable biomanufacturing"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The BioE3 policy focuses on innovation hubs, AI-driven biotechnology, and sustainable production systems, aligning with India's health and technology goals. \n\nSee [[BioE3 Policy]].",
+    "tags": "Health, Science and Technology, Innovation"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "What was the primary reason behind India’s 2015 policy on Flue Gas Desulphurisation (FGD) units in coal plants?",
+    "statements": [],
+    "options": [
+      "To control sulphur dioxide emissions from thermal power plants",
+      "To enhance water recycling in power generation",
+      "To improve energy efficiency of turbines",
+      "To meet WTO clean trade norms"
+    ],
+    "correct_option": "To control sulphur dioxide emissions from thermal power plants",
+    "explanation": "FGD units are designed to remove sulphur dioxide (SO₂) from flue gas emissions to reduce air pollution and meet environmental standards. \n\nSee [[Flue-gas desulfurization]].",
+    "tags": "Environment, Energy, Pollution Control"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "According to CEA estimates, how much is the average capital cost of installing an FGD unit per MW of coal-based power?",
+    "statements": [],
+    "options": [
+      "₹50 lakh per MW",
+      "₹1.2 crore per MW",
+      "₹2.5 crore per MW",
+      "₹3.5 crore per MW"
+    ],
+    "correct_option": "₹1.2 crore per MW",
+    "explanation": "The average cost of FGD installation per MW is ₹1.2 crore, as per Central Electricity Authority (CEA). This cost impacts tariffs but is crucial for reducing SO₂ emissions. \n\nSee [[CEA India]] and [[Flue-gas desulfurization]].",
+    "tags": "Economy, Energy, Environment"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are associated with India’s marine firefighting and salvage capabilities?",
+    "statements": [
+      "Indian Coast Guard is the lead agency for maritime firefighting and oil spill response.",
+      "The National Oil Spill Disaster Contingency Plan is overseen by the Ministry of Earth Sciences.",
+      "VLCC New Diamond was a notable past incident handled by Indian agencies."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Indian Coast Guard leads firefighting and oil spill operations. The National Oil Spill Disaster Contingency Plan is overseen by the Coast Guard, not the Ministry of Earth Sciences. \n\nSee [[Indian Coast Guard]] and [[Oil spill]].",
+    "tags": "Internal Security, Disaster Management, Maritime Security"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following legal provisions allow High Courts to quash FIRs in India?",
+    "statements": [],
+    "options": [
+      "Section 482 of the Criminal Procedure Code",
+      "Section 528 of the Bharatiya Nyaya Sanhita",
+      "Article 226 of the Constitution",
+      "Section 197 of the Indian Penal Code"
+    ],
+    "correct_option": "Section 528 of the Bharatiya Nyaya Sanhita",
+    "explanation": "Under the new Bharatiya Nyaya Sanhita, Section 528 replaces CrPC’s Section 482 and empowers High Courts to quash FIRs to prevent abuse of the process of law. \n\nSee [[Bharatiya Nyaya Sanhita]] and [[Quashing of FIR]].",
+    "tags": "Polity, Governance, Law"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "The Women’s Reservation Act (2023) will be implemented after which of the following events?",
+    "statements": [
+      "Completion of next nationwide Census",
+      "Delimitation of constituencies",
+      "2026 Finance Commission recommendations"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Act will be implemented only after the next Census and subsequent delimitation exercise. Finance Commission recommendations are unrelated to its implementation. \n\nRefer to [[Women’s Reservation Bill]] and [[Delimitation Commission]].",
+    "tags": "Polity, Governance, Society"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which agency manages the Census operations in India?",
+    "statements": [],
+    "options": [
+      "National Statistical Office",
+      "Ministry of Home Affairs",
+      "Office of the Registrar General and Census Commissioner",
+      "Ministry of Electronics and IT"
+    ],
+    "correct_option": "Office of the Registrar General and Census Commissioner",
+    "explanation": "The Census is conducted by the Office of the Registrar General and Census Commissioner, under the Ministry of Home Affairs. \n\nSee [[Census in India]].",
+    "tags": "Governance, Polity, Data Governance"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Why was the Flue Gas Desulphurisation (FGD) policy under review in 2025?",
+    "statements": [
+      "High capital costs for power producers",
+      "Delays in project implementation",
+      "Concerns about air pollution reduction goals being compromised"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three reasons—high cost, delay, and environmental goal dilution—led to reconsideration of FGD deadlines by the policy review committee. \n\nRefer to [[Flue-gas desulfurization]] and [[National Clean Air Programme]].",
+    "tags": "Environment, Economy, Energy"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following statements regarding bots and the Tatkal booking system is/are correct?",
+    "statements": [
+      "Bots automate ticket bookings by bypassing human verification like CAPTCHA.",
+      "Over 60% of Tatkal tickets are booked within the first 10 minutes.",
+      "Aadhaar OTP verification is now mandatory for all online Tatkal bookings."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three statements are accurate—bots affect fair access, hence new rules including Aadhaar OTP and time restrictions on agents have been introduced. \n\nSee [[Tatkal Scheme]] and [[IRCTC]].",
+    "tags": "Governance, Digital India, Cybersecurity"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following are components of India’s Clean Energy Vision for 2030?",
+    "statements": [
+      "Achieving 500 GW of renewable energy capacity",
+      "Installing 100 GW of wind power including 30 GW offshore",
+      "Promoting wind-solar hybrid and RE cluster models"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India's RE vision includes 500 GW clean energy, with wind power contributing 100 GW (including offshore), and supportive hybrid policies and RE clusters. \n\nSee [[India's renewable energy goals]].",
+    "tags": "Environment, Economy, Energy Policy"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "What role does the Indian Coast Guard play in maritime disaster preparedness?",
+    "statements": [
+      "Lead agency for oil spill response and sea firefighting",
+      "Conducts joint drills with Navy and private shipping operators",
+      "Oversees the NOSDCP for India’s coastline"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Coast Guard leads maritime firefighting, enforces NOSDCP, and conducts joint drills with various stakeholders to ensure coastal safety. \n\nRefer to [[Indian Coast Guard]] and [[Maritime safety]].",
+    "tags": "Disaster Management, Maritime Security, Environment"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following reflects India's soft power gaps identified by former diplomat Nirupama Rao?",
+    "statements": [
+      "Absence of a flagship India-focused global fellowship",
+      "Fragmented India studies in US academia",
+      "Low visibility of India’s democratic model in global discourse"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Nirupama Rao emphasized India's need for an assertive narrative globally, lack of structured fellowships, and underrepresentation of its democratic identity. \n\nSee [[Soft power]] and [[Schwarzman Scholars]].",
+    "tags": "International Relations, Governance, Education"
+  },
+  {
+    "date": "16",
+    "month": "May",
+    "year": "2025",
+    "question": "Which of the following acts regulate hazardous cargo movement and marine pollution in India?",
+    "statements": [],
+    "options": [
+      "National Green Tribunal Act, 2010",
+      "Merchant Shipping Act, 1958",
+      "Marine Pollution (Regulation and Control) Rules, 2008",
+      "Coastal Regulation Zone Notification, 2011"
+    ],
+    "correct_option": "Merchant Shipping Act, 1958",
+    "explanation": "The Merchant Shipping Act and its allied Marine Pollution Rules regulate hazardous cargo and pollution control at sea. \n\nRefer to [[Merchant Shipping Act (India)]].",
+    "tags": "Environment, Maritime Law, Governance"
+  }
+]
