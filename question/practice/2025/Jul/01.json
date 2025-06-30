@@ -1,0 +1,529 @@
+[
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "India’s official elimination of trachoma signifies which of the following?",
+    "statements": [
+      "A reduction of disease prevalence below a threshold level defined by WHO",
+      "Complete eradication of trachoma cases in the population",
+      "A public health achievement under the National Programme for Control of Blindness"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Elimination of trachoma means reducing its prevalence below a certain level as per WHO standards, not complete eradication. India achieved this through surveys and efforts under the [[National Programme for Control of Blindness]].",
+    "tags": "Health, Governance, WHO"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to the concept of 'Reserved Areas' along the border, consider the following:",
+    "statements": [
+      "They are designated zones for strategic surveillance and administrative control.",
+      "Movement and civilian activities may be restricted in such areas.",
+      "They are notified only in international border regions with China."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Reserved Areas are strategic zones where government control is emphasized for security. Though many are along the LAC with China, such notifications are not exclusive to China-bordering regions, also including LoC areas near Pakistan.",
+    "tags": "Internal Security, Geography, IR"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are objectives of India’s Vibrant Villages Programme?",
+    "statements": [
+      "Prevent migration from border villages",
+      "Promote tourism in border belts",
+      "Counter China's model villages along the LAC"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Vibrant Villages Programme aims to develop infrastructure, ensure livelihood, and counter China’s efforts by promoting tourism, connectivity, and settlement in strategic border zones.",
+    "tags": "Governance, Security, Border Management"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "India’s 1975 Emergency was declared under which Article of the Constitution?",
+    "options": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 365"
+    ],
+    "correct_option": "Article 352",
+    "explanation": "The 1975 Emergency was declared under [[Article 352]], citing 'internal disturbance' as grounds. It led to suspension of civil liberties and press censorship, becoming a key example of executive overreach in Indian history.",
+    "tags": "Polity, Constitutional Provisions"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "What were the major themes addressed in PM Modi’s June 30, 2025 ‘Mann Ki Baat’?",
+    "statements": [
+      "Judicial autonomy and criticism of the 1975 Emergency",
+      "Elimination of trachoma in India",
+      "Expansion of social security coverage",
+      "Renewal of Kailash Mansarovar Yatra"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2, 3 and 4",
+    "explanation": "All four themes were discussed in the address, highlighting past constitutional violations, public health success, welfare expansion, and revival of cross-border pilgrimage as part of India's cultural diplomacy.",
+    "tags": "Polity, Health, Governance, IR"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best explains the term ‘Agentic AI’ used in the Tata–AWS InnoVent Hackathon?",
+    "options": [
+      "AI systems that can simulate human emotions",
+      "AI systems that take autonomous decisions and actions",
+      "AI tools for coding and debugging",
+      "AI systems integrated only with robotics"
+    ],
+    "correct_option": "AI systems that take autonomous decisions and actions",
+    "explanation": "Agentic AI refers to autonomous systems capable of decision-making and acting on behalf of users in real-time, often used in [[smart mobility]], [[personal assistants]], and industrial automation.",
+    "tags": "Science and Technology, AI, Innovation"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "In context of the Code on Social Security, 2020, which of the following is true?",
+    "options": [
+      "It covers only government sector employees",
+      "It mandates health insurance for all senior citizens",
+      "It aims to consolidate existing laws on pensions, insurance, and maternity benefits",
+      "It excludes gig and platform workers"
+    ],
+    "correct_option": "It aims to consolidate existing laws on pensions, insurance, and maternity benefits",
+    "explanation": "The [[Code on Social Security, 2020]] consolidates nine labor laws into a unified framework, covering benefits such as EPF, ESI, maternity, gratuity, and even extends to gig workers in a progressive step.",
+    "tags": "Economy, Labour Welfare, Governance"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "The decision to scrap the Three-Language Formula in Maharashtra affects which Constitutional and policy dimensions?",
+    "statements": [
+      "Autonomy of states in education policy under State List",
+      "Implementation of NEP 2020's multilingual vision",
+      "Right of minorities to receive education in their mother tongue"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The issue brings together federal rights over education, NEP 2020's language policy, and minority rights under Article 30. Language policy remains politically and constitutionally sensitive.",
+    "tags": "Polity, Education, Federalism"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following correctly defines the role of the Border Roads Organisation (BRO) in national security?",
+    "options": [
+      "Conducting anti-infiltration operations in border zones",
+      "Building strategic infrastructure in remote and sensitive regions",
+      "Managing cross-border trade and customs regulation",
+      "Surveying and patrolling border villages"
+    ],
+    "correct_option": "Building strategic infrastructure in remote and sensitive regions",
+    "explanation": "The [[Border Roads Organisation]] constructs roads, bridges, and tunnels in areas critical for troop movement and connectivity, like the Durbuk–Shyok–DBO road and Zojila tunnel in Ladakh.",
+    "tags": "Infrastructure, Security, Border Management"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following concerns is most relevant to using Digital Twins and Agentic AI in urban governance?",
+    "options": [
+      "Electricity generation cost",
+      "Public sector employment",
+      "Data privacy and surveillance ethics",
+      "Foreign direct investment norms"
+    ],
+    "correct_option": "Data privacy and surveillance ethics",
+    "explanation": "Smart urban tech like [[Digital Twins]] and [[Agentic AI]] rely on real-time data, raising issues of surveillance, consent, and ethical governance of public systems—necessitating a robust AI ethics framework.",
+    "tags": "Science and Technology, Ethics, Urban Governance"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are considered key social security schemes in India as per recent government expansion?",
+    "statements": [
+      "Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+      "Atal Pension Yojana",
+      "Pradhan Mantri Fasal Bima Yojana",
+      "e-Shram Portal for unorganized workers"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "PM-JAY, Atal Pension Yojana, and e-Shram are part of India’s social security framework. Fasal Bima is crop insurance and part of agricultural risk mitigation, not social security per se.",
+    "tags": "Economy, Social Welfare, Labour"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following with respect to the Kailash Mansarovar Yatra:",
+    "statements": [
+      "It is a bilateral pilgrimage between India and Nepal",
+      "It was suspended post the 2020 India-China border tensions",
+      "Its revival in 2025 is a sign of diplomatic thaw"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "Kailash Mansarovar lies in Tibet (China), and the pilgrimage is conducted via Indian routes through bilateral arrangements with China. Suspension in 2020 and revival in 2025 reflect India-China diplomatic ties.",
+    "tags": "IR, Culture, Governance"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "What is the constitutional significance of the 44th Amendment Act, 1978?",
+    "options": [
+      "It abolished the President's power to declare Emergency",
+      "It made the judiciary subordinate to Parliament",
+      "It curtailed the powers under Article 352 and protected Articles 20 and 21",
+      "It replaced Article 356 with a new emergency provision"
+    ],
+    "correct_option": "It curtailed the powers under Article 352 and protected Articles 20 and 21",
+    "explanation": "The 44th Amendment curtailed the emergency powers by requiring written advice from the cabinet and ensured Articles 20 and 21 cannot be suspended even during Emergency.",
+    "tags": "Polity, Constitutional Amendments, Judiciary"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following correctly explains 'Digital Twins'?",
+    "options": [
+      "They are biometric ID systems",
+      "They are paired military drone systems",
+      "They are virtual replicas of physical entities used for simulations",
+      "They are cloned email accounts used for cybersecurity testing"
+    ],
+    "correct_option": "They are virtual replicas of physical entities used for simulations",
+    "explanation": "Digital Twins replicate physical systems digitally to monitor, simulate, and optimize real-world performance. They are used in urban planning, transport, and industry.",
+    "tags": "Science and Technology, Urban Planning, Innovation"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following reflect challenges in implementing the Three-Language Formula in India?",
+    "statements": [
+      "Lack of trained multilingual teachers",
+      "Linguistic resistance from regional groups",
+      "Uniform curriculum across CBSE and State Boards"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Challenges include shortage of language teachers and socio-political opposition. Uniform curriculum is not a mandated part of TLF and varies across boards.",
+    "tags": "Education, Governance, Federalism"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "In the context of border security, which of the following are functions of the Border Area Development Programme (BADP)?",
+    "statements": [
+      "Development of health and education infrastructure in border villages",
+      "Support for agriculture and water supply in remote regions",
+      "Deployment of military surveillance systems"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "BADP focuses on development infrastructure like schools, roads, and water systems in border areas. Military surveillance is handled by defense agencies, not under BADP.",
+    "tags": "Internal Security, Governance, Infrastructure"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "The 10th Schedule of the Constitution deals with:",
+    "options": [
+      "Emergency provisions",
+      "Representation of Anglo-Indian community",
+      "Anti-defection law",
+      "Finance Commission powers"
+    ],
+    "correct_option": "Anti-defection law",
+    "explanation": "The 10th Schedule contains provisions regarding disqualification of elected members on the grounds of defection to maintain political stability and party discipline.",
+    "tags": "Polity, Constitution, Electoral Politics"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "In the context of intra-party democracy, which of the following reforms have been recommended by constitutional bodies?",
+    "statements": [
+      "Conduct of regular internal party elections",
+      "Public disclosure of candidate selection criteria",
+      "Establishment of Ethics Committees within parties"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Law Commission and Supreme Court have emphasized reforms in party transparency—such as internal elections, public funding disclosures, and internal ethics oversight—to strengthen democratic practices.",
+    "tags": "Polity, Governance, Electoral Reforms"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which among the following correctly explains the purpose of the e-Shram Portal?",
+    "options": [
+      "To track school dropouts across India",
+      "To record unorganized workers and provide social security access",
+      "To register all MSMEs and startups under Startup India",
+      "To provide land records and GIS mapping for farmers"
+    ],
+    "correct_option": "To record unorganized workers and provide social security access",
+    "explanation": "The [[e-Shram Portal]] is aimed at building a national database of unorganized workers and linking them with schemes like insurance, pensions, and employment support.",
+    "tags": "Labour, Social Welfare, Governance"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "The 170th Report of the Law Commission is related to:",
+    "options": [
+      "Judicial appointments and transfers",
+      "Reform in police administration",
+      "Electoral reforms including intra-party democracy",
+      "Decentralization in panchayati raj institutions"
+    ],
+    "correct_option": "Electoral reforms including intra-party democracy",
+    "explanation": "The 170th Report of the [[Law Commission of India]] recommends reforms to ensure intra-party democracy, state funding of elections, and transparency in candidate selection.",
+    "tags": "Polity, Electoral Reforms, Governance"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following is/are reasons for the frequent migration from Indian border villages?",
+    "statements": [
+      "Lack of basic infrastructure and services",
+      "Absence of economic opportunities",
+      "Frequent natural disasters and extreme climate"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Border areas, especially in the Himalayas, suffer from poor infrastructure, limited livelihoods, and harsh climates, leading to outward migration and demographic vulnerability.",
+    "tags": "Geography, Internal Security, Governance"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following statements regarding International Yoga Day:",
+    "statements": [
+      "It was adopted by the UN in 2014 based on India’s proposal",
+      "It is observed globally on June 21 each year",
+      "The theme in 2025 was focused on ‘Yoga for Vasudhaiva Kutumbakam’"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All statements are correct. The UN adopted June 21 as International Yoga Day in 2014. The 2025 theme aligns with the idea of universal well-being, as emphasized by India.",
+    "tags": "IR, Culture, Soft Power"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best describes the Bodo Peace Accord (2020)?",
+    "options": [
+      "It granted statehood to Bodo region in Assam",
+      "It merged the Bodo region with neighboring Arunachal Pradesh",
+      "It aimed at ending insurgency and promoting development in Bodo areas",
+      "It introduced a separate constitution for the Bodo Territorial Region"
+    ],
+    "correct_option": "It aimed at ending insurgency and promoting development in Bodo areas",
+    "explanation": "The [[Bodo Peace Accord]] was a tripartite agreement to end long-standing insurgency in Assam’s Bodo region, ensuring more autonomy and development without statehood.",
+    "tags": "Internal Security, Governance, Northeast India"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following is/are ethical concerns related to India's 1975 Emergency?",
+    "statements": [
+      "State-sponsored surveillance and censorship",
+      "Arbitrary arrests of opposition leaders",
+      "Suspension of fundamental rights like Article 21"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Emergency saw significant violations of ethical governance, including press censorship, illegal detentions, and suspension of key rights like Article 21 (Right to Life).",
+    "tags": "Ethics, Polity, Governance"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which organization certifies the elimination of neglected tropical diseases like trachoma?",
+    "options": [
+      "World Bank",
+      "UNICEF",
+      "WHO",
+      "GAVI"
+    ],
+    "correct_option": "WHO",
+    "explanation": "The [[World Health Organization]] (WHO) certifies elimination of diseases like trachoma based on rigorous epidemiological surveys and health data validation.",
+    "tags": "Health, International Bodies, WHO"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "What are the major ethical concerns with the use of Agentic AI in urban mobility?",
+    "statements": [
+      "Privacy violation through data surveillance",
+      "Algorithmic bias affecting decision fairness",
+      "Energy inefficiency and high carbon footprint"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Privacy and fairness are major concerns in AI systems used in public governance. Energy inefficiency is less prominent in urban mobility compared to large AI models in cloud computing.",
+    "tags": "Ethics, AI, Urban Governance"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "In which context is the Mashelkar Committee significant?",
+    "options": [
+      "Reforming primary education and curriculum implementation",
+      "Investigating judicial reforms",
+      "Reviewing disaster management laws",
+      "Overseeing vaccine procurement"
+    ],
+    "correct_option": "Reforming primary education and curriculum implementation",
+    "explanation": "The Mashelkar Committee provided recommendations related to educational reforms, grading, and learning outcomes, especially referenced in the context of Maharashtra’s language policy.",
+    "tags": "Education, Governance, Policy Reforms"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which constitutional provision allows the Centre and States to legislate on education?",
+    "options": [
+      "Article 246 of the Constitution",
+      "Article 14 of the Constitution",
+      "Article 21A of the Constitution",
+      "Article 280 of the Constitution"
+    ],
+    "correct_option": "Article 246 of the Constitution",
+    "explanation": "Under [[Article 246]] and the 7th Schedule, education falls under the Concurrent List, allowing both Centre and State to legislate on it, subject to constitutional boundaries.",
+    "tags": "Polity, Federalism, Education"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which initiative aims to foster innovation among Indian youth through hackathons and start-up support?",
+    "options": [
+      "Digital India Mission",
+      "Startup India and Atal Innovation Mission",
+      "Skill India Programme",
+      "Unnat Bharat Abhiyan"
+    ],
+    "correct_option": "Startup India and Atal Innovation Mission",
+    "explanation": "Both [[Startup India]] and [[Atal Innovation Mission]] promote entrepreneurial talent and problem-solving through hackathons, incubation support, and seed funding.",
+    "tags": "Governance, Science and Tech, Entrepreneurship"
+  },
+  {
+    "date": "1",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following issues were at the core of Karnataka Congress's internal dissent in June 2025?",
+    "statements": [
+      "Unequal fund allocation across constituencies",
+      "Power-sharing disputes between top leadership",
+      "Demand for separate statehood for northern Karnataka"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The dissent arose due to dissatisfaction over power sharing and alleged imbalances in development funding. There was no official demand for statehood involved in the current crisis.",
+    "tags": "Polity, Governance, Ethics"
+  }
+]
