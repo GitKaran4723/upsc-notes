@@ -1,0 +1,565 @@
+[
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to the Special Intensive Revision (SIR) of electoral rolls in Bihar, consider the following statements:",
+    "statements": [
+      "It is conducted by the Election Commission of India to update voter lists in a focused region.",
+      "The SIR allows voter registration without submission of any documents as per Article 324.",
+      "The claims and objections period follows the SIR verification process."
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Special Intensive Revision (SIR) is a targeted process by the [[Election Commission of India]] to update electoral rolls. While the CEO of Bihar initially allowed leniency in document submission, the Chief Election Commissioner later mandated it. The claims and objections period typically follows the revision. Article 324 empowers the ECI but does not waive documentation.",
+    "tags": "Polity, Governance, Election Commission"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are field-level agents involved in electoral verification?",
+    "statements": [
+      "Booth Level Officers",
+      "Electoral Registration Officers",
+      "District Magistrates",
+      "State Election Commissioners"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "3 and 4 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "[[Booth Level Officers]] (BLOs) and [[Electoral Registration Officers]] (EROs) are the key officials managing voter registration and verification during electoral roll revisions. District Magistrates and State Election Commissioners have broader administrative roles, not direct roll verification.",
+    "tags": "Polity, Governance, Electoral Process"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which Article of the Indian Constitution guarantees the right to vote to all adult citizens?",
+    "statements": [],
+    "options": [
+      "Article 19",
+      "Article 21",
+      "Article 324",
+      "Article 326"
+    ],
+    "correct_option": "Article 326",
+    "explanation": "[[Article 326]] of the Constitution guarantees universal adult franchise in India. It ensures that every citizen above 18 years of age has the right to vote unless disqualified by law. This forms the backbone of Indian electoral democracy.",
+    "tags": "Polity, Indian Constitution, Fundamental Rights"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to the Nipah virus outbreak in Kerala (2025), consider the following statements:",
+    "statements": [
+      "Nipah virus is primarily transmitted by mosquitoes.",
+      "The virus has a high fatality rate ranging from 40% to 75%.",
+      "India has already developed a licensed vaccine for Nipah."
+    ],
+    "options": [
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "Nipah virus is a zoonotic RNA virus primarily spread by [[fruit bats]], not mosquitoes. It has a high fatality rate but currently has no licensed vaccine. The 2025 outbreak in Kerala has triggered containment measures due to the high mortality risk.",
+    "tags": "Health, Science and Technology, Disaster Management"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following institutions are involved in tackling Nipah virus outbreaks in India?",
+    "statements": [
+      "National Institute of Virology (NIV)",
+      "Indian Council of Medical Research (ICMR)",
+      "National Centre for Disease Control (NCDC)",
+      "Defence Research and Development Organisation (DRDO)"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "Institutions like the [[NIV]], [[ICMR]], and [[NCDC]] play key roles in detection, containment, and surveillance of outbreaks like Nipah. DRDO is not directly involved in epidemic response.",
+    "tags": "Health, Governance, Science and Technology"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following statements regarding the One Health approach:",
+    "statements": [
+      "It aims to integrate animal, human, and environmental health surveillance.",
+      "It is endorsed by the World Health Organization.",
+      "India has legally adopted the One Health framework since 2018."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The [[One Health]] approach is a globally endorsed strategy to address zoonotic diseases by integrating human, animal, and environmental health. India has drafted a framework in 2021, but it is not a legally adopted law.",
+    "tags": "Environment, Health, Governance"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Satabhaya, often seen in the news, is associated with which of the following issues?",
+    "statements": [],
+    "options": [
+      "Illegal mining hub in Odisha",
+      "Sea level rise and coastal displacement",
+      "Wildlife-human conflict zone",
+      "Major tourist destination under CRZ development"
+    ],
+    "correct_option": "Sea level rise and coastal displacement",
+    "explanation": "[[Satabhaya]], a coastal village in Odisha, is one of the worst-affected regions by sea level rise, forcing mass displacement of residents. It highlights the issue of climate-induced migration and the lack of legal protection for such migrants.",
+    "tags": "Environment, Disaster Management, Polity"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "CRZ Notification 2019 is often criticized for which of the following reasons?",
+    "statements": [
+      "Diluting zoning norms in favor of industrial development",
+      "Increasing protections for coastal communities",
+      "Mandating the resettlement of climate migrants",
+      "Prohibiting all commercial activity near the coast"
+    ],
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The [[CRZ Notification 2019]] has been criticized for diluting earlier environmental protections in coastal zones, thereby prioritizing commercial development over community welfare and ecological preservation.",
+    "tags": "Environment, Governance, Disaster Management"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following Supreme Court cases in the context of environmental justice in India:",
+    "statements": [
+      "M.C. Mehta vs Union of India (1987)",
+      "Enviro-Legal Action case (1996)"
+    ],
+    "options": [
+      "Both are related to linking environment with fundamental rights",
+      "Only the first is related to environmental protection",
+      "Both were dismissed by the Court",
+      "They resulted in dilution of environmental laws"
+    ],
+    "correct_option": "Both are related to linking environment with fundamental rights",
+    "explanation": "The landmark cases of [[M.C. Mehta (1987)]] and [[Enviro-Legal Action (1996)]] linked environmental protection with [[Article 21]] of the Constitution. They laid the foundation for recognizing the right to a clean environment as part of the right to life.",
+    "tags": "Polity, Environment, Judiciary"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following factors contribute significantly to maternal mortality in India?",
+    "statements": [
+      "Postpartum hemorrhage and obstructed labour",
+      "Hypertensive disorders during pregnancy",
+      "Anaemia and malnutrition",
+      "High literacy among rural women"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "Major causes of maternal deaths in India include [[postpartum hemorrhage]], [[obstructed labour]], [[hypertensive disorders]], [[anaemia]], and malnutrition. High literacy among rural women is not a contributing factor to mortality—it often improves health-seeking behavior.",
+    "tags": "Health, Governance, Social Justice"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following government schemes aims to reduce maternal mortality by promoting institutional deliveries?",
+    "statements": [],
+    "options": [
+      "Janani Suraksha Yojana",
+      "Ayushman Bharat",
+      "Poshan Abhiyan",
+      "Pradhan Mantri Matru Vandana Yojana"
+    ],
+    "correct_option": "Janani Suraksha Yojana",
+    "explanation": "[[Janani Suraksha Yojana]] is a flagship scheme under the [[National Health Mission]] that provides financial incentives to promote institutional deliveries, thereby reducing maternal and infant mortality.",
+    "tags": "Health, Government Schemes, Social Justice"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are part of the 'Three Delays Model' explaining maternal mortality?",
+    "statements": [
+      "Delay in recognizing danger signs and seeking care",
+      "Delay in reaching a health facility",
+      "Delay in receiving adequate care at the facility"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The [[Three Delays Model]] by Deborah Maine identifies three stages where maternal deaths can be prevented: recognizing the need for care, reaching medical facilities in time, and receiving quality care once there.",
+    "tags": "Health, Social Issues, Women Empowerment"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "First Referral Units (FRUs) in India are primarily meant for which of the following?",
+    "statements": [],
+    "options": [
+      "Primary immunization coverage",
+      "Emergency obstetric and newborn care",
+      "Routine health checkups for children",
+      "Screening for non-communicable diseases"
+    ],
+    "correct_option": "Emergency obstetric and newborn care",
+    "explanation": "[[First Referral Units]] are equipped for emergency maternal and newborn care, especially during complications like hemorrhage and obstructed labour. They are crucial for reducing maternal mortality in rural areas.",
+    "tags": "Health, Governance, Public Health Infrastructure"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following about climate-induced displacement in India:",
+    "statements": [
+      "There is a dedicated national law for climate migrants in India.",
+      "Informal labour is a common outcome of displacement.",
+      "CRZ Notification 2019 is often criticized for favoring industry over local communities."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "India lacks a dedicated legal framework for climate migrants. Displaced persons often end up in informal, unregulated jobs. The [[CRZ Notification 2019]] has been criticized for prioritizing commercial development over coastal community welfare.",
+    "tags": "Environment, Disaster Management, Labour"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best defines 'climate-induced displacement'?",
+    "statements": [],
+    "options": [
+      "Forced migration due to political conflict",
+      "Migration triggered by zoonotic disease outbreaks",
+      "Gradual migration caused by environmental degradation and sea-level rise",
+      "Resettlement due to infrastructure development"
+    ],
+    "correct_option": "Gradual migration caused by environmental degradation and sea-level rise",
+    "explanation": "[[Climate-induced displacement]] refers to migration caused by slow-onset events like sea-level rise, saltwater intrusion, and habitat destruction, often affecting coastal and island communities.",
+    "tags": "Environment, Climate Change, Social Justice"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which Sustainable Development Goal (SDG) target relates to ending forced labour and modern slavery?",
+    "statements": [],
+    "options": [
+      "SDG 1.5",
+      "SDG 8.7",
+      "SDG 11.6",
+      "SDG 16.3"
+    ],
+    "correct_option": "SDG 8.7",
+    "explanation": "[[SDG Target 8.7]] aims to eradicate forced labour, end modern slavery and human trafficking. It is especially relevant in the context of informal and vulnerable climate-displaced workers in India.",
+    "tags": "Sustainable Development Goals, Labour, Climate Change"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following about the Aadhaar-voter ID linkage:",
+    "statements": [
+      "It is mandatory as per recent ECI directives.",
+      "It aims to reduce duplication and ensure clean electoral rolls.",
+      "Supreme Court has ruled it unconstitutional."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The [[Aadhaar-voter ID linkage]] is voluntary and not mandatory. It is aimed at cleaning up voter lists by preventing duplication, but concerns regarding privacy and exclusion remain.",
+    "tags": "Polity, Governance, Election Commission"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "What is the role of ASHA workers in reducing maternal mortality in India?",
+    "statements": [
+      "They promote institutional deliveries through awareness.",
+      "They assist in antenatal and postnatal care.",
+      "They conduct surgeries and deliver babies in rural hospitals."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "[[ASHA workers]] are frontline health workers under the NRHM. They promote institutional deliveries, guide antenatal/postnatal care, but do not perform surgeries or deliveries themselves.",
+    "tags": "Health, Governance, Women Empowerment"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following statements is true about the Supreme Court’s role in environmental protection?",
+    "statements": [
+      "The Court has linked environmental rights with Article 21.",
+      "All SC rulings are automatically implemented by executive agencies.",
+      "The Court passed the CRZ Notification in 2019."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The [[Supreme Court]] has played a vital role in interpreting [[Article 21]] to include environmental protection. However, implementation of its rulings depends on executive action. The CRZ notification is issued by the Ministry of Environment.",
+    "tags": "Polity, Environment, Judiciary"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "What is the key purpose of the Integrated Disease Surveillance Programme (IDSP)?",
+    "statements": [],
+    "options": [
+      "Monitoring lifestyle diseases like diabetes",
+      "Tracking zoonotic and infectious disease outbreaks",
+      "Maintaining electronic health records",
+      "Regulating health insurance in rural areas"
+    ],
+    "correct_option": "Tracking zoonotic and infectious disease outbreaks",
+    "explanation": "The [[IDSP]] is a key national program aimed at detecting and responding to outbreaks of infectious and zoonotic diseases. It helps in early warning and containment measures, especially during emergencies like Nipah.",
+    "tags": "Health, Science and Technology, Governance"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best represents the ethical concern in voter verification processes under SIR in Bihar?",
+    "statements": [],
+    "options": [
+      "Verifying only rural voters and ignoring urban areas",
+      "Treating all voters as suspect unless they prove eligibility",
+      "Allowing migrants to vote in multiple constituencies",
+      "Making Aadhaar mandatory for government services"
+    ],
+    "correct_option": "Treating all voters as suspect unless they prove eligibility",
+    "explanation": "The verification drive under SIR has been criticized for violating principles of justice by assuming all voters are ineligible until they furnish documents. This particularly affects the marginalized and the poor, undermining their [[dignity]] and [[universal franchise]].",
+    "tags": "Polity, Ethics, Governance"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "What are the key roles of the Election Commission of India under Article 324?",
+    "statements": [
+      "Conducting free and fair elections",
+      "Supervising electoral roll preparation",
+      "Reviewing Constitutional Amendments",
+      "Regulating political party finances"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Under [[Article 324]], the [[Election Commission of India]] is empowered to conduct elections, supervise the preparation of electoral rolls, and regulate party conduct. Constitutional amendments fall under Parliament’s purview, not the ECI.",
+    "tags": "Polity, Governance, Constitution"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following about zoonotic spillovers:",
+    "statements": [
+      "They involve the transmission of diseases from animals to humans.",
+      "Climate change and habitat destruction increase their frequency.",
+      "They always lead to pandemics."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "[[Zoonotic spillovers]] involve disease transmission from animals to humans. [[Climate change]] and deforestation increase human-wildlife contact, elevating the risk. Not all spillovers become pandemics—some remain localized.",
+    "tags": "Health, Environment, Science and Technology"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which Indian state has consistently reported high MMR and faces healthcare infrastructure challenges?",
+    "statements": [],
+    "options": [
+      "Kerala",
+      "Himachal Pradesh",
+      "Madhya Pradesh",
+      "Punjab"
+    ],
+    "correct_option": "Madhya Pradesh",
+    "explanation": "[[Madhya Pradesh]] has one of the highest Maternal Mortality Ratios (175), attributed to poor health infrastructure, lack of specialists, and weak referral systems, especially in rural and tribal areas.",
+    "tags": "Health, Governance, Social Justice"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "What is the role of Janani Suraksha Yojana (JSY) in reducing maternal mortality?",
+    "statements": [
+      "It provides financial incentives for institutional delivery.",
+      "It ensures free postnatal checkups for all women.",
+      "It supports health insurance coverage for cesarean deliveries.",
+      "It trains rural midwives for home-based deliveries."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 4 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "[[Janani Suraksha Yojana]] is a conditional cash transfer scheme to promote institutional deliveries, especially among poor pregnant women. While it indirectly promotes postnatal care, free checkups are under broader NHM policies.",
+    "tags": "Health, Welfare Schemes, Governance"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following is NOT a function of the National Centre for Disease Control (NCDC)?",
+    "statements": [],
+    "options": [
+      "Monitoring epidemic outbreaks",
+      "Providing biosafety training",
+      "Vaccine manufacturing and licensing",
+      "Supporting state disease surveillance units"
+    ],
+    "correct_option": "Vaccine manufacturing and licensing",
+    "explanation": "The [[NCDC]] is responsible for disease surveillance and response, including training. However, vaccine manufacturing and licensing fall under agencies like ICMR and CDSCO, not NCDC.",
+    "tags": "Health, Science and Technology, Institutions"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "India’s draft One Health framework aims to achieve which of the following?",
+    "statements": [
+      "Integrated surveillance of zoonotic diseases",
+      "Collaboration between human and veterinary sectors",
+      "Legally binding animal trade restrictions across states"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India’s draft [[One Health]] framework promotes multisectoral integration across public health, veterinary, and environmental sectors. It does not include legally binding animal trade restrictions.",
+    "tags": "Health, Environment, Governance"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which legal provisions are invoked during disaster-related displacements in India?",
+    "statements": [
+      "Disaster Management Act, 2005",
+      "Environment Protection Act, 1986",
+      "Forest Conservation Act, 1980",
+      "Protection of Human Rights Act, 1993"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The [[Disaster Management Act, 2005]] and the [[Environment Protection Act, 1986]] are invoked during displacement due to disasters or climate-related risks. Human rights and forest laws may be relevant, but not primary legal tools.",
+    "tags": "Disaster Management, Environment, Governance"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best explains the concept of ‘managed retreat’?",
+    "statements": [],
+    "options": [
+      "Military strategy of strategic withdrawal",
+      "Evacuation of communities due to climate risk, often without consent",
+      "Voluntary resettlement under government housing schemes",
+      "Mass exodus caused by epidemics like COVID-19"
+    ],
+    "correct_option": "Evacuation of communities due to climate risk, often without consent",
+    "explanation": "[[Managed retreat]] refers to planned relocation of people from high-risk zones, such as sinking coastal areas, but is often criticized when done without community participation or consent, making it undemocratic.",
+    "tags": "Environment, Governance, Social Justice"
+  },
+  {
+    "date": "8",
+    "month": "July",
+    "year": "2025",
+    "question": "What does the Kerala model of maternal death review emphasize?",
+    "statements": [
+      "Confidential audits of maternal deaths",
+      "Identifying systemic failures rather than individual blame",
+      "Use of AI tools for delivery assistance",
+      "Public display of hospital ratings based on birth success"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The [[Kerala model]] of maternal death review emphasizes confidential and systemic analysis of causes of maternal mortality to improve public health systems, avoiding individual blame or stigmatization.",
+    "tags": "Health, Governance, Best Practices"
+  }
+]
