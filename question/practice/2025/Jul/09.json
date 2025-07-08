@@ -1,0 +1,607 @@
+[
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are key provisions of the Bharatiya Nyaya Sanhita (BNS), 2023, in relation to speech and expression?",
+    "statements": [
+      "Section 198 deals with promoting enmity between groups",
+      "Section 203 addresses acts intended to outrage religious feelings",
+      "Section 354 criminalizes defamation in the same spirit as IPC 499"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "BNS 2023 restructured provisions from IPC. Section 198 corresponds to IPC 153A, Section 203 to IPC 295A, and Section 354 to IPC 499 (defamation). These sections regulate speech vis-a-vis public order, religion, and reputation.\n\nRefer: [[Bharatiya Nyaya Sanhita]] and [[Freedom of speech in India]]",
+    "tags": "Polity, Governance, Internal Security"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "The Gaza Ceasefire negotiations are being conducted through which of the following?",
+    "statements": [
+      "Direct Israel–Palestine talks in Cairo",
+      "Mediated talks in Doha",
+      "UN-backed ceasefire resolution at Geneva",
+      "Intervention by the International Criminal Court"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "2 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The current ceasefire negotiations are happening indirectly between Hamas and Israel through mediation in Doha by Qatar. The ICC is involved in war crimes charges, not negotiation.\n\nRefer: [[Doha talks]] and [[Israel–Hamas conflict]]",
+    "tags": "International Relations, Internal Security"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best explains the term 'Greenlight Power' in geopolitical context?",
+    "statements": [
+      "It refers to military aid provided by one country to another",
+      "It means tacit approval by powerful countries enabling regional conflicts",
+      "It is a form of veto used by UNSC permanent members",
+      "It describes green energy diplomacy in post-conflict zones"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "4 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "'Greenlight Power' is a term used to describe how great powers indirectly enable regional wars by not intervening or by supplying military and diplomatic support.\n\nE.g., U.S. support for Israel despite humanitarian concerns in Gaza.\n\nRefer: [[Power politics]] and [[Military aid]]",
+    "tags": "International Relations, Ethics, Internal Security"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to the RDI Scheme in India, consider the following statements:",
+    "statements": [
+      "It targets mid-level and advanced technologies above TRL-4",
+      "It seeks to reduce government share in R&D spending by raising private investment",
+      "It provides grants to fundamental research at TRL-1 and TRL-2 levels"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The ₹1-lakh crore RDI scheme supports research from TRL-4 onwards, i.e., mid-maturity technologies. It aims to reduce government’s 70% dominance in R&D spending. It excludes TRL-1 to TRL-3 basic research.\n\nRefer: [[Technology Readiness Level]], [[RDI scheme India]]",
+    "tags": "Science and Technology, Economy"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "In the context of electoral laws in India, which of the following are correctly matched?",
+    "statements": [
+      "Article 324 – Powers of Election Commission",
+      "Section 21, RPA 1950 – Electoral roll revisions",
+      "Section 11A, RPA 1951 – Disqualification for corrupt practices"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three are correctly matched. Article 324 vests powers in ECI, Section 21 of RPA 1950 defines roll revisions, and Section 11A of RPA 1951 covers disqualifications due to corrupt practices.\n\nRefer: [[Representation of the People Act]], [[Election Commission of India]]",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following statements best describe the criticisms of Bihar's Special Intensive Revision (SIR)?",
+    "statements": [
+      "It violates Article 326 by creating additional voter eligibility tests",
+      "It requires widely held IDs like Aadhaar and Voter ID for verification",
+      "It has parallels with NRC in terms of disenfranchisement risk",
+      "It is being implemented under Supreme Court supervision"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "SIR has been criticized for violating universal adult suffrage under Article 326 and showing parallels with NRC in terms of sudden documentation burdens. Widely held IDs like Aadhaar are **not** accepted.\n\nRefer: [[Voter ID laws in India]], [[Universal adult suffrage in India]]",
+    "tags": "Polity, Society, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following regarding the ANRF (Anusandhan National Research Foundation):",
+    "statements": [
+      "It is under the Ministry of Education",
+      "It primarily funds basic science research",
+      "It aims to attract private sector investment in Indian R&D"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "ANRF is an apex research funding body under the Ministry of Science & Technology, not Education. Its focus is on coordination and attracting private capital in R&D. Basic science funding is limited due to the TRL-4+ condition.\n\nRefer: [[Anusandhan National Research Foundation]]",
+    "tags": "Science and Technology, Economy"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are impacts of the Polavaram–Banakacherla Link Project?",
+    "statements": [
+      "Ecological damage to Nallamala forest and tiger reserve",
+      "Excessive energy requirements relative to current generation",
+      "Violation of AP Reorganisation Act, 2014"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three are valid concerns. The 19.5 km tunnel cuts through ecologically sensitive zones, requires 3,377 MW power (vs. 430 MW generation), and bypasses inter-state clearance rules of the AP Reorganisation Act.\n\nRefer: [[Polavaram project]], [[AP Reorganisation Act 2014]]",
+    "tags": "Environment, Polity, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following about the Representation of the People Act, 1950:",
+    "statements": [
+      "Defines 'ordinarily resident' for electoral rolls",
+      "Allows Special Revisions for an entire state at any time",
+      "Mandates January 1 as the qualifying date for revisions"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Section 20 of RPA 1950 defines 'ordinarily resident.' Section 14 mandates January 1 as the qualifying date. Special revisions for **entire states** are not allowed—only specific constituencies, with reasons recorded.\n\nRefer: [[Representation of the People Act, 1950]]",
+    "tags": "Polity, Elections"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which international law is primarily invoked to classify war crimes in the Gaza conflict?",
+    "statements": [
+      "The Geneva Conventions",
+      "Rome Statute of the International Criminal Court",
+      "Vienna Convention on Diplomatic Relations"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Geneva Conventions and Rome Statute govern wartime conduct and define war crimes. Vienna Convention deals with diplomatic immunity, not war crimes.\n\nRefer: [[Geneva Conventions]], [[Rome Statute of the International Criminal Court]]",
+    "tags": "International Relations, Ethics, Internal Security"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to the term 'Technology Readiness Levels (TRL)', consider the following statements:",
+    "statements": [
+      "It is a scale developed by NASA to assess technological maturity",
+      "TRL-4 refers to demonstration of technology in relevant environment",
+      "India's RDI scheme starts funding from TRL-1 level onwards"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "TRL is a NASA-origin scale. TRL-4 refers to lab-based demonstration in relevant settings. India’s RDI scheme only funds technologies from TRL-4 and above, excluding early stages like TRL-1 to TRL-3.\n\nRefer: [[Technology readiness level]]",
+    "tags": "Science and Technology, Economy"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best describe the concept of 'Weaponization of Aid'?",
+    "statements": [
+      "It refers to the use of foreign aid to influence elections in other countries",
+      "It involves using denial or control of food and medicine as tools of war",
+      "It is related to increasing the military component in humanitarian relief operations"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "Weaponization of aid refers to the deliberate use or withholding of humanitarian supplies (food, medicine) to control populations or as part of a military strategy — seen in Gaza where starvation is used as pressure.\n\nRefer: [[Humanitarian aid in war]]",
+    "tags": "Ethics, Internal Security, International Relations"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following is/are true about the Doha Talks in context of the Israel–Palestine conflict?",
+    "statements": [
+      "They are direct negotiations between Israel and Hamas",
+      "Qatar serves as the host and mediator for the talks",
+      "The talks have UN observers present during sessions"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "Doha Talks are **indirect** negotiations between Israel and Hamas with Qatar mediating. There is no official UN observer presence in the current rounds.\n\nRefer: [[Doha Agreement]], [[Qatar mediation]]",
+    "tags": "International Relations, Conflict Resolution"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are reasons for concern regarding India’s current R&D ecosystem?",
+    "statements": [
+      "Overreliance on government funding and limited private participation",
+      "Brain drain of researchers due to lack of autonomy and infrastructure",
+      "Strong academia–industry linkages that overshadow public research"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India’s R&D ecosystem suffers from low private investment and a weak academia–industry linkage. Brain drain persists due to limited autonomy and global-level labs.\n\nRefer: [[Science and technology in India]]",
+    "tags": "Science and Technology, Economy, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "The term 'Votebandi' in the Bihar electoral revision context refers to:",
+    "statements": [
+      "An official voter suppression plan by ECI",
+      "A colloquial term comparing the voter document drive to demonetisation",
+      "A new campaign to remove fake voters",
+      "An electoral reform programme under RPA 1951"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "2 and 3 only",
+      "3 and 4 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "'Votebandi' is a term coined by locals in Bihar comparing the SIR (Special Intensive Revision) to 'notebandi' (demonetisation) due to its sudden, disruptive nature.\n\nRefer: [[Voter ID laws in India]]",
+    "tags": "Polity, Society, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following factors contribute to the failure of mass electoral revision exercises like Bihar’s SIR?",
+    "statements": [
+      "Mismatch between required and widely available documents",
+      "Conducting revision during migration and flood season",
+      "Use of Aadhaar-based digital verification systems with biometric errors"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "SIR failed due to demand for rarely available documents (e.g., land deeds) and poor timing (monsoon and migration season). Aadhaar-linked systems were not used in this revision.\n\nRefer: [[Electoral disenfranchisement in India]]",
+    "tags": "Governance, Elections, Polity"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following river-related projects or laws are correctly matched?",
+    "statements": [
+      "Polavaram Project – Declared a National Project",
+      "AP Reorganisation Act – Requires inter-state clearance for river projects",
+      "Kaleshwaram Project – Approved by Central Water Commission (CWC)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Polavaram is a declared National Project. The AP Reorganisation Act requires approval of river boards. Kaleshwaram was **not fully cleared** by CWC; concerns were raised over inflated water estimates.\n\nRefer: [[Polavaram Project]], [[Kaleshwaram Lift Irrigation Project]]",
+    "tags": "Environment, Polity, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are key ethical concerns related to the denial of anticipatory bail in speech-related offences?",
+    "statements": [
+      "Possibility of pre-trial punishment for expression",
+      "Chilling effect on journalists and cartoonists",
+      "Violation of equality under Article 14"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Denial of anticipatory bail in speech offences can violate due process (Article 21) and equality (Article 14), chilling freedom of speech.\n\nRefer: [[Freedom of speech in India]], [[Anticipatory bail India]]",
+    "tags": "Polity, Ethics, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Under the Representation of the People Act, 1950, which of the following statements are correct?",
+    "statements": [
+      "Section 19 defines voter eligibility",
+      "Section 20 clarifies the meaning of 'ordinarily resident'",
+      "Section 14 sets the qualifying date as July 1 every year"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Section 19 of RPA 1950 defines eligibility (citizen, 18+, resident). Section 20 defines 'ordinarily resident'. Section 14 fixes **January 1**, not July 1, as the qualifying date.\n\nRefer: [[Representation of the People Act, 1950]]",
+    "tags": "Polity, Governance, Elections"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are considered legally binding international laws relevant to war crimes?",
+    "statements": [
+      "Geneva Conventions",
+      "Rome Statute of the International Criminal Court",
+      "Universal Declaration of Human Rights"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Geneva Conventions and Rome Statute are binding treaties. The UDHR, though foundational, is a declaration and not a legally binding treaty.\n\nRefer: [[Geneva Conventions]], [[Rome Statute]], [[UDHR]]",
+    "tags": "International Relations, Human Rights, Ethics"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best explains the role of the International Criminal Court (ICC) in the Gaza conflict?",
+    "statements": [
+      "It can issue arrest warrants for individuals charged with war crimes",
+      "It can enforce ceasefire agreements between warring parties",
+      "It can investigate violations even if the country is not a party to the Rome Statute"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The ICC has power to issue arrest warrants for war crimes. Though enforcement of ceasefires is not its mandate, it can investigate if UNSC refers the case, even if the country is not a party to the Rome Statute.\n\nRefer: [[International Criminal Court]]",
+    "tags": "International Relations, Ethics, Law"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best describes the term 'Hybrid Annuity Model' used in infrastructure projects?",
+    "statements": [
+      "A financing model involving only private investment",
+      "A blend of government and private sector funding with annuity payments",
+      "A subsidy-driven model under state control",
+      "A public-private partnership model used only for roads and highways"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "3 and 4 only",
+      "2 and 4 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The Hybrid Annuity Model (HAM) involves government providing 40% upfront funds and the rest through annuity payments. It blends private investment with state support and is used across sectors including irrigation.\n\nRefer: [[Hybrid Annuity Model (India)]]",
+    "tags": "Economy, Infrastructure, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following actions by the Election Commission can be considered an overreach under Article 324?",
+    "statements": [
+      "Changing the qualifying date for electoral rolls from January 1 to July 1 without amending the law",
+      "Ordering a statewide Special Intensive Revision without legal basis",
+      "Enforcing the Model Code of Conduct during elections"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "While the ECI has wide powers under Article 324, it must operate within statutory limits. Changing the qualifying date or ordering unbacked revisions violates RPA provisions. Enforcing MCC is part of its legitimate powers.\n\nRefer: [[Election Commission of India]], [[Mohinder Singh Gill case]]",
+    "tags": "Polity, Governance, Law"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are true about the AP Reorganisation Act, 2014?",
+    "statements": [
+      "It mandates the formation of River Management Boards for inter-state rivers",
+      "It allows Andhra Pradesh to initiate irrigation projects without Telangana’s consent",
+      "It governs the distribution of assets, liabilities, and resources post bifurcation"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The AP Reorganisation Act created river boards like the Godavari and Krishna River Boards and governs post-bifurcation arrangements. AP cannot unilaterally start major projects without inter-state clearance.\n\nRefer: [[Andhra Pradesh Reorganisation Act, 2014]]",
+    "tags": "Polity, Federalism, Environment"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following statements about Article 19(1)(a) and 19(2) of the Indian Constitution is/are correct?",
+    "statements": [
+      "Article 19(1)(a) guarantees the right to freedom of speech and expression",
+      "Article 19(2) allows reasonable restrictions based on sovereignty, morality, and public order",
+      "These provisions were removed under the Bharatiya Nyaya Sanhita, 2023"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Articles 19(1)(a) and 19(2) remain part of the Constitution and govern speech rights. BNS 2023 does not override constitutional guarantees; it only replaces the IPC.\n\nRefer: [[Article 19 of the Constitution of India]]",
+    "tags": "Polity, Constitution, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following criticisms have been raised against the Polavaram–Banakacherla Link Project?",
+    "statements": [
+      "Lack of reliable hydrological data on surplus Godavari water",
+      "Unclear division of liabilities in hybrid funding model",
+      "Energy requirements far exceed the state’s current generation capacity"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three are valid issues. Water surplus claims lack data, funding accountability is vague, and 3,377 MW energy demand is unsustainable in A.P.’s current situation.\n\nRefer: [[Polavaram project]], [[Godavari river basin]]",
+    "tags": "Environment, Economy, Governance"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following statements are true regarding TRL (Technology Readiness Level)?",
+    "statements": [
+      "TRL-1 involves observation of basic principles",
+      "TRL-7 includes demonstration in an operational environment",
+      "TRL-9 represents a fully deployed and proven technology"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "TRL is a 9-point scale developed by NASA. TRL-1: basic principles observed; TRL-7: prototype demonstration in operational settings; TRL-9: actual system proven in mission conditions.\n\nRefer: [[Technology readiness level]]",
+    "tags": "Science and Technology"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "What legal doctrine was cited in the Mohinder Singh Gill case related to the Election Commission?",
+    "statements": [
+      "Basic Structure Doctrine",
+      "Doctrine of Residual Powers under Article 324",
+      "Separation of Powers Doctrine"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The Mohinder Singh Gill case emphasized that the ECI has residual powers under Article 324 but must adhere to statutory frameworks when laws exist.\n\nRefer: [[Mohinder Singh Gill v. CEC, 1978]]",
+    "tags": "Polity, Governance, Law"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following correctly describe the Special Intensive Revision (SIR) of electoral rolls in Bihar?",
+    "statements": [
+      "It requires documents like land records, caste and matriculation certificates",
+      "It is backed by explicit provisions in the Representation of the People Acts",
+      "It was initiated in violation of the January 1 qualifying date rule"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "SIR requires rare documents like caste certificates and was launched with July 1 as qualifying date — contrary to law. It lacks statutory backing in either RPA 1950 or 1951.\n\nRefer: [[Representation of the People Act, 1950]]",
+    "tags": "Polity, Governance, Elections"
+  },
+  {
+    "date": "9",
+    "month": "July",
+    "year": "2025",
+    "question": "In the context of India’s science and technology policy, which of the following are true?",
+    "statements": [
+      "The Science, Technology, and Innovation Policy (STIP) encourages decentralisation",
+      "ANRF supports both basic and applied research equally",
+      "Startup India primarily promotes entrepreneurship, not basic science"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "STIP promotes decentralisation and private collaboration. ANRF is skewed toward applied research via TRL thresholds. Startup India supports entrepreneurial innovation, not foundational research.\n\nRefer: [[Science, Technology and Innovation Policy (India)]]",
+    "tags": "Science and Technology, Economy, Governance"
+  }
+]
