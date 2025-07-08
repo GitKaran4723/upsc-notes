@@ -2,60 +2,68 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>UPSC Mains PYQs - Subjects</title>
     <script src="https://cdn.tailwindcss.com"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/syllabus.css">
+    <link rel="stylesheet" href="css/news.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
-<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900 min-h-screen p-6">
+<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900 relative overflow-x-hidden">
+
     <!-- Header -->
     <header class="bg-gray-900 text-white flex justify-between items-center p-4 sticky top-0 z-50 shadow-md">
-        <h1 class="text-xl font-bold tracking-wide">UPSC Mains PYQs</h1>
+        <h1 class="text-xl font-bold tracking-wide">UPSC Mains - Previous Year Questions (PYQs)</h1>
         <a href="/upsc-notes/" class="text-sm hover:text-yellow-300">Back to Home</a>
     </header>
 
     <!-- Overview -->
     <section class="py-6 px-4 bg-yellow-100 text-center">
-        <h2 class="text-2xl font-semibold text-yellow-800">Select a Subject</h2>
+        <h2 class="text-2xl font-semibold text-yellow-800">Master the Mains. Conquer the Future.</h2>
         <p class="max-w-3xl mx-auto mt-2 text-sm text-gray-700">
-            Explore <strong>Mains</strong> previous year questions categorized by subject.
-            Click a subject to view its questions.
+            Explore subject-wise <strong>PYQs</strong> from previous UPSC Mains papers. Click on a subject to dive into detailed questions and their answer structures.
         </p>
     </section>
 
     <!-- Subjects Grid -->
     <section class="p-6">
+        <h3 class="text-xl font-semibold mb-6 text-center text-gray-800">📘 Choose a Subject to Explore</h3>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 text-center max-w-6xl mx-auto">
-            <a href="rendermains.html?subject=english" class="block bg-white p-4 rounded-xl shadow hover:shadow-md border border-yellow-300 hover:bg-yellow-50 transition">
-                <div class="text-lg font-semibold text-blue-800">English</div>
+            <a href="rendermains.html?subject=english" class="block bg-white p-4 rounded-2xl shadow-xl border-2 border-yellow-300 hover:bg-yellow-50 transition">
+                <div class="text-lg font-semibold text-blue-800"><i class="fa-solid fa-language mr-2 text-yellow-600"></i>English</div>
             </a>
-            <a href="rendermains.html?subject=kannada" class="block bg-white p-4 rounded-xl shadow hover:shadow-md border border-yellow-300 hover:bg-yellow-50 transition">
-                <div class="text-lg font-semibold text-blue-800">Kannada</div>
+            <a href="rendermains.html?subject=kannada" class="block bg-white p-4 rounded-2xl shadow-xl border-2 border-yellow-300 hover:bg-yellow-50 transition">
+                <div class="text-lg font-semibold text-blue-800"><i class="fa-solid fa-language mr-2 text-green-600"></i>Kannada</div>
             </a>
-            <a href="rendermains.html?subject=essay" class="block bg-white p-4 rounded-xl shadow hover:shadow-md border border-yellow-300 hover:bg-yellow-50 transition">
-                <div class="text-lg font-semibold text-blue-800">Essay</div>
+            <a href="rendermains.html?subject=essay" class="block bg-white p-4 rounded-2xl shadow-xl border-2 border-yellow-300 hover:bg-yellow-50 transition">
+                <div class="text-lg font-semibold text-blue-800"><i class="fa-solid fa-pen-nib mr-2 text-pink-600"></i>Essay</div>
             </a>
-            <a href="rendermains.html?subject=gs1" class="block bg-white p-4 rounded-xl shadow hover:shadow-md border border-yellow-300 hover:bg-yellow-50 transition">
-                <div class="text-lg font-semibold text-blue-800">GS Paper 1</div>
+            <a href="rendermains.html?subject=gs1" class="block bg-white p-4 rounded-2xl shadow-xl border-2 border-yellow-300 hover:bg-yellow-50 transition">
+                <div class="text-lg font-semibold text-blue-800"><i class="fa-solid fa-book mr-2 text-blue-600"></i>GS Paper 1</div>
             </a>
-            <a href="rendermains.html?subject=gs2" class="block bg-white p-4 rounded-xl shadow hover:shadow-md border border-yellow-300 hover:bg-yellow-50 transition">
-                <div class="text-lg font-semibold text-blue-800">GS Paper 2</div>
+            <a href="rendermains.html?subject=gs2" class="block bg-white p-4 rounded-2xl shadow-xl border-2 border-yellow-300 hover:bg-yellow-50 transition">
+                <div class="text-lg font-semibold text-blue-800"><i class="fa-solid fa-scale-balanced mr-2 text-red-600"></i>GS Paper 2</div>
             </a>
-            <a href="rendermains.html?subject=gs3" class="block bg-white p-4 rounded-xl shadow hover:shadow-md border border-yellow-300 hover:bg-yellow-50 transition">
-                <div class="text-lg font-semibold text-blue-800">GS Paper 3</div>
+            <a href="rendermains.html?subject=gs3" class="block bg-white p-4 rounded-2xl shadow-xl border-2 border-yellow-300 hover:bg-yellow-50 transition">
+                <div class="text-lg font-semibold text-blue-800"><i class="fa-solid fa-gears mr-2 text-indigo-600"></i>GS Paper 3</div>
             </a>
-            <a href="rendermains.html?subject=gs4" class="block bg-white p-4 rounded-xl shadow hover:shadow-md border border-yellow-300 hover:bg-yellow-50 transition">
-                <div class="text-lg font-semibold text-blue-800">GS Paper 4</div>
+            <a href="rendermains.html?subject=gs4" class="block bg-white p-4 rounded-2xl shadow-xl border-2 border-yellow-300 hover:bg-yellow-50 transition">
+                <div class="text-lg font-semibold text-blue-800"><i class="fa-solid fa-brain mr-2 text-purple-600"></i>GS Paper 4</div>
             </a>
-            <a href="rendermains.html?subject=agri1" class="block bg-white p-4 rounded-xl shadow hover:shadow-md border border-yellow-300 hover:bg-yellow-50 transition">
-                <div class="text-lg font-semibold text-blue-800">Agriculture Paper 1</div>
+            <a href="rendermains.html?subject=agri1" class="block bg-white p-4 rounded-2xl shadow-xl border-2 border-yellow-300 hover:bg-yellow-50 transition">
+                <div class="text-lg font-semibold text-blue-800"><i class="fa-solid fa-seedling mr-2 text-green-700"></i>Agriculture Paper 1</div>
             </a>
-            <a href="rendermains.html?subject=agri2" class="block bg-white p-4 rounded-xl shadow hover:shadow-md border border-yellow-300 hover:bg-yellow-50 transition">
-                <div class="text-lg font-semibold text-blue-800">Agriculture Paper 2</div>
+            <a href="rendermains.html?subject=agri2" class="block bg-white p-4 rounded-2xl shadow-xl border-2 border-yellow-300 hover:bg-yellow-50 transition">
+                <div class="text-lg font-semibold text-blue-800"><i class="fa-solid fa-leaf mr-2 text-lime-600"></i>Agriculture Paper 2</div>
             </a>
         </div>
     </section>
+
 </body>
 
 </html>
