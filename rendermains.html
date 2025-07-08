@@ -46,6 +46,10 @@
     <script>
         let jsonData = [];
 
+        let subjectMapping = {
+            'gs2' : 'Genaral Studies 2'
+        }
+
         function getSubjectFromURL() {
             const urlParams = new URLSearchParams(window.location.search);
             return urlParams.get('subject') || 'gs2';
@@ -55,8 +59,23 @@
             const subject = getSubjectFromURL();
             const fileName = `/question/mains/${subject}.json`;
 
+            const subjectMapping = {
+                'gs1': 'General Studies 1',
+                'gs2': 'General Studies 2',
+                'gs3': 'General Studies 3',
+                'gs4': 'General Studies 4',
+                'essay': 'Essay',
+                'english': 'English',
+                'kannada': 'Kannada',
+                'agri1': 'Agriculture Paper 1',
+                'agri2': 'Agriculture Paper 2'
+            };
+            
+            const displayName = subjectMapping[subject] || subject.toUpperCase();
+
+
             document.getElementById('pageTitle').innerText = `${subject.toUpperCase()} Questions Viewer`;
-            document.getElementById('headingTitle').innerText = `${subject.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())} Questions`;
+            document.getElementById('headingTitle').innerText = `UPSC Mains PYQs - ${displayName} Questions`;
             document.getElementById('loader').classList.remove('hidden');
 
             try {
