@@ -1,0 +1,965 @@
+[
+  {
+    "question_number": 1,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Polity",
+    "question": "Examine the need for electoral reforms as suggested by various committees with particular reference to 'one nation – one election' principle.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": ["electoral reforms", "committees", "one nation one election"],
+    "directive": "Examine",
+    "topics_to_be_studied": [
+      "Meaning and need for electoral reforms",
+      "Issues in current electoral system: frequent elections, MCC impact, expenses, governance disruption",
+      "Concept of One Nation, One Election",
+      "Law Commission Reports (170th Report)",
+      "NITI Aayog proposal on simultaneous elections",
+      "Recommendations by Election Commission of India (ECI)",
+      "Punchhi Commission on Centre-State relations and elections",
+      "Challenges to implementation: constitutional, logistical, federal concerns",
+      "Case studies from Indian states or global examples (e.g., South Africa)"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Chapter on Election Commission",
+      "PRS India Reports on Electoral Reforms",
+      "Law Commission of India – 170th Report",
+      "NITI Aayog Discussion Paper on Simultaneous Elections",
+      "ARC Reports and Yojana/Kurukshetra articles"
+    ],
+    "answer_framework": {
+      "intro": "Briefly introduce the issue of frequent elections and need for reform.",
+      "body": {
+        "part1": "Challenges due to current electoral cycle: cost, MCC, governance lag",
+        "part2": "Key committee recommendations (Law Commission, NITI Aayog, ECI)",
+        "part3": "Arguments for and against One Nation – One Election principle"
+      },
+      "conclusion": "Reforms are essential for stability and cost-effectiveness, but require political consensus and constitutional amendments."
+    },
+    "linked_current_issues": [
+      "2023 Committee chaired by Ram Nath Kovind on One Nation One Election",
+      "2024 General Elections cost debates",
+      "Model Code of Conduct-related governance halts"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 2,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Polity",
+    "question": "Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases?",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "Lok Adalat",
+      "Arbitration Tribunal",
+      "civil cases",
+      "criminal cases",
+      "difference"
+    ],
+    "directive": "Explain and distinguish",
+    "topics_to_be_studied": [
+      "Lok Adalat: Legal Services Authorities Act, 1987",
+      "Jurisdiction, procedure, nature of cases handled by Lok Adalats",
+      "Types of cases Lok Adalat handles: civil, compoundable criminal, pre-litigation",
+      "Arbitration Tribunals: Arbitration and Conciliation Act, 1996",
+      "Voluntary arbitration, binding decisions, private dispute resolution",
+      "Key differences: legal status, formality, enforceability, scope",
+      "Recent case studies and NALSA statistics"
+    ],
+    "sources": [
+      "Indian Polity by M. Laxmikanth – Chapter on Judiciary and Alternate Dispute Redressal (ADR)",
+      "Legal Services Authorities Act, 1987",
+      "Arbitration and Conciliation Act, 1996",
+      "PRS India Brief on ADR mechanisms",
+      "NALSA official website for Lok Adalat data"
+    ],
+    "answer_framework": {
+      "intro": "Brief introduction to Alternate Dispute Resolution (ADR) mechanisms in India.",
+      "body": {
+        "part1": "Define Lok Adalats and Arbitration Tribunals with relevant legal backing",
+        "part2": "Key differences in composition, procedure, legal enforceability, types of cases",
+        "part3": "Clarify scope: Lok Adalat handles civil + compoundable criminal; Arbitration only civil/commercial disputes"
+      },
+      "conclusion": "Both play complementary roles in reducing court burden, but differ significantly in structure and jurisdiction."
+    },
+    "linked_current_issues": [
+      "Recent National Lok Adalat settlements and data from 2023–24",
+      "NITI Aayog emphasis on arbitration for business ease"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 3,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Polity",
+    "question": "“The growth of cabinet system has practically resulted in the marginalisation of the parliamentary supremacy.” Elucidate.",
+    "marks": 10,
+    "level": "Difficult",
+    "keywords": [
+      "cabinet system",
+      "parliamentary supremacy",
+      "marginalisation"
+    ],
+    "directive": "Elucidate",
+    "topics_to_be_studied": [
+      "Parliamentary system of government in India (Articles 74–75)",
+      "Role and powers of Cabinet in parliamentary democracy",
+      "Concept of collective responsibility",
+      "Parliamentary sovereignty vs executive dominance",
+      "Functioning of the legislature: Question Hour, Debates, No Confidence Motions",
+      "Decline in legislative scrutiny and ordinances",
+      "Role of PMO and Cabinet Committees",
+      "Judicial observations on parliamentary role and executive accountability"
+    ],
+    "sources": [
+      "Indian Polity by M. Laxmikanth – Chapter on Parliament and Cabinet System",
+      "2nd ARC Report on Ethics in Governance",
+      "PRS India Reports on Parliamentary Performance",
+      "Editorials from The Hindu, Indian Express on Executive dominance",
+      "Constitution of India – Articles 74, 75, 77"
+    ],
+    "answer_framework": {
+      "intro": "Define the Cabinet system and its constitutional positioning in Indian polity.",
+      "body": {
+        "part1": "Explain how Cabinet exercises real executive power; Parliament is often seen as a forum for ratification",
+        "part2": "Illustrate with examples: Ordinances, reduced sessions, limited debate, PMO centralisation",
+        "part3": "Mention loss of legislative supremacy in practical terms (not legal terms)"
+      },
+      "conclusion": "Restoring balance requires stronger committees, robust debate, and enhanced legislative oversight."
+    },
+    "linked_current_issues": [
+      "Frequent use of ordinances bypassing Parliament",
+      "Low number of parliamentary sittings in recent years",
+      "2022–24 debates on PMO centralization"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 4,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Polity",
+    "question": "“The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.” Comment.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "Comptroller and Auditor General",
+      "legality",
+      "propriety",
+      "expenditure",
+      "audit"
+    ],
+    "directive": "Comment",
+    "topics_to_be_studied": [
+      "Article 148 to 151 – Role and powers of CAG",
+      "Legal audit vs Propriety audit",
+      "Difference between legality (as per rules/law) and propriety (wisdom, fairness, public interest)",
+      "Examples of CAG reports (e.g., 2G, coal block allocations)",
+      "CAG's role in accountability and good governance",
+      "Limitations and criticisms of CAG audits"
+    ],
+    "sources": [
+      "Indian Polity by M. Laxmikanth – Chapter on CAG",
+      "CAG India official website – Audit reports and FAQs",
+      "2nd ARC Report on Ethics in Governance",
+      "Yojana/Kurukshetra articles on financial accountability",
+      "Vision IAS / ForumIAS value-added material on audit institutions"
+    ],
+    "answer_framework": {
+      "intro": "State the constitutional role of the CAG in India’s financial accountability framework.",
+      "body": {
+        "part1": "Explain legality of expenditure: whether as per sanctioned rules",
+        "part2": "Explain propriety: whether the expenditure was necessary, wise, and justifiable",
+        "part3": "Use examples where expenditure was legal but lacked propriety (e.g., extravagant spending, under-utilised assets)"
+      },
+      "conclusion": "CAG’s dual role in legality and propriety strengthens fiscal discipline and ensures public money is spent wisely."
+    },
+    "linked_current_issues": [
+      "Recent CAG audit reports on state/central schemes (2022–2024)",
+      "CAG observations on underutilisation of MPLADS or CSR funds"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 5,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Governance",
+    "question": "Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons merging the rural local bodies with the urban local bodies.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "local bodies",
+      "good governance",
+      "rural local bodies",
+      "urban local bodies",
+      "merging",
+      "pros and cons"
+    ],
+    "directive": "Analyse and bring out",
+    "topics_to_be_studied": [
+      "73rd and 74th Constitutional Amendments",
+      "Structure and functions of PRIs and ULBs",
+      "Principles of good governance at local level (transparency, accountability, responsiveness)",
+      "Case studies: Kerala (Panchayat), Bengaluru (BBMP structure), Delhi urban planning",
+      "Concept and feasibility of rural–urban body merger",
+      "Examples from metropolitan regions where peri-urban and rural overlap",
+      "Challenges: capacity, planning conflicts, representation, fund devolution"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Chapters on Panchayati Raj and Urban Local Bodies",
+      "2nd ARC Report – Local Governance",
+      "NITI Aayog and MoPR documents",
+      "Yojana and Kurukshetra magazine issues on decentralisation",
+      "Ministry of Panchayati Raj & Ministry of Housing and Urban Affairs websites"
+    ],
+    "answer_framework": {
+      "intro": "Highlight the constitutional status of local bodies post-73rd and 74th Amendments as vehicles of grassroots governance.",
+      "body": {
+        "part1": "Explain how local bodies ensure good governance: citizen participation, service delivery, accountability",
+        "part2": "Discuss potential benefits of merging: unified planning, better resource use, rural–urban continuum",
+        "part3": "List drawbacks: governance complexity, loss of identity, bureaucratic overload, representation issues"
+      },
+      "conclusion": "Balanced approach needed — promote integration where viable while respecting functional specialisation of rural and urban needs."
+    },
+    "linked_current_issues": [
+      "Smart Cities vs Gram Panchayat resource allocation debates",
+      "Urban expansion into rural peripheries (e.g., Gurugram, Bengaluru outskirts)",
+      "Digitalisation of local governance – eGramSwaraj, SBM Urban vs Rural"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 6,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Governance",
+    "question": "Public charitable trusts have the potential to make India’s development more inclusive as they relate to certain vital public issues. Comment.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "public charitable trusts",
+      "inclusive development",
+      "public issues"
+    ],
+    "directive": "Comment",
+    "topics_to_be_studied": [
+      "Definition and legal status of public charitable trusts",
+      "Role in delivering social services: education, health, livelihood",
+      "Contribution to inclusive development (reaching marginalized sections)",
+      "Examples of prominent public trusts (e.g., Tata Trusts, Azim Premji Foundation)",
+      "Challenges: regulatory oversight, transparency, accountability",
+      "Relation to Article 19(1)(c) and CSR under Companies Act"
+    ],
+    "sources": [
+      "Ministry of Corporate Affairs – CSR Policy guidelines",
+      "Trusts Act and Societies Registration Act overview",
+      "NITI Aayog reports on NGO and civil society contributions",
+      "Yojana/Kurukshetra articles on inclusive development",
+      "Relevant editorials or PRS policy briefs"
+    ],
+    "answer_framework": {
+      "intro": "Introduce the concept of public charitable trusts as non-profit entities working for public welfare.",
+      "body": {
+        "part1": "Explain their contributions to inclusive growth: targeting underprivileged communities, supplementing govt efforts",
+        "part2": "Mention how they address vital issues: education, health, environment, gender equality",
+        "part3": "Discuss challenges and need for regulation to enhance credibility and impact"
+      },
+      "conclusion": "With proper support and transparency, public trusts can be vital partners in India’s inclusive development journey."
+    },
+    "linked_current_issues": [
+      "Debates around FCRA regulation and transparency of NGOs",
+      "CSR initiatives of large public/private trusts during COVID-19",
+      "Digital public goods and philanthropy-led interventions in rural education"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 7,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Social Justice",
+    "question": "Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle?",
+    "marks": 10,
+    "level": "Easy to Moderate",
+    "keywords": [
+      "poverty",
+      "malnutrition",
+      "vicious cycle",
+      "human capital formation",
+      "steps"
+    ],
+    "directive": "What steps can be taken",
+    "topics_to_be_studied": [
+      "Causes and impact of poverty and malnutrition",
+      "Human capital: health, education, skill development",
+      "Intergenerational cycle of deprivation",
+      "POSHAN Abhiyaan and ICDS",
+      "Mid-Day Meal / PM POSHAN",
+      "Ayushman Bharat and public health schemes",
+      "Skilling initiatives like PMKVY",
+      "Cash transfers, DBT and MGNREGA",
+      "NITI Aayog recommendations on nutrition and education"
+    ],
+    "sources": [
+      "NCERT Class 11 Economics – Human Capital Formation",
+      "PIB – Ministry of Women and Child Development",
+      "India Year Book – Social Sector",
+      "Economic Survey – Social Sector Chapter",
+      "Yojana / Kurukshetra articles on Nutrition and Poverty Alleviation"
+    ],
+    "answer_framework": {
+      "intro": "Explain the vicious cycle: poverty leads to malnutrition which impairs learning and productivity, reinforcing poverty.",
+      "body": {
+        "part1": "Government interventions in nutrition (POSHAN, ICDS), education (PM SHRI, NEP), and healthcare (Ayushman Bharat)",
+        "part2": "Employment and income support (MGNREGA, DBT, Self Help Groups)",
+        "part3": "Convergent and decentralised delivery of welfare services"
+      },
+      "conclusion": "A multi-sectoral, sustained effort is essential to break the intergenerational cycle and boost India’s human capital."
+    },
+    "linked_current_issues": [
+      "NFHS-5 data on child and maternal nutrition",
+      "NITI Aayog SDG India Index",
+      "Global Hunger Index controversy and India's response"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 8,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Governance",
+    "question": "The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "Democratic Governance",
+      "civil servants",
+      "integrity",
+      "public perception",
+      "commitment"
+    ],
+    "directive": "Discuss",
+    "topics_to_be_studied": [
+      "Doctrine of Democratic Governance",
+      "Role of civil services in a democracy",
+      "Ethical values in public administration: integrity, impartiality, commitment",
+      "Citizen–government relationship and trust",
+      "Reforms in civil services: performance appraisal, lateral entry, code of conduct",
+      "Accountability mechanisms: RTI, Lokpal, citizen charters"
+    ],
+    "sources": [
+      "2nd ARC Report on Ethics in Governance",
+      "Indian Polity by M. Laxmikanth – Civil Services chapter",
+      "Reports from Department of Administrative Reforms (DARPG)",
+      "Vision/Forum value-added notes on Governance",
+      "Yojana/Kurukshetra on public service ethics"
+    ],
+    "answer_framework": {
+      "intro": "Define democratic governance and the importance of trust in civil services.",
+      "body": {
+        "part1": "Why civil servant integrity and commitment matter: public trust, policy execution, responsiveness",
+        "part2": "How perception influences governance legitimacy",
+        "part3": "Steps needed: ethical training, transparent performance review, public interface, whistleblower protection"
+      },
+      "conclusion": "In a democracy, public perception is not just reflective but constitutive of legitimacy—making civil service integrity foundational to good governance."
+    },
+    "linked_current_issues": [
+      "Discussions on lateral entry and bureaucratic reform",
+      "Cases of misconduct and media scrutiny of officials",
+      "Citizen surveys on trust in government institutions"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 9,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "International Relations",
+    "question": "‘The West is fostering India as an alternative to reduce dependence on China’s supply chain and as a strategic ally to counter China’s political and economic dominance.’ Explain this statement with examples.",
+    "marks": 10,
+    "level": "Moderate to Difficult",
+    "keywords": [
+      "India",
+      "China",
+      "supply chain",
+      "strategic ally",
+      "West",
+      "geopolitics",
+      "economic dominance"
+    ],
+    "directive": "Explain",
+    "topics_to_be_studied": [
+      "India–China–US strategic triangle",
+      "Quad (India, US, Japan, Australia) and Indo-Pacific policy",
+      "China Plus One strategy by Western nations",
+      "India’s role in global supply chain resilience",
+      "Technology partnerships (e.g., semiconductors, defence, AI)",
+      "FTA negotiations and trade realignments post-COVID",
+      "India's Act East and Neighbourhood First policies"
+    ],
+    "sources": [
+      "MEA Annual Reports",
+      "PIB releases on QUAD, iCET, and FTAs",
+      "Yojana articles on Foreign Policy and Indo-Pacific",
+      "The Hindu / Indian Express international editorial analysis",
+      "IDSA and ORF commentaries on strategic autonomy"
+    ],
+    "answer_framework": {
+      "intro": "Mention the shifting global geopolitical dynamics post-COVID and increasing distrust toward China’s trade monopoly.",
+      "body": {
+        "part1": "India as a democratic, stable alternative to Chinese manufacturing – 'China Plus One' strategy",
+        "part2": "Strategic alignments: QUAD, Indo-Pacific, iCET (with US), EU-India ties",
+        "part3": "Examples: Apple shifting assembly to India, India–EU Trade talks, defence cooperation with France/USA"
+      },
+      "conclusion": "India's rise as a trusted global partner complements its strategic autonomy and economic diplomacy goals."
+    },
+    "linked_current_issues": [
+      "QUAD initiatives on supply chain resilience",
+      "India–US iCET agreement and semiconductor cooperation",
+      "2023 Apple iPhone manufacturing shift to India"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 10,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "International Relations",
+    "question": "Critically analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics.",
+    "marks": 10,
+    "level": "Moderate to Difficult",
+    "keywords": [
+      "Central Asian Republics",
+      "India-CARs relations",
+      "diplomacy",
+      "strategy",
+      "geopolitics",
+      "regional importance"
+    ],
+    "directive": "Critically analyse",
+    "topics_to_be_studied": [
+      "India's Connect Central Asia Policy (2012)",
+      "India-Central Asia Dialogue mechanisms",
+      "Chabahar Port and INSTC (International North–South Transport Corridor)",
+      "Energy ties and civilizational links",
+      "CARs’ strategic position near Afghanistan, Iran, Russia, China",
+      "Challenges: China’s BRI dominance, lack of direct connectivity",
+      "Geopolitical significance: SCO, Taliban-Afghan issue, counter-terrorism"
+    ],
+    "sources": [
+      "MEA website – Central Asia Division",
+      "IDSA/ORF analyses on India–CAR relations",
+      "PIB releases on India–Central Asia Summits",
+      "Yojana / Kurukshetra articles on Neighbourhood and Extended Neighbourhood",
+      "International Relations textbooks – India’s Foreign Policy"
+    ],
+    "answer_framework": {
+      "intro": "Introduce CARs’ importance as India's extended neighbourhood with rising strategic value.",
+      "body": {
+        "part1": "Diplomatic: high-level visits, India–Central Asia Dialogue, SCO platform",
+        "part2": "Economic: trade via INSTC, energy partnerships (oil/gas pipelines)",
+        "part3": "Strategic: counter-terrorism cooperation, security balancing against China’s BRI, soft power",
+        "part4": "Challenges: China’s deep economic presence, connectivity limitations"
+      },
+      "conclusion": "India’s multi-vector engagement with CARs must be intensified to secure regional balance and energy interests amid evolving global geopolitics."
+    },
+    "linked_current_issues": [
+      "India–Central Asia Dialogue 2023–24",
+      "SCO summit outcomes and regional security",
+      "Increased India–Iran–Russia cooperation on INSTC"
+    ],
+    "word_limit": 150
+  },
+  {
+    "question_number": 11,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Governance",
+    "question": "What are the aims and objects of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act?",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "Public Examination Act 2024",
+      "unfair means",
+      "education reform",
+      "university exams",
+      "state board exams"
+    ],
+    "directive": "Explain",
+    "topics_to_be_studied": [
+      "Salient features of Public Examination (Prevention of Unfair Means) Act, 2024",
+      "Aims: prevent leaks, impersonation, unfair practices",
+      "Scope of the Act: competitive exams (UPSC, SSC, etc.)",
+      "Penalties and legal provisions under the Act",
+      "Responsibility of service providers, officials",
+      "Ambit of coverage: whether it includes university/state board exams",
+      "Education governance and examination integrity"
+    ],
+    "sources": [
+      "Ministry of Education – Press Information Bureau (PIB) brief",
+      "Text of the Public Examination Act, 2024",
+      "PRS India Bill Summary",
+      "Editorials in The Hindu / Indian Express",
+      "Rajya Sabha TV Debates / Sansad TV Analysis"
+    ],
+    "answer_framework": {
+      "intro": "Mention the increasing instances of exam leaks and the need for a legal framework to curb unfair means.",
+      "body": {
+        "part1": "Aims and objects of the Act: ensure exam integrity, prevent organized cheating, protect aspirants’ future",
+        "part2": "Key provisions: offences defined, criminal penalties, institutional accountability",
+        "part3": "Clarify scope – covers central public examinations, not university or state boards unless notified separately"
+      },
+      "conclusion": "The Act is a step towards transparent governance and safeguarding meritocracy in public recruitment; states and universities may need aligned frameworks."
+    },
+    "linked_current_issues": [
+      "Paper leaks in SSC and other public recruitment exams",
+      "Demand to expand coverage to state board and university exams",
+      "Debate on centralisation vs state autonomy in education governance"
+    ],
+    "word_limit": 250
+  },
+  {
+    "question_number": 12,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Polity",
+    "question": "Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of child in the womb to establish its paternity.",
+    "marks": 15,
+    "level": "Difficult",
+    "keywords": [
+      "right to privacy",
+      "Article 21",
+      "personal liberty",
+      "DNA testing",
+      "paternity",
+      "foetus",
+      "constitutional law"
+    ],
+    "directive": "Explain and discuss",
+    "topics_to_be_studied": [
+      "Article 21: Protection of life and personal liberty",
+      "Justice K.S. Puttaswamy v. Union of India (2017) – Right to Privacy as a fundamental right",
+      "Medical Termination of Pregnancy Act (in context)",
+      "Guidelines and restrictions on prenatal testing (Pre-Conception and Pre-Natal Diagnostic Techniques Act, 1994)",
+      "Supreme Court judgments on forced DNA testing and privacy infringement",
+      "Balancing privacy vs state interest in justice and paternity disputes",
+      "Consent and bodily autonomy in prenatal cases"
+    ],
+    "sources": [
+      "Constitution of India – Article 21",
+      "Landmark judgments: K.S. Puttaswamy (2017), Goutam Kundu v. State of West Bengal (1993), Rohit Shekhar v. Narayan Dutt Tiwari",
+      "PRS India – Privacy Law and DNA Testing analysis",
+      "The Hindu / Indian Express – Editorials on bodily autonomy and reproductive rights",
+      "Law Commission Reports (relevant excerpts)"
+    ],
+    "answer_framework": {
+      "intro": "Define Article 21 and its expansion through judicial interpretation to include the right to privacy.",
+      "body": {
+        "part1": "Explain the significance of privacy in personal bodily decisions and medical information, citing Puttaswamy judgment",
+        "part2": "Discuss DNA testing in the womb – legal and ethical dimensions, role of consent, medical and judicial safeguards",
+        "part3": "Mention balancing act between individual rights and legitimate state interest in paternity disputes"
+      },
+      "conclusion": "While DNA testing may serve justice in certain contexts, it must be pursued within the framework of dignity, privacy, and informed consent to uphold constitutional values."
+    },
+    "linked_current_issues": [
+      "Supreme Court rulings on DNA tests and marital disputes",
+      "Debate on right to bodily autonomy and state intrusion",
+      "Delayed legislation on privacy/data protection"
+    ],
+    "word_limit": 250
+  },
+  {
+    "question_number": 13,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Polity",
+    "question": "What changes has the Union Government recently introduced in the domain of Centre–State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "Centre-State relations",
+      "federalism",
+      "Union Government",
+      "trust",
+      "cooperative federalism",
+      "constitutional mechanisms"
+    ],
+    "directive": "Suggest and Explain",
+    "topics_to_be_studied": [
+      "Article 245–263: Distribution of powers (legislative, administrative, financial)",
+      "Recent trends: Centralised policy imposition, GST compensation delay, NEP implementation disputes",
+      "Role of Inter-State Council, Zonal Councils, NITI Aayog",
+      "Debates on Governor’s role and Article 356",
+      "Principles of cooperative and competitive federalism",
+      "Finance Commission recommendations",
+      "Supreme Court judgments on state autonomy"
+    ],
+    "sources": [
+      "Indian Polity by M. Laxmikanth – Centre-State Relations",
+      "2nd ARC Report – Centre-State Relations",
+      "NITI Aayog reports on federalism",
+      "The Hindu / Indian Express – editorials on GST disputes, language policy, Governor controversies",
+      "Yojana issues on federalism and governance"
+    ],
+    "answer_framework": {
+      "intro": "India’s quasi-federal structure demands a dynamic balance between Union and States to ensure smooth governance.",
+      "body": {
+        "part1": "Recent changes: GST regime centralisation, fiscal transfers, national schemes overriding state autonomy",
+        "part2": "Trust issues: unilateral policy decisions, under-utilisation of Inter-State Council, politicisation of Governor’s office",
+        "part3": "Suggestions: strengthen fiscal federalism, regular ISC meetings, consensus-building mechanisms, code of conduct for Governors, decentralised planning"
+      },
+      "conclusion": "A truly cooperative federal model is vital for democratic deepening and inclusive development across diverse regions."
+    },
+    "linked_current_issues": [
+      "GST compensation delays",
+      "NEP 2020 language disputes",
+      "Tamil Nadu and Kerala Governor controversies",
+      "Debates on 16th Finance Commission and fiscal centralisation"
+    ],
+    "word_limit": 250
+  },
+  {
+    "question_number": 14,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Polity",
+    "question": "Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world’s most powerful judiciary?",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "public interest litigation",
+      "PIL",
+      "Supreme Court",
+      "judicial activism",
+      "constitutional remedies",
+      "access to justice"
+    ],
+    "directive": "Explain",
+    "topics_to_be_studied": [
+      "Concept and origin of PIL in India – Hussainara Khatoon case, 1980s",
+      "Expansion of Article 32 and 226 powers",
+      "Judicial activism vs judicial overreach",
+      "Growth of PIL due to civil society involvement, corruption, environmental concerns, human rights",
+      "Supreme Court’s role as policy influencer and social justice facilitator",
+      "Global comparison – limited jurisdiction in UK/US vs India’s expansive role"
+    ],
+    "sources": [
+      "Indian Polity by M. Laxmikanth – Supreme Court and PIL section",
+      "Landmark judgments: Vishaka case, MC Mehta, Olga Tellis",
+      "The Hindu / Indian Express – judicial activism editorials",
+      "Law Commission reports",
+      "2nd ARC Report – Ethics and Governance"
+    ],
+    "answer_framework": {
+      "intro": "Define PIL as an instrument for ensuring justice to voiceless sections through judicial intervention.",
+      "body": {
+        "part1": "Reasons for PIL growth: public spirited citizens, NGO involvement, media influence, accessible legal procedures",
+        "part2": "Impact on Indian judiciary: enhanced public trust, expanded reach, strong enforcement capacity",
+        "part3": "Compare with global courts – SC’s wide jurisdiction and suo motu powers"
+      },
+      "conclusion": "While the SC’s activism through PIL has strengthened its authority, balance is needed to avoid judicial overreach and uphold constitutional sanctity."
+    },
+    "linked_current_issues": [
+      "Debates on judicial overreach",
+      "Suo motu PILs during COVID-19 lockdown",
+      "Environmental and social justice PILs in 2023–24"
+    ],
+    "word_limit": 250
+  },
+  {
+    "question_number": 15,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Polity",
+    "question": "Discuss India as a secular state and compare with the secular principles of the US constitution.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "secular state",
+      "India",
+      "US constitution",
+      "comparative constitutionalism",
+      "religious freedom",
+      "state neutrality"
+    ],
+    "directive": "Discuss and compare",
+    "topics_to_be_studied": [
+      "Preamble of Indian Constitution – Secularism",
+      "Articles 25–28: Freedom of religion",
+      "Indian model of secularism: Equal respect to all religions",
+      "US model: 'Wall of separation' between Church and State",
+      "Judicial interpretation: Kesavananda Bharati, S.R. Bommai vs Union of India",
+      "Indian context: religious pluralism, communal harmony",
+      "Debates on uniform civil code and religion-based laws"
+    ],
+    "sources": [
+      "Indian Polity by M. Laxmikanth – Chapter on Fundamental Rights and Secularism",
+      "Constitution of India – Articles 25 to 28",
+      "U.S. Constitution – First Amendment",
+      "Judgments: S.R. Bommai Case, Kesavananda Bharati Case",
+      "Yojana / The Hindu articles on comparative secularism"
+    ],
+    "answer_framework": {
+      "intro": "Define secularism and its constitutional status in India and the US.",
+      "body": {
+        "part1": "India – Positive secularism: state maintains principled distance but engages with all religions",
+        "part2": "USA – Negative secularism: strict separation of state and religion",
+        "part3": "Compare approach, legal provisions, and real-world applications (e.g., religious symbols, funding)"
+      },
+      "conclusion": "While both uphold religious freedom, India’s inclusive and diverse model contrasts with the US’s non-engagement approach, each shaped by historical context."
+    },
+    "linked_current_issues": [
+      "Debates on UCC in India",
+      "Supreme Court judgments on religious freedom vs state policy",
+      "Religious freedom cases in the US (e.g., dress code, education)"
+    ],
+    "word_limit": 250
+  },
+  {
+    "question_number": 16,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Governance",
+    "question": "The Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "Citizens' charter",
+      "citizen-centric governance",
+      "public service delivery",
+      "accountability",
+      "implementation challenges"
+    ],
+    "directive": "Identify and suggest",
+    "topics_to_be_studied": [
+      "Concept and purpose of the Citizens' Charter",
+      "Sevottam Model and public service standards",
+      "RTI Act, e-governance, and administrative accountability",
+      "Challenges: lack of awareness, poor enforcement, bureaucratic resistance, non-binding nature",
+      "Citizen engagement in governance",
+      "Best practices from states and countries (e.g., UK model)"
+    ],
+    "sources": [
+      "2nd ARC Report on Citizen-Centric Administration",
+      "DARPG Guidelines on Citizens’ Charter",
+      "Vision IAS Governance Notes",
+      "Yojana / Kurukshetra articles on service delivery and citizen empowerment",
+      "Indian Express / The Hindu editorials"
+    ],
+    "answer_framework": {
+      "intro": "Introduce the concept of the Citizens’ Charter as a tool to promote transparency, accountability, and service standards in governance.",
+      "body": {
+        "part1": "List the intended goals and benefits of the Charter",
+        "part2": "Identify hindrances: poor design, lack of legal enforceability, limited citizen awareness, weak grievance redressal",
+        "part3": "Suggest reforms: legal backing, regular audits, digitisation, citizen feedback loops, performance-linked evaluation"
+      },
+      "conclusion": "Citizens’ Charters can be truly transformative if backed by institutional commitment, continuous monitoring, and citizen participation."
+    },
+    "linked_current_issues": [
+      "DARPG initiatives for e-Sevottam certification",
+      "Digital public services in India Stack",
+      "Debates on service-level agreements and time-bound delivery (e.g., Public Service Guarantee Acts)"
+    ],
+    "word_limit": 250
+  },
+  {
+    "question_number": 17,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Social Justice",
+    "question": "In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "public healthcare",
+      "marketisation",
+      "Indian State",
+      "grassroots",
+      "health equity",
+      "universal health coverage"
+    ],
+    "directive": "Suggest",
+    "topics_to_be_studied": [
+      "Right to health under Article 21 and DPSPs",
+      "Challenges of privatisation and rising health costs",
+      "Ayushman Bharat and Health & Wellness Centres",
+      "Health infrastructure at PHC/CHC level",
+      "Shortage of doctors and paramedics",
+      "Digital health initiatives (eSanjeevani, ABHA)",
+      "State capacity and public spending on health"
+    ],
+    "sources": [
+      "Economic Survey – Chapter on Health Sector",
+      "National Health Policy 2017",
+      "NITI Aayog Health Index Reports",
+      "The Hindu / Indian Express – editorials on public health access",
+      "Yojana / Kurukshetra on grassroots healthcare delivery"
+    ],
+    "answer_framework": {
+      "intro": "Mention that health is a public good and the increasing role of the private sector has raised access and affordability concerns.",
+      "body": {
+        "part1": "Adverse effects of marketisation: high out-of-pocket expenditure, rural neglect, inequality",
+        "part2": "Measures: more budgetary allocation, strengthen primary health network, incentivise rural postings, use tech and telemedicine, PPPs with accountability, train ASHA/ANMs",
+        "part3": "Ensure convergence with nutrition, sanitation, and education"
+      },
+      "conclusion": "A robust, equitable public healthcare system at the grassroots can counter market failures and ensure inclusive development."
+    },
+    "linked_current_issues": [
+      "NSSO data on out-of-pocket health expenditure",
+      "Performance of Health & Wellness Centres under Ayushman Bharat",
+      "Debate on health as a justiciable right"
+    ],
+    "word_limit": 250
+  },
+  {
+    "question_number": 18,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "Governance",
+    "question": "e-governance is not just about the routine application of digital technology in service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the ‘Interactive Service Model’ of e-governance.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "e-governance",
+      "interactive service model",
+      "digital technology",
+      "transparency",
+      "accountability",
+      "citizen engagement"
+    ],
+    "directive": "Evaluate",
+    "topics_to_be_studied": [
+      "Definition and objectives of e-governance",
+      "UN’s four-stage e-governance model: Information, Interaction, Transaction, Transformation",
+      "Interactive Service Model: participatory platforms, feedback systems, grievance redressal",
+      "Digital India, MyGov, RTI portals, UMANG, eSanjeevani, DigiLocker",
+      "Challenges: digital divide, capacity building, data protection"
+    ],
+    "sources": [
+      "2nd ARC Report on e-Governance",
+      "Digital India Programme – official documents",
+      "Vision IAS / Forum IAS Governance notes",
+      "Yojana / Kurukshetra on e-governance and transparency",
+      "UN e-Government Survey reports"
+    ],
+    "answer_framework": {
+      "intro": "Explain that e-governance has evolved from mere digitisation to citizen-centered interactive governance.",
+      "body": {
+        "part1": "Define the Interactive Service Model – two-way communication and citizen-government collaboration",
+        "part2": "Examples: MyGov, CPGRAMS, mobile apps, citizen dashboards, online RTI filing",
+        "part3": "Benefits: real-time feedback, policy responsiveness, inclusive governance"
+      },
+      "conclusion": "The interactive model transforms governance into a participatory, trust-building process, essential for democratic accountability in the digital era."
+    },
+    "linked_current_issues": [
+      "Digital Public Infrastructure (DPI) focus under G20 Presidency",
+      "Increased use of AI-enabled chatbots for public grievance redressal",
+      "Jansamarth portal, eCourts, and One Nation One Ration Card system"
+    ],
+    "word_limit": 250
+  },
+  {
+    "question_number": 19,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "International Relations",
+    "question": "‘Terrorism has become a significant threat to global peace and security.’ Evaluate the effectiveness of the United Nations Security Council’s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level.",
+    "marks": 15,
+    "level": "Difficult",
+    "keywords": [
+      "terrorism",
+      "global peace and security",
+      "UNSC",
+      "CTC",
+      "international cooperation",
+      "counter-terrorism"
+    ],
+    "directive": "Evaluate",
+    "topics_to_be_studied": [
+      "UNSC Resolution 1373 (2001) and the formation of the CTC",
+      "Mandate and functions of the CTC",
+      "UN Office of Counter-Terrorism (UNOCT)",
+      "Global Counter-Terrorism Strategy",
+      "Financial Action Task Force (FATF) coordination",
+      "Limitations: lack of consensus on definition, veto politics, selective action",
+      "India’s proposals on Comprehensive Convention on International Terrorism (CCIT)"
+    ],
+    "sources": [
+      "UN Security Council – CTC official documents and resolutions",
+      "PIB / MEA releases on India’s stance on global terrorism",
+      "IDSA / ORF reports on multilateral counter-terror cooperation",
+      "Yojana and The Hindu articles on UN reforms and global governance",
+      "UN Global Counter-Terrorism Strategy (UNGA adopted)"
+    ],
+    "answer_framework": {
+      "intro": "State the growing menace of terrorism as a cross-border, digital-age threat needing global response.",
+      "body": {
+        "part1": "Outline the formation and goals of the CTC and associated agencies",
+        "part2": "Achievements: institutional coordination, support to national capacities, FATF cooperation, ISIL tracking",
+        "part3": "Challenges: veto politics, lack of binding enforcement, failure to define terrorism uniformly"
+      },
+      "conclusion": "UNSC bodies have laid an institutional foundation, but need structural reforms and political will to be more effective in combating evolving terror threats."
+    },
+    "linked_current_issues": [
+      "India’s 2022 UNSC Presidency and hosting of CTC special session",
+      "Global terrorism financing and cyber radicalisation",
+      "Calls for Comprehensive Convention on International Terrorism (CCIT)"
+    ],
+    "word_limit": 250
+  },
+  {
+    "question_number": 20,
+    "paper": "GS2",
+    "year": 2024,
+    "subject": "International Relations",
+    "question": "Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India’s maritime security and regional stability amidst international competition.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "India-Maldives relations",
+      "geopolitics",
+      "energy flows",
+      "maritime security",
+      "regional stability",
+      "Indo-Pacific",
+      "strategic competition"
+    ],
+    "directive": "Discuss",
+    "topics_to_be_studied": [
+      "Geographical location of Maldives near major sea lanes of communication (SLOCs)",
+      "India's SAGAR doctrine and neighbourhood-first policy",
+      "Strategic presence in Indian Ocean – threats from China (string of pearls)",
+      "Maritime infrastructure, radar and naval cooperation",
+      "Energy imports and trade routes in Western Indian Ocean",
+      "Recent political shifts in Maldives and strategic recalibration",
+      "India’s role in regional security frameworks – IORA, Colombo Security Conclave"
+    ],
+    "sources": [
+      "MEA annual reports on India–Maldives relations",
+      "IDSA / ORF analysis on Indian Ocean geopolitics",
+      "Yojana / Kurukshetra issues on Maritime Security and Blue Economy",
+      "The Hindu / Indian Express editorials on Maldives–India tensions",
+      "Maritime doctrines and SAGAR vision document"
+    ],
+    "answer_framework": {
+      "intro": "Highlight Maldives’ location in Indian Ocean and proximity to India’s maritime trade routes.",
+      "body": {
+        "part1": "Discuss its role in global trade and energy shipping lanes – 80% of India’s energy imports",
+        "part2": "Mention India's role in ensuring Maldives’ security (e.g., Operation Cactus, hydrographic surveys, training)",
+        "part3": "Explain how China’s presence and recent ‘India Out’ campaigns affect India’s maritime strategy and regional leadership"
+      },
+      "conclusion": "India–Maldives ties are key to India’s strategic depth in the IOR and maintaining regional maritime balance in the face of rising global competition."
+    },
+    "linked_current_issues": [
+      "‘India Out’ campaign in Maldives (2023–24)",
+      "Chinese surveillance ships and naval agreements",
+      "India–Maldives defence pact for coastal radar systems",
+      "Maldives’ tilt towards China under new leadership"
+    ],
+    "word_limit": 250
+  }
+]
