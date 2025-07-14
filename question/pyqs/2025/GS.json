@@ -1,0 +1,64 @@
+[
+  {
+    "subject": "economy",
+    "type": "GS",
+    "year": "2025",
+    "question": "With reference to investments, consider the following:",
+    "statements": ["Bonds", "Hedge Funds", "Stocks", "Venture Capital"],
+    "options": ["Only one", "Only two", "Only three", "All the four"],
+    "correct_option": "Only two",
+    "explanation": "Alternative Investment Funds (AIFs) are privately pooled investment vehicles regulated by SEBI that include hedge funds, venture capital funds, private equity funds, etc.\n\n- **Hedge Funds**: Yes, classified under Category III AIFs.\n- **Venture Capital**: Yes, classified under Category I AIFs.\n- **Bonds**: No, these are traditional debt instruments and not AIFs.\n- **Stocks**: No, these are traditional equity instruments and not part of the AIF framework.\n\nHence, only Hedge Funds and Venture Capital are treated as Alternative Investment Funds.",
+    "answer_explanation_source": "SEBI (Alternative Investment Funds) Regulations, 2012"
+  },
+  {
+    "subject": "economy",
+    "type": "GS",
+    "year": "2025",
+    "question": "Which of the following are the sources of income for the Reserve Bank of India?",
+    "statements": [
+      "Buying and selling Government bonds",
+      "Buying and selling foreign currency",
+      "Pension fund management",
+      "Lending to private companies",
+      "Printing and distributing currency notes"
+    ],
+    "options": [
+      "I and II only",
+      "II, III and IV",
+      "I, III, IV and V",
+      "I, II and V"
+    ],
+    "correct_option": "I and II only",
+    "explanation": "The Reserve Bank of India (RBI) earns income primarily from: \n\n- **Buying and selling government bonds** (open market operations) — it earns interest and capital gains.\n- **Buying and selling foreign currency** — it manages forex reserves and may earn from currency operations and appreciation.\n\nThe other options are incorrect:\n- **Pension fund management** is not a function or income source of RBI.\n- **Lending to private companies** is not done by RBI; it lends to banks and governments.\n- **Printing and distributing currency notes** is a responsibility but not a revenue source; it’s an expenditure.\n\nThus, only statements I and II are correct.",
+    "answer_explanation_source": "RBI Annual Reports, SEBI & Indian Economy by Ramesh Singh"
+  },
+  {
+    "subject": "polity",
+    "type": "GS",
+    "year": "2025",
+    "question": "With reference to the Government of India, consider the following information:",
+    "statements": [
+      "Directorate of Enforcement – Enforcement of the Fugitive Economic Offenders Act, 2018 – Internal Security Division-I, Ministry of Home Affairs",
+      "Directorate of Revenue Intelligence – Enforces the provisions of the Customs Act, 1962 – Department of Revenue, Ministry of Finance",
+      "Directorate General of Systems and Data Management – Carrying out big data analytics to assist tax officers – Department of Revenue, Ministry of Finance"
+    ],
+    "options": ["Only one", "Only two", "All the three", "None"],
+    "correct_option": "Only two",
+    "explanation": "1. **Directorate of Enforcement (ED)**: While it enforces the Fugitive Economic Offenders Act, it works under the **Department of Revenue, Ministry of Finance**, not Ministry of Home Affairs. ❌\n\n2. **Directorate of Revenue Intelligence (DRI)**: Correctly matched — it enforces the Customs Act, 1962 and works under the Department of Revenue, Ministry of Finance. ✅\n\n3. **Directorate General of Systems and Data Management**: Correctly matched — it supports policy-making and enforcement using data analytics, and functions under the Department of Revenue, Ministry of Finance. ✅\n\nThus, only two out of the three are correctly matched.",
+    "answer_explanation_source": "Official websites of ED, DRI, and CBIC"
+  },
+  {
+    "subject": "economy",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR).",
+      "In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature."
+    ],
+    "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+    "correct_option": "II only",
+    "explanation": "Statement I is incorrect: It is **SEBI**, not the Reserve Bank of India (RBI), that mandates the submission of the Business Responsibility and Sustainability Report (BRSR) for the top 1000 listed companies (by market capitalization). RBI is not the regulator for listed company disclosures.\n\nStatement II is correct: The BRSR format includes **non-financial disclosures** related to Environment, Social, and Governance (ESG) factors, such as emissions, gender diversity, employee welfare, and supply chain responsibility. These disclosures aim to assess a company’s sustainability performance beyond financial metrics.\n\nHence, only Statement II is correct.",
+    "answer_explanation_source": "SEBI circular on BRSR, May 2021"
+  }
+]

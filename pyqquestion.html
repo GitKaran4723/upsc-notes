@@ -72,7 +72,20 @@
     <a href="/upsc-notes/pyq.html" class="text-sm hover:text-yellow-300">Back to Subjects</a>
   </header>
 
-  <section id="date-info" class="text-center py-4 text-yellow-800 text-lg font-semibold"></section>
+  <section
+    class="flex flex-col sm:flex-row justify-center items-center gap-4 py-4 text-yellow-800 text-lg font-semibold">
+    <div id="date-info" class="text-lg font-semibold text-yellow-800 flex items-center gap-2">
+      📅 <span id="date-text"></span>
+    </div>
+    <div class="flex items-center gap-2">
+      <label for="subject-filter" class="text-sm text-gray-800 font-semibold">Filter by Subject:</label>
+      <select id="subject-filter"
+        class="border border-yellow-400 rounded px-3 py-2 text-sm bg-yellow-50 hover:bg-yellow-100 shadow-sm">
+        <option value="all">All Subjects</option>
+      </select>
+    </div>
+  </section>
+
 
   <div class="relative w-full carousel-container">
     <div id="question-carousel" class="carousel-slide px-6 md:px-20"></div>
@@ -104,14 +117,16 @@
     const container = document.getElementById('question-carousel');
     const modal = document.getElementById('solution-modal');
     const modalContent = document.getElementById('modal-content');
-    const dateInfo = document.getElementById('date-info');
     const loader = document.getElementById('loader');
     const prevBtn = document.getElementById('prev-btn');
     const nextBtn = document.getElementById('next-btn');
     const questionCount = document.getElementById('question-count');
     const currentQuestion = document.getElementById('current-question');
+    const subjectFilter = document.getElementById('subject-filter');
+    const dateText = document.getElementById('date-text');
 
     let allQuestions = [];
+    let fullData = [];
     let currentPage = 0;
 
     function closeModal() {
@@ -163,100 +178,120 @@
       }
     });
 
+    function filterAndRenderSubject(subject) {
+      const filtered = subject === 'all' ? fullData : fullData.filter(q => q.subject === subject);
+
+      allQuestions = [];
+
+      if (filtered.length === 0) {
+        container.innerHTML = `<p class="text-red-600 text-center">⚠️ No questions found for "${subject}"</p>`;
+        questionCount.textContent = 0;
+        currentQuestion.textContent = 0;
+        return;
+      }
+
+      filtered.forEach((q, index) => {
+        const card = document.createElement('div');
+        card.className = 'bg-white shadow-md rounded-lg p-6 sm:p-8 border border-yellow-200';
+
+        const qNo = document.createElement('h3');
+        qNo.className = 'text-lg font-semibold text-gray-800 mb-4';
+        qNo.textContent = `Q${index + 1}. ${q.question}`;
+        card.appendChild(qNo);
+
+        if (q.statements && q.statements.length > 0) {
+          const list = document.createElement('ol');
+          list.className = 'list-decimal pl-6 mb-4 text-base';
+          q.statements.forEach(stmt => {
+            const li = document.createElement('li');
+            li.textContent = stmt;
+            list.appendChild(li);
+          });
+          card.appendChild(list);
+        }
+
+        const optionsDiv = document.createElement('div');
+        optionsDiv.className = 'space-y-3';
+        let answered = false;
+
+        const feedback = document.createElement('p');
+        feedback.className = 'mt-4 font-semibold';
+
+        q.options.forEach(opt => {
+          const btn = document.createElement('button');
+          btn.textContent = opt;
+          btn.className = 'block w-full text-left px-5 py-3 text-base bg-yellow-50 border border-yellow-300 rounded hover:bg-yellow-100 transition-colors';
+
+          btn.onclick = () => {
+            if (answered) return;
+            answered = true;
+
+            const isCorrect = opt === q.correct_option;
+
+            btn.classList.remove('hover:bg-yellow-100');
+            btn.classList.add(isCorrect ? 'bg-green-200' : 'bg-red-200');
+
+            Array.from(optionsDiv.children).forEach(b => {
+              b.disabled = true;
+              b.classList.remove('hover:bg-yellow-100', 'hover:bg-yellow-200', 'hover:bg-green-200', 'hover:bg-red-200');
+              if (b !== btn) {
+                b.classList.add('bg-yellow-50');
+              }
+            });
+
+            feedback.textContent = isCorrect ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
+            feedback.className = isCorrect ? 'text-green-600 mt-4 font-medium' : 'text-red-600 mt-4 font-medium';
+
+            const explainBtn = document.createElement('button');
+            explainBtn.textContent = 'View Explanation';
+            explainBtn.className = 'mt-4 bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-4 py-2 rounded';
+            explainBtn.onclick = () => showModal(q.explanation);
+            card.appendChild(explainBtn);
+          };
+
+          optionsDiv.appendChild(btn);
+        });
+
+        card.appendChild(optionsDiv);
+        card.appendChild(feedback);
+        allQuestions.push(card);
+      });
+
+      questionCount.textContent = allQuestions.length;
+      currentPage = 0;
+      renderPage();
+    }
+
     async function loadQuestions() {
       const urlParams = new URLSearchParams(window.location.search);
       const year = urlParams.get('year');
       const type = urlParams.get('type');
-      const subject = urlParams.get('subject');
 
-      dateInfo.textContent = `📅 Questions of ${year} ${type} - ${subject}`;
+      dateText.textContent = `Questions of ${year} ${type}`;
 
       try {
-        const res = await fetch(`./question/pyqs/${year}/${type}/${subject}.json`);
+        const res = await fetch(`./question/pyqs/${year}/${type}.json`);
         const data = await res.json();
-        console.log(data);
-
+        fullData = data;
 
         loader.style.display = 'none';
 
-        data.forEach((q, index) => {
-          const card = document.createElement('div');
-          card.className = 'bg-white shadow-md rounded-lg p-6 sm:p-8 border border-yellow-200';
-
-          const qNo = document.createElement('h3');
-          qNo.className = 'text-lg font-semibold text-gray-800 mb-4';
-          qNo.textContent = `Q${index + 1}. ${q.question}`;
-          card.appendChild(qNo);
-
-          if (q.statements && q.statements.length > 0) {
-            const list = document.createElement('ol');
-            list.className = 'list-decimal pl-6 mb-4 text-base';
-            q.statements.forEach(stmt => {
-              const li = document.createElement('li');
-              li.textContent = stmt;
-              list.appendChild(li);
-            });
-            card.appendChild(list);
-          }
-
-          const optionsDiv = document.createElement('div');
-          optionsDiv.className = 'space-y-3';
-          let answered = false;
-
-          const feedback = document.createElement('p');
-          feedback.className = 'mt-4 font-semibold';
-
-          q.options.forEach(opt => {
-            const btn = document.createElement('button');
-            btn.textContent = opt;
-            btn.className = 'block w-full text-left px-5 py-3 text-base bg-yellow-50 border border-yellow-300 rounded hover:bg-yellow-100 transition-colors';
-
-            btn.onclick = () => {
-              if (answered) return;
-              answered = true;
-
-              const isCorrect = opt === q.correct_option;
-
-              // Set permanent color for selected button
-              btn.classList.remove('hover:bg-yellow-100');
-              btn.classList.add(isCorrect ? 'bg-green-200' : 'bg-red-200');
-
-              // Disable all buttons and remove hover effect
-              Array.from(optionsDiv.children).forEach(b => {
-                b.disabled = true;
-
-                // Remove all hover classes
-                b.classList.remove('hover:bg-yellow-100', 'hover:bg-yellow-200', 'hover:bg-green-200', 'hover:bg-red-200');
-
-                // If not selected button, reset background
-                if (b !== btn) {
-                  b.classList.add('bg-yellow-50');
-                }
-              });
-
-              feedback.textContent = isCorrect ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
-              feedback.className = isCorrect ? 'text-green-600 mt-4 font-medium' : 'text-red-600 mt-4 font-medium';
-
-              const explainBtn = document.createElement('button');
-              explainBtn.textContent = 'View Explanation';
-              explainBtn.className = 'mt-4 bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-4 py-2 rounded';
-              explainBtn.onclick = () => showModal(q.explanation);
-              card.appendChild(explainBtn);
-            };
-
-            optionsDiv.appendChild(btn);
-          });
-
-
-          card.appendChild(optionsDiv);
-          card.appendChild(feedback);
-          allQuestions.push(card);
+        const subjects = Array.from(new Set(data.map(q => q.subject))).sort();
+        subjects.forEach(sub => {
+          const option = document.createElement('option');
+          option.value = sub;
+          option.textContent = sub.charAt(0).toUpperCase() + sub.slice(1);
+          subjectFilter.appendChild(option);
         });
 
-        questionCount.textContent = allQuestions.length;
-        renderPage();
+        subjectFilter.addEventListener('change', () => {
+          filterAndRenderSubject(subjectFilter.value);
+        });
+
+        filterAndRenderSubject('all');
 
       } catch (error) {
+        console.log(error)
         loader.style.display = 'none';
         container.innerHTML = `<p class='text-red-600 text-center'>Questions Coming Soon.</p>`;
         console.error('Error loading questions:', error);
@@ -265,6 +300,7 @@
 
     document.addEventListener('DOMContentLoaded', loadQuestions);
   </script>
+
 </body>
 
 </html>

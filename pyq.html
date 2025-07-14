@@ -55,35 +55,27 @@
                     heading.className = 'text-xl font-bold text-yellow-800 mb-4 border-b pb-2';
                     card.appendChild(heading);
 
-                    const types = Object.keys(data[year]);
-                    for (const type of types) {
-                        const typeIcon = type === "GS" ? '<i class="fa-solid fa-globe mr-2 text-yellow-600"></i>' : '<i class="fa-solid fa-calculator mr-2 text-blue-600"></i>';
+                    const papers = data[year].Papers;
 
-                        const typeHeading = document.createElement('h5');
-                        typeHeading.innerHTML = typeIcon + `<span class="text-lg font-semibold text-gray-700">${type}</span>`;
-                        typeHeading.className = 'mt-2 mb-3';
-                        card.appendChild(typeHeading);
+                    const btnGroup = document.createElement('div');
+                    btnGroup.className = 'flex flex-wrap gap-2 mb-2';
 
-                        const btnGroup = document.createElement('div');
-                        btnGroup.className = 'flex flex-wrap gap-2 mb-4';
+                    papers.forEach(paper => {
+                        const icon = paper === "GS"
+                            ? '<i class="fa-solid fa-globe mr-2 text-yellow-600"></i>'
+                            : '<i class="fa-solid fa-calculator mr-2 text-blue-600"></i>';
 
-                        const subjects = data[year][type];
-                        subjects.forEach(subject => {
-                            const capitalized = subject.replace(/_/g, " ")
-                                .replace(/\b\w/g, char => char.toUpperCase());
+                        const btn = document.createElement('button');
+                        btn.innerHTML = icon + paper;
+                        btn.className = 'bg-yellow-50 hover:bg-yellow-200 transition-all border border-yellow-400 px-3 py-2 rounded-lg shadow-sm text-gray-800 font-medium text-sm';
+                        btn.onclick = () => {
+                            window.location.href = `/upsc-notes/pyqquestion.html?year=${year}&type=${paper}`;
+                        };
 
-                            const btn = document.createElement('button');
-                            btn.textContent = capitalized;
-                            btn.className = 'bg-yellow-50 hover:bg-yellow-200 transition-all border border-yellow-400 px-3 py-2 rounded-lg shadow-sm text-gray-800 font-medium text-sm';
-                            btn.onclick = () => {
-                                window.location.href = `/upsc-notes/pyqquestion.html?year=${year}&type=${type}&subject=${subject}`;
-                            };
-                            btnGroup.appendChild(btn);
-                        });
+                        btnGroup.appendChild(btn);
+                    });
 
-                        card.appendChild(btnGroup);
-                    }
-
+                    card.appendChild(btnGroup);
                     container.appendChild(card);
                 }
             } catch (err) {

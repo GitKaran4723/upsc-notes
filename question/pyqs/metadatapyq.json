@@ -1,11 +1,41 @@
 {
-    "2024": {
-      "GS": ["polity", "economy", "science_and_tech", "geography", "history", "environment"],
-      "CSAT":["aptitude", "comprehention"]
-    },
-    "2023": {
-      "GS": ["polity", "economy", "science_and_tech", "geography", "history", "environment"],
-      "CSAT":["aptitude", "comprehention"]
-    }
+  "2025": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2024": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2023": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2022": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2021": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2020": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2019": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2018": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2017": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2016": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2015": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2014": {
+    "Papers": ["GS", "CSAT"]
+  },
+  "2013": {
+    "Papers": ["GS", "CSAT"]
   }
-  
+}
