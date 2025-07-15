@@ -116,5 +116,351 @@
     ],
     "correct_option": "Both Statement II and Statement III are correct and both of them explain Statement I",
     "explanation": "Statement I is correct: Bondholders are generally at a lower risk compared to stockholders because they have fixed interest payments and priority in repayment during liquidation.\n\nStatement II is correct: Bondholders are creditors (lenders) to the company, while stockholders are part-owners of the company. This distinction is fundamental to corporate finance.\n\nStatement III is correct: In case of bankruptcy or liquidation, companies are legally obligated to repay bondholders before any payment is made to stockholders. This repayment hierarchy is why bondholders face lower risk.\n\nSince Statements II and III both accurately explain why Statement I is true, option (a) is correct."
+  },
+  {
+    "subject": "economy",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.",
+      "India’s stock market has grown rapidly in the recent past even overtaking Hong Kong’s at some point of time.",
+      "There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard."
+    ],
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "correct_option": "I and II only",
+    "explanation": "Statement I is correct: India has become the world's largest equity derivatives market in terms of volume, accounting for a large share of global equity options trading. This reflects a significant boom in retail participation and financialization.\n\nStatement II is correct: India's stock market, particularly in 2023–24, surged significantly and even overtook Hong Kong to become the fourth largest globally in terms of market capitalization.\n\nStatement III is incorrect: India has regulatory bodies like **SEBI (Securities and Exchange Board of India)** that actively regulate and warn investors about the risks of derivatives/options trading and take action against unregistered financial advisors.\n\nHence, only Statements I and II are correct."
+  },
+  {
+    "subject": "environment",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "Circular economy reduces the emissions of greenhouse gases.",
+      "Circular economy reduces the use of raw materials as inputs.",
+      "Circular economy reduces wastage in the production process."
+    ],
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "correct_option": "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "explanation": "Statement I is correct: A circular economy helps reduce greenhouse gas emissions by promoting recycling, reusing materials, and minimizing resource extraction and waste.\n\nStatement II is correct: Circular economy practices such as recycling and re-manufacturing reduce the demand for virgin raw materials.\n\nStatement III is also correct: By designing for longevity and reuse, the circular economy significantly reduces waste generation in the production process.\n\nStatements II and III both logically support Statement I, since using fewer raw materials and reducing waste lowers the carbon footprint of production.\n\nTherefore, option (a) is correct."
+  },
+  {
+    "subject": "economy",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "Capital receipts create a liability or cause a reduction in the assets of the Government.",
+      "Borrowings and disinvestment are capital receipts.",
+      "Interest received on loans creates a liability of the Government."
+    ],
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "correct_option": "I and II only",
+    "explanation": "Statement I is correct: Capital receipts either increase the government's liabilities (e.g., borrowings) or reduce its assets (e.g., disinvestment). These are non-recurring receipts.\n\nStatement II is correct: Both borrowings (which create liabilities) and disinvestment (which reduces government-owned assets) are classified as capital receipts in the Union Budget.\n\nStatement III is incorrect: Interest received on loans **does not create a liability**; rather, it is a **revenue receipt** as it is income earned by the government from lending activities.\n\nTherefore, only Statements I and II are correct."
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements about Raja Ram Mohan Roy:",
+    "statements": [
+      "He possessed great love and respect for the traditional philosophical systems of the East.",
+      "He desired his countrymen to accept the rational and scientific approach and the principle of human dignity and social equality of all men and women."
+    ],
+    "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+    "correct_option": "Both I and II",
+    "explanation": "Statement I is correct: Raja Ram Mohan Roy was deeply influenced by Vedantic philosophy and respected the spiritual traditions of the East, though he criticized their superstitious practices.\n\nStatement II is correct: He was a strong advocate of rationalism and scientific thinking. He fought against social evils like Sati, caste discrimination, and promoted the ideas of liberty, equality, and dignity for both men and women.\n\nHence, both statements are correct and reflect the dual nature of his reformist ideology — reverence for traditional wisdom and a forward-looking embrace of rational modernity."
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following subjects with regard to Non-Cooperation Programme:",
+    "statements": [
+      "Boycott of law-courts and foreign cloth",
+      "Observance of strict non-violence",
+      "Retention of titles and honours without using them in public",
+      "Establishment of Panchayats for settling disputes"
+    ],
+    "options": ["Only one", "Only two", "Only three", "All the four"],
+    "correct_option": "Only three",
+    "explanation": "Statement I is correct: One of the core elements of the Non-Cooperation Movement (1920–22) was the boycott of law courts, government schools, colleges, and foreign cloth.\n\nStatement II is correct: Gandhiji emphasized **strict non-violence (ahimsa)** as the guiding principle of the movement.\n\nStatement III is incorrect: The **relinquishment** (not retention) of titles and honours conferred by the British government was advocated. Leaders like Rabindranath Tagore renounced their titles.\n\nStatement IV is correct: The establishment of **Panchayats to settle disputes** locally and independently of British courts was encouraged as part of building swaraj (self-rule).\n\nHence, only Statements I, II, and IV were part of the programme — making **three** correct."
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "The irrigation device called ‘Araghatta’ was",
+    "statements": [],
+    "options": [
+      "a water bag made of leather pulled over a pulley",
+      "a large wheel with earthen pots tied to the outer ends of its spokes",
+      "a larger earthen pot driven by bullocks",
+      "a large water bucket pulled up by rope directly by hand"
+    ],
+    "correct_option": "a large wheel with earthen pots tied to the outer ends of its spokes",
+    "explanation": "The 'Araghatta' was a traditional irrigation device used in ancient and medieval India. It consisted of a **large wooden wheel with earthen pots** tied to its spokes. As the wheel turned—often powered by animals like bullocks—the pots would scoop up water from a well or tank and pour it into channels for irrigation.\n\nThis technique is an early form of a Persian wheel and represents an ingenious adaptation of simple mechanical principles to meet agricultural needs. Therefore, option (b) is the correct answer."
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "Who among the following rulers in ancient India had assumed the titles ‘Mattavilasa’, ‘Vichitrachitta’ and ‘Gunabhara’?",
+    "statements": [],
+    "options": [
+      "Mahendravarman I",
+      "Simhavishnu",
+      "Narasimhavarman I",
+      "Simhavarman"
+    ],
+    "correct_option": "Mahendravarman I",
+    "explanation": "Mahendravarman I, a Pallava ruler who reigned during the 7th century CE, was a patron of art, architecture, and literature. He assumed the titles **‘Mattavilasa’** (lover of intoxicated amusements), **‘Vichitrachitta’** (curious-minded), and **‘Gunabhara’** (full of virtues). He was also an accomplished playwright, having authored the Sanskrit drama *Mattavilasa Prahasana*. His reign marked the beginning of rock-cut temple architecture in South India, particularly in Mamallapuram.\n\nThus, the correct answer is **Mahendravarman I**."
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "Fa-hien (Faxian), the Chinese pilgrim, travelled to India during the reign of",
+    "statements": [],
+    "options": [
+      "Samudragupta",
+      "Chandragupta II",
+      "Kumaragupta I",
+      "Skandagupta"
+    ],
+    "correct_option": "Chandragupta II",
+    "explanation": "Fa-hien (Faxian), the Chinese Buddhist pilgrim, visited India during the reign of **Chandragupta II** (circa 380–415 CE) of the Gupta dynasty. His journey was primarily to collect Buddhist scriptures and study the monastic practices in India.\n\nFa-hien's travel account provides valuable insight into the social, religious, and administrative conditions of India during the Gupta era. He praised the efficient administration, the prosperity of the land, and the safety of travelers. He noted the flourishing state of Buddhism, though Hinduism was also widely practiced.\n\nHence, the correct answer is **Chandragupta II**."
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "Who among the following led a successful military campaign against the kingdom of Srivijaya, the powerful maritime State, which ruled the Malay Peninsula, Sumatra, Java and the neighbouring islands?",
+    "statements": [],
+    "options": [
+      "Amoghavarsha (Rashtrakuta)",
+      "Prataparudra (Kakatiya)",
+      "Rajendra I (Chola)",
+      "Vishnuvardhana (Hoysala)"
+    ],
+    "correct_option": "Rajendra I (Chola)",
+    "explanation": "Rajendra Chola I, the son of Rajaraja Chola I, led a successful **naval expedition against the Srivijaya Empire** in the early 11th century (around 1025 CE). This marked one of the earliest recorded overseas military expeditions by an Indian ruler.\n\nThe campaign aimed to control the maritime trade routes in Southeast Asia and showcased the Chola naval power. The Cholas attacked and captured several strategic ports in **Sumatra, Java, and the Malay Peninsula**, temporarily disrupting Srivijaya’s dominance in the region.\n\nThis campaign is commemorated in inscriptions such as the Tamil 'Meikeerthi' inscriptions. Thus, the correct answer is **Rajendra I (Chola)**."
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "With reference to ancient India (600–322 BC), consider the following pairs:\n\nTerritorial region : River flowing in the region\nI. Asmaka : Godavari\nII. Kamboja : Vipas\nIII. Avanti : Mahanadi\nIV. Kosala : Sarayu\n\nHow many of the pairs given above are correctly matched?",
+    "statements": [],
+    "options": ["Only one", "Only two", "Only three", "All the four"],
+    "correct_option": "Only two",
+    "explanation": "Pair I: **Asmaka – Godavari**: Correct. Asmaka was located in the Deccan region, near the Godavari River.\n\nPair II: **Kamboja – Vipas** (Beas): Correct. Kamboja was a north-western Mahajanapada and was associated with the region near the Vipas (Beas) River.\n\nPair III: **Avanti – Mahanadi**: Incorrect. Avanti was located in the Malwa region of western Madhya Pradesh and was associated with the **Narmada** River, not the Mahanadi (which flows further east).\n\nPair IV: **Kosala – Sarayu**: Correct. Kosala, an important Mahajanapada, was centered around the area of present-day eastern Uttar Pradesh and the Sarayu River.\n\nThus, only **two** pairs (I and IV) are correctly matched.",
+    "correction": "Only two"
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "The first Gandharva Mahavidyalaya, a music training school, was set up in 1901 by Vishnu Digambar Paluskar in",
+    "statements": [],
+    "options": ["Delhi", "Gwalior", "Ujjain", "Lahore"],
+    "correct_option": "Lahore",
+    "explanation": "The first **Gandharva Mahavidyalaya** was established in **1901 in Lahore** by **Vishnu Digambar Paluskar**, a renowned Hindustani classical vocalist and music reformer. The institution aimed to promote Indian classical music education in a systematic manner and was open to all castes, which was revolutionary for its time.\n\nIt later expanded to other cities, including Bombay and Delhi, but Lahore was the original founding location.\n\nHence, the correct answer is **Lahore**."
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "Ashokan inscriptions suggest that the ‘Pradeshika’, ‘Rajuka’ and ‘Yukta’ were important officers at the",
+    "statements": [],
+    "options": [
+      "village-level administration",
+      "district-level administration",
+      "provincial administration",
+      "level of the central administration"
+    ],
+    "correct_option": "district-level administration",
+    "explanation": "Ashokan inscriptions refer to administrative officials such as **Pradeshika**, **Rajuka**, and **Yukta** as key functionaries in the **district-level administration** during the Mauryan Empire.\n\n- **Pradeshika**: A district officer responsible for revenue collection and law enforcement.\n- **Rajuka**: Officers with magisterial powers who supervised rural administration and ensured justice.\n- **Yukta**: Accountants or clerks involved in maintaining revenue and administrative records.\n\nThese officials helped maintain law and order, implement policies, and ensure the emperor’s edicts were carried out in the local regions.\n\nThus, the correct answer is **district-level administration**."
+  },
+  {
+    "subject": "history",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements in respect of the Non-Cooperation Movement:",
+    "statements": [
+      "The Congress declared the attainment of ‘Swaraj’ by all legitimate and peaceful means to be its objective.",
+      "It was to be implemented in stages with civil disobedience and non-payment of taxes for the next stage only if ‘Swaraj’ did not come within a year and the Government resorted to repression."
+    ],
+    "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+    "correct_option": "Both I and II",
+    "explanation": "Statement I is correct: In its Nagpur Session of 1920, the Indian National Congress adopted the goal of **attaining Swaraj through peaceful and legitimate means**, thereby endorsing the Non-Cooperation Movement led by Mahatma Gandhi.\n\nStatement II is also correct: The Non-Cooperation Movement was to be launched in **stages**. Gandhi mentioned that if Swaraj was not attained within a year and if repression by the government continued, **the movement would escalate to include civil disobedience and non-payment of taxes**.\n\nHence, both statements are correct."
+  },
+  {
+    "subject": "international relations",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following countries:",
+    "statements": [
+      "Austria",
+      "Bulgaria",
+      "Croatia",
+      "Serbia",
+      "Sweden",
+      "North Macedonia"
+    ],
+    "options": ["Only three", "Only four", "Only five", "All the six"],
+    "correct_option": "Only four",
+    "explanation": "As of 2024, the following four countries among the six listed are members of the North Atlantic Treaty Organization (NATO):\n\n- Bulgaria: Member since 2004\n- Croatia: Member since 2009\n- North Macedonia: Member since 2020\n- Sweden: Officially became a member in 2024\n\nAustria is not a NATO member as it follows a long-standing policy of neutrality. Serbia is also not a member and maintains military neutrality. Therefore, out of the six countries listed, only **four** are members of NATO."
+  },
+  {
+    "subject": "geography",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following water bodies:",
+    "statements": ["Lake Tanganyika", "Lake Tonlé Sap", "Patos Lagoon"],
+    "options": ["Only one", "Only two", "All the three", "None"],
+    "correct_option": "Only one",
+    "explanation": "Lake Tanganyika is the **only water body among the three** through which the **Equator passes**. It lies in East Africa and is shared by countries like Tanzania and the Democratic Republic of Congo, with the Equator running close to its northern part.\n\n- **Lake Tonlé Sap** is located in **Cambodia**, in Southeast Asia, well north of the Equator.\n- **Patos Lagoon** is situated in **southern Brazil**, in the Southern Hemisphere, far south of the Equator.\n\nHence, out of the three, **only Lake Tanganyika** lies along the Equator."
+  },
+  {
+    "subject": "agriculture",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements about turmeric during the year 2022–23:",
+    "statements": [
+      "India is the largest producer and exporter of turmeric in the world.",
+      "More than 30 varieties of turmeric are grown in India.",
+      "Maharashtra, Telangana, Karnataka and Tamil Nadu are major turmeric producing States in India."
+    ],
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "correct_option": "I, II and III",
+    "explanation": "All three statements are correct:\n\n1. **India is the largest producer and exporter** of turmeric in the world, contributing to over 75% of global production and exports.\n\n2. **More than 30 varieties** of turmeric are grown across India, including popular types like Erode, Salem, Rajapuri, and Alleppey Finger, catering to different regions and uses.\n\n3. **Maharashtra, Telangana, Karnataka, and Tamil Nadu** are indeed among the top turmeric-producing states, with Telangana often ranking first in terms of area and production.\n\nThus, all the statements are correct."
+  },
+  {
+    "subject": "geography",
+    "type": "GS",
+    "year": "2025",
+    "question": "Which of the following are the evidences of the phenomenon of continental drift?",
+    "statements": [
+      "The belt of ancient rocks from Brazil coast matches with those from Western Africa.",
+      "The gold deposits of Ghana are derived from the Brazil plateau when the two continents lay side by side.",
+      "The Gondwana system of sediments from India is known to have its counterparts in six different landmasses of the Southern Hemisphere."
+    ],
+    "options": [
+      "I and III only",
+      "I and II only",
+      "I, II and III",
+      "II and III only"
+    ],
+    "correct_option": "I, II and III",
+    "explanation": "All three statements provide geological evidence supporting the theory of **continental drift** proposed by Alfred Wegener:\n\n1. **Statement I is correct**: The matching ancient rock formations along the **Brazilian and West African coasts** support the idea that these continents were once connected.\n\n2. **Statement II is correct**: The **gold deposits in Ghana** and the geology of Brazil's plateau suggest a common origin, indicating the continents were once part of a supercontinent.\n\n3. **Statement III is correct**: The **Gondwana sedimentary sequences** found in India have counterparts in **Africa, South America, Antarctica, Australia, Madagascar, and New Zealand**, supporting the breakup of the Gondwana landmass.\n\nHence, all three statements are correct."
+  },
+  {
+    "subject": "geography",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "The amount of dust particles in the atmosphere is more in subtropical and temperate areas than in equatorial and polar regions.",
+      "Subtropical and temperate areas have less dry winds."
+    ],
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "correct_option": "Statement I is correct but Statement II is not correct",
+    "explanation": "Statement I is correct: Subtropical and temperate regions, especially arid and semi-arid zones like the Sahara and Middle East, have more dust in the atmosphere due to high wind activity and dry conditions.\n\nStatement II is incorrect: These regions **do not** have less dry winds—in fact, they often experience **strong dry winds** (e.g., trade winds, westerlies, or regional winds like the Harmattan and Santa Ana), which contribute to increased dust levels.\n\nHence, while Statement I is correct, Statement II is not. The correct answer is (c)."
+  },
+  {
+    "subject": "geography",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "In January, in the Northern Hemisphere, the isotherms bend equatorward while crossing the landmasses, and poleward while crossing the oceans.",
+      "In January, the air over the oceans is warmer than that over the landmasses in the Northern Hemisphere."
+    ],
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "correct_option": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "explanation": "Statement I is correct: In January, isotherms (lines of equal temperature) in the Northern Hemisphere typically **bend equatorward over landmasses** due to land cooling faster than water, and **poleward over oceans** due to the oceans retaining heat longer.\n\nStatement II is correct: This pattern exists because **oceans have a higher specific heat capacity**, meaning they retain warmth better than landmasses. Hence, in January, **air over oceans is warmer** than that over land.\n\nStatement II explains the reason for the isotherm bending described in Statement I. Thus, both statements are correct, and Statement II explains Statement I."
+  },
+  {
+    "subject": "geography",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "In the context of effect of water on rocks, chalk is known as a very permeable rock whereas clay is known as quite an impermeable or least permeable rock.",
+      "Chalk is porous and hence can absorb water.",
+      "Clay is not at all porous."
+    ],
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "correct_option": "Only one of the Statements II and III is correct and that explains Statement I",
+    "explanation": "Statement I is correct: Chalk is a **permeable** rock that allows water to pass through due to its porosity. Clay, on the other hand, is **impermeable** or has very low permeability, which prevents water from passing through easily.\n\nStatement II is correct: Chalk is **porous**, allowing it to absorb water and making it permeable.\n\nStatement III is incorrect: Clay is not completely non-porous. It has **very fine pores**, which makes it less permeable, but not entirely non-porous.\n\nThus, only Statement II is correct, and it explains Statement I accurately. Hence, the correct answer is (c)."
+  },
+  {
+    "subject": "environment",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "Without the atmosphere, temperature would be well below freezing point everywhere on the Earth’s surface.",
+      "Heat absorbed and trapped by the atmosphere maintains our planet’s average temperature.",
+      "Atmosphere’s gases, like carbon dioxide, are particularly good at absorbing and trapping radiation."
+    ],
+    "options": [
+      "I and III only",
+      "I and II only",
+      "I, II and III",
+      "II and III only"
+    ],
+    "correct_option": "I, II and III",
+    "explanation": "All three statements are correct:\n\n1. **Statement I** is correct: Without the insulating effect of the atmosphere, Earth’s surface temperature would drop drastically and remain well below freezing due to the lack of greenhouse effect.\n\n2. **Statement II** is correct: The atmosphere traps heat through greenhouse gases, maintaining the planet’s average temperature and making it habitable.\n\n3. **Statement III** is correct: Gases like **carbon dioxide**, **methane**, and **water vapor** are efficient in absorbing and re-emitting infrared radiation, contributing to the greenhouse effect.\n\nTherefore, all three statements correctly describe the role of the atmosphere in Earth's energy balance."
+  },
+  {
+    "subject": "environment",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements about the Rashtriya Gokul Mission:",
+    "statements": [
+      "It is important for the upliftment of rural poor as majority of low producing indigenous animals are with small and marginal farmers and landless labourers.",
+      "It was initiated to promote indigenous cattle and buffalo rearing and conservation in a scientific and holistic manner."
+    ],
+    "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+    "correct_option": "Both I and II",
+    "explanation": "Both statements are correct:\n\n1. **Statement I** is correct: The Rashtriya Gokul Mission targets **small and marginal farmers and landless labourers**, who typically own low-producing indigenous cattle. The program is designed to improve their livelihoods by enhancing the productivity of these animals.\n\n2. **Statement II** is correct: The mission aims to **promote conservation and development of indigenous breeds** in a scientific and structured manner. It also includes establishing Gokul Grams and strengthening AI (artificial insemination) infrastructure.\n\nThus, both the welfare and scientific goals of the mission are captured correctly in the statements."
   }
 ]
