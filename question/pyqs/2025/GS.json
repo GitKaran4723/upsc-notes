@@ -7,7 +7,7 @@
     "statements": ["Bonds", "Hedge Funds", "Stocks", "Venture Capital"],
     "options": ["Only one", "Only two", "Only three", "All the four"],
     "correct_option": "Only two",
-    "explanation": "Alternative Investment Funds (AIFs) are privately pooled investment vehicles regulated by SEBI that include hedge funds, venture capital funds, private equity funds, etc.\n\n- **Hedge Funds**: Yes, classified under Category III AIFs.\n- **Venture Capital**: Yes, classified under Category I AIFs.\n- **Bonds**: No, these are traditional debt instruments and not AIFs.\n- **Stocks**: No, these are traditional equity instruments and not part of the AIF framework.\n\nHence, only Hedge Funds and Venture Capital are treated as Alternative Investment Funds.",
+    "explanation": "[[Alternative Investment Funds]] (AIFs) are privately pooled investment vehicles regulated by SEBI that include hedge funds, venture capital funds, private equity funds, etc.\n\n- **Hedge Funds**: Yes, classified under Category III AIFs.\n- **Venture Capital**: Yes, classified under Category I AIFs.\n- **Bonds**: No, these are traditional debt instruments and not AIFs.\n- **Stocks**: No, these are traditional equity instruments and not part of the AIF framework.\n\nHence, only Hedge Funds and Venture Capital are treated as Alternative Investment Funds.",
     "answer_explanation_source": "SEBI (Alternative Investment Funds) Regulations, 2012"
   },
   {
@@ -29,7 +29,7 @@
       "I, II and V"
     ],
     "correct_option": "I and II only",
-    "explanation": "The Reserve Bank of India (RBI) earns income primarily from: \n\n- **Buying and selling government bonds** (open market operations) — it earns interest and capital gains.\n- **Buying and selling foreign currency** — it manages forex reserves and may earn from currency operations and appreciation.\n\nThe other options are incorrect:\n- **Pension fund management** is not a function or income source of RBI.\n- **Lending to private companies** is not done by RBI; it lends to banks and governments.\n- **Printing and distributing currency notes** is a responsibility but not a revenue source; it’s an expenditure.\n\nThus, only statements I and II are correct.",
+    "explanation": "The [[Reserve Bank of India]] (RBI) earns income primarily from: \n\n- **Buying and selling government bonds** ([[open market operations]]) — it earns interest and capital gains.\n- **Buying and selling foreign currency** — it manages forex reserves and may earn from currency operations and appreciation.\n\nThe other options are incorrect:\n- **Pension fund management** is not a function or income source of RBI.\n- **Lending to private companies** is not done by RBI; it lends to banks and governments.\n- **Printing and distributing currency notes** is a responsibility but not a revenue source; it’s an expenditure.\n\nThus, only statements I and II are correct.",
     "answer_explanation_source": "RBI Annual Reports, SEBI & Indian Economy by Ramesh Singh"
   },
   {
@@ -60,5 +60,61 @@
     "correct_option": "II only",
     "explanation": "Statement I is incorrect: It is **SEBI**, not the Reserve Bank of India (RBI), that mandates the submission of the Business Responsibility and Sustainability Report (BRSR) for the top 1000 listed companies (by market capitalization). RBI is not the regulator for listed company disclosures.\n\nStatement II is correct: The BRSR format includes **non-financial disclosures** related to Environment, Social, and Governance (ESG) factors, such as emissions, gender diversity, employee welfare, and supply chain responsibility. These disclosures aim to assess a company’s sustainability performance beyond financial metrics.\n\nHence, only Statement II is correct.",
     "answer_explanation_source": "SEBI circular on BRSR, May 2021"
+  },
+  {
+    "subject": "economy",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "In India, income from allied agricultural activities like poultry farming and wool rearing in rural areas is exempted from any tax.",
+      "In India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax Act, 1961."
+    ],
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "correct_option": "Statement I is not correct but Statement II is correct",
+    "explanation": "Statement I is **not correct**: Under the Income Tax Act, only income from agriculture (i.e., cultivation of land) is fully exempt. Income from allied activities like poultry farming or wool rearing **is not treated as agricultural income** and may be **taxable**, even if it is conducted in rural areas.\n\nStatement II is **correct**: According to Section 2(14)(iii) of the Income-tax Act, 1961, **rural agricultural land in India is not treated as a 'capital asset'**, and thus any gains from its sale are **not subject to capital gains tax**.\n\nTherefore, only Statement II is correct."
+  },
+  {
+    "subject": "economy",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "India has joined the Minerals Security Partnership as a member.",
+      "India is a resource-rich country in all the 30 critical minerals that it has identified.",
+      "The Parliament in 2023 has amended the Mines and Minerals (Development and Regulation) Act, 1957 empowering the Central Government to exclusively auction mining lease and composite license for certain critical minerals."
+    ],
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "correct_option": "I and III only",
+    "explanation": "Statement I is correct: India joined the **Minerals Security Partnership (MSP)** in June 2023. MSP is a strategic grouping of countries like the US, Japan, Australia, etc., aiming to ensure stable and secure supply chains for critical minerals.\n\nStatement II is incorrect: While India has identified 30 critical minerals, it is **not resource-rich in all of them**. For example, India depends on imports for minerals like lithium, cobalt, and nickel, which are crucial for energy transition and electronics.\n\nStatement III is correct: In 2023, the Mines and Minerals (Development and Regulation) Act, 1957 was **amended** to empower the Central Government to **exclusively auction mining leases and composite licenses** for critical minerals like lithium, cobalt, etc.\n\nHence, only Statements I and III are correct."
+  },
+  {
+    "subject": "economy",
+    "type": "GS",
+    "year": "2025",
+    "question": "Consider the following statements:",
+    "statements": [
+      "As regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.",
+      "Bondholders are lenders to a company whereas stockholders are its owners.",
+      "For repayment purpose, bondholders are prioritized over stockholders by a company."
+    ],
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement I and Statement II are correct and Statement I explains Statement II",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "correct_option": "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "explanation": "Statement I is correct: Bondholders are generally at a lower risk compared to stockholders because they have fixed interest payments and priority in repayment during liquidation.\n\nStatement II is correct: Bondholders are creditors (lenders) to the company, while stockholders are part-owners of the company. This distinction is fundamental to corporate finance.\n\nStatement III is correct: In case of bankruptcy or liquidation, companies are legally obligated to repay bondholders before any payment is made to stockholders. This repayment hierarchy is why bondholders face lower risk.\n\nSince Statements II and III both accurately explain why Statement I is true, option (a) is correct."
   }
 ]
