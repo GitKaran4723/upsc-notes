@@ -961,5 +961,960 @@
       "Maldives’ tilt towards China under new leadership"
     ],
     "word_limit": 250
+  },
+  {
+    "question_number": 1,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "“Constitutionally guaranteed judicial independence is a prerequisite of democracy.” Comment.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "judicial independence",
+      "constitutional guarantee",
+      "democracy",
+      "separation of powers",
+      "rule of law",
+      "checks and balances",
+      "judicial accountability"
+    ],
+    "directive": "Comment",
+    "topics_to_be_studied": [
+      "Features of Indian Constitution ensuring judicial independence (e.g., security of tenure, fixed service conditions, prohibition on practice after retirement)",
+      "Doctrine of separation of powers",
+      "Role of judiciary in upholding fundamental rights and rule of law",
+      "Landmark cases like Kesavananda Bharati, S.P. Gupta, Second Judges Case, etc.",
+      "Threats to judicial independence (executive interference, post-retirement appointments)",
+      "Judicial accountability vs. judicial independence"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Chapter on Judiciary",
+      "SC judgments and Law Commission reports",
+      "ARC Reports (esp. 1st ARC on Judiciary)",
+      "PRS Legislative Research on Judicial Appointments",
+      "Editorials from The Hindu / Indian Express on judicial independence"
+    ],
+    "answer_framework": {
+      "intro": "Define judicial independence and link it to democratic governance and constitutionalism.",
+      "body": {
+        "part1": "Explain how judiciary protects democratic values like fundamental rights, rule of law, and checks executive/legislative overreach.",
+        "part2": "Discuss constitutional provisions and mechanisms that ensure judicial independence in India.",
+        "part3": "Highlight recent concerns and debates around erosion of independence (e.g., appointments, delays, political pressure)."
+      },
+      "conclusion": "Judicial independence is not just a legal necessity but a moral and structural foundation of a healthy democracy."
+    },
+    "linked_current_issues": [
+      "Debate on collegium vs. NJAC",
+      "Allegations of judicial 'softness' towards executive",
+      "Recent statements by SC and HC judges on independence",
+      "Judges' post-retirement appointments"
+    ]
+  },
+  {
+    "question_number": 2,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India.",
+    "marks": 10,
+    "level": "Easy",
+    "keywords": [
+      "free legal aid",
+      "NALSA",
+      "access to justice",
+      "legal services",
+      "Article 39A",
+      "vulnerable sections"
+    ],
+    "directive": "Assess",
+    "topics_to_be_studied": [
+      "Article 39A and Directive Principles of State Policy",
+      "Legal Services Authorities Act, 1987",
+      "Eligibility criteria for free legal aid (SC/ST, women, children, disabled, poor, etc.)",
+      "Functions and initiatives of NALSA – legal literacy, Lok Adalats, legal aid clinics",
+      "Challenges faced by NALSA and state legal services authorities",
+      "Impact of legal aid in strengthening rule of law and inclusive justice"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Chapter on Judiciary and DPSPs",
+      "Legal Services Authorities Act, 1987",
+      "NALSA official website and annual reports",
+      "Reports and editorials in The Hindu / Indian Express",
+      "Yojana/Kurukshetra articles on legal empowerment and access to justice"
+    ],
+    "answer_framework": {
+      "intro": "Mention constitutional basis for free legal aid under Article 39A and its importance in ensuring justice for all.",
+      "body": {
+        "part1": "List categories of people entitled to free legal aid as per the Legal Services Authorities Act.",
+        "part2": "Discuss the role and functions of NALSA in delivering free legal services across India.",
+        "part3": "Highlight achievements, schemes (like Lok Adalats), and challenges faced by NALSA."
+      },
+      "conclusion": "NALSA is crucial for realising constitutional ideals of justice, equity, and inclusion in the legal system."
+    },
+    "linked_current_issues": [
+      "Recent Lok Adalat performance data",
+      "NALSA’s outreach during COVID-19 lockdown",
+      "Push for digital legal services and e-Lok Adalats"
+    ]
+  },
+  {
+    "question_number": 3,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "“The states in India seem reluctant to empower urban local bodies both functionally as well as financially.” Comment.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "urban local bodies",
+      "financial empowerment",
+      "functional autonomy",
+      "74th Constitutional Amendment",
+      "municipal governance",
+      "decentralization"
+    ],
+    "directive": "Comment",
+    "topics_to_be_studied": [
+      "74th Constitutional Amendment Act and its provisions",
+      "12th Schedule functions of urban local bodies",
+      "State control over urban governance",
+      "Financial constraints of ULBs – revenue sources, devolution issues",
+      "Urbanisation and challenges in urban service delivery",
+      "Role of State Finance Commissions and Central schemes (e.g., AMRUT, Smart Cities)"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Chapter on Urban Local Government",
+      "Second ARC Report on Local Governance",
+      "Reports from Ministry of Housing and Urban Affairs",
+      "Economic Survey – chapter on Urban Development",
+      "Editorials from The Hindu / Indian Express on urban decentralisation"
+    ],
+    "answer_framework": {
+      "intro": "Highlight the importance of empowered urban local bodies in a rapidly urbanising India.",
+      "body": {
+        "part1": "Explain how states retain control over functions and finances of ULBs, limiting their autonomy.",
+        "part2": "Discuss examples of poor implementation of 74th Amendment – lack of staff, funds, control over subjects.",
+        "part3": "Highlight the need for true decentralisation and fiscal empowerment to meet urban governance demands."
+      },
+      "conclusion": "Strengthening ULBs is key to democratic decentralisation and improving urban service delivery amid growing urbanisation."
+    },
+    "linked_current_issues": [
+      "Smart Cities Mission underperformance",
+      "State Finance Commissions delay in fund devolution",
+      "World Bank studies on India’s urban finance gap",
+      "NITI Aayog’s push for municipal bonds and fiscal discipline in ULBs"
+    ]
+  },
+  {
+    "question_number": 4,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "Compare and contrast the British and Indian approaches to Parliamentary sovereignty.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "Parliamentary sovereignty",
+      "British Parliament",
+      "Indian Parliament",
+      "constitutional supremacy",
+      "judicial review",
+      "basic structure doctrine"
+    ],
+    "directive": "Compare and contrast",
+    "topics_to_be_studied": [
+      "Meaning and scope of Parliamentary sovereignty in UK (supremacy of Parliament)",
+      "Nature of Indian Parliament's powers – subject to the Constitution",
+      "Role of judiciary and basic structure doctrine in India",
+      "Difference between unwritten UK Constitution and written Indian Constitution",
+      "Amendability of Constitution – UK vs India"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Chapter on Parliament and Constitutional Amendments",
+      "Comparative constitutions – UK vs India (Political Science books)",
+      "Supreme Court judgments – Kesavananda Bharati, Minerva Mills",
+      "The Hindu / Indian Express editorials on parliamentary powers and constitutional limits"
+    ],
+    "answer_framework": {
+      "intro": "Define Parliamentary sovereignty and its theoretical basis in UK and India.",
+      "body": {
+        "part1": "Discuss British approach – Parliament as supreme law-making body, no constitutional limits.",
+        "part2": "Discuss Indian approach – Parliament is powerful but not supreme; constrained by Constitution and judiciary.",
+        "part3": "Highlight judicial review, constitutional supremacy, and basic structure doctrine in India."
+      },
+      "conclusion": "While India inherited elements of British system, constitutionalism and judicial safeguards limit absolute sovereignty in India."
+    },
+    "linked_current_issues": [
+      "Debates on Constitutional amendments and limits of legislative power",
+      "Judiciary–legislature tussles (e.g., NJAC case)",
+      "Basic structure doctrine reaffirmed in recent rulings"
+    ]
+  },
+  {
+    "question_number": 5,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "Presiding Officers",
+      "State legislatures",
+      "impartiality",
+      "legislative work",
+      "democratic practices",
+      "Speaker",
+      "Chairman",
+      "Rule of law"
+    ],
+    "directive": "Discuss",
+    "topics_to_be_studied": [
+      "Constitutional roles and powers of Speaker and Chairman in State Legislatures (Articles 178–187)",
+      "Functions related to maintaining decorum, discipline, and procedure in the House",
+      "Role in ensuring impartiality, especially in anti-defection cases (Tenth Schedule)",
+      "Recent controversies around misuse of presiding officer’s power",
+      "Need for codified conventions and reforms (e.g., time-bound disqualification rulings)"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Chapter on State Legislature",
+      "Second ARC Report on Ethics in Governance",
+      "PRS Legislative Research on legislative conduct and disqualification",
+      "The Hindu / Indian Express editorials on Speaker's impartiality and Assembly disruptions",
+      "Constitution of India – Articles 178, 179, 212, and 194"
+    ],
+    "answer_framework": {
+      "intro": "Highlight the importance of Presiding Officers in ensuring smooth functioning and democratic ethos in legislatures.",
+      "body": {
+        "part1": "Discuss constitutional duties – maintaining order, allotting time, allowing debates, ensuring decorum.",
+        "part2": "Explain the expectation of neutrality, especially in sensitive matters like anti-defection.",
+        "part3": "Discuss challenges – partisanship, delayed decisions, recent controversies, and need for reforms."
+      },
+      "conclusion": "Presiding Officers must uphold democratic values and impartiality to strengthen legislative institutions and public trust."
+    },
+    "linked_current_issues": [
+      "Maharashtra and Arunachal Pradesh Assembly disqualification cases",
+      "Debates on giving Speaker’s anti-defection powers to an independent authority",
+      "Frequent disruptions in State Assemblies"
+    ]
+  },
+  {
+    "question_number": 6,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Governance",
+    "question": "The crucial aspect of development process has been the inadequate attention paid to Human Resource Development in India. Suggest measures that can address this inadequacy.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "Human Resource Development",
+      "inadequacy",
+      "education",
+      "health",
+      "skilling",
+      "demographic dividend",
+      "inclusive development"
+    ],
+    "directive": "Suggest",
+    "topics_to_be_studied": [
+      "Definition and importance of Human Resource Development (HRD)",
+      "Status of education and healthcare in India",
+      "Skill development initiatives – Skill India, PMKVY, NEP 2020",
+      "Issues like brain drain, unemployability, health infrastructure gaps",
+      "Government schemes and policy gaps",
+      "Role of public-private partnership and institutional reforms"
+    ],
+    "sources": [
+      "Economic Survey – chapters on Human Capital and Education",
+      "NITI Aayog Human Development Reports",
+      "Yojana / Kurukshetra issues on Skill Development, Education, and Health",
+      "Government websites: MHRD, Ministry of Skill Development",
+      "The Hindu / Indian Express editorials on demographic dividend and HRD"
+    ],
+    "answer_framework": {
+      "intro": "Define Human Resource Development and mention its centrality to sustainable development and growth.",
+      "body": {
+        "part1": "Highlight gaps – low investment in education/health, skill mismatch, regional disparity.",
+        "part2": "Suggest measures – universal access to quality education, vocational training, healthcare reforms, digital learning, industry-academia linkage.",
+        "part3": "Mention successful models or schemes and how to scale or reform them."
+      },
+      "conclusion": "Focusing on HRD will enable India to harness its demographic dividend and ensure inclusive growth."
+    },
+    "linked_current_issues": [
+      "Low GER in higher education",
+      "ASER Report findings on learning outcomes",
+      "Implementation of National Education Policy (NEP) 2020",
+      "Global Human Capital Index rankings"
+    ]
+  },
+  {
+    "question_number": 7,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Governance",
+    "question": "Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National Corporations in India. Refer to the recent decisions.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "Competition Commission of India",
+      "abuse of dominant position",
+      "multi-national corporations",
+      "anti-competitive practices",
+      "market regulation",
+      "recent decisions"
+    ],
+    "directive": "Discuss",
+    "topics_to_be_studied": [
+      "Competition Act, 2002 – provisions on anti-competitive practices and abuse of dominance",
+      "Role, powers, and functions of the Competition Commission of India (CCI)",
+      "Notable CCI cases: Google Android case, Amazon-Future Retail, Apple App Store policies, etc.",
+      "Impact on digital economy, e-commerce, and consumer welfare",
+      "Challenges faced by CCI in regulating big tech and global MNCs",
+      "Need for competition reforms in evolving market landscape"
+    ],
+    "sources": [
+      "Official website of CCI (competitioncommission.gov.in)",
+      "Economic Survey – chapter on regulatory bodies",
+      "Yojana / Kurukshetra issues on governance and regulation",
+      "The Hindu / Indian Express editorials on digital markets and CCI rulings",
+      "PRS Legislative Research – overview of Competition Amendment Bill"
+    ],
+    "answer_framework": {
+      "intro": "Briefly explain the objective of CCI – ensuring fair competition and curbing abuse of dominance.",
+      "body": {
+        "part1": "Explain mechanisms under Competition Act to deal with abuse of dominance by MNCs.",
+        "part2": "Refer to recent decisions against tech giants (Google, Amazon, etc.) and their significance.",
+        "part3": "Mention challenges – legal delays, global jurisdiction, data asymmetry, need for tech expertise."
+      },
+      "conclusion": "CCI plays a vital role in maintaining a level playing field and protecting consumer interest in a liberalised and digital economy."
+    },
+    "linked_current_issues": [
+      "CCI's penalty on Google for Android dominance (2022)",
+      "CCI's probe into Apple’s App Store policies",
+      "Merger control in e-commerce and retail sector",
+      "Competition (Amendment) Act, 2023"
+    ]
+  },
+  {
+    "question_number": 8,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Governance",
+    "question": "e-governance, as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments. What inadequacies hamper the enhancement of these features?",
+    "marks": 10,
+    "level": "Easy",
+    "keywords": [
+      "e-governance",
+      "effectiveness",
+      "transparency",
+      "accountability",
+      "digital governance",
+      "public service delivery",
+      "ICT in governance"
+    ],
+    "directive": "What",
+    "topics_to_be_studied": [
+      "Definition and scope of e-governance",
+      "Impact of e-governance on transparency, accountability, and efficiency",
+      "National e-Governance Plan (NeGP), Digital India initiative",
+      "Challenges: digital divide, poor infrastructure, low digital literacy, data privacy concerns, bureaucratic resistance",
+      "Best practices from states (e.g., e-seva, Bhulekh, UMANG, eCourts)",
+      "Way forward: digital capacity-building, cyber security, inclusive access"
+    ],
+    "sources": [
+      "2nd ARC Report on e-Governance",
+      "Digital India policy documents",
+      "Yojana/Kurukshetra issues on e-Governance and Digital India",
+      "Economic Survey – governance and technology chapters",
+      "The Hindu / Indian Express editorials on digital inclusion and public service delivery"
+    ],
+    "answer_framework": {
+      "intro": "Mention how e-governance improves transparency, accountability, and effectiveness in modern public administration.",
+      "body": {
+        "part1": "Explain achievements of e-governance initiatives (online services, reduced corruption, citizen engagement).",
+        "part2": "Discuss inadequacies: access inequality, lack of digital literacy, interoperability issues, cyber threats.",
+        "part3": "Highlight need for reforms: last-mile connectivity, user-friendly interfaces, data protection frameworks."
+      },
+      "conclusion": "To unlock full potential of e-governance, systemic digital infrastructure and inclusive outreach must be strengthened."
+    },
+    "linked_current_issues": [
+      "Digital Personal Data Protection Act, 2023",
+      "Cybersecurity issues in government portals",
+      "Status of Digital India targets",
+      "India’s performance in UN e-Government Development Index"
+    ]
+  },
+  {
+    "question_number": 9,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "International Relations",
+    "question": "‘Virus of Conflict is affecting the functioning of the SCO.’ In the light of the above statement, point out the role of India in mitigating the problems.",
+    "marks": 10,
+    "level": "Moderate",
+    "keywords": [
+      "SCO",
+      "Shanghai Cooperation Organisation",
+      "India's role",
+      "conflict mitigation",
+      "regional security",
+      "multilateral diplomacy"
+    ],
+    "directive": "Point out",
+    "topics_to_be_studied": [
+      "Structure, objectives, and functioning of SCO",
+      "Recent internal conflicts within SCO – India-China, Russia-West, China-Pakistan influence",
+      "India’s strategic interests in SCO (energy, connectivity, counter-terrorism, regional stability)",
+      "India’s role in promoting multilateral cooperation and non-interference",
+      "India’s balanced diplomatic approach amid geopolitical tensions",
+      "SCO Summit 2023 highlights and India’s presidency"
+    ],
+    "sources": [
+      "MEA website and press releases on SCO",
+      "IDSA and ORF analysis on India-SCO engagement",
+      "The Hindu / Indian Express editorials on SCO geopolitics",
+      "PIB coverage of SCO 2023 Summit hosted by India",
+      "International Relations textbooks and Yearbook references"
+    ],
+    "answer_framework": {
+      "intro": "Briefly explain the relevance of SCO in regional geopolitics and how internal rivalries are impeding its effectiveness.",
+      "body": {
+        "part1": "Explain the nature of conflicts – Sino-Indian border, Russia-Ukraine, and Pakistan’s role.",
+        "part2": "Highlight India's initiatives – dialogue facilitation, focus on counter-terrorism, digital cooperation, connectivity.",
+        "part3": "Discuss India’s diplomatic balancing, economic engagement, and promotion of SCO’s foundational principles."
+      },
+      "conclusion": "India’s constructive and non-aligned approach is essential for restoring cooperation and effectiveness within SCO."
+    },
+    "linked_current_issues": [
+      "India’s 2023 SCO Presidency and Virtual Summit",
+      "India-China border tensions",
+      "Russia-Ukraine war impact on SCO unity",
+      "India’s resistance to China’s BRI agenda within SCO"
+    ]
+  },
+  {
+    "question_number": 10,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "International Relations",
+    "question": "Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.",
+    "marks": 10,
+    "level": "Easy",
+    "keywords": [
+      "Indian diaspora",
+      "economic benefits",
+      "political influence",
+      "remittances",
+      "soft power",
+      "foreign policy"
+    ],
+    "directive": "Describe",
+    "topics_to_be_studied": [
+      "Role of diaspora in India's foreign policy and bilateral relations",
+      "Economic benefits – remittances, investments, startup ecosystem, technology transfer",
+      "Political influence – lobbying, diaspora diplomacy, soft power",
+      "Success stories – CEOs, lawmakers, academics shaping opinion in host countries",
+      "Government initiatives – Pravasi Bharatiya Divas, OCI, MEA engagement strategies",
+      "Challenges – dual loyalty, rising Hinduphobia, radical elements"
+    ],
+    "sources": [
+      "MEA Annual Reports on diaspora",
+      "IDSA and ORF papers on diaspora diplomacy",
+      "Economic Survey – data on remittances",
+      "Yojana / Kurukshetra on migration and diaspora engagement",
+      "The Hindu / Indian Express editorials on diaspora influence"
+    ],
+    "answer_framework": {
+      "intro": "Briefly mention how the Indian diaspora in the West has gained prominence in business, technology, and politics.",
+      "body": {
+        "part1": "Economic benefits – remittances (top globally), FDI, technology and knowledge transfer.",
+        "part2": "Political benefits – advocacy for Indian interests, support in host country parliaments, countering anti-India narratives.",
+        "part3": "Government efforts to engage diaspora and leverage their achievements."
+      },
+      "conclusion": "The diaspora acts as a bridge between India and the West, amplifying India’s voice globally while contributing to its economic rise."
+    },
+    "linked_current_issues": [
+      "Indian-origin leaders in US, UK, Canada",
+      "Record remittance inflows in 2022-23",
+      "India-US diaspora tech corridor",
+      "Concerns about Khalistani influence among select diaspora groups"
+    ]
+  },
+  {
+    "question_number": 11,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "“The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society.” Illustrate with special reference to the expanding horizons of the right to life and personal liberty.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "living constitution",
+      "dynamism",
+      "progressive society",
+      "right to life",
+      "personal liberty",
+      "Article 21",
+      "judicial interpretation"
+    ],
+    "directive": "Illustrate",
+    "topics_to_be_studied": [
+      "Concept of living constitution and constitutional dynamism",
+      "Judicial interpretations of Article 21 – right to life and personal liberty",
+      "Expanding scope – right to privacy, dignity, education, clean environment, legal aid, etc.",
+      "Key judgments – Maneka Gandhi, K.S. Puttaswamy, Vishaka, Navtej Singh Johar, Common Cause",
+      "Judicial activism vs. judicial overreach debate",
+      "Preamble and DPSPs as guiding tools for progressive interpretation"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Fundamental Rights and Judiciary chapters",
+      "Landmark SC judgments (Maneka Gandhi, Puttaswamy, etc.)",
+      "The Hindu / Indian Express editorials on constitutional morality and progressive jurisprudence",
+      "Law Commission reports",
+      "Yojana/Kurukshetra on Constitution and Rights"
+    ],
+    "answer_framework": {
+      "intro": "Introduce the idea of the Indian Constitution as a dynamic document, adapting to changing times and societal needs.",
+      "body": {
+        "part1": "Explain the concept of a ‘living Constitution’ and role of judiciary in expanding its interpretation.",
+        "part2": "Discuss how Article 21 evolved to include various rights beyond mere animal existence.",
+        "part3": "Cite landmark cases and implications for progressive realization of rights in India."
+      },
+      "conclusion": "The dynamic interpretation of Article 21 exemplifies how the Constitution serves a progressive society, ensuring justice, dignity, and equality."
+    },
+    "linked_current_issues": [
+      "Debates on euthanasia, privacy, and same-sex marriage",
+      "Application of right to life in digital age and surveillance",
+      "Climate justice as part of Article 21",
+      "Recent SC rulings affirming dignity and autonomy"
+    ]
+  },
+  {
+    "question_number": 12,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "Explain the constitutional perspectives of Gender Justice with the help of relevant Constitutional Provisions and case laws.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "gender justice",
+      "constitutional provisions",
+      "equality",
+      "case laws",
+      "discrimination",
+      "women's rights"
+    ],
+    "directive": "Explain",
+    "topics_to_be_studied": [
+      "Articles 14, 15, 16, 21 and Directive Principles (Articles 39, 42, 51A(e))",
+      "Preamble and constitutional vision of equality and justice",
+      "Landmark judgments – Vishaka v. State of Rajasthan, Shayara Bano (Triple Talaq), Joseph Shine (Adultery), Navtej Singh Johar, NALSA case",
+      "Laws and policies promoting gender justice – Maternity Benefit Act, POSH Act, etc.",
+      "Challenges in realization – patriarchal norms, implementation gaps"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Fundamental Rights and DPSPs",
+      "Supreme Court judgments on gender rights",
+      "Law Commission reports on women and equality",
+      "The Hindu / Indian Express editorials on gender justice",
+      "Yojana / Kurukshetra on Women Empowerment and Gender Equality"
+    ],
+    "answer_framework": {
+      "intro": "Define gender justice and link it to the constitutional commitment of equality and dignity.",
+      "body": {
+        "part1": "Mention relevant constitutional provisions that support gender justice.",
+        "part2": "Explain key case laws that have interpreted and expanded gender rights.",
+        "part3": "Discuss institutional mechanisms and laws supporting gender justice and persistent challenges."
+      },
+      "conclusion": "Gender justice is foundational to India’s democratic ethos and requires both legal safeguards and societal change."
+    },
+    "linked_current_issues": [
+      "Debate on Uniform Civil Code",
+      "Supreme Court rulings on same-sex marriage and marital rape exceptions",
+      "Women’s reservation in legislatures (Women's Reservation Bill)",
+      "Gender budgeting and SDG-5 implementation"
+    ]
+  },
+  {
+    "question_number": 13,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid 1990s.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "Article 356",
+      "President's Rule",
+      "legal safeguards",
+      "political misuse",
+      "federalism",
+      "judicial review"
+    ],
+    "directive": "Account for",
+    "topics_to_be_studied": [
+      "Constitutional provision: Article 356 and its conditions for invocation",
+      "Misuse of Article 356 pre-1990s for political gains",
+      "Landmark judgment: S.R. Bommai v. Union of India (1994)",
+      "Rise of coalition politics and regional parties post-1990s",
+      "Role of judiciary in ensuring federal balance",
+      "Recommendations of Sarkaria and Punchhi Commissions"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Chapter on Centre-State Relations",
+      "S.R. Bommai case summary and its implications",
+      "2nd ARC and Punchhi Commission Reports",
+      "The Hindu / Indian Express editorials on federalism and misuse of Article 356",
+      "Constitution of India – Article 356"
+    ],
+    "answer_framework": {
+      "intro": "Briefly explain the original intent and controversial history of Article 356.",
+      "body": {
+        "part1": "Discuss misuse of Article 356 in post-independence India until the 1980s.",
+        "part2": "Explain legal restraints post S.R. Bommai judgment – judicial review, floor test mandate.",
+        "part3": "Mention political changes – coalition era, federal assertions, stronger judiciary and civil society."
+      },
+      "conclusion": "The decline in Article 356 usage reflects maturing democracy, strengthened federalism, and judicial oversight."
+    },
+    "linked_current_issues": [
+      "Occasional invocation of Article 356 in recent years (e.g., Arunachal, Uttarakhand, Maharashtra)",
+      "Judicial interventions in floor tests and Assembly dissolution",
+      "Debates around Governor’s role and Centre-State dynamics"
+    ]
+  },
+  {
+    "question_number": 14,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Governance",
+    "question": "Discuss the contribution of civil society groups for women’s effective and meaningful participation and representation in state legislatures in India.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "civil society",
+      "women's participation",
+      "state legislatures",
+      "political representation",
+      "gender equality",
+      "empowerment"
+    ],
+    "directive": "Discuss",
+    "topics_to_be_studied": [
+      "Role of civil society in democracy and empowerment",
+      "Barriers to women’s political participation – social, economic, cultural",
+      "Advocacy and awareness campaigns by NGOs and women's rights organizations",
+      "Training and leadership development programs for aspiring women leaders",
+      "Contribution to electoral reforms, women’s reservation debates, and accountability",
+      "Success stories and impact at local/state level"
+    ],
+    "sources": [
+      "Reports by UN Women and National Commission for Women",
+      "Yojana / Kurukshetra on Women Empowerment and Civil Society",
+      "Indian Express / The Hindu editorials on women's representation",
+      "NGO case studies (e.g., SEWA, Jagori, Centre for Social Research)",
+      "NITI Aayog reports on SDG-5 and governance indicators"
+    ],
+    "answer_framework": {
+      "intro": "Briefly introduce the importance of women’s representation in state legislatures for inclusive governance.",
+      "body": {
+        "part1": "Explain the barriers to women's participation in politics.",
+        "part2": "Discuss the role played by civil society – training, sensitization, capacity building, legal advocacy.",
+        "part3": "Highlight case examples or impact assessments from specific states or organizations."
+      },
+      "conclusion": "Civil society acts as a vital enabler in bridging gender gaps in political representation, complementing state efforts."
+    },
+    "linked_current_issues": [
+      "Debate and passage of Women’s Reservation Bill",
+      "Women’s under-representation in state assemblies",
+      "Grassroots movements for Panchayati Raj inclusion scaling up to state levels",
+      "SDG-5 (Gender Equality) progress reports"
+    ]
+  },
+  {
+    "question_number": 15,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "101st Constitutional Amendment",
+      "GST",
+      "cooperative federalism",
+      "fiscal federalism",
+      "federal structure",
+      "GST Council"
+    ],
+    "directive": "Explain",
+    "topics_to_be_studied": [
+      "Provisions of 101st Constitutional Amendment Act – introduction of GST, GST Council, amendment of Seventh Schedule",
+      "Impact on Centre-State fiscal relations",
+      "Role and functioning of GST Council – consensus-based decision-making",
+      "Cooperative and competitive federalism – harmonisation of tax structure",
+      "Challenges in implementation – compensation issues, state autonomy concerns"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Constitutional Amendments and Federalism chapters",
+      "Economic Survey – GST-related chapters",
+      "PIB summary and text of the 101st Constitutional Amendment Act",
+      "The Hindu / Indian Express editorials on GST and federalism",
+      "Yojana/Kurukshetra issues on fiscal federalism"
+    ],
+    "answer_framework": {
+      "intro": "Mention the background and importance of GST reform leading to the 101st Amendment.",
+      "body": {
+        "part1": "Explain key provisions of the 101st Amendment – GST Council, concurrent taxing powers, integrated market.",
+        "part2": "Discuss how the GST framework embodies cooperative federalism and consensus building.",
+        "part3": "Mention tensions and challenges – compensation delays, demands for greater state autonomy."
+      },
+      "conclusion": "The 101st Amendment showcases India’s evolving federalism, where negotiation and cooperation are key to national integration and policy reforms."
+    },
+    "linked_current_issues": [
+      "Debates over GST compensation to states",
+      "GST Council decisions on rate rationalisation",
+      "Judicial comments on the binding nature of GST Council",
+      "Discussion on improving federal fiscal balance post-COVID"
+    ]
+  },
+  {
+    "question_number": 16,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Polity",
+    "question": "Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalisation of Indian Parliament?",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "Parliamentary Committees",
+      "financial committees",
+      "institutionalisation",
+      "Public Accounts Committee",
+      "Estimates Committee",
+      "Committee on Public Undertakings"
+    ],
+    "directive": "Explain / How far",
+    "topics_to_be_studied": [
+      "Types of Parliamentary Committees – Standing and Ad Hoc",
+      "Structure of financial committees – PAC, Estimates Committee, Committee on Public Undertakings",
+      "Role in legislative scrutiny, budget oversight, ensuring accountability",
+      "Impact on transparency, efficiency, and institutional strength of Parliament",
+      "Challenges – politicisation, lack of binding authority, attendance issues"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – Chapter on Parliamentary Committees",
+      "PRS Legislative Research briefs on committee functioning",
+      "Reports from PAC and Estimates Committees",
+      "The Hindu / Indian Express editorials on Parliament's role and reforms",
+      "Rajya Sabha and Lok Sabha Secretariat documents"
+    ],
+    "answer_framework": {
+      "intro": "Mention the importance of the committee system in enabling detailed parliamentary work beyond the floor of the House.",
+      "body": {
+        "part1": "Describe the classification and structure of Parliamentary Committees – Standing (Departmental, Financial) and Ad Hoc.",
+        "part2": "Explain the role of financial committees in budget oversight, audit review, and policy accountability.",
+        "part3": "Assess their contribution to strengthening parliamentary democracy and oversight, with examples."
+      },
+      "conclusion": "The committee system, especially financial committees, has institutionalised Parliament by deepening scrutiny and reinforcing accountability mechanisms."
+    },
+    "linked_current_issues": [
+      "Debates on reforming committee procedures and digitisation",
+      "PAC completing 100 years (2021) and its relevance",
+      "Underutilisation of reports and recommendations by executive"
+    ]
+  },
+  {
+    "question_number": 17,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Governance",
+    "question": "“Development and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.” Do you agree? Give reasons for your answer.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "welfare schemes",
+      "vulnerable sections",
+      "discriminatory approach",
+      "affirmative action",
+      "inclusive governance",
+      "social justice"
+    ],
+    "directive": "Do you agree? Give reasons",
+    "topics_to_be_studied": [
+      "Targeted welfare policies vs. universal schemes",
+      "Constitutional vision of social justice and equity",
+      "Affirmative action and positive discrimination – rationale and ethics",
+      "Examples: SC/ST/OBC/EWS reservations, PMAY, PMJAY, scholarships, pension schemes",
+      "Debate on merit vs. social equity, exclusion errors, political economy of welfare",
+      "Impact of such schemes on empowerment and development outcomes"
+    ],
+    "sources": [
+      "Indian Polity by Laxmikanth – DPSPs and Equality chapters",
+      "Yojana / Kurukshetra on social justice and welfare",
+      "The Hindu / Indian Express editorials on targeted subsidies and exclusion",
+      "Economic Survey – welfare scheme assessments",
+      "NITI Aayog SDG Index and Aspirational Districts Programme"
+    ],
+    "answer_framework": {
+      "intro": "Define the nature of welfare schemes for vulnerable groups and introduce the debate on whether they are inherently discriminatory or not.",
+      "body": {
+        "part1": "Arguments for the statement – targeted schemes exclude others, may distort equality before law.",
+        "part2": "Arguments against – equity ≠ equality; affirmative action corrects historical injustice and systemic marginalisation.",
+        "part3": "Use constitutional morality, examples of empowerment outcomes, and global parallels (e.g., USA’s affirmative action)."
+      },
+      "conclusion": "Such schemes are not discriminatory but essential tools for equitable development and inclusive growth in a socially diverse society like India."
+    },
+    "linked_current_issues": [
+      "Debate on EWS reservation (103rd Amendment)",
+      "Concerns around exclusion in PM-KISAN, PMJAY, and DBT",
+      "Supreme Court observations on merit vs. social justice",
+      "Socio-Economic Caste Census (SECC) data and welfare planning"
+    ]
+  },
+  {
+    "question_number": 18,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "Governance",
+    "question": "Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement analyse the linkages between education, skill and employment.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "skill development",
+      "education",
+      "employment",
+      "human resources",
+      "demographic dividend",
+      "labour market"
+    ],
+    "directive": "Analyse",
+    "topics_to_be_studied": [
+      "Role of education in human capital formation",
+      "Vocational and skill development programmes – PMKVY, Skill India, ITIs, NSDC",
+      "Mismatch between education and employability",
+      "Need for convergence of education policy with employment market needs",
+      "New Education Policy 2020 – emphasis on skilling and experiential learning",
+      "Youth unemployment and underemployment trends"
+    ],
+    "sources": [
+      "Economic Survey – Human Capital and Employment chapters",
+      "NITI Aayog reports on skill development and job creation",
+      "Yojana / Kurukshetra – issues on Skill India and education reforms",
+      "Ministry of Skill Development and Entrepreneurship data",
+      "The Hindu / Indian Express editorials on jobless growth and skilling gaps"
+    ],
+    "answer_framework": {
+      "intro": "Mention India’s demographic potential and the increasing emphasis on skill development to boost employability.",
+      "body": {
+        "part1": "Explain the linkage between education and skill development – foundational learning to applied capability.",
+        "part2": "Discuss how skilling enables transition from education to employment; cite flagship schemes.",
+        "part3": "Analyse gaps – quality of training, alignment with industry needs, need for integrated policy approach."
+      },
+      "conclusion": "Harmonising education, skill development, and employment ecosystems is essential to realise India’s demographic dividend."
+    },
+    "linked_current_issues": [
+      "Periodic Labour Force Survey (PLFS) reports on youth unemployment",
+      "Criticism of PMKVY outcomes",
+      "NEP 2020 implementation progress",
+      "Skill India Mission’s evolving roadmap"
+    ]
+  },
+  {
+    "question_number": 19,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "International Relations",
+    "question": "‘The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India.’ What is your opinion about this statement? Give reasons and examples to support your answer.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "NATO",
+      "US-Europe partnership",
+      "India’s strategic interests",
+      "geopolitics",
+      "Indo-Pacific",
+      "multipolarity"
+    ],
+    "directive": "Give your opinion",
+    "topics_to_be_studied": [
+      "NATO’s evolving role post-Ukraine war",
+      "India’s relations with US, EU, and strategic implications",
+      "Impact of Western alliances on Russia-China axis",
+      "India’s balancing act in a multipolar world – strategic autonomy",
+      "Cooperation with NATO countries in defence, tech, counter-terrorism",
+      "Constraints – India not a NATO ally, historical ties with Russia"
+    ],
+    "sources": [
+      "MEA Annual Reports on bilateral and multilateral ties",
+      "ORF / IDSA papers on NATO and India’s foreign policy",
+      "The Hindu / Indian Express editorials on transatlantic partnerships and Indo-Pacific strategy",
+      "Yojana / Kurukshetra issues on global order and India's strategic outlook",
+      "Statements by Indian officials in Raisina Dialogue or Munich Security Conference"
+    ],
+    "answer_framework": {
+      "intro": "Briefly outline NATO’s strategic relevance and recent resurgence, and its impact on global geopolitics.",
+      "body": {
+        "part1": "Arguments supporting the statement – check on China, defence collaboration, rule-based order, tech and trade cooperation.",
+        "part2": "Counterpoints – NATO focus remains Euro-Atlantic, possible strain on India-Russia relations, India not a member.",
+        "part3": "India’s strategic balancing – leveraging QUAD, I2U2, G20, and bilateral defence ties with US & EU."
+      },
+      "conclusion": "While not directly aligned, a stable and strong transatlantic partnership can indirectly benefit India’s global aspirations if it maintains its strategic autonomy."
+    },
+    "linked_current_issues": [
+      "India-US defence deals (GE jet engine, drones)",
+      "India-EU Trade and Technology Council",
+      "NATO’s outreach to Indo-Pacific partners",
+      "Russia-Ukraine war and India’s diplomatic position"
+    ]
+  },
+  {
+    "question_number": 20,
+    "paper": "GS2",
+    "year": 2023,
+    "subject": "International Relations",
+    "question": "‘Sea is an important Component of the Cosmos’ Discuss in the light of the above statement the role of the IMO (International Maritime Organisation) in protecting environment and enhancing maritime safety and security.",
+    "marks": 15,
+    "level": "Moderate",
+    "keywords": [
+      "IMO",
+      "International Maritime Organisation",
+      "maritime safety",
+      "marine environment",
+      "UNCLOS",
+      "shipping regulations"
+    ],
+    "directive": "Discuss",
+    "topics_to_be_studied": [
+      "Role and structure of IMO as a UN specialized agency",
+      "IMO conventions – MARPOL, SOLAS, Ballast Water Management, STCW, etc.",
+      "Environmental protection – oil pollution, ship emissions, ballast water discharge",
+      "Maritime safety – navigation standards, seafarer training, accident prevention",
+      "IMO’s role in global shipping governance and sustainable development (SDG 14)",
+      "India’s engagement with IMO and maritime priorities"
+    ],
+    "sources": [
+      "IMO official website (imo.org)",
+      "UN documents on sustainable development and oceans (SDG 14)",
+      "ORF / IDSA papers on maritime governance",
+      "The Hindu / Indian Express editorials on marine pollution, maritime safety",
+      "Yojana / Kurukshetra articles on blue economy and maritime affairs"
+    ],
+    "answer_framework": {
+      "intro": "Highlight the centrality of oceans in global ecology, economy, and human life – and the need for global governance.",
+      "body": {
+        "part1": "Explain IMO’s mandate and global role in regulating international shipping and maritime safety.",
+        "part2": "Discuss major conventions and frameworks adopted under IMO to protect the marine environment.",
+        "part3": "Mention India’s active participation and implications for maritime security and environmental compliance."
+      },
+      "conclusion": "As the guardian of oceans, IMO plays a crucial role in balancing growth and sustainability across global maritime domains."
+    },
+    "linked_current_issues": [
+      "Carbon intensity targets and IMO’s decarbonisation strategy (MEPC resolutions)",
+      "Shipping safety and oil spill responses",
+      "India’s maritime ambitions under SAGAR and Indo-Pacific framework",
+      "Debates on equity in IMO’s global emission reduction targets"
+    ]
   }
 ]
