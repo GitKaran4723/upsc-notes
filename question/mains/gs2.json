@@ -1009,7 +1009,8 @@
       "Allegations of judicial 'softness' towards executive",
       "Recent statements by SC and HC judges on independence",
       "Judges' post-retirement appointments"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 2,
@@ -1056,7 +1057,8 @@
       "Recent Lok Adalat performance data",
       "NALSA’s outreach during COVID-19 lockdown",
       "Push for digital legal services and e-Lok Adalats"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 3,
@@ -1104,7 +1106,8 @@
       "State Finance Commissions delay in fund devolution",
       "World Bank studies on India’s urban finance gap",
       "NITI Aayog’s push for municipal bonds and fiscal discipline in ULBs"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 4,
@@ -1149,7 +1152,8 @@
       "Debates on Constitutional amendments and limits of legislative power",
       "Judiciary–legislature tussles (e.g., NJAC case)",
       "Basic structure doctrine reaffirmed in recent rulings"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 5,
@@ -1197,7 +1201,8 @@
       "Maharashtra and Arunachal Pradesh Assembly disqualification cases",
       "Debates on giving Speaker’s anti-defection powers to an independent authority",
       "Frequent disruptions in State Assemblies"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 6,
@@ -1246,7 +1251,8 @@
       "ASER Report findings on learning outcomes",
       "Implementation of National Education Policy (NEP) 2020",
       "Global Human Capital Index rankings"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 7,
@@ -1294,7 +1300,8 @@
       "CCI's probe into Apple’s App Store policies",
       "Merger control in e-commerce and retail sector",
       "Competition (Amendment) Act, 2023"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 8,
@@ -1343,7 +1350,8 @@
       "Cybersecurity issues in government portals",
       "Status of Digital India targets",
       "India’s performance in UN e-Government Development Index"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 9,
@@ -1391,7 +1399,8 @@
       "India-China border tensions",
       "Russia-Ukraine war impact on SCO unity",
       "India’s resistance to China’s BRI agenda within SCO"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 10,
@@ -1439,7 +1448,8 @@
       "Record remittance inflows in 2022-23",
       "India-US diaspora tech corridor",
       "Concerns about Khalistani influence among select diaspora groups"
-    ]
+    ],
+    "word_limit": 150
   },
   {
     "question_number": 11,
@@ -1488,7 +1498,8 @@
       "Application of right to life in digital age and surveillance",
       "Climate justice as part of Article 21",
       "Recent SC rulings affirming dignity and autonomy"
-    ]
+    ],
+    "word_limit": 250
   },
   {
     "question_number": 12,
@@ -1535,7 +1546,8 @@
       "Supreme Court rulings on same-sex marriage and marital rape exceptions",
       "Women’s reservation in legislatures (Women's Reservation Bill)",
       "Gender budgeting and SDG-5 implementation"
-    ]
+    ],
+    "word_limit": 250
   },
   {
     "question_number": 13,
@@ -1582,7 +1594,8 @@
       "Occasional invocation of Article 356 in recent years (e.g., Arunachal, Uttarakhand, Maharashtra)",
       "Judicial interventions in floor tests and Assembly dissolution",
       "Debates around Governor’s role and Centre-State dynamics"
-    ]
+    ],
+    "word_limit": 250
   },
   {
     "question_number": 14,
@@ -1630,7 +1643,8 @@
       "Women’s under-representation in state assemblies",
       "Grassroots movements for Panchayati Raj inclusion scaling up to state levels",
       "SDG-5 (Gender Equality) progress reports"
-    ]
+    ],
+    "word_limit": 250
   },
   {
     "question_number": 15,
@@ -1677,7 +1691,8 @@
       "GST Council decisions on rate rationalisation",
       "Judicial comments on the binding nature of GST Council",
       "Discussion on improving federal fiscal balance post-COVID"
-    ]
+    ],
+    "word_limit": 250
   },
   {
     "question_number": 16,
@@ -1723,7 +1738,8 @@
       "Debates on reforming committee procedures and digitisation",
       "PAC completing 100 years (2021) and its relevance",
       "Underutilisation of reports and recommendations by executive"
-    ]
+    ],
+    "word_limit": 250
   },
   {
     "question_number": 17,
@@ -1771,7 +1787,8 @@
       "Concerns around exclusion in PM-KISAN, PMJAY, and DBT",
       "Supreme Court observations on merit vs. social justice",
       "Socio-Economic Caste Census (SECC) data and welfare planning"
-    ]
+    ],
+    "word_limit": 250
   },
   {
     "question_number": 18,
@@ -1819,7 +1836,8 @@
       "Criticism of PMKVY outcomes",
       "NEP 2020 implementation progress",
       "Skill India Mission’s evolving roadmap"
-    ]
+    ],
+    "word_limit": 250
   },
   {
     "question_number": 19,
@@ -1867,7 +1885,8 @@
       "India-EU Trade and Technology Council",
       "NATO’s outreach to Indo-Pacific partners",
       "Russia-Ukraine war and India’s diplomatic position"
-    ]
+    ],
+    "word_limit": 250
   },
   {
     "question_number": 20,
@@ -1915,6 +1934,7 @@
       "Shipping safety and oil spill responses",
       "India’s maritime ambitions under SAGAR and Indo-Pacific framework",
       "Debates on equity in IMO’s global emission reduction targets"
-    ]
+    ],
+    "word_limit": 250
   }
 ]
