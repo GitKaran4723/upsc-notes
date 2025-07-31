@@ -1,0 +1,571 @@
+[
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to the UNSC 1267 Sanctions Committee, consider the following statements:",
+    "statements": [
+      "It is a permanent body composed only of the five permanent members of the United Nations Security Council.",
+      "The Committee maintains a sanctions list of individuals and entities associated with Al Qaeda and Da’esh (ISIS).",
+      "Sanctions imposed by the Committee include travel bans, asset freezes, and arms embargoes."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "The UNSC 1267 Committee comprises all 15 UNSC members and not just the permanent ones. It maintains a blacklist of Al Qaeda and Da’esh-affiliated individuals and enforces travel bans, asset freezes, and arms embargoes. \n\nSee also: [[UN Security Council Resolution 1267]], [[Al-Qaeda]], [[ISIS]].",
+    "tags": "International Relations, Security"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to India–UAE relations, consider the following statements:",
+    "statements": [
+      "The India–UAE Comprehensive Economic Partnership Agreement (CEPA) was signed in 2022.",
+      "The India-UAE defence relationship includes regular military exercises such as Desert Flag and Desert Cyclone."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "India and UAE signed the CEPA in 2022 to boost trade and investment. Defence ties have strengthened with exercises like Desert Flag and Desert Cyclone. \n\nSee also: [[India–UAE relations]], [[Desert Flag]], [[Comprehensive Economic Partnership Agreement]].",
+    "tags": "International Relations, Economy, Defence"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following statements about Leprosy (Hansen’s Disease):",
+    "statements": [
+      "It is caused by Mycobacterium leprae and primarily affects the skin and peripheral nerves.",
+      "Leprosy is highly contagious and can spread through casual contact.",
+      "The WHO classifies leprosy into Paucibacillary and Multibacillary types based on bacterial load."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Leprosy is caused by Mycobacterium leprae and mainly affects the skin and nerves. It is not highly contagious. WHO classifies it into PB and MB types. \n\nSee: [[Leprosy]], [[Mycobacterium leprae]], [[Paucibacillary leprosy]].",
+    "tags": "Health, WHO, Diseases"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to recent initiatives by the Ministry of Statistics and Programme Implementation (MoSPI), consider the following statements:",
+    "statements": [
+      "The new base year for the Consumer Price Index (CPI) will be 2024.",
+      "MoSPI plans to use GST data and UPI transactions for GDP calculations.",
+      "The Annual Survey of Service Sector Enterprises (ASSSE) has already been implemented across India.",
+      "National Household Travel Survey (NHTS) will collect data on inter-country tourism."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "MoSPI is revising CPI with 2024 as the base year and using GST, UPI data for economic estimation. ASSSE is yet to be implemented (Jan 2026), and NHTS is domestic, not international. \n\nSee: [[Consumer Price Index]], [[MoSPI]], [[National Household Travel Survey]].",
+    "tags": "Economy, Statistics, Governance"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to the Ministry of Statistics and Programme Implementation (MoSPI), consider the following statements:",
+    "statements": [
+      "MoSPI is responsible for compiling the Consumer Price Index (CPI) and Index of Industrial Production (IIP).",
+      "The National Statistical Commission (NSC) under MoSPI is a constitutional body.",
+      "MoSPI supervises the Twenty Point Programme and Members of Parliament Local Area Development Scheme (MPLADS)."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "MoSPI compiles CPI and IIP, and supervises MPLADS and the Twenty Point Programme. The NSC is not a constitutional body—it is an advisory one set up by resolution. \n\nSee: [[MoSPI]], [[Consumer Price Index]], [[National Statistical Commission]].",
+    "tags": "Economy, Governance, Statistics"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to custodial torture and police reforms in India, consider the following statements:",
+    "statements": [
+      "India has ratified the United Nations Convention Against Torture (UNCAT).",
+      "The Supreme Court in D.K. Basu v. State of West Bengal laid down guidelines to prevent custodial violence.",
+      "The PEACE model of interrogation, adopted by countries like the UK and Norway, emphasizes non-coercive techniques and rapport-building.",
+      "The Law Commission of India has recommended the enactment of a standalone anti-torture law."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "2, 3 and 4 only",
+    "explanation": "India has not yet ratified UNCAT. The D.K. Basu case laid down custodial safeguards. The PEACE model and the Law Commission both promote humane interrogation practices. \n\nSee: [[United Nations Convention Against Torture]], [[D.K. Basu v. State of West Bengal]], [[PEACE model]].",
+    "tags": "Polity, Internal Security, Police Reforms"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following statements is/are correct regarding the PEACE model of interrogation?",
+    "statements": [
+      "It involves preparation, engagement, and evaluation as core steps.",
+      "It was developed in India and used by the NHRC.",
+      "It aims to obtain confessions through psychological pressure.",
+      "It reduces false confessions by emphasizing rapport and open-ended questions."
+    ],
+    "options": [
+      "1 and 4 only",
+      "2 and 3 only",
+      "1, 2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 4 only",
+    "explanation": "The PEACE model—used in UK, Norway—stands for Preparation, Engage, Account, Closure, and Evaluation. It is designed to reduce coercion and false confessions, not promote psychological pressure. \n\nSee: [[PEACE model]], [[Interrogation techniques]].",
+    "tags": "Internal Security, Ethics in Policing"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which one of the following statements regarding the Comprehensive Economic Partnership Agreement (CEPA) signed between India and UAE in 2022 is correct?",
+    "statements": [],
+    "options": [
+      "It aims to eliminate all tariffs between both countries over 10 years.",
+      "It allows for the creation of a common currency for bilateral trade.",
+      "It promotes digital rupee and AANI transactions only for NRIs.",
+      "It enhances market access and reduces tariffs to boost trade in goods, services, and investments."
+    ],
+    "correct_option": "It enhances market access and reduces tariffs to boost trade in goods, services, and investments.",
+    "explanation": "India-UAE CEPA focuses on easing trade, reducing tariffs, and enabling greater investments across sectors. It doesn’t aim at a common currency or restrict benefits to NRIs. \n\nSee: [[India–UAE CEPA]], [[Free Trade Agreement]].",
+    "tags": "Economy, International Relations, Trade Agreements"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following about the National Household Travel Survey (NHTS):",
+    "statements": [
+      "It is launched by MoSPI to collect data on household travel within India.",
+      "It includes questions about reasons, duration, and modes of domestic travel.",
+      "It is focused exclusively on international tourism data."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "NHTS is a MoSPI initiative aimed at understanding domestic travel patterns within India. It does not cover international tourism. \n\nSee: [[National Household Travel Survey]], [[MoSPI]].",
+    "tags": "Economy, Governance, Statistics"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following statements correctly describe the role of MoSPI in India?",
+    "statements": [
+      "It publishes the CPI and IIP indices.",
+      "It monitors the MPLADS scheme.",
+      "It sets statistical standards for nationwide data collection.",
+      "It regulates inflation through monetary policy instruments."
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "MoSPI handles CPI, IIP, and MPLADS monitoring, along with standardizing data collection. Inflation regulation is the RBI’s role, not MoSPI’s. \n\nSee: [[MoSPI]], [[MPLADS]], [[CPI]], [[RBI]].",
+    "tags": "Economy, Governance, Statistics"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "With reference to the National Legal Services Authority (NALSA), consider the following statements:",
+    "statements": [
+      "NALSA was established under the Legal Services Authorities Act, 1987, to provide free legal aid to marginalized sections of society.",
+      "The Chief Justice of India is the Patron-in-Chief of NALSA, while the Executive Chairman is the second senior-most judge of the Supreme Court.",
+      "NALSA provides legal assistance only to individuals with income below ₹1 lakh, regardless of their category."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "NALSA was created under the Legal Services Authorities Act, 1987. The CJI is Patron-in-Chief and the second senior-most SC judge is Executive Chairman. Legal aid is provided not only based on income but also to women, SC/ST, prisoners, etc. \n\nSee: [[National Legal Services Authority]], [[Legal Services Authorities Act 1987]].",
+    "tags": "Polity, Social Justice, Governance"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following types of cases can be adjudicated by Lok Adalats?",
+    "statements": [
+      "Civil cases",
+      "Cheque bounce cases",
+      "Motor accident claims",
+      "Non-compoundable criminal cases"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "Lok Adalats can handle civil matters, cheque bounce, and motor accident claims. They cannot take up non-compoundable criminal cases like murder or rape. \n\nSee: [[Lok Adalat]], [[Alternative Dispute Resolution]].",
+    "tags": "Polity, Governance, Law"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following statements regarding Legal Aid Defence Counsel (LADC) system:",
+    "statements": [
+      "It was launched by NALSA in 2022.",
+      "It functions similarly to the public defender system in the USA.",
+      "It provides legal aid to both civil and criminal litigants."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The LADC scheme, launched in 2022, focuses on criminal defence for the poor and works like the US public defender model. It is not for civil litigation. \n\nSee: [[Legal Aid Defence Counsel]], [[NALSA]].",
+    "tags": "Polity, Law, Governance"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following Constitutional provisions support free legal aid in India?",
+    "statements": [
+      "Article 14: Equality before law",
+      "Article 22(1): Right to counsel for the arrested",
+      "Article 39A: Free legal aid and equal justice"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "All of the above",
+    "explanation": "Articles 14, 22(1), and 39A provide a constitutional basis for free legal aid and ensure access to justice for all. \n\nSee: [[Article 39A of Indian Constitution]], [[Right to Legal Aid]].",
+    "tags": "Polity, Constitution, Social Justice"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "What is a key feature of awards passed by Lok Adalats?",
+    "statements": [],
+    "options": [
+      "They are advisory in nature and not binding.",
+      "They can be appealed in High Court.",
+      "They are final and binding with no appeal, but dissatisfied parties may file a fresh suit.",
+      "They are binding only if registered in a regular court."
+    ],
+    "correct_option": "They are final and binding with no appeal, but dissatisfied parties may file a fresh suit.",
+    "explanation": "Lok Adalat awards are binding like civil court decrees and non-appealable. However, fresh suits can be filed in regular courts. \n\nSee: [[Lok Adalat]], [[Legal Services Authorities Act]].",
+    "tags": "Polity, Judiciary, Law"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following groups are eligible for free legal aid under NALSA provisions?",
+    "statements": [
+      "Women and children",
+      "Persons with disabilities",
+      "Victims of trafficking",
+      "Industrial workers"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "All of the above",
+    "explanation": "Under NALSA, legal aid is provided to a wide range of vulnerable groups including women, children, disabled, victims of disasters and trafficking, and industrial workers. \n\nSee: [[National Legal Services Authority]], [[Free Legal Aid]].",
+    "tags": "Governance, Polity, Social Justice"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which one of the following is not an initiative or publication of the Ministry of Statistics and Programme Implementation (MoSPI)?",
+    "statements": [],
+    "options": [
+      "EnviStats India",
+      "eSankhyiki Portal",
+      "National Accounts Statistics",
+      "India Development Report"
+    ],
+    "correct_option": "India Development Report",
+    "explanation": "India Development Report is published by IGIDR, not MoSPI. The rest are MoSPI’s initiatives for data dissemination. \n\nSee: [[MoSPI]], [[EnviStats]], [[eSankhyiki]].",
+    "tags": "Economy, Governance, Statistics"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "What is the key purpose of the National Household Travel Survey (NHTS) launched by MoSPI?",
+    "statements": [],
+    "options": [
+      "To promote domestic tourism through subsidies",
+      "To collect data on how households travel and their transport usage",
+      "To assess tourism's contribution to GDP",
+      "To evaluate passenger satisfaction with public transport"
+    ],
+    "correct_option": "To collect data on how households travel and their transport usage",
+    "explanation": "NHTS aims to understand household travel patterns including purpose, duration, and modes of transport used within India. \n\nSee: [[National Household Travel Survey]], [[MoSPI]].",
+    "tags": "Economy, Governance, Infrastructure"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following best explains the role of the Index of Industrial Production (IIP)?",
+    "statements": [],
+    "options": [
+      "It tracks agricultural output in real time.",
+      "It measures the changes in factory output in India over time.",
+      "It calculates national income across industrial categories.",
+      "It ranks industrial states based on investment."
+    ],
+    "correct_option": "It measures the changes in factory output in India over time.",
+    "explanation": "IIP is a statistical measure that reflects the growth in various industrial sectors, including manufacturing, mining, and electricity. \n\nSee: [[Index of Industrial Production]], [[MoSPI]].",
+    "tags": "Economy, Statistics, Industry"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Why is MoSPI planning to revise the base year of GDP, IIP, and CPI series?",
+    "statements": [],
+    "options": [
+      "To match UN guidelines on GDP accounting",
+      "To remove the effect of inflation completely",
+      "To reflect structural changes like GST and digitalization",
+      "To align with the WTO trade monitoring mechanism"
+    ],
+    "correct_option": "To reflect structural changes like GST and digitalization",
+    "explanation": "Base year revision helps in capturing structural changes such as GST implementation, changes in consumption, and digital payments which affect economic metrics. \n\nSee: [[Base Year Revision in GDP]], [[GST in India]].",
+    "tags": "Economy, Statistics, Reforms"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Consider the following statements regarding MoSPI’s use of new data sources:",
+    "statements": [
+      "MoSPI is integrating GST and UPI data to enhance statistical accuracy.",
+      "E-Vahan and web scraping are being used to improve real-time data collection.",
+      "MoSPI now uses real-time satellite data to calculate IIP.",
+      "Online prices like airfare and petrol are part of MoSPI’s price monitoring strategy."
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "MoSPI is incorporating GST, UPI, e-Vahan, online prices, and web scraping to improve data quality. Satellite data is not mentioned for IIP calculation. \n\nSee: [[MoSPI Data Initiatives]], [[UPI]], [[E-Vahan]].",
+    "tags": "Economy, Governance, Technology in Governance"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following indicators are published by MoSPI?",
+    "statements": [
+      "Consumer Price Index (CPI)",
+      "Index of Industrial Production (IIP)",
+      "Wholesale Price Index (WPI)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "MoSPI publishes CPI and IIP. WPI is published by the Office of the Economic Adviser under the Ministry of Commerce and Industry. \n\nSee: [[CPI India]], [[IIP India]], [[WPI]].",
+    "tags": "Economy, Statistics, Governance"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following surveys are recently launched by MoSPI to study tourism behavior?",
+    "statements": [
+      "National Household Travel Survey (NHTS)",
+      "Domestic Tourism Expenditure Survey (DTES)",
+      "Periodic Labour Force Survey (PLFS)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "MoSPI launched NHTS and DTES in July 2025 to understand travel and expenditure patterns. PLFS is a separate ongoing labour-related survey. \n\nSee: [[NHTS]], [[DTES]], [[MoSPI Surveys]].",
+    "tags": "Economy, Tourism, Statistics"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "The PEACE model of interrogation emphasizes:",
+    "statements": [],
+    "options": [
+      "Applying physical and psychological pressure to extract confessions",
+      "Open-ended questioning, rapport-building, and recording of interrogations",
+      "Speedy conclusion of trials via plea bargaining",
+      "Use of third-degree methods with legal safeguards"
+    ],
+    "correct_option": "Open-ended questioning, rapport-building, and recording of interrogations",
+    "explanation": "The PEACE model promotes ethical and effective interrogation methods used in countries like the UK and Norway, focusing on truth and transparency. \n\nSee: [[PEACE Model of Interrogation]], [[Police Reforms]].",
+    "tags": "Internal Security, Ethics, Policing"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following are among the key causes of custodial violence in India as per the recent article?",
+    "statements": [
+      "Lack of training and poor infrastructure",
+      "Pressure for immediate results",
+      "Effective judicial oversight and accountability",
+      "Societal tolerance towards torture"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "The article highlights lack of training, urgent pressure for results, and societal normalization of violence as key reasons. Judicial oversight is weak, not effective. \n\nSee: [[Custodial violence in India]], [[Police Reforms]].",
+    "tags": "Polity, Internal Security, Ethics"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following recommendations were made to reduce custodial violence in India?",
+    "statements": [
+      "Enacting a standalone anti-torture law",
+      "Ratifying the UN Convention Against Torture",
+      "Training police in non-coercive models like PEACE",
+      "Setting up special fast-track courts for police trials"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "Recommendations include legal reform, ratifying UNCAT, and adopting the PEACE model. Fast-track courts are not explicitly recommended in the article. \n\nSee: [[Anti-torture law in India]], [[UNCAT]], [[Police Reform]].",
+    "tags": "Polity, Internal Security, Governance"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "The ‘India-Middle East-Europe Economic Corridor (IMEC)’ aims to:",
+    "statements": [],
+    "options": [
+      "Counter China’s Belt and Road Initiative through a transparent infrastructure plan",
+      "Establish a military alliance in the Indian Ocean region",
+      "Promote uniform taxation for maritime trade",
+      "Replace BRICS trade routes with a western alliance corridor"
+    ],
+    "correct_option": "Counter China’s Belt and Road Initiative through a transparent infrastructure plan",
+    "explanation": "IMEC is designed to improve connectivity from India to Europe via the Middle East and is seen as a counterweight to China’s BRI. \n\nSee: [[IMEC]], [[Belt and Road Initiative]], [[Global Infrastructure]].",
+    "tags": "International Relations, Infrastructure, Economy"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "What does the Domestic Tourism Expenditure Survey (DTES) measure?",
+    "statements": [],
+    "options": [
+      "Foreign exchange earned by India through tourism",
+      "Spending patterns of households on domestic travel",
+      "Tourism-related tax revenues for local bodies",
+      "State-wise hotel ratings and occupancy rates"
+    ],
+    "correct_option": "Spending patterns of households on domestic travel",
+    "explanation": "DTES is launched by MoSPI to gather data on how much households spend on travel, food, and lodging during domestic tourism. \n\nSee: [[DTES]], [[MoSPI Tourism Surveys]].",
+    "tags": "Tourism, Economy, Statistics"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "Which of the following sectors are monitored under the new Annual Survey of Service Sector Enterprises (ASSSE)?",
+    "statements": [
+      "Banking",
+      "Information Technology (IT)",
+      "Construction of highways",
+      "Hotels and hospitality"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "ASSSE will focus on formal service sectors like banking, IT, and hotels. Construction (especially highways) falls under industrial surveys, not service surveys. \n\nSee: [[ASSSE]], [[Service Sector Survey in India]].",
+    "tags": "Economy, Services Sector, Governance"
+  },
+  {
+    "date": "31",
+    "month": "July",
+    "year": "2025",
+    "question": "The ‘Nikusth’ platform launched by the Government of India is related to:",
+    "statements": [],
+    "options": [
+      "Monitoring cancer screening and treatment",
+      "Tracking cases of tuberculosis in tribal areas",
+      "Online tracking of leprosy cases under NLEP",
+      "Providing nutritional status data for children"
+    ],
+    "correct_option": "Online tracking of leprosy cases under NLEP",
+    "explanation": "Nikusth is a digital platform used under the National Leprosy Eradication Programme (NLEP) to monitor and manage leprosy case data in real-time. \n\nSee: [[Nikusth]], [[Leprosy in India]], [[NLEP]].",
+    "tags": "Health, Digital Governance, Social Welfare"
+  }
+]
