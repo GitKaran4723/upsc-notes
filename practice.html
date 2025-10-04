@@ -2,105 +2,482 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>UPSC Practice Questions</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>UPSC Practice Questions — Daily Sets</title>
 
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/syllabus.css">
-    <link rel="stylesheet" href="css/news.css">
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50:'#fff7ed',100:'#ffedd5',200:'#fed7aa',300:'#fdba74',400:'#fb923c',
+              500:'#f97316',600:'#ea580c',700:'#c2410c',800:'#9a3412',900:'#7c2d12'
+            }
+          },
+          boxShadow: {
+            soft: '0 12px 32px rgba(0,0,0,.08)',
+            ring: '0 0 0 8px rgba(251, 191, 36, .15)'
+          }
+        }
+      }
+    }
+  </script>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <!-- Icons -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+  <style>
+    html { scroll-behavior: smooth; }
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+    .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+    .glass { background: rgba(255,255,255,.7); backdrop-filter: blur(10px); }
+    .pressed { transform: translateY(1px); }
+    .skeleton {
+      background: linear-gradient(90deg,#eee, #f5f5f5, #eee);
+      background-size: 200% 100%; animation: shimmer 1.2s ease-in-out infinite;
+    }
+    @keyframes shimmer { 0%{background-position: 200% 0} 100%{background-position: -200% 0} }
+  </style>
 </head>
 
-<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900 relative overflow-x-hidden">
+<body class="min-h-screen bg-gradient-to-br from-amber-50 via-white to-amber-100 text-gray-900 selection:bg-amber-200/60">
 
-    <!-- Header -->
-    <header class="bg-gray-900 text-white flex justify-between items-center p-4 sticky top-0 z-50 shadow-md">
-        <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Daily Practice Questions</h1>
-        <a href="/upsc-notes/" class="text-sm hover:text-yellow-300">Back to Home</a>
-    </header>
+  <!-- Top bar -->
+  <header class="sticky top-0 z-50 glass border-b border-amber-200/70">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-3">
+      <div class="flex items-center gap-3">
+        <span class="p-2 rounded-xl bg-amber-100 text-amber-700">
+          <i class="fa-solid fa-calendar-check"></i>
+        </span>
+        <div>
+          <h1 class="text-lg sm:text-xl font-bold tracking-wide">
+            UPSC CSE — Daily Practice Questions
+          </h1>
+          <p class="text-xs sm:text-sm text-gray-600">Curated daily sets for Prelims 2026</p>
+        </div>
+      </div>
 
-    <!-- Overview -->
-    <section class="py-6 px-4 bg-yellow-100 text-center">
-        <h2 class="text-2xl font-semibold text-yellow-800">Stay Practiced. Stay Ahead.</h2>
-        <p class="max-w-3xl mx-auto mt-2 text-sm text-gray-700">
-            Explore daily UPSC <strong>Practice Questions</strong> curated for <strong>Prelims 2026</strong>.
-            Click a date to begin your session.
-        </p>
-    </section>
+      <div class="flex items-center gap-2">
+        <a href="/upsc-notes/" class="hidden sm:inline text-sm text-gray-700 hover:text-amber-700">Back to Home</a>
+        <button id="themeToggle" class="rounded-lg border border-amber-300 bg-white hover:bg-amber-50 px-3 py-2 text-sm">
+          <i class="fa-solid fa-circle-half-stroke"></i>
+        </button>
+      </div>
+    </div>
+  </header>
 
-    <!-- Practice Section -->
-    <section class="p-4">
-        <h3 class="text-xl font-semibold mb-4 text-center text-gray-800">Select a date to start practice</h3>
-        <div id="practice-container" class="flex flex-wrap gap-3 justify-center text-sm"></div>
-    </section>
+  <!-- Hero / Overview -->
+  <section class="px-4 pt-6 pb-4">
+    <div class="max-w-6xl mx-auto">
+      <div class="rounded-2xl bg-gradient-to-r from-amber-100 to-amber-50 border border-amber-200 p-5 md:p-6 shadow-soft">
+        <div class="flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+          <div>
+            <h2 class="text-2xl font-semibold text-amber-800">Stay Practiced. Stay Ahead.</h2>
+            <p class="mt-1 text-sm text-gray-700">
+              Pick a date to start your session. Track consistency and revisit recent sets quickly.
+            </p>
+          </div>
+          <div class="flex items-center gap-2">
+            <button id="latestBtn"
+                    class="inline-flex items-center gap-2 rounded-lg bg-gray-900 text-white px-4 py-2 shadow-soft hover:opacity-90">
+              <i class="fa-solid fa-bolt"></i><span>Jump to Latest</span>
+            </button>
+            <button id="clearSearch"
+                    class="hidden md:inline-flex items-center gap-2 rounded-lg bg-white border border-amber-300 px-4 py-2 text-sm hover:bg-amber-50">
+              <i class="fa-solid fa-eraser"></i><span>Clear Filters</span>
+            </button>
+          </div>
+        </div>
+        <div class="mt-4 grid grid-cols-1 md:grid-cols-3 gap-3">
+          <div class="flex items-center gap-2 text-sm text-gray-700">
+            <i class="fa-solid fa-check-double text-emerald-600"></i>
+            Practice daily to build recall & speed.
+          </div>
+          <div class="flex items-center gap-2 text-sm text-gray-700">
+            <i class="fa-regular fa-clock text-blue-600"></i>
+            Short, focused sessions fit any schedule.
+          </div>
+          <div class="flex items-center gap-2 text-sm text-gray-700">
+            <i class="fa-solid fa-rotate text-amber-700"></i>
+            Revisit recent dates with one click.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-    <script>
-        async function loadPracticeDates() {
-            const container = document.getElementById('practice-container');
-            try {
-                const response = await fetch('./question/practice/metadata.json');
-                const metadata = await response.json();
+  <!-- Toolbar -->
+  <section class="px-4">
+    <div class="max-w-6xl mx-auto">
+      <div class="flex flex-col md:flex-row items-stretch md:items-center gap-3">
+        <div class="flex-1 relative">
+          <i class="fa-solid fa-magnifying-glass absolute left-3 top-3 text-gray-500"></i>
+          <input id="search"
+                 class="w-full pl-10 pr-3 py-2 rounded-xl border border-amber-300 bg-white placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-amber-400"
+                 placeholder="Search month (e.g., June) or year (e.g., 2025)…"/>
+        </div>
+        <div class="flex items-center gap-2">
+          <select id="yearSelect"
+                  class="rounded-xl border border-amber-300 bg-white px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400">
+            <option value="all">All Years</option>
+          </select>
+          <select id="monthSelect"
+                  class="rounded-xl border border-amber-300 bg-white px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400">
+            <option value="all">All Months</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </section>
 
-                const sortedYears = Object.keys(metadata).sort((a, b) => b - a);
+  <!-- Main content -->
+  <section class="p-4">
+    <div class="max-w-6xl mx-auto">
+      <h3 class="text-xl font-semibold mb-4 text-center text-gray-800">Select a date to start practice</h3>
 
-                for (const year of sortedYears) {
-                    const yearCard = document.createElement('div');
-                    yearCard.className = 'bg-white shadow-lg rounded-xl border border-yellow-200 p-6';
+      <!-- Stats row -->
+      <div id="statsRow" class="mb-4 hidden">
+        <div class="flex flex-wrap items-center justify-center gap-2 text-xs text-gray-600">
+          <span class="inline-flex items-center gap-1 bg-white border border-amber-200 rounded-full px-3 py-1">
+            <i class="fa-regular fa-calendar"></i> <span id="totalSets">0</span> total sets
+          </span>
+          <span class="inline-flex items-center gap-1 bg-white border border-amber-200 rounded-full px-3 py-1">
+            <i class="fa-regular fa-clock"></i> <span id="latestStamp">—</span> latest
+          </span>
+        </div>
+      </div>
 
-                    const yearHeading = document.createElement('h4');
-                    yearHeading.textContent = `Year ${year}`;
-                    yearHeading.className = 'text-xl font-bold text-gray-900 mb-4 border-b pb-2';
-                    yearCard.appendChild(yearHeading);
+      <!-- Container -->
+      <div id="practice-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
 
-                    const months = Object.keys(metadata[year]).sort((a, b) => {
-                        const dateA = new Date(`${year} ${a} 01`);
-                        const dateB = new Date(`${year} ${b} 01`);
-                        return dateB - dateA;
-                    });
+      <!-- Empty / error -->
+      <div id="emptyState" class="hidden mt-8 text-center">
+        <div class="mx-auto w-16 h-16 rounded-2xl bg-amber-100 text-amber-700 flex items-center justify-center">
+          <i class="fa-regular fa-face-frown text-2xl"></i>
+        </div>
+        <p class="mt-3 text-gray-700 font-medium">No matching dates found.</p>
+        <p class="text-sm text-gray-500">Try clearing filters or search for another month/year.</p>
+        <button id="resetEmpty"
+                class="mt-3 inline-flex items-center gap-2 rounded-lg bg-gray-900 text-white px-4 py-2 shadow-soft hover:opacity-90">
+          <i class="fa-solid fa-rotate"></i> Reset Filters
+        </button>
+      </div>
 
-                    for (const month of months) {
-                        const monthDiv = document.createElement('div');
-                        monthDiv.className = 'mb-6';
+      <!-- Skeleton (initial) -->
+      <div id="skeletonGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div class="rounded-xl border border-amber-200 bg-white p-5 shadow-soft skeleton h-28"></div>
+        <div class="rounded-xl border border-amber-200 bg-white p-5 shadow-soft skeleton h-28"></div>
+        <div class="rounded-xl border border-amber-200 bg-white p-5 shadow-soft skeleton h-28"></div>
+      </div>
+    </div>
+  </section>
 
-                        const monthHeading = document.createElement('h5');
-                        monthHeading.textContent = month.charAt(0).toUpperCase() + month.slice(1);
-                        monthHeading.className = 'text-lg font-semibold text-yellow-700 mb-2';
-                        monthDiv.appendChild(monthHeading);
+  <!-- Footer quick tips -->
+  <footer class="px-4 pb-10">
+    <div class="max-w-6xl mx-auto">
+      <div class="rounded-2xl bg-white border border-amber-200 p-5 text-sm text-gray-700 shadow-soft">
+        <div class="flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
+          <p class="flex items-center gap-2">
+            <i class="fa-solid fa-lightbulb text-amber-600"></i>
+            Tip: Use <kbd class="px-1.5 py-[2px] rounded border">/</kbd> to focus search. Arrow keys navigate dates inside a year card.
+          </p>
+          <button id="clearAll"
+                  class="inline-flex items-center gap-2 rounded-lg bg-amber-600 text-white px-4 py-2 hover:bg-amber-700">
+            <i class="fa-solid fa-broom"></i> Clear Filters
+          </button>
+        </div>
+      </div>
+    </div>
+  </footer>
 
-                        const btnGroup = document.createElement('div');
-                        btnGroup.className = 'flex flex-wrap gap-2';
+  <script>
+    // -------------------------
+    // Utilities & State
+    // -------------------------
+    const MONTHS = [
+      'january','february','march','april','may','june',
+      'july','august','september','october','november','december'
+    ];
 
-                        const days = metadata[year][month].sort((a, b) => Number(b) - Number(a));
-                        for (const date of days) {
-                            const btn = document.createElement('button');
-                            btn.textContent = date;
-                            btn.className = 'bg-yellow-100 hover:bg-yellow-300 transition-all border border-yellow-400 px-4 py-2 rounded-lg shadow-sm text-gray-900 font-semibold';
-                            btn.onclick = () => {
-                                window.location.href = `/upsc-notes/question.html?year=${year}&month=${month}&date=${date}`;
-                            };
-                            btnGroup.appendChild(btn);
-                        }
+    const $ = sel => document.querySelector(sel);
+    const container = $('#practice-container');
+    const skeletonGrid = $('#skeletonGrid');
+    const emptyState = $('#emptyState');
+    const totalSetsEl = $('#totalSets');
+    const latestStampEl = $('#latestStamp');
+    const statsRow = $('#statsRow');
 
-                        monthDiv.appendChild(btnGroup);
-                        yearCard.appendChild(monthDiv);
-                    }
+    const yearSelect = $('#yearSelect');
+    const monthSelect = $('#monthSelect');
+    const searchInput = $('#search');
 
-                    container.appendChild(yearCard);
-                }
-            } catch (err) {
-                console.error('Error loading practice metadata:', err);
-                container.innerHTML = "<p class='text-red-600 text-center'>⚠️ Failed to load practice dates. Please try again later.</p>";
+    const latestBtn = $('#latestBtn');
+    const clearSearchBtn = $('#clearSearch');
+    const clearAllBtn = $('#clearAll');
+    const resetEmptyBtn = $('#resetEmpty');
+
+    const themeToggle = $('#themeToggle');
+
+    let META = {};          // original metadata
+    let FILTERED = {};      // filtered metadata
+    let LATEST = null;      // {year, month, date}
+
+    function toDateObj(year, month, date) {
+      // Create a comparable Date for sorting (month name -> index)
+      const mi = MONTHS.indexOf(String(month).toLowerCase());
+      return new Date(Number(year), mi >= 0 ? mi : 0, Number(date));
+    }
+
+    function monthTitle(m) {
+      return m.charAt(0).toUpperCase() + m.slice(1);
+    }
+
+    function applyPressed(el) { el.classList.add('pressed'); setTimeout(()=>el.classList.remove('pressed'),120); }
+
+    // -------------------------
+    // Rendering
+    // -------------------------
+    function renderMeta(meta) {
+      container.innerHTML = '';
+      emptyState.classList.add('hidden');
+
+      const years = Object.keys(meta).sort((a, b) => b - a);
+      if (!years.length) {
+        emptyState.classList.remove('hidden');
+        return;
+      }
+
+      let totalSets = 0;
+      let latestDate = null;
+
+      years.forEach(year => {
+        const months = Object.keys(meta[year] || {});
+        if (!months.length) return;
+
+        // Year card
+        const card = document.createElement('section');
+        card.className = 'rounded-2xl bg-white border border-amber-200 p-4 md:p-5 shadow-soft';
+
+        // Header with toggle
+        const hdr = document.createElement('div');
+        hdr.className = 'flex items-center justify-between gap-3';
+        hdr.innerHTML = `
+          <div class="flex items-center gap-2">
+            <span class="inline-flex items-center justify-center w-8 h-8 rounded-xl bg-amber-100 text-amber-700 font-bold">${String(year).slice(-2)}</span>
+            <h4 class="text-lg font-semibold text-gray-900">Year ${year}</h4>
+            <span class="ml-2 text-xs text-gray-600">(${Object.values(meta[year]).reduce((a,b)=>a+b.length,0)} sets)</span>
+          </div>
+          <button class="toggle-btn inline-flex items-center gap-2 rounded-lg bg-gray-900 text-white px-3 py-2 text-sm">
+            <i class="fa-solid fa-chevron-down"></i><span class="hidden sm:inline">Expand</span>
+          </button>
+        `;
+        card.appendChild(hdr);
+
+        // Body
+        const body = document.createElement('div');
+        body.className = 'mt-4 space-y-5 hidden';
+
+        // Month blocks (sorted desc by date)
+        const mSorted = months.sort((a, b) => {
+          const da = toDateObj(year, a, 1);
+          const db = toDateObj(year, b, 1);
+          return db - da;
+        });
+
+        mSorted.forEach(month => {
+          const dates = (meta[year][month] || []).sort((a,b)=>Number(b)-Number(a));
+          if (!dates.length) return;
+
+          // Track latest
+          dates.forEach(d => {
+            totalSets++;
+            const dObj = toDateObj(year, month, d);
+            if (!latestDate || dObj > latestDate) {
+              latestDate = dObj;
+              LATEST = { year, month, date: d };
             }
-        }
+          });
 
-        document.addEventListener('DOMContentLoaded', loadPracticeDates);
-    </script>
+          const wrap = document.createElement('div');
 
+          wrap.innerHTML = `
+            <div class="flex items-center justify-between mb-2">
+              <h5 class="text-[15px] font-semibold text-amber-800">${monthTitle(month)}</h5>
+              <span class="text-xs text-gray-500">${dates.length} set${dates.length>1?'s':''}</span>
+            </div>
+          `;
 
+          const grid = document.createElement('div');
+          grid.className = 'flex flex-wrap gap-2';
+
+          dates.forEach(d => {
+            const btn = document.createElement('a');
+            btn.href = `/upsc-notes/question.html?year=${year}&month=${month}&date=${d}`;
+            btn.className = 'date-btn inline-flex items-center justify-center min-w-[3rem] px-3 py-2 rounded-lg border border-amber-300 bg-amber-50 hover:bg-amber-100 text-gray-900 font-semibold text-sm focus:outline-none focus:ring-2 focus:ring-amber-400';
+            btn.textContent = d;
+            btn.setAttribute('title', `${monthTitle(month)} ${d}, ${year}`);
+            btn.addEventListener('keydown', (e) => {
+              // Arrow navigation within grid
+              if (e.key === 'ArrowRight') { e.preventDefault(); (btn.nextElementSibling || grid.firstElementChild).focus(); }
+              if (e.key === 'ArrowLeft') { e.preventDefault(); (btn.previousElementSibling || grid.lastElementChild).focus(); }
+            });
+            grid.appendChild(btn);
+          });
+
+          wrap.appendChild(grid);
+          body.appendChild(wrap);
+        });
+
+        card.appendChild(body);
+
+        // Toggle
+        hdr.querySelector('.toggle-btn').addEventListener('click', (e) => {
+          applyPressed(e.currentTarget);
+          body.classList.toggle('hidden');
+          e.currentTarget.querySelector('i').classList.toggle('rotate-180');
+          e.currentTarget.querySelector('span')?.classList.toggle('hidden');
+        });
+
+        container.appendChild(card);
+      });
+
+      // Stats
+      totalSetsEl.textContent = totalSets;
+      latestStampEl.textContent = LATEST
+        ? `${monthTitle(LATEST.month)} ${LATEST.date}, ${LATEST.year}`
+        : '—';
+      statsRow.classList.remove('hidden');
+    }
+
+    // -------------------------
+    // Filtering
+    // -------------------------
+    function applyFilters() {
+      const q = (searchInput.value || '').trim().toLowerCase();
+      const yFilter = yearSelect.value;
+      const mFilter = monthSelect.value;
+
+      const res = {};
+      const years = Object.keys(META);
+
+      years.forEach(year => {
+        if (yFilter !== 'all' && String(year) !== yFilter) return;
+
+        const months = Object.keys(META[year]);
+        months.forEach(month => {
+          if (mFilter !== 'all' && month !== mFilter) return;
+
+          const hitsYear = q && String(year).includes(q);
+          const hitsMonth = q && month.includes(q);
+
+          // If search query exists, include only if any part matches
+          if (q && !(hitsYear || hitsMonth)) return;
+
+          const dates = META[year][month];
+          if (!dates || !dates.length) return;
+
+          if (!res[year]) res[year] = {};
+          res[year][month] = dates.slice();
+        });
+      });
+
+      FILTERED = res;
+      renderMeta(FILTERED);
+
+      // If nothing found
+      if (!Object.keys(FILTERED).length) {
+        container.innerHTML = '';
+        emptyState.classList.remove('hidden');
+      }
+    }
+
+    function resetFilters() {
+      searchInput.value = '';
+      yearSelect.value = 'all';
+      monthSelect.value = 'all';
+      FILTERED = structuredClone(META);
+      renderMeta(FILTERED);
+    }
+
+    // -------------------------
+    // Data Load
+    // -------------------------
+    async function loadPracticeDates() {
+      try {
+        const response = await fetch('./question/practice/metadata.json', { cache: 'no-store' });
+        const metadata = await response.json();
+
+        META = metadata || {};
+        FILTERED = structuredClone(META);
+
+        // Populate selects
+        const years = Object.keys(META).sort((a,b)=>b-a);
+        years.forEach(y => {
+          const opt = document.createElement('option');
+          opt.value = y; opt.textContent = y;
+          yearSelect.appendChild(opt);
+        });
+
+        const monthSet = new Set();
+        years.forEach(y => Object.keys(META[y]).forEach(m => monthSet.add(m)));
+        Array.from(monthSet).sort((a,b)=>MONTHS.indexOf(a)-MONTHS.indexOf(b)).forEach(m => {
+          const opt = document.createElement('option');
+          opt.value = m; opt.textContent = monthTitle(m);
+          monthSelect.appendChild(opt);
+        });
+
+        // Render
+        skeletonGrid.classList.add('hidden');
+        renderMeta(FILTERED);
+      } catch (err) {
+        console.error('Error loading practice metadata:', err);
+        skeletonGrid.classList.add('hidden');
+        container.innerHTML = "<p class='text-red-600 text-center'>⚠️ Failed to load practice dates. Please try again later.</p>";
+      }
+    }
+
+    // -------------------------
+    // Events
+    // -------------------------
+    document.addEventListener('DOMContentLoaded', loadPracticeDates);
+
+    // Search focus with '/' key
+    window.addEventListener('keydown', (e) => {
+      if (e.key === '/' && document.activeElement !== searchInput) {
+        e.preventDefault();
+        searchInput.focus();
+      }
+    });
+
+    searchInput.addEventListener('input', applyFilters);
+    yearSelect.addEventListener('change', applyFilters);
+    monthSelect.addEventListener('change', applyFilters);
+
+    clearSearchBtn.addEventListener('click', () => { applyPressed(clearSearchBtn); resetFilters(); });
+    clearAllBtn.addEventListener('click', () => { applyPressed(clearAllBtn); resetFilters(); });
+    resetEmptyBtn.addEventListener('click', () => { applyPressed(resetEmptyBtn); resetFilters(); });
+
+    latestBtn.addEventListener('click', () => {
+      applyPressed(latestBtn);
+      if (!LATEST) return;
+      window.location.href = `/upsc-notes/question.html?year=${LATEST.year}&month=${LATEST.month}&date=${LATEST.date}`;
+    });
+
+    // Small theme toggle (light/dark-ish)
+    themeToggle.addEventListener('click', () => {
+      applyPressed(themeToggle);
+      document.documentElement.classList.toggle('dark');
+      const dark = document.documentElement.classList.contains('dark');
+      document.body.classList.toggle('bg-[#0b0b0b]', dark);
+      document.body.classList.toggle('text-gray-100', dark);
+    });
+  </script>
 </body>
-
 </html>
