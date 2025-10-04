@@ -2,281 +2,541 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Practice Questions</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>UPSC CSE — PYQ Practice (Modern)</title>
+
+  <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#fff7ed',
+              100: '#ffedd5',
+              200: '#fed7aa',
+              300: '#fdba74',
+              400: '#fb923c',
+              500: '#f97316',
+              600: '#ea580c',
+              700: '#c2410c',
+              800: '#9a3412',
+              900: '#7c2d12'
+            }
+          },
+          boxShadow: {
+            soft: '0 8px 24px rgba(0,0,0,0.08)'
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+  <!-- Markdown renderer & sanitizer -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.7/dist/purify.min.js"></script>
+
   <style>
-    .blurred {
-      filter: blur(5px);
-      pointer-events: none;
-    }
-
-    body.modal-open {
-      overflow: hidden;
-    }
-
-    .modal-open img {
-      width: 90%;
-    }
-
-    #loader {
-      position: fixed;
-      inset: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background: rgba(255, 255, 255, 0.9);
-      z-index: 1000;
-    }
-
-    button.no-hover:hover {
-      background-color: inherit !important;
-      cursor: default;
-    }
-
-    .carousel-container {
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      height: calc(100vh - 172px);
-      /* full height minus header + date section */
-    }
-
-    .carousel-slide {
-      flex: 1;
-      overflow-y: auto;
-      padding-bottom: 80px;
-    }
-
-    .overlay-controls {
-      background: rgba(255, 255, 255, 0.95);
-      backdrop-filter: blur(6px);
-    }
+    html { scroll-behavior: smooth; }
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+    .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    .glass { background: rgba(255,255,255,0.7); backdrop-filter: blur(10px); }
+    body.modal-open { overflow: hidden; }
+    .fade-in { animation: fade-in .25s ease-out; }
+    @keyframes fade-in { from { opacity: 0 } to { opacity: 1 } }
+    .slide-up { animation: slide-up .25s ease-out; }
+    @keyframes slide-up { from { transform: translateY(6px); opacity: 0 } to { transform: translateY(0); opacity: 1 } }
+    .pressed { transform: translateY(1px); }
   </style>
 </head>
 
-<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900">
-  <div id="loader" class="text-center text-yellow-800">
-    <div>
-      <div class="text-xl font-semibold mb-2">Preparing your test...</div>
-      <div class="w-12 h-12 border-4 border-yellow-400 border-t-transparent rounded-full animate-spin mx-auto"></div>
+<body class="min-h-screen bg-gradient-to-br from-amber-50 via-white to-amber-100 text-gray-900 selection:bg-amber-200/60">
+  <!-- Loader -->
+  <div id="loader" class="fixed inset-0 z-[100] flex items-center justify-center bg-white/90">
+    <div class="text-center text-brand-800">
+      <div class="text-xl font-semibold mb-3">Preparing your test…</div>
+      <div class="w-12 h-12 border-4 border-amber-400 border-t-transparent rounded-full animate-spin mx-auto"></div>
     </div>
   </div>
 
-  <header class="bg-gray-900 text-white p-4 flex justify-between items-center sticky top-0 z-50">
-    <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Previous Year Questions</h1>
-    <a href="/upsc-notes/pyq.html" class="text-sm hover:text-yellow-300">Back to Subjects</a>
+  <!-- Header -->
+  <header class="sticky top-0 z-50 glass border-b border-amber-200/70">
+    <div class="max-w-5xl mx-auto px-4 py-3 flex items-center gap-3 justify-between">
+      <div class="flex items-center gap-3">
+        <div class="p-2 rounded-xl bg-amber-100 text-amber-700"><i class="fa-solid fa-graduation-cap"></i></div>
+        <div>
+          <h1 class="text-lg sm:text-xl font-bold tracking-wide">UPSC CSE — Previous Year Questions</h1>
+          <p id="date-text" class="text-xs sm:text-sm text-gray-600"></p>
+        </div>
+      </div>
+      <a href="/upsc-notes/pyq.html" class="hidden sm:inline text-sm text-gray-700 hover:text-amber-700">Back to Subjects</a>
+    </div>
   </header>
 
-  <section
-    class="flex flex-col sm:flex-row justify-center items-center gap-4 py-4 text-yellow-800 text-lg font-semibold">
-    <div id="date-info" class="text-lg font-semibold text-yellow-800 flex items-center gap-2">
-      📅 <span id="date-text"></span>
+  <!-- Controls -->
+  <section class="max-w-5xl mx-auto px-4 mt-3">
+    <div class="flex flex-col sm:flex-row gap-3 sm:items-center">
+      <div class="flex items-center gap-2">
+        <label for="subject-filter" class="text-sm text-gray-800 font-medium">Subject</label>
+        <select id="subject-filter" class="rounded-lg border border-amber-300 bg-amber-50 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400">
+          <option value="all">All Subjects</option>
+        </select>
+      </div>
+
+      <div class="flex items-center gap-2">
+        <button id="review-toggle" class="rounded-lg border px-3 py-2 text-sm bg-white hover:bg-amber-50 border-amber-300 text-gray-700">
+          <i class="fa-regular fa-bookmark mr-2"></i>Review Later (0)
+        </button>
+        <button id="reset-session" class="rounded-lg px-3 py-2 text-sm bg-amber-600 text-white hover:bg-amber-700">
+          <i class="fa-solid fa-rotate mr-2"></i>Reset Session
+        </button>
+      </div>
     </div>
-    <div class="flex items-center gap-2">
-      <label for="subject-filter" class="text-sm text-gray-800 font-semibold">Filter by Subject:</label>
-      <select id="subject-filter"
-        class="border border-yellow-400 rounded px-3 py-2 text-sm bg-yellow-50 hover:bg-yellow-100 shadow-sm">
-        <option value="all">All Subjects</option>
-      </select>
+
+    <!-- Progress Bar -->
+    <div class="mt-3 h-2 w-full bg-amber-100 rounded-full overflow-hidden">
+      <div id="progress-bar" class="h-full bg-amber-500 transition-all" style="width:0%"></div>
     </div>
   </section>
 
+  <!-- Carousel -->
+  <main class="relative max-w-5xl mx-auto px-4 mt-4">
+    <div id="carousel" class="no-scrollbar h-[calc(100vh-240px)] overflow-y-auto pb-28"></div>
 
-  <div class="relative w-full carousel-container">
-    <div id="question-carousel" class="carousel-slide px-6 md:px-20"></div>
+    <!-- Bottom Controls -->
+    <div class="fixed bottom-0 left-0 right-0 z-40 glass border-t border-amber-200/70">
+      <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-3">
+        <button id="prev-btn" class="inline-flex items-center gap-2 rounded-lg bg-gray-800 text-white px-4 py-2 shadow-soft disabled:opacity-40 disabled:cursor-not-allowed">
+          <i class="fa-solid fa-arrow-left"></i><span class="hidden sm:inline">Prev</span>
+        </button>
 
-    <div
-      class="overlay-controls fixed bottom-0 left-0 w-full px-6 py-3 border-t border-yellow-200 flex flex-col gap-2 items-center">
-      <div class="flex justify-between w-full">
-        <button id="prev-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">&larr;
-          Prev</button>
-        <div class="text-center text-sm text-gray-600"> <span id="current-question">1</span> / <span
-            id="question-count"></span></div>
-        <button id="next-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">Next
-          &rarr;</button>
+        <div class="flex items-center gap-3">
+          <span id="counter" class="text-sm text-gray-700">0 / 0</span>
+          <div class="hidden sm:flex items-center gap-2 text-xs text-gray-500">
+            <span class="inline-flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-green-500 inline-block"></span>Correct</span>
+            <span class="inline-flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-red-500 inline-block"></span>Wrong</span>
+            <span class="inline-flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-amber-400 inline-block"></span>Unanswered</span>
+          </div>
+        </div>
+
+        <button id="next-btn" class="inline-flex items-center gap-2 rounded-lg bg-gray-800 text-white px-4 py-2 shadow-soft disabled:opacity-40 disabled:cursor-not-allowed">
+          <span class="hidden sm:inline">Next</span><i class="fa-solid fa-arrow-right"></i>
+        </button>
       </div>
     </div>
-  </div>
+  </main>
 
-  <div id="solution-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-    <div class="bg-white w-[90%] md:max-w-xl rounded-lg shadow-lg relative p-4 md:p-6 overflow-y-auto max-h-[90vh]">
-      <button onclick="closeModal()" class="absolute top-2 right-3 text-gray-600 text-xl">
+  <!-- Modal -->
+  <div id="solution-modal" class="hidden fixed inset-0 bg-black/50 items-center justify-center z-[60]" aria-hidden="true">
+    <div role="dialog" aria-modal="true" aria-labelledby="modal-title" class="bg-white w-[92%] md:max-w-xl rounded-2xl shadow-xl relative p-5 md:p-6 max-h-[90vh] overflow-y-auto slide-up">
+      <button id="modal-close" class="absolute top-3 right-3 text-gray-600 text-xl" aria-label="Close">
         <i class="fas fa-times"></i>
       </button>
-      <h3 class="text-lg font-bold mb-2 text-gray-800">Explanation</h3>
-      <div id="modal-content" class="prose max-w-none text-sm"></div>
+      <h3 id="modal-title" class="text-lg font-bold mb-3 text-gray-800">Explanation</h3>
+      <div id="modal-content" class="prose prose-sm max-w-none"></div>
     </div>
   </div>
 
   <script>
-    const container = document.getElementById('question-carousel');
-    const modal = document.getElementById('solution-modal');
-    const modalContent = document.getElementById('modal-content');
+    // -----------------------
+    // Session (temporary) state
+    // -----------------------
+    const session = {
+      data: [],            // filtered questions
+      fullData: [],        // all questions loaded
+      index: 0,            // current question index within filtered data
+      answers: new Map(),  // key: qid (or array index within fullData), value: {selected, correct, subject}
+      bookmarks: new Set(),// qid set
+      stats: { correct: 0, wrong: 0 }, // computed live
+      filter: 'all'        // subject filter
+    };
+    // NOTE: This is in-memory only. It resets on refresh. (As requested.)
+
+    // -----------------------
+    // Elements
+    // -----------------------
     const loader = document.getElementById('loader');
+    const carousel = document.getElementById('carousel');
+    const subjectFilter = document.getElementById('subject-filter');
+    const reviewToggle = document.getElementById('review-toggle');
+    const resetSessionBtn = document.getElementById('reset-session');
     const prevBtn = document.getElementById('prev-btn');
     const nextBtn = document.getElementById('next-btn');
-    const questionCount = document.getElementById('question-count');
-    const currentQuestion = document.getElementById('current-question');
-    const subjectFilter = document.getElementById('subject-filter');
+    const counter = document.getElementById('counter');
+    const progressBar = document.getElementById('progress-bar');
     const dateText = document.getElementById('date-text');
 
-    let allQuestions = [];
-    let fullData = [];
-    let currentPage = 0;
+    const modal = document.getElementById('solution-modal');
+    const modalClose = document.getElementById('modal-close');
+    const modalContent = document.getElementById('modal-content');
+
+    // -----------------------
+    // Helpers
+    // -----------------------
+    function getUrlParams() {
+      const urlParams = new URLSearchParams(window.location.search);
+      return {
+        year: urlParams.get('year') || 'Unknown Year',
+        type: urlParams.get('type') || 'Unknown Type'
+      };
+    }
+
+    function sanitizeHTML(html) {
+      return DOMPurify.sanitize(html, { ALLOWED_ATTR: ['href', 'target', 'rel', 'src', 'alt', 'title'] });
+    }
+
+    function renderMarkdown(md) {
+      const raw = marked.parse(md || '');
+      return sanitizeHTML(raw);
+    }
+
+    function updateHeader() {
+      const { year, type } = getUrlParams();
+      dateText.textContent = `Questions of ${year} ${type}`;
+    }
+
+    function computeStats() {
+      let correct = 0, wrong = 0;
+      for (const [, ans] of session.answers.entries()) {
+        if (ans.selected == null) continue;
+        if (ans.correct) correct++; else wrong++;
+      }
+      session.stats.correct = correct;
+      session.stats.wrong = wrong;
+    }
+
+    function updateProgressUI() {
+      const total = session.data.length;
+      const attempted = Array.from(session.answers.values()).filter(v => v.selected != null).length;
+      const pct = total ? Math.round((attempted / total) * 100) : 0;
+      progressBar.style.width = pct + '%';
+      counter.textContent = `${Math.min(session.index + 1, total)} / ${total}`;
+      reviewToggle.innerHTML = `<i class="fa-regular fa-bookmark mr-2"></i>Review Later (${session.bookmarks.size})`;
+      prevBtn.disabled = session.index <= 0;
+      nextBtn.disabled = session.index >= total - 1 || total === 0;
+    }
+
+    function applyPressed(el) {
+      el.classList.add('pressed');
+      setTimeout(() => el.classList.remove('pressed'), 120);
+    }
+
+    function qidOf(item) {
+      // Prefer a stable id if provided; else fallback to index within fullData
+      return item.id ?? item._idx;
+    }
+
+    function buildOptionKeyed(options) {
+      // Transform ["A. ...", "B. ..."] OR ["...","..."] to [{key:'A', text:'...'}]
+      const alpha = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+      return options.map((opt, i) => {
+        const match = String(opt).match(/^\s*([A-D])[\).:\-]\s*(.*)$/i);
+        if (match) {
+          return { key: match[1].toUpperCase(), text: match[2] };
+        }
+        return { key: alpha[i] || String(i + 1), text: String(opt) };
+      });
+    }
+
+    function getSelectedFor(q) {
+      const id = qidOf(q);
+      return session.answers.get(id)?.selected ?? null;
+    }
+
+    function isBookmarked(q) {
+      return session.bookmarks.has(qidOf(q));
+    }
+
+    // -----------------------
+    // Rendering a single question card
+    // -----------------------
+    function renderQuestionCard(q, idxInFiltered) {
+      const id = qidOf(q);
+      const card = document.createElement('article');
+      card.className = 'bg-white rounded-2xl shadow-soft p-5 md:p-6 fade-in';
+      card.setAttribute('data-qid', id);
+
+      // Title row with actions
+      const titleRow = document.createElement('div');
+      titleRow.className = 'flex items-start justify-between gap-3';
+      const h = document.createElement('h3');
+      h.className = 'text-lg font-semibold text-gray-800';
+      h.textContent = `Q${idxInFiltered + 1}. ${q.question}`;
+      titleRow.appendChild(h);
+
+      const actions = document.createElement('div');
+      actions.className = 'flex items-center gap-2 shrink-0';
+      const bookmarkBtn = document.createElement('button');
+      bookmarkBtn.className = 'rounded-lg border px-3 py-1.5 text-sm bg-white hover:bg-amber-50 border-amber-300 text-gray-700';
+      bookmarkBtn.innerHTML = isBookmarked(q) ? '<i class="fa-solid fa-bookmark mr-2 text-amber-600"></i>Bookmarked' : '<i class="fa-regular fa-bookmark mr-2"></i>Bookmark';
+      bookmarkBtn.addEventListener('click', () => {
+        applyPressed(bookmarkBtn);
+        const was = isBookmarked(q);
+        if (was) session.bookmarks.delete(id); else session.bookmarks.add(id);
+        bookmarkBtn.innerHTML = isBookmarked(q) ? '<i class="fa-solid fa-bookmark mr-2 text-amber-600"></i>Bookmarked' : '<i class="fa-regular fa-bookmark mr-2"></i>Bookmark';
+        updateProgressUI();
+      });
+      actions.appendChild(bookmarkBtn);
+      titleRow.appendChild(actions);
+      card.appendChild(titleRow);
+
+      // Statements, if any
+      if (Array.isArray(q.statements) && q.statements.length) {
+        const list = document.createElement('ol');
+        list.className = 'list-decimal pl-6 mt-3 space-y-1 text-[15px] text-gray-800';
+        q.statements.forEach(s => {
+          const li = document.createElement('li');
+          li.textContent = s;
+          list.appendChild(li);
+        });
+        card.appendChild(list);
+      }
+
+      // Options
+      const optionsWrap = document.createElement('div');
+      optionsWrap.className = 'mt-4 space-y-2';
+      const keyed = buildOptionKeyed(q.options || []);
+      const selectedKey = getSelectedFor(q);
+
+      // Determine correct key (robust to either correct_option as key or as full text)
+      let correctKey = null;
+      if (q.correct_key) {
+        correctKey = String(q.correct_key).trim().toUpperCase();
+      } else if (q.correct_option) {
+        // Try to match by text; fallback to parse leading key
+        const target = String(q.correct_option).trim();
+        const parsed = target.match(/^\s*([A-D])[\).:\-]\s*(.*)$/i);
+        if (parsed) {
+          correctKey = parsed[1].toUpperCase();
+        } else {
+          const hit = keyed.find(k => k.text.trim() === target);
+          if (hit) correctKey = hit.key;
+        }
+      }
+
+      keyed.forEach(opt => {
+        const btn = document.createElement('button');
+        btn.className = 'w-full text-left px-4 py-3 rounded-xl border border-amber-200 bg-amber-50 hover:bg-amber-100 transition-colors text-[15px]';
+        btn.setAttribute('data-key', opt.key);
+        btn.innerHTML = `<span class="font-semibold mr-2">${opt.key}.</span>${opt.text}`;
+        optionsWrap.appendChild(btn);
+
+        // If already answered, lock styling
+        if (selectedKey) {
+          const isSelected = selectedKey === opt.key;
+          const isCorrect = correctKey && opt.key === correctKey;
+          btn.disabled = true;
+          btn.classList.remove('hover:bg-amber-100');
+          if (isSelected && isCorrect) {
+            btn.classList.add('bg-green-100', 'border-green-300');
+          } else if (isSelected && !isCorrect) {
+            btn.classList.add('bg-red-100', 'border-red-300');
+          } else if (isCorrect) {
+            btn.classList.add('bg-green-50', 'border-green-200');
+          }
+        }
+
+        btn.addEventListener('click', () => {
+          // Record answer only once
+          if (getSelectedFor(q)) return;
+
+          const chosenKey = opt.key;
+          const correct = correctKey ? (chosenKey === correctKey) : (String(q.correct_option).trim() === String(opt.text).trim());
+          session.answers.set(id, { selected: chosenKey, correct, subject: q.subject || 'general' });
+          computeStats();
+
+          // Freeze all buttons
+          optionsWrap.querySelectorAll('button').forEach(b => {
+            const k = b.getAttribute('data-key');
+            b.disabled = true;
+            b.classList.remove('hover:bg-amber-100');
+            if (k === chosenKey && correct) {
+              b.classList.add('bg-green-100', 'border-green-300');
+            } else if (k === chosenKey && !correct) {
+              b.classList.add('bg-red-100', 'border-red-300');
+            } else if (k === correctKey) {
+              b.classList.add('bg-green-50', 'border-green-200');
+            }
+          });
+
+          // Feedback row
+          feedback.textContent = correct ? '✅ Correct!' : `❌ Wrong! Correct answer: ${correctKey || q.correct_option}`;
+          feedback.className = correct ? 'text-green-700 mt-3 text-sm font-semibold' : 'text-red-700 mt-3 text-sm font-semibold';
+
+          // Reveal explanation button if hidden
+          expBtn.classList.remove('hidden');
+
+          updateProgressUI();
+        }, { passive: true });
+      });
+
+      card.appendChild(optionsWrap);
+
+      // Feedback + Explanation
+      const feedback = document.createElement('p');
+      const existing = session.answers.get(id);
+      if (existing?.selected != null) {
+        feedback.textContent = existing.correct ? '✅ Correct!' : `❌ Wrong! Correct answer: ${q.correct_key || q.correct_option}`;
+        feedback.className = existing.correct ? 'text-green-700 mt-3 text-sm font-semibold' : 'text-red-700 mt-3 text-sm font-semibold';
+      } else {
+        feedback.className = 'mt-3 text-sm text-gray-500';
+        feedback.textContent = 'Select an option to check your answer.';
+      }
+      card.appendChild(feedback);
+
+      const expBtn = document.createElement('button');
+      expBtn.className = 'mt-3 inline-flex items-center gap-2 rounded-lg bg-amber-600 hover:bg-amber-700 text-white px-3 py-2 text-sm ' + (existing?.selected ? '' : 'hidden');
+      expBtn.innerHTML = '<i class="fa-solid fa-lightbulb"></i><span>View Explanation</span>';
+      expBtn.addEventListener('click', () => {
+        openModal(String(q.explanation || 'No explanation provided.'));
+      });
+      card.appendChild(expBtn);
+
+      // Meta row
+      const meta = document.createElement('div');
+      meta.className = 'mt-4 text-xs text-gray-500';
+      meta.textContent = `Subject: ${q.subject || '—'}`;
+      card.appendChild(meta);
+
+      return card;
+    }
+
+    // -----------------------
+    // Modal controls
+    // -----------------------
+    function openModal(markdown) {
+      modalContent.innerHTML = renderMarkdown(markdown);
+      modal.classList.remove('hidden');
+      modal.classList.add('flex');
+      document.body.classList.add('modal-open');
+      modal.setAttribute('aria-hidden', 'false');
+      // basic focus: move to close button
+      modalClose.focus();
+    }
 
     function closeModal() {
       modal.classList.add('hidden');
-      container.classList.remove('blurred');
+      modal.classList.remove('flex');
       document.body.classList.remove('modal-open');
+      modal.setAttribute('aria-hidden', 'true');
     }
 
-    function showModal(explanation) {
-      modalContent.innerHTML = marked.parse(explanation);
-      modal.classList.remove('hidden');
-      container.classList.add('blurred');
-      document.body.classList.add('modal-open');
+    modalClose.addEventListener('click', closeModal);
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) closeModal();
+    });
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && !modal.classList.contains('hidden')) closeModal();
+    });
+
+    // -----------------------
+    // Filter and render
+    // -----------------------
+    function applyFilter(subject) {
+      session.filter = subject;
+      if (subject === 'all') {
+        session.data = session.fullData.slice();
+      } else if (subject === 'review') {
+        session.data = session.fullData.filter(q => session.bookmarks.has(qidOf(q)));
+      } else {
+        session.data = session.fullData.filter(q => (q.subject || '').toLowerCase() === subject.toLowerCase());
+      }
+
+      // Clamp index
+      if (session.index >= session.data.length) session.index = Math.max(0, session.data.length - 1);
+
+      renderCurrent();
+      updateProgressUI();
     }
 
-    function renderPage() {
-      container.innerHTML = '';
-      const question = allQuestions[currentPage];
-      container.appendChild(question);
-      currentQuestion.textContent = currentPage + 1;
-      prevBtn.disabled = currentPage === 0;
-      nextBtn.disabled = currentPage === allQuestions.length - 1;
-    }
-
-    prevBtn.addEventListener('click', () => {
-      if (currentPage > 0) {
-        currentPage--;
-        renderPage();
-      }
-    });
-
-    nextBtn.addEventListener('click', () => {
-      if (currentPage < allQuestions.length - 1) {
-        currentPage++;
-        renderPage();
-      }
-    });
-
-    let touchStartX = 0;
-    container.addEventListener('touchstart', e => touchStartX = e.touches[0].clientX);
-    container.addEventListener('touchend', e => {
-      const diffX = e.changedTouches[0].clientX - touchStartX;
-      if (diffX > 50 && currentPage > 0) {
-        currentPage--;
-        renderPage();
-      } else if (diffX < -50 && currentPage < allQuestions.length - 1) {
-        currentPage++;
-        renderPage();
-      }
-    });
-
-    function filterAndRenderSubject(subject) {
-      const filtered = subject === 'all' ? fullData : fullData.filter(q => q.subject === subject);
-
-      allQuestions = [];
-
-      if (filtered.length === 0) {
-        container.innerHTML = `<p class="text-red-600 text-center">⚠️ No questions found for "${subject}"</p>`;
-        questionCount.textContent = 0;
-        currentQuestion.textContent = 0;
+    function renderCurrent() {
+      carousel.innerHTML = '';
+      if (session.data.length === 0) {
+        carousel.innerHTML = `<p class="text-center text-red-600 mt-6">⚠️ No questions found for the selected filter.</p>`;
         return;
       }
-
-      filtered.forEach((q, index) => {
-        const card = document.createElement('div');
-        card.className = 'bg-white shadow-md rounded-lg p-6 sm:p-8 border border-yellow-200';
-
-        const qNo = document.createElement('h3');
-        qNo.className = 'text-lg font-semibold text-gray-800 mb-4';
-        qNo.textContent = `Q${index + 1}. ${q.question}`;
-        card.appendChild(qNo);
-
-        if (q.statements && q.statements.length > 0) {
-          const list = document.createElement('ol');
-          list.className = 'list-decimal pl-6 mb-4 text-base';
-          q.statements.forEach(stmt => {
-            const li = document.createElement('li');
-            li.textContent = stmt;
-            list.appendChild(li);
-          });
-          card.appendChild(list);
-        }
-
-        const optionsDiv = document.createElement('div');
-        optionsDiv.className = 'space-y-3';
-        let answered = false;
-
-        const feedback = document.createElement('p');
-        feedback.className = 'mt-4 font-semibold';
-
-        q.options.forEach(opt => {
-          const btn = document.createElement('button');
-          btn.textContent = opt;
-          btn.className = 'block w-full text-left px-5 py-3 text-base bg-yellow-50 border border-yellow-300 rounded hover:bg-yellow-100 transition-colors';
-
-          btn.onclick = () => {
-            if (answered) return;
-            answered = true;
-
-            const isCorrect = opt === q.correct_option;
-
-            btn.classList.remove('hover:bg-yellow-100');
-            btn.classList.add(isCorrect ? 'bg-green-200' : 'bg-red-200');
-
-            Array.from(optionsDiv.children).forEach(b => {
-              b.disabled = true;
-              b.classList.remove('hover:bg-yellow-100', 'hover:bg-yellow-200', 'hover:bg-green-200', 'hover:bg-red-200');
-              if (b !== btn) {
-                b.classList.add('bg-yellow-50');
-              }
-            });
-
-            feedback.textContent = isCorrect ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
-            feedback.className = isCorrect ? 'text-green-600 mt-4 font-medium' : 'text-red-600 mt-4 font-medium';
-
-            const explainBtn = document.createElement('button');
-            explainBtn.textContent = 'View Explanation';
-            explainBtn.className = 'mt-4 bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-4 py-2 rounded';
-            explainBtn.onclick = () => showModal(q.explanation);
-            card.appendChild(explainBtn);
-          };
-
-          optionsDiv.appendChild(btn);
-        });
-
-        card.appendChild(optionsDiv);
-        card.appendChild(feedback);
-        allQuestions.push(card);
-      });
-
-      questionCount.textContent = allQuestions.length;
-      currentPage = 0;
-      renderPage();
+      const card = renderQuestionCard(session.data[session.index], session.index);
+      carousel.appendChild(card);
     }
 
+    function goto(delta) {
+      const next = session.index + delta;
+      if (next < 0 || next >= session.data.length) return;
+      session.index = next;
+      renderCurrent();
+      updateProgressUI();
+    }
+
+    // Touch swipe
+    let touchStartX = 0;
+    carousel.addEventListener('touchstart', e => { touchStartX = e.touches[0].clientX; }, { passive: true });
+    carousel.addEventListener('touchend', e => {
+      const diffX = e.changedTouches[0].clientX - touchStartX;
+      if (diffX > 50) goto(-1);
+      else if (diffX < -50) goto(1);
+    }, { passive: true });
+
+    // Keyboard nav
+    window.addEventListener('keydown', (e) => {
+      if (!modal.classList.contains('hidden')) return;
+      if (e.key === 'ArrowLeft') goto(-1);
+      if (e.key === 'ArrowRight') goto(1);
+    });
+
+    prevBtn.addEventListener('click', () => { applyPressed(prevBtn); goto(-1); });
+    nextBtn.addEventListener('click', () => { applyPressed(nextBtn); goto(1); });
+
+    // Review filter toggle
+    reviewToggle.addEventListener('click', () => {
+      applyPressed(reviewToggle);
+      const currentlyReview = subjectFilter.value === 'review';
+      if (currentlyReview) {
+        subjectFilter.value = session.filter === 'review' ? 'all' : session.filter;
+        applyFilter(subjectFilter.value);
+      } else {
+        subjectFilter.value = 'review';
+        applyFilter('review');
+      }
+    });
+
+    // Reset session (temporary state)
+    resetSessionBtn.addEventListener('click', () => {
+      applyPressed(resetSessionBtn);
+      if (!confirm('Reset your current session (answers & bookmarks)?')) return;
+      session.answers.clear();
+      session.bookmarks.clear();
+      session.stats.correct = 0;
+      session.stats.wrong = 0;
+      session.index = 0;
+      renderCurrent();
+      updateProgressUI();
+    });
+
+    subjectFilter.addEventListener('change', () => applyFilter(subjectFilter.value));
+
+    // -----------------------
+    // Load data
+    // -----------------------
     async function loadQuestions() {
-      const urlParams = new URLSearchParams(window.location.search);
-      const year = urlParams.get('year');
-      const type = urlParams.get('type');
-
-      dateText.textContent = `Questions of ${year} ${type}`;
-
+      updateHeader();
+      const { year, type } = getUrlParams();
       try {
-        const res = await fetch(`./question/pyqs/${year}/${type}.json`);
-        const data = await res.json();
-        fullData = data;
+        const res = await fetch(`./question/pyqs/${year}/${type}.json`, { cache: 'no-store' });
+        const raw = await res.json();
 
-        loader.style.display = 'none';
+        // Normalize and index
+        session.fullData = (raw || []).map((q, i) => ({
+          ...q,
+          _idx: i
+        }));
 
-        const subjects = Array.from(new Set(data.map(q => q.subject))).sort();
+        // Build subject list
+        const subjects = Array.from(new Set(session.fullData.map(q => q.subject).filter(Boolean))).sort();
         subjects.forEach(sub => {
           const option = document.createElement('option');
           option.value = sub;
@@ -284,23 +544,18 @@
           subjectFilter.appendChild(option);
         });
 
-        subjectFilter.addEventListener('change', () => {
-          filterAndRenderSubject(subjectFilter.value);
-        });
+        // Initial filter
+        applyFilter('all');
 
-        filterAndRenderSubject('all');
-
-      } catch (error) {
-        console.log(error)
-        loader.style.display = 'none';
-        container.innerHTML = `<p class='text-red-600 text-center'>Questions Coming Soon.</p>`;
-        console.error('Error loading questions:', error);
+      } catch (err) {
+        console.error(err);
+        carousel.innerHTML = `<p class="text-center text-red-600 mt-6">Questions coming soon or failed to load.</p>`;
+      } finally {
+        loader.classList.add('hidden');
       }
     }
 
     document.addEventListener('DOMContentLoaded', loadQuestions);
   </script>
-
 </body>
-
 </html>

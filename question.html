@@ -2,447 +2,504 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Practice Questions</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>UPSC CSE — Practice Questions (Modern)</title>
+
+  <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#fff7ed',
+              100: '#ffedd5',
+              200: '#fed7aa',
+              300: '#fdba74',
+              400: '#fb923c',
+              500: '#f97316',
+              600: '#ea580c',
+              700: '#c2410c',
+              800: '#9a3412',
+              900: '#7c2d12'
+            }
+          },
+          boxShadow: {
+            soft: '0 10px 30px rgba(0,0,0,0.08)'
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+  <!-- Markdown renderer & sanitizer -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.7/dist/purify.min.js"></script>
+
   <style>
-    .wiki-keyword {
-      color: #1d4ed8;
-      text-decoration: underline;
-      cursor: pointer;
-    }
+    html { scroll-behavior: smooth; }
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+    .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    .glass { background: rgba(255,255,255,0.75); backdrop-filter: blur(10px); }
+    .pressed { transform: translateY(1px); }
+    body.modal-open { overflow: hidden; }
 
+    .fade-in { animation: fade-in .25s ease-out; }
+    @keyframes fade-in { from { opacity: 0 } to { opacity: 1 } }
 
-    .blurred {
-      filter: blur(5px);
-      pointer-events: none;
-    }
+    .slide-up { animation: slide-up .25s ease-out; }
+    @keyframes slide-up { from { transform: translateY(8px); opacity: 0 } to { transform: translateY(0); opacity: 1 } }
 
-    body.modal-open {
-      overflow: hidden;
-    }
+    .wiki-keyword { color: #1d4ed8; text-decoration: underline; cursor: pointer; }
+    .wiki-keyword:hover { color: #2563eb; text-decoration: none; }
 
-    #loader {
-      position: fixed;
-      inset: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background: rgba(255, 255, 255, 0.9);
-      z-index: 1000;
-    }
-
-    button.no-hover:hover {
-      background-color: inherit !important;
-      cursor: default;
-    }
-
-    .carousel-container {
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      height: calc(100vh - 172px);
-      /* full height minus header + date section */
-    }
-
-    .carousel-slide {
-      flex: 1;
-      overflow-y: auto;
-      padding-bottom: 80px;
-    }
-
-    .overlay-controls {
-      background: rgba(255, 255, 255, 0.95);
-      backdrop-filter: blur(6px);
-    }
-
-    .wiki-keyword:hover {
-      text-decoration: none;
-      color: #2563eb;
-    }
-
-    .fade-in {
-      animation: fadeIn 0.3s ease-in;
-    }
-
+    /* Bottom sheet */
+    .overlay { position: fixed; inset: 0; background: rgba(0,0,0,.45); display: none; z-index: 60; }
     .bottom-sheet {
-      position: fixed;
-      bottom: 2rem;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 90%;
-      max-width: 600px;
-      max-height: 70vh;
-      background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 16px 48px rgba(0, 0, 0, 0.2);
-      padding: 1.5rem;
-      overflow-y: auto;
-      display: none;
-      z-index: 999;
-      animation: fadeInUp 0.3s ease-out;
+      position: fixed; left: 50%; bottom: 1.25rem; transform: translateX(-50%);
+      width: min(92%, 720px); max-height: 70vh; overflow: auto;
+      background: #fff; border-radius: 16px; padding: 1rem 1rem 1.25rem;
+      box-shadow: 0 20px 60px rgba(0,0,0,.25); display: none; z-index: 70;
+      animation: sheet-in .22s ease-out;
     }
-
-    .bottom-sheet h2 {
-      margin-top: 0;
-      font-size: 1.25rem;
-    }
-
-    .bottom-sheet button {
-      background: transparent;
-      border: none;
-      font-size: 1rem;
-      color: #555;
-      cursor: pointer;
-    }
-
-    .overlay {
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: rgba(0, 0, 0, 0.4);
-      z-index: 998;
-      display: none;
-    }
-
-    @keyframes fadeInUp {
-      from {
-        opacity: 0;
-        transform: translate(-50%, 20px);
-      }
-
-      to {
-        opacity: 1;
-        transform: translate(-50%, 0);
-      }
-    }
-    
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(10px);
-      }
-
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
+    @keyframes sheet-in { from { transform: translate(-50%, 12px); opacity: 0 } to { transform: translate(-50%, 0); opacity: 1 } }
   </style>
 </head>
 
-<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900">
-  <div id="loader" class="text-center text-yellow-800">
-    <div>
-      <div class="text-xl font-semibold mb-2">Preparing your test...</div>
-      <div class="w-12 h-12 border-4 border-yellow-400 border-t-transparent rounded-full animate-spin mx-auto"></div>
+<body class="min-h-screen bg-gradient-to-br from-amber-50 via-white to-amber-100 text-gray-900 selection:bg-amber-200/60">
+  <!-- Loader -->
+  <div id="loader" class="fixed inset-0 z-[100] flex items-center justify-center bg-white/90">
+    <div class="text-center text-brand-800">
+      <div class="text-xl font-semibold mb-3">Preparing your practice…</div>
+      <div class="w-12 h-12 border-4 border-amber-400 border-t-transparent rounded-full animate-spin mx-auto"></div>
     </div>
   </div>
 
-  <header class="bg-gray-900 text-white p-4 flex justify-between items-center sticky top-0 z-50">
-    <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Practice Questions</h1>
-    <a href="/upsc-notes/practice.html" class="text-sm hover:text-yellow-300">Back to Dates</a>
+  <!-- Header -->
+  <header class="sticky top-0 z-50 glass border-b border-amber-200/70">
+    <div class="max-w-5xl mx-auto px-4 py-3 flex items-center gap-3 justify-between">
+      <div class="flex items-center gap-3">
+        <div class="p-2 rounded-xl bg-amber-100 text-amber-700">
+          <i class="fa-solid fa-graduation-cap"></i>
+        </div>
+        <div>
+          <h1 class="text-lg sm:text-xl font-bold tracking-wide">UPSC CSE — Practice Questions</h1>
+          <p id="date-info" class="text-xs sm:text-sm text-gray-600"></p>
+        </div>
+      </div>
+      <a href="/upsc-notes/practice.html" class="hidden sm:inline text-sm text-gray-700 hover:text-amber-700">
+        Back to Dates
+      </a>
+    </div>
   </header>
 
-  <section id="date-info" class="text-center py-4 text-yellow-800 text-lg font-semibold"></section>
-
-  <div class="relative w-full carousel-container">
-    <div id="question-carousel" class="carousel-slide px-6 md:px-20"></div>
-
-    <div
-      class="overlay-controls fixed bottom-0 left-0 w-full px-6 py-3 border-t border-yellow-200 flex flex-col gap-2 items-center">
-      <div class="flex justify-between w-full">
-        <button id="prev-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">&larr;
-          Prev</button>
-        <div class="text-center text-sm text-gray-600"> <span id="current-question">1</span> / <span
-            id="question-count"></span></div>
-        <button id="next-btn" class="text-white bg-gray-700 hover:bg-gray-900 px-4 py-2 rounded shadow">Next
-          &rarr;</button>
+  <!-- Progress + mini toolbar -->
+  <section class="max-w-5xl mx-auto px-4 mt-3">
+    <div class="flex items-center justify-between gap-3">
+      <div class="flex items-center gap-2 text-sm text-gray-700">
+        <span id="counter">0 / 0</span>
       </div>
+      <div class="flex items-center gap-2">
+        <button id="reset-session" class="inline-flex items-center gap-2 rounded-lg bg-white border border-amber-300 px-3 py-2 text-sm hover:bg-amber-50">
+          <i class="fa-solid fa-rotate"></i><span class="hidden sm:inline">Reset</span>
+        </button>
+      </div>
+    </div>
+    <div class="mt-3 h-2 w-full bg-amber-100 rounded-full overflow-hidden">
+      <div id="progress-bar" class="h-full bg-amber-500 transition-all" style="width:0%"></div>
+    </div>
+  </section>
+
+  <!-- Carousel -->
+  <main class="relative max-w-5xl mx-auto px-4 mt-4">
+    <div id="question-carousel" class="no-scrollbar h-[calc(100vh-240px)] overflow-y-auto pb-28"></div>
+
+    <!-- Bottom Controls -->
+    <div class="fixed bottom-0 left-0 right-0 z-40 glass border-t border-amber-200/70">
+      <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-3">
+        <button id="prev-btn" class="inline-flex items-center gap-2 rounded-lg bg-gray-800 text-white px-4 py-2 shadow-soft disabled:opacity-40 disabled:cursor-not-allowed">
+          <i class="fa-solid fa-arrow-left"></i><span class="hidden sm:inline">Prev</span>
+        </button>
+
+        <div class="flex items-center gap-2 text-xs text-gray-600">
+          <span class="inline-flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-green-500 inline-block"></span>Correct</span>
+          <span class="inline-flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-red-500 inline-block"></span>Wrong</span>
+          <span class="inline-flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-amber-400 inline-block"></span>Unanswered</span>
+        </div>
+
+        <button id="next-btn" class="inline-flex items-center gap-2 rounded-lg bg-gray-800 text-white px-4 py-2 shadow-soft disabled:opacity-40 disabled:cursor-not-allowed">
+          <span class="hidden sm:inline">Next</span><i class="fa-solid fa-arrow-right"></i>
+        </button>
+      </div>
+    </div>
+  </main>
+
+  <!-- Explanation Modal -->
+  <div id="solution-modal" class="hidden fixed inset-0 bg-black/50 items-center justify-center z-[60]" aria-hidden="true">
+    <div role="dialog" aria-modal="true" aria-labelledby="modal-title" class="bg-white w-[92%] md:max-w-xl rounded-2xl shadow-xl relative p-5 md:p-6 max-h-[90vh] overflow-y-auto slide-up">
+      <button id="modal-close" class="absolute top-3 right-3 text-gray-600 text-xl" aria-label="Close">
+        <i class="fas fa-times"></i>
+      </button>
+      <h3 id="modal-title" class="text-lg font-bold mb-3 text-gray-800">Explanation</h3>
+      <div id="modal-content" class="prose prose-sm max-w-none"></div>
     </div>
   </div>
 
-  <div id="solution-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-    <div class="bg-white w-[90%] md:max-w-xl rounded-lg shadow-lg relative p-4 md:p-6 overflow-y-auto max-h-[90vh]">
-      <button onclick="closeModal()" class="absolute top-2 right-3 text-gray-600 text-xl">
-        <i class="fas fa-times"></i>
+  <!-- Wiki Bottom Sheet -->
+  <div id="overlay" class="overlay" onclick="closeWikiPopup()"></div>
+  <div id="wikiPopup" class="bottom-sheet">
+    <div class="flex items-start justify-between gap-3 mb-2">
+      <h2 id="wikiTitle" class="text-lg font-semibold text-gray-800">Loading…</h2>
+      <button onclick="closeWikiPopup()" class="px-2 py-1 text-gray-500 hover:text-gray-700" aria-label="Close wiki pane">
+        <i class="fa-solid fa-xmark"></i>
       </button>
-      <h3 class="text-lg font-bold mb-2 text-gray-800">Explanation</h3>
-      <div id="modal-content" class="prose max-w-none text-sm"></div>
     </div>
+    <p id="wikiContent" class="text-sm text-gray-700 leading-6">Please wait…</p>
+    <div class="mt-3 text-xs text-gray-500" id="wikiAttribution"></div>
   </div>
 
   <script>
+    // =========================
+    // Temporary in-memory state
+    // =========================
+    const session = {
+      data: [],            // questions
+      index: 0,            // current index
+      answers: new Map(),  // id -> { selectedText, correct, correctText }
+    };
+
+    // =========================
+    // Elements
+    // =========================
     const container = document.getElementById('question-carousel');
     const modal = document.getElementById('solution-modal');
+    const modalClose = document.getElementById('modal-close');
     const modalContent = document.getElementById('modal-content');
+
     const dateInfo = document.getElementById('date-info');
     const loader = document.getElementById('loader');
     const prevBtn = document.getElementById('prev-btn');
     const nextBtn = document.getElementById('next-btn');
-    const questionCount = document.getElementById('question-count');
-    const currentQuestion = document.getElementById('current-question');
+    const counter = document.getElementById('counter');
+    const progressBar = document.getElementById('progress-bar');
 
-    let allQuestions = [];
-    let currentPage = 0;
+    // Wiki elements
+    const wikiOverlay = document.getElementById('overlay');
+    const wikiPopup = document.getElementById('wikiPopup');
+    const wikiTitleEl = document.getElementById('wikiTitle');
+    const wikiContentEl = document.getElementById('wikiContent');
+    const wikiAttribEl = document.getElementById('wikiAttribution');
 
-    function closeModal() {
-      modal.classList.add('hidden');
-      container.classList.remove('blurred');
-      document.body.classList.remove('modal-open');
+    // =========================
+    // Helpers
+    // =========================
+    function getUrlParams() {
+      const urlParams = new URLSearchParams(window.location.search);
+      return {
+        year: urlParams.get('year'),
+        month: urlParams.get('month'),
+        date: urlParams.get('date')
+      };
     }
 
-    function showModal(explanation) {
-      modalContent.innerHTML = marked.parse(explanation);
-      modal.classList.remove('hidden');
-      container.classList.add('blurred');
-      document.body.classList.add('modal-open');
+    function sanitizeHTML(html) {
+      return DOMPurify.sanitize(html, {
+        ALLOWED_ATTR: ['href','target','rel','src','alt','title']
+      });
+    }
+
+    function renderMarkdown(md) {
+      const raw = marked.parse(md || '');
+      // Add [[Wiki Term]] enrichment before sanitization
+      const enriched = raw.replace(/\[\[(.*?)\]\]/g, (match, title) => {
+        return `<span class="wiki-keyword" onclick="showWikiContent('${title.replace(/'/g, "\\'")}')">${title}</span>`;
+      });
+      return sanitizeHTML(enriched);
+    }
+
+    function updateHeader() {
+      const { year, month, date } = getUrlParams();
+      dateInfo.textContent = `📅 Practice Date: ${date || '—'} ${month || ''}, ${year || ''}`.trim();
+    }
+
+    function updateProgressUI() {
+      const total = session.data.length;
+      counter.textContent = `${Math.min(session.index + 1, total)} / ${total}`;
+      const attempted = Array.from(session.answers.values()).filter(v => v.selectedText != null).length;
+      const pct = total ? Math.round((attempted / total) * 100) : 0;
+      progressBar.style.width = pct + '%';
+
+      prevBtn.disabled = session.index <= 0;
+      nextBtn.disabled = session.index >= total - 1 || total === 0;
+    }
+
+    function applyPressed(el) {
+      el.classList.add('pressed');
+      setTimeout(() => el.classList.remove('pressed'), 120);
+    }
+
+    // =========================
+    // Render Question
+    // =========================
+    function renderQuestion(q, idx) {
+      const card = document.createElement('div');
+      card.className = 'bg-white shadow-soft rounded-2xl p-6 md:p-7 fade-in border border-amber-100';
+
+      // Tags
+      if (q.tags) {
+        const tagWrap = document.createElement('div');
+        tagWrap.className = 'flex flex-wrap gap-2 mb-4';
+        const tagColors = [
+          ['bg-pink-100','text-pink-800'],['bg-purple-100','text-purple-800'],
+          ['bg-green-100','text-green-800'],['bg-blue-100','text-blue-800'],
+          ['bg-red-100','text-red-800'],['bg-yellow-100','text-yellow-800'],
+          ['bg-indigo-100','text-indigo-800'],['bg-teal-100','text-teal-800'],
+          ['bg-rose-100','text-rose-800'],['bg-orange-100','text-orange-800'],
+        ];
+        (q.tags.split(',').map(t=>t.trim())).forEach(tag => {
+          const chip = document.createElement('span');
+          const [bg, txt] = tagColors[Math.floor(Math.random()*tagColors.length)];
+          chip.className = `${bg} ${txt} text-xs font-medium px-2.5 py-0.5 rounded-full`;
+          chip.textContent = tag;
+          tagWrap.appendChild(chip);
+        });
+        card.appendChild(tagWrap);
+      }
+
+      // Title
+      const h = document.createElement('h3');
+      h.className = 'text-lg font-semibold text-gray-800';
+      h.textContent = `Q${idx + 1}. ${q.question}`;
+      card.appendChild(h);
+
+      // Statements
+      if (Array.isArray(q.statements) && q.statements.length) {
+        const list = document.createElement('ol');
+        list.className = 'list-decimal pl-6 mt-3 space-y-1 text-[15px] text-gray-800';
+        q.statements.forEach(s => {
+          const li = document.createElement('li');
+          li.textContent = s;
+          list.appendChild(li);
+        });
+        card.appendChild(list);
+      }
+
+      // Options
+      const optionsDiv = document.createElement('div');
+      optionsDiv.className = 'mt-4 space-y-2';
+      let answeredObj = session.answers.get(idx) || { selectedText: null, correct: null, correctText: q.correct_option };
+
+      q.options.forEach(opt => {
+        const btn = document.createElement('button');
+        btn.textContent = opt;
+        btn.className = 'block w-full text-left px-4 py-3 text-[15px] rounded-xl border border-amber-200 bg-amber-50 hover:bg-amber-100 transition-colors';
+        optionsDiv.appendChild(btn);
+
+        if (answeredObj.selectedText != null) {
+          btn.disabled = true;
+          btn.classList.remove('hover:bg-amber-100');
+          if (opt === answeredObj.selectedText && answeredObj.correct) {
+            btn.classList.add('bg-green-100','border-green-300');
+          } else if (opt === answeredObj.selectedText && !answeredObj.correct) {
+            btn.classList.add('bg-red-100','border-red-300');
+          } else if (opt === answeredObj.correctText) {
+            btn.classList.add('bg-green-50','border-green-200');
+          }
+        }
+
+        btn.onclick = () => {
+          if (session.answers.get(idx)?.selectedText != null) return;
+
+          const isCorrect = opt === q.correct_option;
+          answeredObj = { selectedText: opt, correct: isCorrect, correctText: q.correct_option };
+          session.answers.set(idx, answeredObj);
+
+          // Freeze + colorize
+          Array.from(optionsDiv.children).forEach(b => {
+            b.disabled = true;
+            b.classList.remove('hover:bg-amber-100');
+            const text = b.textContent;
+            if (text === opt && isCorrect) {
+              b.classList.add('bg-green-100','border-green-300');
+            } else if (text === opt && !isCorrect) {
+              b.classList.add('bg-red-100','border-red-300');
+            } else if (text === q.correct_option) {
+              b.classList.add('bg-green-50','border-green-200');
+            }
+          });
+
+          // Feedback
+          feedback.textContent = isCorrect ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
+          feedback.className = isCorrect ? 'text-green-700 mt-3 text-sm font-semibold' : 'text-red-700 mt-3 text-sm font-semibold';
+          expBtn.classList.remove('hidden');
+
+          updateProgressUI();
+        };
+      });
+
+      card.appendChild(optionsDiv);
+
+      // Feedback + explanation
+      const feedback = document.createElement('p');
+      if (answeredObj.selectedText != null) {
+        feedback.textContent = answeredObj.correct ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
+        feedback.className = answeredObj.correct ? 'text-green-700 mt-3 text-sm font-semibold' : 'text-red-700 mt-3 text-sm font-semibold';
+      } else {
+        feedback.className = 'mt-3 text-sm text-gray-500';
+        feedback.textContent = 'Select an option to check your answer.';
+      }
+      card.appendChild(feedback);
+
+      const expBtn = document.createElement('button');
+      expBtn.className = 'mt-3 inline-flex items-center gap-2 rounded-lg bg-amber-600 hover:bg-amber-700 text-white px-3 py-2 text-sm ' + (answeredObj.selectedText != null ? '' : 'hidden');
+      expBtn.innerHTML = '<i class="fa-solid fa-lightbulb"></i><span>View Explanation</span>';
+      expBtn.addEventListener('click', () => openModal(renderMarkdown(q.explanation || 'No explanation provided.')));
+      card.appendChild(expBtn);
+
+      return card;
     }
 
     function renderPage() {
       container.innerHTML = '';
-      const question = allQuestions[currentPage];
-      container.appendChild(question);
-      currentQuestion.textContent = currentPage + 1;
-      prevBtn.disabled = currentPage === 0;
-      nextBtn.disabled = currentPage === allQuestions.length - 1;
+      if (!session.data.length) {
+        container.innerHTML = `<p class="text-center text-red-600 mt-6">⚠️ No questions found.</p>`;
+        return;
+      }
+      const card = renderQuestion(session.data[session.index], session.index);
+      container.appendChild(card);
+      updateProgressUI();
     }
 
-    prevBtn.addEventListener('click', () => {
-      if (currentPage > 0) {
-        currentPage--;
-        renderPage();
-      }
-    });
+    // =========================
+    // Modal controls
+    // =========================
+    function openModal(html) {
+      modalContent.innerHTML = html;
+      modal.classList.remove('hidden');
+      modal.classList.add('flex');
+      document.body.classList.add('modal-open');
+      modal.setAttribute('aria-hidden', 'false');
+      document.getElementById('modal-close').focus();
+    }
+    function closeModal() {
+      modal.classList.add('hidden');
+      modal.classList.remove('flex');
+      document.body.classList.remove('modal-open');
+      modal.setAttribute('aria-hidden', 'true');
+    }
+    document.getElementById('modal-close').addEventListener('click', closeModal);
+    modal.addEventListener('click', (e) => { if (e.target === modal) closeModal(); });
+    window.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !modal.classList.contains('hidden')) closeModal(); });
 
-    nextBtn.addEventListener('click', () => {
-      if (currentPage < allQuestions.length - 1) {
-        currentPage++;
-        renderPage();
-      }
-    });
+    // =========================
+    // Navigation
+    // =========================
+    prevBtn.addEventListener('click', () => { applyPressed(prevBtn); if (session.index > 0) { session.index--; renderPage(); } });
+    nextBtn.addEventListener('click', () => { applyPressed(nextBtn); if (session.index < session.data.length - 1) { session.index++; renderPage(); } });
 
+    // Swipe
     let touchStartX = 0;
-    container.addEventListener('touchstart', e => touchStartX = e.touches[0].clientX);
+    container.addEventListener('touchstart', e => { touchStartX = e.touches[0].clientX; }, { passive: true });
     container.addEventListener('touchend', e => {
       const diffX = e.changedTouches[0].clientX - touchStartX;
-      if (diffX > 50 && currentPage > 0) {
-        currentPage--;
-        renderPage();
-      } else if (diffX < -50 && currentPage < allQuestions.length - 1) {
-        currentPage++;
-        renderPage();
-      }
+      if (diffX > 50 && session.index > 0) { session.index--; renderPage(); }
+      else if (diffX < -50 && session.index < session.data.length - 1) { session.index++; renderPage(); }
+    }, { passive: true });
+
+    // Keyboard
+    window.addEventListener('keydown', (e) => {
+      if (!modal.classList.contains('hidden')) return;
+      if (e.key === 'ArrowLeft') { if (session.index > 0) { session.index--; renderPage(); } }
+      if (e.key === 'ArrowRight') { if (session.index < session.data.length - 1) { session.index++; renderPage(); } }
     });
 
-    async function loadQuestions() {
-      const urlParams = new URLSearchParams(window.location.search);
-      const year = urlParams.get('year');
-      const month = urlParams.get('month');
-      const date = urlParams.get('date');
+    // Reset session
+    document.getElementById('reset-session').addEventListener('click', () => {
+      applyPressed(document.getElementById('reset-session'));
+      if (!confirm('Reset current session (answers will be cleared)?')) return;
+      session.answers.clear();
+      session.index = 0;
+      renderPage();
+    });
 
-      dateInfo.textContent = `📅 Practice Date: ${date} ${month}, ${year}`;
-
-      try {
-        const res = await fetch(`./question/practice/${year}/${month}/${date}.json`);
-        const data = await res.json();
-
-        console.log(data)
-
-        loader.style.display = 'none';
-
-        data.forEach((q, index) => {
-
-
-
-          const card = document.createElement('div');
-          card.className = 'bg-white shadow-md rounded-lg p-6 sm:p-8 border border-yellow-200';
-
-
-          // --- Add Tags with Fancy Colors ---
-          if (q.tags) {
-            const tagsContainer = document.createElement('div');
-            tagsContainer.className = 'flex flex-wrap gap-2 mb-4';
-
-            // Define fancy Tailwind color combinations (bg + text)
-            const tagColors = [
-              { bg: 'bg-pink-100', text: 'text-pink-800' },
-              { bg: 'bg-purple-100', text: 'text-purple-800' },
-              { bg: 'bg-green-100', text: 'text-green-800' },
-              { bg: 'bg-blue-100', text: 'text-blue-800' },
-              { bg: 'bg-red-100', text: 'text-red-800' },
-              { bg: 'bg-yellow-100', text: 'text-yellow-800' },
-              { bg: 'bg-indigo-100', text: 'text-indigo-800' },
-              { bg: 'bg-teal-100', text: 'text-teal-800' },
-              { bg: 'bg-rose-100', text: 'text-rose-800' },
-              { bg: 'bg-orange-100', text: 'text-orange-800' },
-            ];
-
-            const tagsArray = q.tags.split(',').map(tag => tag.trim());
-
-            tagsArray.forEach(tag => {
-              const tagElement = document.createElement('span');
-
-              // Pick a random color pair
-              const color = tagColors[Math.floor(Math.random() * tagColors.length)];
-
-              tagElement.className = `${color.bg} ${color.text} text-xs font-medium px-2.5 py-0.5 rounded-full shadow-sm`;
-              tagElement.textContent = tag;
-
-              tagsContainer.appendChild(tagElement);
-            });
-
-            card.appendChild(tagsContainer);
-          }
-
-
-          const qNo = document.createElement('h3');
-          qNo.className = 'text-lg font-semibold text-gray-800 mb-4';
-          qNo.textContent = `Q${index + 1}. ${q.question}`;
-          card.appendChild(qNo);
-
-          if (q.statements && q.statements.length > 0) {
-            const list = document.createElement('ol');
-            list.className = 'list-decimal pl-6 mb-4 text-base';
-            q.statements.forEach(stmt => {
-              const li = document.createElement('li');
-              li.textContent = stmt;
-              list.appendChild(li);
-            });
-            card.appendChild(list);
-          }
-
-          const optionsDiv = document.createElement('div');
-          optionsDiv.className = 'space-y-3';
-          let answered = false;
-
-          const feedback = document.createElement('p');
-          feedback.className = 'mt-4 font-semibold';
-
-          q.options.forEach(opt => {
-            const btn = document.createElement('button');
-            btn.textContent = opt;
-            btn.className = 'block w-full text-left px-5 py-3 text-base bg-yellow-50 border border-yellow-300 rounded hover:bg-yellow-100 transition-colors';
-
-            btn.onclick = () => {
-              if (answered) return;
-              answered = true;
-
-              const isCorrect = opt === q.correct_option;
-
-              // Set permanent color for selected button
-              btn.classList.remove('hover:bg-yellow-100');
-              btn.classList.add(isCorrect ? 'bg-green-200' : 'bg-red-200');
-
-              // Disable all buttons and remove hover effect
-              Array.from(optionsDiv.children).forEach(b => {
-                b.disabled = true;
-
-                // Remove all hover classes
-                b.classList.remove('hover:bg-yellow-100', 'hover:bg-yellow-200', 'hover:bg-green-200', 'hover:bg-red-200');
-
-                // If not selected button, reset background
-                if (b !== btn) {
-                  b.classList.add('bg-yellow-50');
-                }
-              });
-
-              feedback.textContent = isCorrect ? '✅ Correct!' : `❌ Wrong! Correct Answer: ${q.correct_option}`;
-              feedback.className = isCorrect ? 'text-green-600 mt-4 font-medium' : 'text-red-600 mt-4 font-medium';
-
-              const explanationDiv = document.createElement('div');
-              explanationDiv.className = 'mt-4 text-sm text-gray-800 hidden';
-              card.appendChild(explanationDiv); // <-- make sure it's added to the card
-
-              const explainBtn = document.createElement('button');
-              explainBtn.textContent = 'View Explanation';
-              explainBtn.className = 'mt-4 bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-4 py-2 rounded';
-              explainBtn.onclick = () => {
-                explanationDiv.innerHTML = convertMarkdownWithWiki(q.explanation);
-                explanationDiv.classList.toggle('hidden');
-                if (!explanationDiv.classList.contains('hidden')) {
-                  explanationDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                }
-              };
-
-
-              card.appendChild(explainBtn);
-            };
-
-            optionsDiv.appendChild(btn);
-          });
-
-
-          card.appendChild(optionsDiv);
-          card.appendChild(feedback);
-          allQuestions.push(card);
-        });
-
-        questionCount.textContent = allQuestions.length;
-        renderPage();
-
-      } catch (error) {
-        loader.style.display = 'none';
-        container.innerHTML = `<p class='text-red-600 text-center'>Questions Coming Soon.</p>`;
-        console.error('Error loading questions:', error);
-      }
-    }
-
-    function convertMarkdownWithWiki(markdownText) {
-      const html = marked.parse(markdownText);
-      return html.replace(/\[\[(.*?)\]\]/g, (match, title) => {
-        return `<span class="wiki-keyword" onclick="showWikiContent('${title}')">${title}</span>`;
-      });
-    }
-
-
-    document.addEventListener('DOMContentLoaded', loadQuestions);
-  </script>
-
-  <script>
+    // =========================
+    // Wiki integration (works cross-origin via origin=*)
+    // =========================
     async function showWikiContent(title) {
       const apiUrl = `https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&titles=${encodeURIComponent(title)}&format=json&origin=*`;
 
-      document.getElementById('wikiTitle').innerText = "Loading...";
-      document.getElementById('wikiContent').innerText = "Please wait...";
-      document.getElementById('wikiPopup').style.display = 'block';
-      document.getElementById('overlay').style.display = 'block';
+      // Show sheet + loading state
+      wikiTitleEl.textContent = 'Loading…';
+      wikiContentEl.textContent = 'Please wait…';
+      wikiAttribEl.textContent = '';
+      wikiOverlay.style.display = 'block';
+      wikiPopup.style.display = 'block';
 
       try {
-        const response = await fetch(apiUrl);
-        const data = await response.json();
-        const page = Object.values(data.query.pages)[0];
+        const res = await fetch(apiUrl, { headers: { 'Accept': 'application/json' } });
+        if (!res.ok) throw new Error('Network error');
+        const data = await res.json();
+        const page = Object.values(data?.query?.pages || {})[0];
 
-        document.getElementById('wikiTitle').innerText = page.title;
-        document.getElementById('wikiContent').innerText = page.extract || "No content found.";
+        if (!page || page.missing === '' || !page.extract) {
+          wikiTitleEl.textContent = title;
+          wikiContentEl.textContent = 'No content found.';
+          wikiAttribEl.innerHTML = '';
+          return;
+        }
+
+        wikiTitleEl.textContent = page.title || title;
+        wikiContentEl.textContent = page.extract;
+        wikiAttribEl.innerHTML = `Source: Wikipedia — <a href="https://en.wikipedia.org/wiki/${encodeURIComponent(page.title)}" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline">open full article</a>`;
       } catch (err) {
-        document.getElementById('wikiTitle').innerText = "Error";
-        document.getElementById('wikiContent').innerText = "Failed to load content.";
         console.error(err);
+        wikiTitleEl.textContent = 'Error';
+        wikiContentEl.textContent = 'Failed to load content.';
+        wikiAttribEl.textContent = '';
+      }
+    }
+    window.showWikiContent = showWikiContent; // make available for onclick
+
+    function closeWikiPopup() {
+      wikiOverlay.style.display = 'none';
+      wikiPopup.style.display = 'none';
+    }
+    window.closeWikiPopup = closeWikiPopup;
+
+    // =========================
+    // Load Questions
+    // =========================
+    async function loadQuestions() {
+      updateHeader();
+      const { year, month, date } = getUrlParams();
+
+      try {
+        const res = await fetch(`./question/practice/${year}/${month}/${date}.json`, { cache: 'no-store' });
+        const data = await res.json();
+
+        // Normalize minimal
+        session.data = (data || []).map((q) => ({
+          ...q,
+          question: String(q.question || '').trim(),
+          options: Array.isArray(q.options) ? q.options.slice() : [],
+          correct_option: q.correct_option
+        }));
+
+        loader.classList.add('hidden');
+        renderPage();
+      } catch (error) {
+        console.error('Error loading questions:', error);
+        loader.classList.add('hidden');
+        container.innerHTML = `<p class='text-red-600 text-center mt-6'>Questions Coming Soon or failed to load.</p>`;
       }
     }
 
-    function closeWikiPopup() {
-      document.getElementById('wikiPopup').style.display = 'none';
-      document.getElementById('overlay').style.display = 'none';
-    }
+    document.addEventListener('DOMContentLoaded', loadQuestions);
   </script>
-
-
-  <div id="overlay" class="overlay" onclick="closeWikiPopup()"></div>
-
-  <div id="wikiPopup" class="bottom-sheet">
-    <button onclick="closeWikiPopup()" style="float:right">&#x2715;</button>
-    <h2 id="wikiTitle"></h2>
-    <p id="wikiContent"></p>
-  </div>
-
 </body>
-
 </html>
