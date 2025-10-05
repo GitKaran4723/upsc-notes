@@ -206,6 +206,21 @@
       'july','august','september','october','november','december'
     ];
 
+    const MONTH_MAP = {
+      'jan': 0, 'january': 0,
+      'feb': 1, 'february': 1,
+      'mar': 2, 'march': 2,
+      'apr': 3, 'april': 3,
+      'may': 4,
+      'jun': 5, 'june': 5,
+      'jul': 6, 'july': 6,
+      'aug': 7, 'august': 7,
+      'sep': 8, 'september': 8,
+      'oct': 9, 'october': 9,
+      'nov': 10, 'november': 10,
+      'dec': 11, 'december': 11
+    };
+
     const $ = sel => document.querySelector(sel);
     const container = $('#practice-container');
     const skeletonGrid = $('#skeletonGrid');
@@ -231,8 +246,9 @@
 
     function toDateObj(year, month, date) {
       // Create a comparable Date for sorting (month name -> index)
-      const mi = MONTHS.indexOf(String(month).toLowerCase());
-      return new Date(Number(year), mi >= 0 ? mi : 0, Number(date));
+      const monthKey = String(month).toLowerCase();
+      const mi = MONTH_MAP[monthKey];
+      return new Date(Number(year), mi !== undefined ? mi : 0, Number(date));
     }
 
     function monthTitle(m) {
