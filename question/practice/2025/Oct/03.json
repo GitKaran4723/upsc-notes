@@ -1,405 +1,276 @@
 [
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "With reference to the dugong (Dugong dugon) in India, which of the following statements is/are correct?",
-    "statements": [
-      "It is the only herbivorous marine mammal found in Indian waters.",
-      "It is listed under Schedule I of the Wildlife (Protection) Act, 1972.",
-      "Its known Indian distribution includes the Gulf of Mannar, Palk Bay, Gulf of Kachchh and Andaman & Nicobar Islands."
-    ],
+    "question": "Sir Creek, recently in news, is located between which of the following?",
     "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
+      "India and Bangladesh",
+      "India and Pakistan",
+      "India and Sri Lanka",
+      "India and Maldives"
     ],
-    "correct_option": "1, 2 and 3",
-    "explanation": "All three statements are correct: the dugong (Dugong dugon) is the only herbivorous marine mammal in India, it enjoys the highest statutory protection under Schedule I of the Wildlife (Protection) Act, 1972, and its Indian distribution is restricted to the Gulf of Mannar, Palk Bay, Gulf of Kachchh and the Andaman & Nicobar Islands. [[Dugong]] and [[Wildlife Protection Act, 1972]] are useful topics to read for background.",
-    "tags": "Environment, Biodiversity, Science & Technology"
+    "correct_option": "India and Pakistan",
+    "explanation": "Sir Creek is a 96 km long tidal estuary in the Rann of Kutch, forming part of the India–Pakistan boundary. It is strategically important as it affects maritime boundaries and EEZ rights in the Arabian Sea. \n\nSee [[Sir Creek]].",
+    "tags": "Geography, International Relations, Defence"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "Consider the following about the Palk Bay Dugong Conservation Reserve notified in 2022:",
-    "statements": [
-      "It protects roughly 12,000 hectares of seagrass meadows.",
-      "It was created as a part of a community-led model with involvement of WII and local fishers.",
-      "The reserve is primarily intended to eliminate all fishing activity inside its boundaries."
-    ],
+    "question": "Which of the following principles is central to the India–Pakistan dispute over Sir Creek?",
     "options": [
-      "1 only",
-      "1 and 2 only",
-      "2 and 3 only",
-      "1, 2 and 3"
+      "Thalweg principle",
+      "Median line principle",
+      "Equidistance principle",
+      "Uti possidetis principle"
     ],
-    "correct_option": "1 and 2 only",
-    "explanation": "Statements 1 and 2 are correct: the Palk Bay reserve (notified 2022) protects about 12,000 ha of seagrass and is a model combining Wildlife Institute of India involvement with community participation. Statement 3 is incorrect — the model emphasises regulation, gear restrictions (e.g., banning gillnets/trawls) and community engagement rather than blanket elimination of all fishing, and also promotes alternative livelihoods. See [[Seagrass]] and [[Dugong Conservation Reserve]].",
-    "tags": "Environment, Conservation, GS Paper III"
+    "correct_option": "Thalweg principle",
+    "explanation": "Pakistan claims the boundary follows the mid-channel based on the Thalweg principle, while India asserts it lies east of the creek as per the 1914 Bombay Resolution that granted the creek to the Kutch ruler.",
+    "tags": "Geography, International Relations, Maritime Boundary"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "Which of the following best describes seagrass ecosystems in India as mentioned in the notes?",
-    "statements": [
-      "Seagrasses are flowering plants (not algae) and act as important blue carbon sinks.",
-      "India's mapped seagrass area is about 516.59 sq. km with Tamil Nadu having the largest beds.",
-      "Seagrass beds do not contribute significantly to fisheries or nursery habitats for marine life."
-    ],
+    "question": "Operation Sindoor, mentioned recently by Defence Minister Rajnath Singh, refers to:",
     "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
+      "A counter-terrorism operation in Kashmir",
+      "An Indian military response to Pakistani aggression across multiple sectors",
+      "A joint naval exercise with ASEAN nations",
+      "An internal security operation in Naxal-affected states"
     ],
-    "correct_option": "1 and 2 only",
-    "explanation": "Seagrasses are flowering plants and important for blue carbon sequestration; the notes give India's mapped seagrass area as ~516.59 sq. km with the Tamil Nadu coast richest in beds. Statement 3 is false — seagrass meadows serve as nurseries and support fisheries and biodiversity. See [[Seagrass]] and coastal ecology references.",
-    "tags": "Environment, Ecology, Science & Technology"
+    "correct_option": "An Indian military response to Pakistani aggression across multiple sectors",
+    "explanation": "Operation Sindoor involved India’s counteractions against Pakistani military activities, including the use of upgraded L-70 air defence guns to neutralize drones. It reflects India’s assertive defence posture.",
+    "tags": "Defence, Internal Security, Current Affairs"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "According to the Crime in India 2023 report (as summarised in the notes), which of the following is/are true?",
-    "statements": [
-      "Total recorded crimes increased by about 7.2% to roughly 6.24 million cases.",
-      "Murder and rape both showed a decline in 2023.",
-      "Cybercrime cases decreased in 2023 compared to 2022."
-    ],
+    "question": "The 'Donkey Route', recently seen in news, refers to:",
     "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
+      "An ancient trade route through Central Asia",
+      "An illegal migration path used to enter Western countries",
+      "A naval route used for smuggling narcotics",
+      "A pilgrimage route in the Himalayas"
     ],
-    "correct_option": "1 and 2 only",
-    "explanation": "Statements 1 and 2 are correct: the notes state total recorded crimes rose ~7.2% to 6.24 million, while murder fell ~2.8% and rape ~5.9%. Statement 3 is incorrect — cybercrime rose sharply (≈31.2% increase to 86,420 cases in 2023). For context, see [[Crime in India]] and NCRB publications.",
-    "tags": "Internal Security, Polity, Society"
+    "correct_option": "An illegal migration path used to enter Western countries",
+    "explanation": "The Donkey Route is an illegal and dangerous migration method involving human traffickers who smuggle people through countries like Ecuador or Guatemala into the U.S. It is named for its long and painful journey.",
+    "tags": "Governance, Internal Security, Migration"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "With regard to cybercrime trends in India (NCRB Crime in India 2023), which of the following is/are correct?",
+    "question": "Which agencies in India are involved in investigating the 'Donkey Route' human trafficking network?",
     "statements": [
-      "Cybercrime rose by over 30% in 2023 and fraud accounted for the majority of cases.",
-      "Karnataka recorded the highest number of cybercrime cases in 2023.",
-      "Cybercrime cases are concentrated only in rural areas due to lack of awareness."
+      "Enforcement Directorate (ED)",
+      "State Police",
+      "Bureau of Immigration (BoI)",
+      "Ministry of External Affairs (MEA)"
     ],
     "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "Statements 1 and 2 are correct: cybercrime cases rose ~31.2% to 86,420 and fraud formed ~68.9% of motives; Karnataka had the highest number (~21,889 cases). Statement 3 is false — cybercrime hotspots are largely urban/digitally advanced states (not 'only rural'). See NCRB summarised data.",
-    "tags": "Internal Security, Cybersecurity, Society"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Which of the following statements correctly describe the RoDTEP scheme?",
-    "statements": [
-      "RoDTEP stands for Remission of Duties and Taxes on Exported Products and replaced MEIS after a WTO ruling.",
-      "RoDTEP provides sector-wise non-transferable cash grants to exporters.",
-      "Rebates under RoDTEP are issued as transferable electronic scrips maintained in a digital ledger by CBIC."
-    ],
-    "options": [
-      "1 only",
-      "1 and 3 only",
-      "2 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 3 only",
-    "explanation": "Statement 1 is correct — RoDTEP (launched 1 Jan 2021) replaced MEIS to comply with WTO rules. Statement 3 is correct — rebates are issued as transferable electronic scrips recorded in CBIC's digital ledger. Statement 2 is incorrect because RoDTEP rebates are issued as transferable e-scrips (not non-transferable cash grants). See RoDTEP notes for implementation details.",
-    "tags": "Economy, International Trade, Governance"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Which of the following about the objectives and significance of RoDTEP is/are correct?",
-    "statements": [
-      "To refund embedded central, state and local taxes that are not otherwise refunded and thereby improve export competitiveness.",
-      "RoDTEP is treated as an export subsidy under WTO rules.",
-      "The scheme supports 'Make in India' and Atmanirbhar Bharat by lowering effective costs of exports."
-    ],
-    "options": [
-      "1 only",
-      "1 and 3 only",
-      "2 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 3 only",
-    "explanation": "Statements 1 and 3 are correct: RoDTEP refunds hidden taxes (electricity duty, certain VATs, municipal levies etc.) to keep Indian exports competitive and supports domestic manufacturing objectives. Statement 2 is false — RoDTEP was designed to be WTO-compliant and not an export subsidy. For trade policy context, see RoDTEP documentation.",
-    "tags": "Economy, Trade Policy, Governance"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Regarding the 20-point Gaza Peace Plan (2024–25) summarised in the notes, which of the following is/are part of its proposals?",
-    "statements": [
-      "Immediate ceasefire and release of hostages with a defined swap mechanism.",
-      "Creation of a 'New Gaza' as a special economic zone monitored internationally.",
-      "Guarantee of Hamas political leadership within the restructured governance framework."
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "Statements 1 and 2 are part of the plan: it calls for an immediate ceasefire and hostage–prisoner swaps and envisages rebuilding Gaza as a 'New Gaza' special economic zone under international oversight. Statement 3 is incorrect — the plan specifically envisages 'No role for Hamas' in post-conflict governance (disarmament/amnesty/safe passage for members instead). See the Gaza Peace Plan summary.",
-    "tags": "International Relations, Current Affairs, Diplomacy"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Which of the following statements about the Asian Development Bank (ADB) as per the notes is/are correct?",
-    "statements": [
-      "ADB was established in 1966 and has its headquarters in the Philippines.",
-      "ADB’s membership is limited to Asia-Pacific countries only.",
-      "ADB provides loans, grants, equity investments and technical assistance for infrastructure and climate resilience projects."
-    ],
-    "options": [
-      "1 and 3 only",
-      "2 only",
-      "1 and 2 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 3 only",
-    "explanation": "Statements 1 and 3 are correct: ADB was established in 1966 with headquarters in Mandaluyong, Philippines, and it provides loans, grants, equity and technical assistance focusing on infrastructure, climate resilience, water & sanitation etc. Statement 2 is false — while the majority of members are in Asia-Pacific, ADB has members from outside the region as well (total membership ~69). See ADB summary.",
-    "tags": "International Institutions, Economy, Geography"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Which of the following is/are correct about the National Crime Records Bureau (NCRB) as summarised in the notes?",
-    "statements": [
-      "NCRB was established in 1986 and functions under the Ministry of Home Affairs.",
-      "It manages projects like CCTNS and publishes reports such as Crime in India, Accidental Deaths & Suicides and Prison Statistics India.",
-      "The 2023 Crime in India report is the first report to be published after Bharatiya Nyaya Sanhita (BNS) replaced IPC in July 2024."
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "Statements 1 and 2 are correct: NCRB was set up in 1986 under MHA and runs CCTNS among other functions, and publishes Crime in India, ADSI and Prison Statistics. Statement 3 is inaccurate in wording — the notes state the 2023 Crime in India report is the last report under the IPC because BNS replaced IPC from July 2024 (i.e., the legal framework changed), but 2023 report itself covers offences recorded under the IPC period. See the NCRB section for precise interpretation.",
-    "tags": "Polity, Internal Security, Governance"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Which of the following best explains the 'Blue Carbon' concept mentioned in the notes?",
-    "statements": [
-      "It refers to carbon captured and stored by oceanic and coastal ecosystems like mangroves, seagrasses, and salt marshes.",
-      "Blue carbon ecosystems store carbon primarily in living biomass and not in sediments.",
-      "India is part of the International Partnership for Blue Carbon (IPBC)."
-    ],
-    "options": [
-      "1 only",
-      "1 and 3 only",
-      "2 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 3 only",
-    "explanation": "Blue Carbon refers to the carbon stored by marine and coastal ecosystems like mangroves, seagrasses, and salt marshes. These ecosystems store carbon both in biomass and in sediments for millennia. India joined the International Partnership for Blue Carbon (IPBC) in 2022, reflecting its coastal climate goals. Statement 2 is incorrect because sediments store most of the blue carbon. [[Blue carbon]] and [[Seagrass]] are relevant topics.",
-    "tags": "Environment, Climate Change, Ecology"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "With reference to the International Partnership for Blue Carbon (IPBC), consider the following statements:",
-    "statements": [
-      "It was launched at the 2015 Paris Climate Conference (COP 21).",
-      "Its objective is to promote conservation of coastal blue carbon ecosystems.",
-      "It is legally binding on its members to reduce coastal carbon emissions."
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "The IPBC was launched at COP21 in Paris in 2015 to promote conservation of blue carbon ecosystems such as mangroves and seagrasses. However, it is a voluntary and cooperative platform, not legally binding. Statement 3 is incorrect. [[Paris Agreement]] and [[Blue carbon]] provide context.",
-    "tags": "Environment, International Relations, Climate Governance"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Consider the following regarding the Bharatiya Nyaya Sanhita (BNS), 2023:",
-    "statements": [
-      "It replaces the Indian Penal Code (IPC), 1860.",
-      "The term 'sedition' has been replaced with 'acts endangering the sovereignty, unity and integrity of India'.",
-      "It introduces community service as a punishment for certain petty offences."
-    ],
-    "options": [
-      "1 only",
-      "1 and 2 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1, 2 and 3",
-    "explanation": "All statements are correct. The Bharatiya Nyaya Sanhita, 2023 replaced IPC, introducing modernised language and new provisions such as community service. It also replaced Section 124A (sedition) with 'acts endangering sovereignty, unity, and integrity of India'. Effective from July 2024. [[Indian Penal Code]] and [[Bharatiya Nyaya Sanhita, 2023]] are key topics.",
-    "tags": "Polity, Governance, Law and Justice"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "With reference to the Bharatiya Nagarik Suraksha Sanhita (BNSS), which of the following statements is correct?",
-    "statements": [
-      "It replaces the Code of Criminal Procedure (CrPC), 1973.",
-      "It introduces electronic recording of evidence and time-bound investigation.",
-      "It removes the provision for anticipatory bail."
-    ],
-    "options": [
-      "1 and 2 only",
-      "2 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 and 2 only",
-    "explanation": "Statements 1 and 2 are correct — BNSS replaces CrPC, 1973 and modernises criminal procedure with provisions for e-FIRs, electronic summons, digital evidence, and time limits for trials. Statement 3 is incorrect — anticipatory bail is retained. [[Code of Criminal Procedure]] and [[Bharatiya Nagarik Suraksha Sanhita]] are relevant.",
-    "tags": "Polity, Governance, Law and Justice"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "The Bharatiya Sakshya Adhiniyam (BSA), 2023 primarily deals with which of the following?",
-    "options": [
-      "Rules of evidence in criminal and civil trials",
-      "Protection of witnesses and victims",
-      "Criminal law offences and punishments",
-      "Law related to national security"
-    ],
-    "correct_option": "Rules of evidence in criminal and civil trials",
-    "explanation": "The Bharatiya Sakshya Adhiniyam, 2023 replaces the Indian Evidence Act, 1872 and governs admissibility, relevance, and types of evidence in courts. It modernises the law by including electronic and digital records. [[Indian Evidence Act]] and [[Bharatiya Sakshya Adhiniyam, 2023]] are the key readings.",
-    "tags": "Polity, Governance, Law and Justice"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "According to the notes, which of the following countries were among the founding members of the Asian Development Bank (ADB)?",
-    "statements": [
-      "India",
-      "Japan",
-      "United States",
-      "Indonesia"
-    ],
-    "options": [
-      "1, 2 and 4 only",
       "1, 2 and 3 only",
-      "2 and 3 only",
-      "1, 2, 3 and 4"
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4",
+      "2 and 3 only"
     ],
     "correct_option": "1, 2, 3 and 4",
-    "explanation": "All four — India, Japan, the United States, and Indonesia — were among the 31 founding members of the Asian Development Bank when it was established in 1966. Japan and the US remain the largest shareholders. [[Asian Development Bank]] provides details.",
-    "tags": "International Institutions, Economy, Geography"
+    "explanation": "The Donkey Route racket involves multiple agencies — ED investigates money laundering, State Police register FIRs, BoI tracks passports, and MEA coordinates international action against traffickers.",
+    "tags": "Internal Security, Governance, Law Enforcement"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "Which of the following is a correct feature of ADB’s governance structure?",
-    "statements": [
-      "The ADB President is traditionally elected from Japan.",
-      "India holds the position of largest regional shareholder.",
-      "The Board of Governors is the highest decision-making body of ADB."
-    ],
+    "question": "Recently, the government increased the Minimum Support Price (MSP) for wheat for the 2026–27 marketing year to:",
     "options": [
-      "1 and 2 only",
-      "1 and 3 only",
-      "2 and 3 only",
-      "1, 2 and 3"
+      "₹2,425 per quintal",
+      "₹2,585 per quintal",
+      "₹2,715 per quintal",
+      "₹2,600 per quintal"
     ],
-    "correct_option": "1 and 3 only",
-    "explanation": "Statements 1 and 3 are correct. The ADB President has traditionally been a Japanese national, and the Board of Governors — comprising one governor from each member country — is the highest decision-making body. India is a major shareholder but not the largest; Japan and the US hold that position. [[Asian Development Bank]] explains governance.",
-    "tags": "International Institutions, Economy"
+    "correct_option": "₹2,585 per quintal",
+    "explanation": "The Union Cabinet approved a ₹160 hike, raising wheat MSP to ₹2,585 per quintal for 2026–27. This aims to offset rising input costs and encourage rabi sowing. \n\nRefer [[Minimum Support Price]].",
+    "tags": "Economy, Agriculture, Government Schemes"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "As per the notes, which of the following crimes saw a *decrease* in India in 2023 compared to 2022?",
-    "statements": [
-      "Murder",
-      "Rape",
-      "Kidnapping",
-      "Cybercrime"
-    ],
+    "question": "Who recommends the Minimum Support Prices (MSP) to the Government of India?",
     "options": [
-      "1 and 2 only",
-      "2 and 4 only",
-      "1, 2 and 3 only",
-      "1, 2, 3 and 4"
+      "NITI Aayog",
+      "Agricultural Prices Commission",
+      "Commission for Agricultural Costs and Prices (CACP)",
+      "National Development Council"
     ],
-    "correct_option": "1 and 2 only",
-    "explanation": "The notes highlight that murder fell by 2.8% and rape by 5.9% in 2023 compared to 2022. Kidnapping and cybercrime increased. Data from [[Crime in India 2023]] report confirms this pattern.",
-    "tags": "Polity, Internal Security, Society"
+    "correct_option": "Commission for Agricultural Costs and Prices (CACP)",
+    "explanation": "The CACP recommends MSPs for 23 crops to ensure farmers receive remunerative prices. The final decision is taken by the Cabinet Committee on Economic Affairs.",
+    "tags": "Economy, Agriculture, Governance"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "Which of the following correctly describes the Community-Based Dugong Conservation Model mentioned in the notes?",
+    "question": "Which of the following countries is the largest producer of wheat in the world as of 2024?",
+    "options": [
+      "China",
+      "India",
+      "Russia",
+      "United States"
+    ],
+    "correct_option": "China",
+    "explanation": "China, India, and Russia together account for about 41% of global wheat production. China leads globally, while India ranks second. \n\nSee [[Wheat production]].",
+    "tags": "Geography, Economy, Agriculture"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "The Indian-made H125 Helicopter, to be assembled in Kolar, Karnataka, is a collaboration between:",
+    "options": [
+      "HAL and Boeing",
+      "DRDO and Safran",
+      "Tata Advanced Systems Ltd. and Airbus",
+      "Adani Defence and Lockheed Martin"
+    ],
+    "correct_option": "Tata Advanced Systems Ltd. and Airbus",
+    "explanation": "The H125 light helicopter assembly line at Kolar marks India’s first private-sector helicopter production facility, set up by Tata Advanced Systems Ltd. in collaboration with Airbus.",
+    "tags": "Science and Technology, Defence, Make in India"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following is NOT true about China’s electrolyser market dominance?",
     "statements": [
-      "It involves partnerships between government agencies, scientific institutions and local fisher communities.",
-      "It provides financial incentives to fishers to avoid using destructive gear like gillnets.",
-      "It is implemented only in the Gulf of Kachchh region."
+      "China produces about 85% of the world’s Alkaline (ALK) electrolysers.",
+      "China controls most global supplies of rare metals used in PEM electrolysers.",
+      "China’s electrolyser prices have dropped by 20–30% annually.",
+      "Green hydrogen is a strategic sector globally, limiting China’s full dominance."
     ],
     "options": [
-      "1 and 2 only",
-      "2 and 3 only",
       "1 only",
+      "2 only",
+      "3 only",
+      "4 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "China dominates Alkaline electrolysers but depends on imports of rare metals like iridium and platinum for PEM models. Other countries are promoting domestic production to avoid total Chinese dominance.",
+    "tags": "Science and Technology, Environment, Energy"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following best describes the term 'e-waste'?",
+    "options": [
+      "Waste generated from mining and metallurgy",
+      "Discarded electronic products and components",
+      "Non-biodegradable waste from packaging industries",
+      "Industrial waste from textile and leather factories"
+    ],
+    "correct_option": "Discarded electronic products and components",
+    "explanation": "E-waste refers to discarded electrical and electronic equipment such as computers, mobile phones, and televisions. It contains valuable as well as hazardous materials like lead, mercury, and cadmium. \n\nSee [[Electronic waste]].",
+    "tags": "Environment, Pollution, Waste Management"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following toxic substances are commonly released due to improper disposal of e-waste?",
+    "statements": [
+      "Lead",
+      "Mercury",
+      "Cadmium",
+      "Chromium"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4",
+      "2 and 4 only"
+    ],
+    "correct_option": "1, 2, 3 and 4",
+    "explanation": "Improper e-waste disposal releases heavy metals like lead, mercury, cadmium, and chromium, contaminating air, soil, and water. \n\nRefer to UPSC PYQ (2013) for similar question.",
+    "tags": "Environment, Pollution, UPSC PYQ"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "The policy tool 'Extended Producer Responsibility (EPR)' is primarily aimed at:",
+    "options": [
+      "Making producers financially responsible for end-of-life waste of their products",
+      "Encouraging producers to increase exports of electronic goods",
+      "Shifting responsibility of recycling to local municipalities",
+      "Encouraging import substitution of electronic components"
+    ],
+    "correct_option": "Making producers financially responsible for end-of-life waste of their products",
+    "explanation": "EPR ensures that producers, importers, and brand owners take responsibility for collecting and recycling their products after use, shifting the burden from government to manufacturers. \n\nSee [[Extended Producer Responsibility]].",
+    "tags": "Environment, Policy, Waste Management"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Under which rules was the concept of 'Extended Producer Responsibility (EPR)' first introduced in India?",
+    "options": [
+      "Bio-Medical Waste (Management and Handling) Rules, 1998",
+      "Recycled Plastic (Manufacturing and Usage) Rules, 1999",
+      "E-Waste (Management and Handling) Rules, 2011",
+      "Solid Waste Management Rules, 2016"
+    ],
+    "correct_option": "E-Waste (Management and Handling) Rules, 2011",
+    "explanation": "The E-Waste Rules of 2011 introduced the concept of Extended Producer Responsibility (EPR) in India to hold producers accountable for waste management. \n\nRefer UPSC PYQ 2019 – correct answer: (c).",
+    "tags": "Environment, Governance, UPSC PYQ"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following best explains the purpose of introducing 'Floor Pricing' in India’s EPR framework (2022 Rules)?",
+    "options": [
+      "To fix minimum recycling rates for informal recyclers",
+      "To ensure minimum compensation to certified recyclers",
+      "To cap recycling costs for electronic manufacturers",
+      "To control the price of electronic products in the market"
+    ],
+    "correct_option": "To ensure minimum compensation to certified recyclers",
+    "explanation": "The floor price in the 2022 EPR framework ensures that formal recyclers receive minimum compensation through EPR certificates, making formal recycling financially viable.",
+    "tags": "Environment, Policy, Circular Economy"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following are expected benefits of introducing a floor price for EPR certificates?",
+    "statements": [
+      "Predictable revenue and ROI for recyclers",
+      "Reduction in informal recycling and pollution",
+      "Encouragement of safe working conditions"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
       "1, 2 and 3"
     ],
-    "correct_option": "1 and 2 only",
-    "explanation": "Statements 1 and 2 are correct — the community-based dugong model brings together Wildlife Institute of India, Tamil Nadu Forest Department and fishers with financial incentives to replace gillnets. Statement 3 is incorrect — the project operates mainly in Palk Bay and Gulf of Mannar, not only in Gulf of Kachchh.",
-    "tags": "Environment, Conservation, Governance"
+    "correct_option": "1, 2 and 3",
+    "explanation": "A floor price creates economic, environmental, and social benefits: stable revenue for recyclers, curbing informal dumping, and safer labour practices. It promotes a formal, circular economy.",
+    "tags": "Environment, Economy, Waste Management"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "The NCRB’s Crime in India Report 2023, as noted, is significant because:",
-    "options": [
-      "It is the final report based on the Indian Penal Code before transition to the Bharatiya Nyaya Sanhita.",
-      "It was the first report to include cybercrime data.",
-      "It excluded data from Union Territories.",
-      "It was jointly published by NCRB and NITI Aayog."
-    ],
-    "correct_option": "It is the final report based on the Indian Penal Code before transition to the Bharatiya Nyaya Sanhita.",
-    "explanation": "The 2023 Crime in India Report is the last compiled under the Indian Penal Code, as the Bharatiya Nyaya Sanhita (BNS) came into force in July 2024. From the 2024 report onward, the data will align with BNS provisions. [[Crime in India]] and [[NCRB]] are relevant references.",
-    "tags": "Polity, Governance, Internal Security"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Which of the following statements best describes the objectives of the Wildlife (Protection) Amendment Act, 2022?",
+    "question": "Which of the following statements correctly compares India’s e-waste management with global best practices?",
     "statements": [
-      "It rationalised Schedules by reducing them from six to four.",
-      "It included provisions to regulate the trade of exotic species.",
-      "It empowered the Central Government to notify conservation reserves in union territories."
+      "Formal recycling sector in India handles less than 10% of total e-waste.",
+      "European countries recycle over 70% of their e-waste through formal channels.",
+      "India’s EPR fees are among the lowest globally."
     ],
     "options": [
       "1 only",
@@ -408,158 +279,227 @@
       "2 and 3 only"
     ],
     "correct_option": "1, 2 and 3",
-    "explanation": "All three statements are correct. The Wildlife (Protection) Amendment Act, 2022 streamlined species Schedules (from 6 to 4), added a new Schedule for CITES species to regulate exotic wildlife trade, and authorised the Centre to notify conservation reserves in Union Territories. It modernises the 1972 Act to meet international commitments. [[Wildlife Protection Act, 1972]] and [[CITES]] are useful for further reading.",
-    "tags": "Environment, Biodiversity, Governance"
+    "explanation": "India’s formal e-waste recycling is below 10%, while EU countries recycle 70%+ through formal systems. India’s EPR fees remain low, undermining enforcement and investment.",
+    "tags": "Environment, Policy, International Comparison"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "In India, which of the following species is legally protected under Schedule I of the Wildlife (Protection) Act, 1972?",
+    "question": "Which of the following are challenges in implementing EPR effectively in India?",
     "statements": [
-      "Dugong",
-      "Great Indian Bustard",
-      "Snow Leopard",
-      "Indian Pangolin"
+      "Weak enforcement and monitoring",
+      "Dominance of informal sector recycling",
+      "Low EPR certificate pricing"
     ],
     "options": [
-      "1, 2 and 4 only",
-      "1 and 3 only",
-      "1, 2, 3 and 4",
-      "2 and 3 only"
-    ],
-    "correct_option": "1, 2, 3 and 4",
-    "explanation": "All four species — Dugong, Great Indian Bustard, Snow Leopard, and Indian Pangolin — are listed under Schedule I of the Wildlife (Protection) Act, 1972, granting them the highest level of legal protection. This means hunting or trade is strictly prohibited. [[Wildlife Protection Act, 1972]] and species-specific pages are relevant.",
-    "tags": "Environment, Biodiversity"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Which of the following correctly explains the concept of ‘Conservation Reserve’ under the Wildlife (Protection) Act, 1972?",
-    "options": [
-      "It is a protected area declared for community participation in conservation near existing protected areas.",
-      "It is an area exclusively for scientific research by the government.",
-      "It is a marine area declared for protection of coral reefs only.",
-      "It is a biosphere reserve recognised under UNESCO’s Man and Biosphere Programme."
-    ],
-    "correct_option": "It is a protected area declared for community participation in conservation near existing protected areas.",
-    "explanation": "A ‘Conservation Reserve’ under the Wildlife (Protection) Act, 1972 refers to an area adjacent to National Parks or Sanctuaries, declared for protection of landscapes, seascapes, and community involvement in conservation. It allows coexistence of local livelihoods with wildlife. [[Conservation reserve (India)]] is relevant.",
-    "tags": "Environment, Governance, Biodiversity"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "As per the notes, which of the following features distinguishes RoDTEP from the earlier MEIS scheme?",
-    "statements": [
-      "RoDTEP is fully WTO-compliant whereas MEIS was found to violate WTO subsidy rules.",
-      "RoDTEP covers both manufacturing and service exports equally.",
-      "RoDTEP rebates are directly credited to exporters’ bank accounts as cash."
-    ],
-    "options": [
-      "1 only",
       "1 and 2 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "correct_option": "1 only",
-    "explanation": "Only statement 1 is correct. The RoDTEP scheme was designed to comply with WTO norms after India’s MEIS was challenged for providing export-linked subsidies. Statement 2 is incorrect — RoDTEP applies to goods exports, not services. Statement 3 is false — rebates are issued as e-scrips, not direct cash transfers. [[RoDTEP]] and [[MEIS]] are relevant trade policy topics.",
-    "tags": "Economy, Trade Policy, Governance"
-  },
-  {
-    "date": "1",
-    "month": "October",
-    "year": "2025",
-    "question": "Which of the following components are part of India’s marine biodiversity conservation strategy mentioned in the notes?",
-    "statements": [
-      "National Dugong Recovery Programme",
-      "Coastal Blue Carbon Mapping Initiative",
-      "India’s Marine Spatial Planning Framework under UNDP-GEF"
-    ],
-    "options": [
-      "1 only",
-      "1 and 2 only",
+      "2 and 3 only",
       "1 and 3 only",
       "1, 2 and 3"
     ],
     "correct_option": "1, 2 and 3",
-    "explanation": "All three are included. India’s marine conservation framework includes the National Dugong Recovery Programme (Tamil Nadu & Gujarat focus), Blue Carbon Mapping Initiative (to quantify carbon in seagrass/mangroves), and Marine Spatial Planning (MSP) under UNDP-GEF pilot in Puducherry and Lakshadweep. [[Marine conservation in India]] and [[Blue carbon]] are relevant.",
-    "tags": "Environment, Conservation, Science & Technology"
+    "explanation": "Implementation of EPR in India is hindered by poor enforcement, dominance of informal recyclers, and undervalued EPR certificates that discourage formal recycling investment.",
+    "tags": "Environment, Governance, Waste Management"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "Which of the following correctly explains ‘Marine Spatial Planning’ (MSP)?",
+    "question": "Which of the following global practices in e-waste management contrast with India’s situation?",
     "options": [
-      "A process of allocating marine space to balance economic, social and ecological goals.",
-      "A mapping programme for underwater archaeological sites.",
-      "A method of increasing fish yield through marine ranching.",
-      "An initiative for underwater tourism promotion by the Ministry of Tourism."
+      "High recycling fees in EU reflecting real environmental costs",
+      "Heavily regulated informal sector integration in developed countries",
+      "Low recovery efficiency in global recycling systems",
+      "Advanced technology used in material recovery abroad"
     ],
-    "correct_option": "A process of allocating marine space to balance economic, social and ecological goals.",
-    "explanation": "Marine Spatial Planning (MSP) is an integrated approach to regulate use of marine and coastal areas to balance conservation, fisheries, tourism, and industrial needs. India is implementing MSP in Puducherry and Lakshadweep with UNDP-GEF support. [[Marine Spatial Planning]] is a key term for Environment and Geography.",
-    "tags": "Environment, Geography, Governance"
+    "correct_option": "High recycling fees in EU reflecting real environmental costs",
+    "explanation": "Globally, EPR systems include high recycling fees and advanced technology. India’s low fees and informal dominance reduce recovery efficiency and compliance.",
+    "tags": "Environment, Circular Economy, Global Governance"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "With reference to NCRB’s Crime in India data, which of the following states recorded the highest overall crime rate in 2023?",
-    "options": [
-      "Kerala",
-      "Uttar Pradesh",
-      "Maharashtra",
-      "Bihar"
+    "question": "Which of the following actions have been recommended to address India’s e-waste management crisis?",
+    "statements": [
+      "Strict EPR compliance with floor pricing",
+      "Integration of informal sector through retraining",
+      "State-wise waste tracking and data systems"
     ],
-    "correct_option": "Kerala",
-    "explanation": "As per NCRB’s Crime in India 2023 report, Kerala recorded the highest crime rate in the country, reflecting improved reporting and a high literacy-driven reporting culture. [[Crime in India]] and [[National Crime Records Bureau]] are relevant.",
-    "tags": "Internal Security, Polity, Governance"
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The report recommends strict enforcement of EPR with floor pricing, retraining informal workers, and implementing state-wise monitoring systems for sustainable e-waste management.",
+    "tags": "Environment, Policy, Sustainable Development"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "Which of the following agencies assists the Wildlife Institute of India (WII) in the Dugong Recovery Programme?",
+    "question": "Which of the following statements correctly define the concept of a ‘Circular Economy’?",
     "options": [
-      "United Nations Environment Programme (UNEP)",
-      "National Biodiversity Authority (NBA)",
-      "State Forest Departments of Tamil Nadu and Gujarat",
-      "Ministry of Earth Sciences (MoES)"
+      "An economy that discourages any industrial production",
+      "An economy that promotes reuse, recycling, and recovery to minimize waste",
+      "An economy that depends entirely on renewable energy",
+      "An economy that increases production and consumption continuously"
     ],
-    "correct_option": "State Forest Departments of Tamil Nadu and Gujarat",
-    "explanation": "The Dugong Recovery Programme is led by the Wildlife Institute of India with the collaboration of Tamil Nadu and Gujarat Forest Departments. It focuses on seagrass ecosystem protection and community participation. [[Wildlife Institute of India]] is relevant.",
-    "tags": "Environment, Governance, Biodiversity"
+    "correct_option": "An economy that promotes reuse, recycling, and recovery to minimize waste",
+    "explanation": "A circular economy focuses on designing products and systems to minimize waste through reuse, repair, recycling, and recovery — making economic growth resource-efficient and sustainable.",
+    "tags": "Environment, Economy, Sustainable Development"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "Which of the following best explains 'Cybercrime Fraud' as identified by NCRB 2023?",
-    "options": [
-      "Frauds conducted through phishing, OTP scams, and fake websites to obtain money or data.",
-      "Online defamation or hate speech using social media platforms.",
-      "Hacking of critical infrastructure systems such as power grids.",
-      "Propagation of child sexual abuse material (CSAM) through encrypted apps."
+    "question": "Which of the following correctly pairs the pollutants released due to e-waste with their impact?",
+    "statements": [
+      "Lead – Nervous system damage",
+      "Mercury – Affects kidneys and brain",
+      "Cadmium – Bone and lung damage"
     ],
-    "correct_option": "Frauds conducted through phishing, OTP scams, and fake websites to obtain money or data.",
-    "explanation": "NCRB 2023 defines ‘cyber fraud’ as crimes using phishing, OTP manipulation, fake apps or websites for financial gain. It accounts for nearly 69% of cybercrime cases in India. [[Cybercrime in India]] is relevant for Internal Security preparation.",
-    "tags": "Internal Security, Cybersecurity, Polity"
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Lead damages the nervous system, mercury affects the brain and kidneys, and cadmium causes bone and lung damage. Improper e-waste recycling exposes workers to all three toxins.",
+    "tags": "Environment, Pollution, Health"
   },
   {
-    "date": "1",
+    "date": "3",
     "month": "October",
     "year": "2025",
-    "question": "Which of the following correctly describes the relationship between NCRB and CCTNS?",
+    "question": "As per the E-Waste (Management) Rules, 2022, which entities are covered under the Extended Producer Responsibility (EPR)?",
     "options": [
-      "NCRB manages the Crime and Criminal Tracking Network and Systems (CCTNS) for data integration across police stations.",
-      "CCTNS is a private-sector database outsourced by NCRB.",
-      "CCTNS is operated by NITI Aayog under the Ministry of Home Affairs.",
-      "NCRB has no role in CCTNS management; it only publishes reports."
+      "Producers, Importers, and Brand Owners (PIBOs)",
+      "Only Manufacturers and Retailers",
+      "Recyclers and Consumers",
+      "Only Government-owned electronic companies"
     ],
-    "correct_option": "NCRB manages the Crime and Criminal Tracking Network and Systems (CCTNS) for data integration across police stations.",
-    "explanation": "NCRB operates the Crime and Criminal Tracking Network and Systems (CCTNS), which digitally connects police stations nationwide for real-time sharing of crime and criminal data. It’s one of India’s major e-Governance policing projects under the Ministry of Home Affairs. [[CCTNS]] and [[NCRB]] are key topics.",
-    "tags": "Polity, Internal Security, Governance"
+    "correct_option": "Producers, Importers, and Brand Owners (PIBOs)",
+    "explanation": "Under EPR, producers, importers, and brand owners are legally responsible for collecting and processing the end-of-life waste of their products. This aims to promote sustainable product lifecycles.",
+    "tags": "Environment, Governance, Policy"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements are correct regarding India's e-waste scenario?",
+    "statements": [
+      "India’s e-waste generation has increased by more than 150% between 2017-18 and 2023-24.",
+      "The informal sector handles more than 90% of e-waste recycling.",
+      "Formal recycling capacity has grown proportionally with e-waste generation."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India’s e-waste rose 151% between 2017–18 and 2023–24, but formal capacity has not kept pace. The informal sector still dominates e-waste collection and processing.",
+    "tags": "Environment, Data Interpretation, Waste Management"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "According to the E-Waste (Management) Rules, 2011, which of the following is true?",
+    "options": [
+      "E-waste collection is mandatory for all municipal corporations.",
+      "Producers must finance and organize the collection and recycling of their electronic waste.",
+      "Import of used electronic products is fully exempted from regulation.",
+      "Informal recycling is officially recognized as part of the supply chain."
+    ],
+    "correct_option": "Producers must finance and organize the collection and recycling of their electronic waste.",
+    "explanation": "The 2011 Rules introduced the principle of producer responsibility for collection, recycling, and disposal, marking a shift from government-managed waste handling.",
+    "tags": "Environment, Legislation, Policy"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "In the context of e-waste management, what is the main function of the EPR certificate system?",
+    "options": [
+      "It certifies the quality of electronic products for export.",
+      "It allows producers to trade compliance obligations for recycling targets.",
+      "It is issued to consumers for responsible disposal.",
+      "It monitors carbon emission levels from industries."
+    ],
+    "correct_option": "It allows producers to trade compliance obligations for recycling targets.",
+    "explanation": "EPR certificates are issued to recyclers for verified waste processing. Producers can buy these certificates to fulfill their legal recycling obligations, creating a market mechanism for compliance.",
+    "tags": "Environment, Policy, Economy"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following correctly explains why the introduction of floor pricing in EPR markets is significant?",
+    "options": [
+      "It prevents underpricing and ensures recyclers receive fair compensation.",
+      "It restricts trade in electronic waste materials internationally.",
+      "It removes all subsidies on recycling industries.",
+      "It transfers recycling costs to state governments."
+    ],
+    "correct_option": "It prevents underpricing and ensures recyclers receive fair compensation.",
+    "explanation": "The floor price in EPR markets avoids artificial underpricing of recycling credits, ensuring economic viability for certified recyclers and promoting a shift from informal to formal systems.",
+    "tags": "Environment, Economics, Governance"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following best represents the informal sector’s role in India’s e-waste economy?",
+    "options": [
+      "It manages less than 10% of e-waste but highly efficiently.",
+      "It handles about 95% of India’s e-waste through unsafe methods.",
+      "It is fully integrated under India’s formal waste policy.",
+      "It primarily focuses on exporting recycled materials abroad."
+    ],
+    "correct_option": "It handles about 95% of India’s e-waste through unsafe methods.",
+    "explanation": "The informal sector dominates India’s e-waste processing but uses unsafe techniques like open burning and acid leaching, leading to health and environmental hazards.",
+    "tags": "Environment, Labour, Public Health"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following metals can be recovered from e-waste recycling?",
+    "statements": [
+      "Gold",
+      "Copper",
+      "Silver"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "E-waste contains valuable materials like gold, copper, and silver. Efficient recovery reduces import dependency and supports a circular economy.",
+    "tags": "Environment, Economy, Resource Recovery"
+  },
+  {
+    "date": "3",
+    "month": "October",
+    "year": "2025",
+    "question": "In India’s policy framework, which of the following initiatives directly supports the circular economy approach?",
+    "options": [
+      "National Hydrogen Mission",
+      "Swachh Bharat Mission",
+      "E-Waste (Management) Rules, 2022",
+      "Smart Cities Mission"
+    ],
+    "correct_option": "E-Waste (Management) Rules, 2022",
+    "explanation": "The E-Waste (Management) Rules, 2022 emphasize Extended Producer Responsibility and floor pricing, aligning directly with the principles of circular economy and sustainable material use.",
+    "tags": "Environment, Circular Economy, Governance"
   }
 ]

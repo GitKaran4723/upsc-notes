@@ -1,0 +1,468 @@
+[
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following best describes a 'Stablecoin' as mentioned by Finance Minister Nirmala Sitharaman?",
+    "options": [
+      "A cryptocurrency whose value is pegged to a stable asset like the US dollar or gold",
+      "A blockchain-based token issued by the Reserve Bank of India",
+      "A volatile form of cryptocurrency used for speculation",
+      "A type of digital currency issued only by central banks"
+    ],
+    "correct_option": "A cryptocurrency whose value is pegged to a stable asset like the US dollar or gold",
+    "explanation": "Stablecoins are cryptocurrencies designed to minimize volatility by being backed by assets like fiat currency or gold. They act as a bridge between traditional and digital finance systems.",
+    "tags": "Economy, Banking, Digital Currency"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "How does a Central Bank Digital Currency (CBDC) differ from a Stablecoin?",
+    "statements": [
+      "CBDC is issued by the central bank, while stablecoins are issued by private entities.",
+      "CBDC has legal tender status, whereas stablecoins do not.",
+      "Stablecoins are more volatile than CBDCs."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "CBDCs are digital forms of sovereign currency issued by central banks and have legal tender status, unlike private stablecoins which are asset-backed but not legal tender.",
+    "tags": "Economy, Banking, Monetary Policy"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "According to Nirmala Sitharaman, why must nations prepare to deal with stablecoins?",
+    "options": [
+      "They are illegal and must be eliminated",
+      "They are transforming global money flows and could impact monetary sovereignty",
+      "They are primarily used for money laundering and tax evasion",
+      "They will replace central bank currencies entirely"
+    ],
+    "correct_option": "They are transforming global money flows and could impact monetary sovereignty",
+    "explanation": "The Finance Minister highlighted that stablecoins are reshaping global financial flows, potentially affecting central banks' control over money supply and monetary policy.",
+    "tags": "Economy, International Finance, Digital Currency"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements about India's policy stance toward cryptocurrencies is correct?",
+    "options": [
+      "The RBI fully supports the use of private cryptocurrencies",
+      "India has legalized all forms of cryptocurrency trading",
+      "The Finance Ministry taxes crypto transactions but has not legalized them",
+      "India has banned both cryptocurrency and CBDC"
+    ],
+    "correct_option": "The Finance Ministry taxes crypto transactions but has not legalized them",
+    "explanation": "India maintains a cautious approach — crypto is not legal tender, but profits are taxed. The RBI promotes CBDC and opposes private cryptocurrencies.",
+    "tags": "Economy, Digital Currency, Governance"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Diethylene glycol (DEG), often found in adulterated cough syrups, primarily affects which human organ system?",
+    "options": [
+      "Respiratory system",
+      "Digestive system",
+      "Nervous and renal systems",
+      "Circulatory system"
+    ],
+    "correct_option": "Nervous and renal systems",
+    "explanation": "DEG and ethylene glycol are industrial solvents that damage kidneys, liver, and the nervous system, often leading to renal failure and death when consumed in adulterated medicines.",
+    "tags": "Health, Science and Technology, Governance"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following best explains the dual regulatory structure in India's drug control system?",
+    "statements": [
+      "The CDSCO regulates drug quality at the national level.",
+      "State Drug Controllers handle manufacturing licenses and inspections.",
+      "The Ministry of Commerce approves export licenses for drugs."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The CDSCO oversees national drug standards, while State Drug Controllers issue licenses and inspect manufacturing units. This dual setup often causes coordination delays.",
+    "tags": "Health, Governance, Public Policy"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following countries recently praised India for its leadership in renewable energy expansion?",
+    "options": [
+      "United States",
+      "United Nations",
+      "World Bank",
+      "European Union"
+    ],
+    "correct_option": "United Nations",
+    "explanation": "The UN’s 2025 Climate Report recognized India, Brazil, and China for leadership in renewable expansion, especially solar and wind energy projects.",
+    "tags": "Environment, International Relations, Energy"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "According to India’s Ministry of Finance, how much climate finance is required by 2030 to meet clean energy targets?",
+    "options": [
+      "$500 billion",
+      "$1 trillion",
+      "$2.5 trillion",
+      "$5 trillion"
+    ],
+    "correct_option": "$2.5 trillion",
+    "explanation": "India requires an estimated $2.5 trillion in climate finance by 2030 to achieve clean energy and adaptation goals, including solar, hydrogen, and resilient agriculture.",
+    "tags": "Environment, Economy, Sustainable Development"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements regarding green bonds in India is correct?",
+    "options": [
+      "Green bonds are issued only by the central government.",
+      "Private sector accounts for over 80% of green bond issuance.",
+      "Green bonds cannot fund solar energy projects.",
+      "They are restricted only to environmental NGOs."
+    ],
+    "correct_option": "Private sector accounts for over 80% of green bond issuance.",
+    "explanation": "In India, the private sector issues about 84% of green bonds, showing strong private participation in renewable energy and sustainable projects.",
+    "tags": "Economy, Environment, Finance"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Poland’s 2025 decision to join NATO’s Pipeline System (NPS) is significant because it:",
+    "options": [
+      "Connects Poland’s fuel supply to Russia",
+      "Reduces NATO’s dependence on rail and road fuel transport near its eastern flank",
+      "Marks Poland’s withdrawal from NATO",
+      "Creates a new EU energy alliance independent of NATO"
+    ],
+    "correct_option": "Reduces NATO’s dependence on rail and road fuel transport near its eastern flank",
+    "explanation": "Poland’s inclusion in the NATO Pipeline System enhances rapid fuel supply to Eastern Europe, reducing reliance on slower transport modes and strengthening NATO’s deterrence posture against Russia.",
+    "tags": "International Relations, Defence, Geography"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following sectors contributes the most to India’s clean energy employment as of 2023?",
+    "options": [
+      "Hydropower sector",
+      "Off-grid bioenergy sector",
+      "Solar and wind energy sector",
+      "Nuclear energy sector"
+    ],
+    "correct_option": "Solar and wind energy sector",
+    "explanation": "India’s renewable energy sector, led by solar and wind, employs over 1 million people. Off-grid solar alone employs about 80,000 people, highlighting its role in rural development.",
+    "tags": "Environment, Energy, Employment"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following represents the major challenge India faces in achieving its 2030 renewable energy targets?",
+    "options": [
+      "Technology availability",
+      "Land acquisition",
+      "Climate finance gap",
+      "Lack of skilled labor"
+    ],
+    "correct_option": "Climate finance gap",
+    "explanation": "Despite strong renewable capacity growth, India faces a $2.5 trillion climate finance gap by 2030, posing a key barrier to scaling green infrastructure and adaptation projects.",
+    "tags": "Environment, Economy, Sustainable Development"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "What is 'Blended Finance' as mentioned in the context of India’s clean energy strategy?",
+    "options": [
+      "A financing model that combines concessional public funds with private investments to de-risk projects",
+      "A fund created exclusively for solar energy infrastructure",
+      "A loan program managed by SEBI for renewable startups",
+      "An RBI-led initiative to control inflation through carbon credits"
+    ],
+    "correct_option": "A financing model that combines concessional public funds with private investments to de-risk projects",
+    "explanation": "Blended finance merges public and private capital to share risk, attract investors, and catalyze large-scale green infrastructure projects such as renewable parks and EV infrastructure.",
+    "tags": "Economy, Environment, Finance"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following domestic institutions were identified as potential investors in India’s green projects?",
+    "options": [
+      "EPFO, LIC, and Sovereign Wealth Funds",
+      "RBI, NABARD, and SIDBI",
+      "SEBI, IRDAI, and NITI Aayog",
+      "NSDC, NPCIL, and CSIR"
+    ],
+    "correct_option": "EPFO, LIC, and Sovereign Wealth Funds",
+    "explanation": "Large institutional investors like EPFO, LIC, and sovereign funds hold long-term capital that can be directed toward green bonds and renewable infrastructure projects.",
+    "tags": "Economy, Environment, Finance"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "What is the primary function of the Carbon Credit Trading Scheme (CCTS) introduced by India?",
+    "options": [
+      "To tax carbon emissions from industries",
+      "To allow trade in emission reduction units and incentivize low-carbon activities",
+      "To issue bonds for funding renewable projects",
+      "To finance adaptation and disaster-relief programs"
+    ],
+    "correct_option": "To allow trade in emission reduction units and incentivize low-carbon activities",
+    "explanation": "India’s CCTS enables companies to trade emission reduction credits, rewarding low-emission performance and financing climate-friendly innovation.",
+    "tags": "Environment, Economy, Climate Policy"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Under the Paris Agreement, India committed to achieving which of the following by 2030?",
+    "options": [
+      "100% renewable energy use",
+      "Net-zero emissions by 2030",
+      "50% installed power capacity from non-fossil sources",
+      "Ban on thermal power expansion"
+    ],
+    "correct_option": "50% installed power capacity from non-fossil sources",
+    "explanation": "India’s Nationally Determined Contributions (NDCs) under the Paris Agreement target 50% non-fossil energy capacity and 500 GW of renewables by 2030.",
+    "tags": "Environment, International Agreements, Energy Policy"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following correctly describes the NATO Pipeline System (NPS)?",
+    "options": [
+      "A network of oil and gas pipelines connecting Russia to NATO states",
+      "A 10,000 km pipeline system supplying fuel and lubricants to NATO forces",
+      "An EU-funded renewable energy network in Europe",
+      "A Cold War-era arms transport corridor across Europe"
+    ],
+    "correct_option": "A 10,000 km pipeline system supplying fuel and lubricants to NATO forces",
+    "explanation": "The NPS, managed by NATO’s Support and Procurement Agency, supplies fuel to allied forces across Europe and enhances military logistics readiness.",
+    "tags": "Defence, International Relations, Geography"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Poland’s inclusion in NATO’s fuel network strengthens NATO’s position mainly in which geographical area?",
+    "options": [
+      "Mediterranean Sea",
+      "Eastern Europe",
+      "Scandinavia",
+      "Black Sea region"
+    ],
+    "correct_option": "Eastern Europe",
+    "explanation": "Poland’s addition connects NATO’s logistics network to its eastern flank near Belarus and Kaliningrad, strengthening defence readiness against Russian aggression.",
+    "tags": "Geography, International Relations, Defence"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Article 5 of the NATO Treaty is primarily associated with:",
+    "options": [
+      "Mutual economic cooperation",
+      "Collective defence against armed attacks",
+      "Trade integration among members",
+      "Cybersecurity cooperation"
+    ],
+    "correct_option": "Collective defence against armed attacks",
+    "explanation": "Article 5 states that an armed attack on one member is considered an attack on all, forming the foundation of NATO’s collective defence framework.",
+    "tags": "Defence, International Relations, Current Affairs"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements about NATO is correct?",
+    "options": [
+      "It was formed in 1959 after the Korean War.",
+      "It currently has 32 member countries as of 2025.",
+      "Its headquarters are located in Washington, D.C.",
+      "Its military operations are managed by the EU Security Council."
+    ],
+    "correct_option": "It currently has 32 member countries as of 2025.",
+    "explanation": "NATO was formed in 1949 and now includes 32 members, with Finland and Sweden being the most recent additions (2023 and 2024).",
+    "tags": "Defence, International Relations, World Affairs"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "NATO was formed in 1949 primarily to counter the influence of which military bloc?",
+    "options": [
+      "Warsaw Pact",
+      "Axis Powers",
+      "Southeast Asia Treaty Organization",
+      "League of Nations"
+    ],
+    "correct_option": "Warsaw Pact",
+    "explanation": "The North Atlantic Treaty Organization (NATO) was created in 1949 to counter Soviet expansionism. The Warsaw Pact was later formed in 1955 by the Soviet Union and its allies as a counter-alliance.",
+    "tags": "International Relations, Defence, World History"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following correctly lists the founding members of NATO?",
+    "options": [
+      "USA, UK, France, Germany, Italy, Turkey, Canada",
+      "USA, UK, France, Italy, Canada, Portugal, Netherlands, Belgium, Luxembourg, Norway, Denmark, Iceland",
+      "USA, UK, France, Germany, Spain, Greece, Turkey, Norway",
+      "USA, Canada, France, India, UK, Italy, Spain, Greece"
+    ],
+    "correct_option": "USA, UK, France, Italy, Canada, Portugal, Netherlands, Belgium, Luxembourg, Norway, Denmark, Iceland",
+    "explanation": "NATO began with 12 founding members in 1949 — USA, UK, France, Italy, Canada, Portugal, Netherlands, Belgium, Luxembourg, Norway, Denmark, and Iceland — under the Washington Treaty.",
+    "tags": "International Relations, Defence, Organizations"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following is the political headquarters of NATO?",
+    "options": [
+      "Berlin, Germany",
+      "Brussels, Belgium",
+      "Paris, France",
+      "Geneva, Switzerland"
+    ],
+    "correct_option": "Brussels, Belgium",
+    "explanation": "NATO’s political headquarters are located in Brussels, Belgium, while its military headquarters (Allied Command Operations) is based in Mons, Belgium.",
+    "tags": "Geography, Defence, International Relations"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Article 5 of the NATO Charter has been invoked only once. It was in response to:",
+    "options": [
+      "The 9/11 terrorist attacks in the USA (2001)",
+      "The Russian invasion of Ukraine (2022)",
+      "The Korean War (1950)",
+      "The Gulf War (1990)"
+    ],
+    "correct_option": "The 9/11 terrorist attacks in the USA (2001)",
+    "explanation": "Article 5 — the collective defence clause — has been invoked only once, after the 9/11 attacks, leading to NATO’s ISAF mission in Afghanistan.",
+    "tags": "Defence, International Relations, Current Affairs"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements about NATO’s recent expansion is correct?",
+    "options": [
+      "Sweden and Finland joined NATO in 2023 and 2024 respectively.",
+      "Finland and Sweden joined NATO in 2023 and 2024 respectively.",
+      "Ukraine and Moldova became NATO members in 2024.",
+      "Georgia joined NATO in 2023."
+    ],
+    "correct_option": "Finland and Sweden joined NATO in 2023 and 2024 respectively.",
+    "explanation": "Finland officially joined NATO in 2023 and Sweden followed in 2024, expanding NATO’s reach in Northern Europe and strengthening its Baltic defence posture.",
+    "tags": "International Relations, Geography, Current Affairs"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "France’s withdrawal from NATO’s integrated military command in 1966 under President Charles de Gaulle was mainly to:",
+    "options": [
+      "Oppose NATO’s nuclear policies",
+      "Assert national military independence",
+      "Support the Soviet Union",
+      "Reduce military spending"
+    ],
+    "correct_option": "Assert national military independence",
+    "explanation": "France withdrew from NATO’s military command in 1966 to assert autonomy in its military policies while remaining a political member. It rejoined the command structure in 2009.",
+    "tags": "International Relations, History, Defence"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following modern challenges is NATO focusing on besides conventional warfare?",
+    "statements": [
+      "Cyber warfare",
+      "Hybrid threats",
+      "Terrorism",
+      "Climate-related security risks"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2, 3 and 4",
+    "explanation": "NATO’s strategic agenda now includes cyber security, hybrid warfare, terrorism, and climate-linked security challenges, expanding its role beyond traditional defence.",
+    "tags": "Defence, Security, International Relations"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements about NATO’s Article 5 and Article 4 is correct?",
+    "options": [
+      "Article 4 mandates collective defence; Article 5 covers consultation",
+      "Article 5 mandates collective defence; Article 4 provides for consultations among members",
+      "Article 4 and 5 are related to economic sanctions",
+      "Article 5 deals with trade coordination among NATO allies"
+    ],
+    "correct_option": "Article 5 mandates collective defence; Article 4 provides for consultations among members",
+    "explanation": "Article 5 ensures collective defence if any member is attacked, while Article 4 allows members to consult each other when security is threatened.",
+    "tags": "International Relations, Defence, Current Affairs"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements about NATO’s military command structure is correct?",
+    "options": [
+      "Allied Command Operations is located in Mons, Belgium.",
+      "Allied Command Operations is based in Brussels, Belgium.",
+      "The military command headquarters is in Washington D.C.",
+      "The military command is shared between London and Paris."
+    ],
+    "correct_option": "Allied Command Operations is located in Mons, Belgium.",
+    "explanation": "NATO’s military command, known as Allied Command Operations (SHAPE), is based in Mons, Belgium, while the political HQ is in Brussels.",
+    "tags": "Defence, Geography, International Organizations"
+  },
+  {
+    "date": "4",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following criticisms of NATO is most frequently raised by its members?",
+    "options": [
+      "Overdependence on US military spending",
+      "Lack of political unity with the EU",
+      "Failure to expand into Asia",
+      "Inability to conduct peacekeeping missions"
+    ],
+    "correct_option": "Overdependence on US military spending",
+    "explanation": "The US contributes around 70% of NATO’s total defence budget, leading to criticism of unequal burden-sharing among members.",
+    "tags": "Defence, International Relations, Global Governance"
+  }
+]
