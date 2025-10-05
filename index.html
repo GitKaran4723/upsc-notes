@@ -4,100 +4,555 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>UPSC Prep Portal</title>
+  <title>UPSC Prep Portal — Your Path to Success</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            primary: {
+              50: '#fef3e2', 100: '#fde8c4', 200: '#fbd18a', 300: '#f9ba4f',
+              400: '#f7a320', 500: '#f59e0b', 600: '#d97706', 700: '#b45309',
+              800: '#92400e', 900: '#78350f'
+            }
+          },
+          animation: {
+            'fade-in': 'fadeIn 0.5s ease-in',
+            'slide-up': 'slideUp 0.6s ease-out',
+            'float': 'float 3s ease-in-out infinite',
+            'glow': 'glow 2s ease-in-out infinite alternate',
+          },
+          keyframes: {
+            fadeIn: {
+              '0%': { opacity: '0' },
+              '100%': { opacity: '1' }
+            },
+            slideUp: {
+              '0%': { transform: 'translateY(20px)', opacity: '0' },
+              '100%': { transform: 'translateY(0)', opacity: '1' }
+            },
+            float: {
+              '0%, 100%': { transform: 'translateY(0px)' },
+              '50%': { transform: 'translateY(-10px)' }
+            },
+            glow: {
+              '0%': { boxShadow: '0 0 5px rgba(245, 158, 11, 0.5)' },
+              '100%': { boxShadow: '0 0 20px rgba(245, 158, 11, 0.8)' }
+            }
+          }
+        }
+      }
+    }
+  </script>
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
     crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    * { scroll-behavior: smooth; }
+    
+    .glass-effect {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    
+    .dark .glass-effect {
+      background: rgba(0, 0, 0, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    
+    .gradient-text {
+      background: linear-gradient(135deg, #f59e0b 0%, #f97316 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    
+    .card-hover {
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    
+    .card-hover:hover {
+      transform: translateY(-8px) scale(1.02);
+    }
+    
+    .shimmer {
+      background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+      background-size: 200% 100%;
+      animation: shimmer 2s infinite;
+    }
+    
+    @keyframes shimmer {
+      0% { background-position: -200% 0; }
+      100% { background-position: 200% 0; }
+    }
+    
+    .feature-icon {
+      transition: all 0.3s ease;
+    }
+    
+    .feature-card:hover .feature-icon {
+      transform: scale(1.2) rotate(5deg);
+    }
+  </style>
 </head>
 
-<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900 relative overflow-x-hidden">
+<body class="bg-gradient-to-br from-slate-50 via-orange-50 to-amber-50 dark:from-gray-900 dark:via-gray-800 dark:to-slate-900 text-gray-900 dark:text-gray-100 relative overflow-x-hidden transition-colors duration-300">
+  
+  <!-- Animated Background Elements -->
+  <div class="fixed inset-0 overflow-hidden pointer-events-none z-0">
+    <div class="absolute top-20 left-10 w-72 h-72 bg-amber-300/20 dark:bg-amber-500/10 rounded-full blur-3xl animate-float"></div>
+    <div class="absolute bottom-20 right-10 w-96 h-96 bg-orange-300/20 dark:bg-orange-500/10 rounded-full blur-3xl animate-float" style="animation-delay: 1s;"></div>
+    <div class="absolute top-1/2 left-1/2 w-80 h-80 bg-yellow-300/10 dark:bg-yellow-500/5 rounded-full blur-3xl animate-float" style="animation-delay: 2s;"></div>
+  </div>
+
   <!-- Navbar -->
-  <header class="bg-gray-900 text-white flex justify-between items-center p-4 sticky top-0 z-50 shadow-md">
-    <h1 class="text-2xl font-bold tracking-wide">UPSC Prep Portal</h1>
-    <button id="menuToggle" class="lg:hidden text-2xl focus:outline-none">
-      <i id="menuIcon" class="fas fa-bars"></i>
-    </button>
-    <nav class="hidden lg:flex gap-6 font-medium">
-      <a href="/upsc-notes/" class="text-yellow-300 hover:text-white">Home</a>
-      <a href="/upsc-notes/syllabus.html" class="hover:text-yellow-300">Syllabus</a>
-      <a href="/upsc-notes/news.html" class="hover:text-yellow-300">News</a>
-      <a href="/upsc-notes/practice.html" class="hover:text-yellow-300">Practice</a>
-      <a href="/upsc-notes/pyq.html" class="hover:text-yellow-300">Pre PYQs</a>
-      <a href="/upsc-notes/mainpyq.html" class="hover:text-yellow-300">Mains PYQs</a>      
-      <a href="/upsc-notes/updates.html" class="hover:text-yellow-300">Updates</a>
-      <a href="https://karanjadhav.tech" class="hover:text-yellow-300">Main Page</a>
-    </nav>
+  <header class="glass-effect backdrop-blur-lg bg-white/80 dark:bg-gray-900/80 shadow-lg sticky top-0 z-50 border-b border-gray-200/50 dark:border-gray-700/50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center py-4">
+        <div class="flex items-center space-x-3">
+          <div class="w-10 h-10 bg-gradient-to-br from-amber-400 to-orange-500 rounded-xl flex items-center justify-center shadow-lg animate-glow">
+            <i class="fas fa-graduation-cap text-white text-xl"></i>
+          </div>
+          <h1 class="text-2xl font-bold">
+            <span class="gradient-text">UPSC</span>
+            <span class="text-gray-900 dark:text-white ml-1">Portal</span>
+          </h1>
+        </div>
+        
+        <div class="flex items-center gap-4">
+          <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors">
+            <i class="fas fa-moon dark:fa-sun text-gray-700 dark:text-gray-300"></i>
+          </button>
+          <button id="menuToggle" class="lg:hidden text-2xl focus:outline-none p-2 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors">
+            <i id="menuIcon" class="fas fa-bars text-gray-700 dark:text-gray-300"></i>
+          </button>
+          <nav class="hidden lg:flex gap-1 font-medium">
+            <a href="/upsc-notes/" class="px-4 py-2 rounded-lg bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 font-semibold transition-all">Home</a>
+            <a href="/upsc-notes/syllabus.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Syllabus</a>
+            <a href="/upsc-notes/news.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">News</a>
+            <a href="/upsc-notes/practice.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Practice</a>
+            <a href="/upsc-notes/pyq.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Pre PYQs</a>
+            <a href="/upsc-notes/mainpyq.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Mains PYQs</a>
+            <a href="/upsc-notes/updates.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Updates</a>
+            <a href="https://karanjadhav.tech" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Portfolio</a>
+          </nav>
+        </div>
+      </div>
+    </div>
   </header>
 
   <!-- Mobile Menu -->
-  <div id="mobileMenu" class="lg:hidden hide bg-gray-800 text-white text-lg font-medium transform scale-y-0 opacity-0 origin-top shadow-xl">
-    <nav class="flex flex-col items-start p-4 space-y-2 rounded-xl">
-      <a href="/upsc-notes/" class="w-full block py-2 px-4 rounded hover:bg-gray-700 transition">Home</a>
-      <a href="/upsc-notes/syllabus.html" class="w-full block py-2 px-4 rounded hover:bg-gray-700 transition">Syllabus</a>
-      <a href="/upsc-notes/news.html" class="w-full block py-2 px-4 rounded hover:bg-gray-700 transition">News</a>
-      <a href="/upsc-notes/practice.html" class="w-full block py-2 px-4 rounded hover:bg-gray-700 transition">Practice</a>
-      <a href="/upsc-notes/pyq.html" class="w-full block py-2 px-4 rounded hover:bg-gray-700 transition">Pre PYQs</a>
-      <a href="/upsc-notes/mainpyq.html" class="w-full block py-2 px-4 rounded hover:bg-gray-700 transition">Mains PYQs</a>
-      <a href="/upsc-notes/updates.html" class="w-full block py-2 px-4 rounded hover:bg-gray-700 transition">Updates</a>
-      <a href="https://karanjadhav.tech" class="w-full block py-2 px-4 rounded hover:bg-gray-700 transition">Main Page</a>
+  <div id="mobileMenu" class="lg:hidden hide glass-effect bg-white/95 dark:bg-gray-800/95 backdrop-blur-lg shadow-2xl transform scale-y-0 opacity-0 origin-top transition-all duration-300 border-b border-gray-200 dark:border-gray-700">
+    <nav class="flex flex-col p-4 space-y-1 max-w-7xl mx-auto">
+      <a href="/upsc-notes/" class="w-full block py-3 px-4 rounded-lg bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 font-semibold transition-all">
+        <i class="fas fa-home w-6"></i> Home
+      </a>
+      <a href="/upsc-notes/syllabus.html" class="w-full block py-3 px-4 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-all">
+        <i class="fas fa-list w-6"></i> Syllabus
+      </a>
+      <a href="/upsc-notes/news.html" class="w-full block py-3 px-4 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-all">
+        <i class="fas fa-newspaper w-6"></i> News
+      </a>
+      <a href="/upsc-notes/practice.html" class="w-full block py-3 px-4 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-all">
+        <i class="fas fa-pencil-alt w-6"></i> Practice
+      </a>
+      <a href="/upsc-notes/pyq.html" class="w-full block py-3 px-4 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-all">
+        <i class="fas fa-history w-6"></i> Pre PYQs
+      </a>
+      <a href="/upsc-notes/mainpyq.html" class="w-full block py-3 px-4 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-all">
+        <i class="fas fa-book w-6"></i> Mains PYQs
+      </a>
+      <a href="/upsc-notes/updates.html" class="w-full block py-3 px-4 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-all">
+        <i class="fas fa-bullhorn w-6"></i> Updates
+      </a>
+      <a href="https://karanjadhav.tech" class="w-full block py-3 px-4 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300 transition-all">
+        <i class="fas fa-globe w-6"></i> Portfolio
+      </a>
     </nav>
   </div>
 
   <!-- Hero -->
-  <section class="py-12 px-4 text-center bg-gradient-to-br from-gray-900 via-gray-800 to-gray-700 text-white">
-    <h2 class="text-4xl font-extrabold mb-4 tracking-wide">Crack UPSC with Confidence</h2>
-    <p class="max-w-2xl mx-auto text-lg text-gray-200">
-      A premium platform for Civil Services aspirants. Explore detailed syllabus, micro-topics, targeted practice sets, PYQs, and exam-specific updates in one place.
-    </p>
+  <section class="relative py-20 px-4 overflow-hidden">
+    <div class="max-w-7xl mx-auto relative z-10">
+      <div class="text-center animate-slide-up">
+        <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 text-sm font-semibold mb-6 shadow-lg">
+          <i class="fas fa-star animate-pulse"></i>
+          <span>India's Premier Civil Services Platform</span>
+        </div>
+        <h2 class="text-5xl md:text-6xl lg:text-7xl font-extrabold mb-6 tracking-tight">
+          <span class="text-gray-900 dark:text-white">Crack UPSC with</span><br/>
+          <span class="gradient-text">Confidence & Strategy</span>
+        </h2>
+        <p class="max-w-3xl mx-auto text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
+          Your comprehensive study companion for Civil Services Examination. Access structured syllabus, daily practice sets, 
+          previous year questions, current affairs, and strategic updates — all in one modern platform.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <a href="/upsc-notes/practice.html" class="group inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-amber-500 to-orange-500 text-white font-semibold rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300">
+            <span>Start Practicing</span>
+            <i class="fas fa-arrow-right group-hover:translate-x-1 transition-transform"></i>
+          </a>
+          <a href="/upsc-notes/syllabus.html" class="inline-flex items-center gap-2 px-8 py-4 bg-white dark:bg-gray-800 text-gray-900 dark:text-white font-semibold rounded-xl shadow-lg hover:shadow-xl border-2 border-gray-200 dark:border-gray-700 hover:border-amber-400 dark:hover:border-amber-500 transform hover:-translate-y-1 transition-all duration-300">
+            <i class="fas fa-book-open"></i>
+            <span>Explore Syllabus</span>
+          </a>
+        </div>
+      </div>
+      
+      <!-- Stats Cards -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-16 animate-fade-in">
+        <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-2xl p-6 text-center shadow-lg border border-gray-200 dark:border-gray-700">
+          <div class="text-3xl font-bold gradient-text mb-1">1000+</div>
+          <div class="text-sm text-gray-600 dark:text-gray-400">Practice Questions</div>
+        </div>
+        <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-2xl p-6 text-center shadow-lg border border-gray-200 dark:border-gray-700">
+          <div class="text-3xl font-bold gradient-text mb-1">5+</div>
+          <div class="text-sm text-gray-600 dark:text-gray-400">Years of PYQs</div>
+        </div>
+        <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-2xl p-6 text-center shadow-lg border border-gray-200 dark:border-gray-700">
+          <div class="text-3xl font-bold gradient-text mb-1">Daily</div>
+          <div class="text-sm text-gray-600 dark:text-gray-400">Current Affairs</div>
+        </div>
+        <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-2xl p-6 text-center shadow-lg border border-gray-200 dark:border-gray-700">
+          <div class="text-3xl font-bold gradient-text mb-1">100%</div>
+          <div class="text-sm text-gray-600 dark:text-gray-400">Free Access</div>
+        </div>
+      </div>
+    </div>
   </section>
 
   <!-- About the Exam -->
-  <section class="py-10 px-6 bg-white">
-    <h3 class="text-2xl font-semibold text-center text-gray-800 mb-6">About the UPSC Exam</h3>
-    <div class="max-w-4xl mx-auto space-y-4 text-justify text-gray-700">
-      <p><strong>UPSC</strong> (Union Public Service Commission) conducts the Civil Services Examination annually to recruit officers for prestigious services like IAS, IPS, IFS, and others.</p>
-      <p>This portal serves aspirants with resources for both:</p>
-      <ul class="list-disc list-inside">
-        <li><strong>Prelims</strong> – Objective type paper testing factual clarity and conceptual speed.</li>
-        <li><strong>Mains</strong> – Descriptive exams focusing on analytical depth, structure, and articulation.</li>
-      </ul>
-      <p>Start with clarity, prepare with discipline, and revise with purpose — that's the UPSC mantra.</p>
+  <section class="py-16 px-4 relative z-10">
+    <div class="max-w-6xl mx-auto">
+      <div class="text-center mb-12">
+        <h3 class="text-3xl md:text-4xl font-bold mb-4 text-gray-900 dark:text-white">
+          About the <span class="gradient-text">UPSC</span> Journey
+        </h3>
+        <p class="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+          Understanding the exam is the first step toward success
+        </p>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-8 mb-12">
+        <!-- Main Card -->
+        <div class="bg-white dark:bg-gray-800 rounded-3xl p-8 shadow-xl border border-gray-200 dark:border-gray-700">
+          <div class="w-16 h-16 bg-gradient-to-br from-amber-400 to-orange-500 rounded-2xl flex items-center justify-center mb-6 shadow-lg">
+            <i class="fas fa-building text-white text-2xl"></i>
+          </div>
+          <h4 class="text-2xl font-bold mb-4 text-gray-900 dark:text-white">The UPSC CSE</h4>
+          <p class="text-gray-600 dark:text-gray-300 leading-relaxed mb-4">
+            The <strong>Union Public Service Commission</strong> conducts the Civil Services Examination annually to recruit officers 
+            for prestigious services like IAS, IPS, IFS, and 20+ other All India Services.
+          </p>
+          <p class="text-gray-600 dark:text-gray-300 leading-relaxed">
+            This three-stage examination is considered one of the toughest competitive exams globally, 
+            requiring comprehensive knowledge, analytical thinking, and strategic preparation.
+          </p>
+        </div>
+
+        <!-- Two-Stage Card -->
+        <div class="space-y-4">
+          <div class="feature-card bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 rounded-3xl p-6 shadow-lg border border-blue-200 dark:border-blue-800 card-hover">
+            <div class="flex items-start gap-4">
+              <div class="feature-icon w-12 h-12 bg-blue-500 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i class="fas fa-check-circle text-white text-xl"></i>
+              </div>
+              <div>
+                <h5 class="text-xl font-bold mb-2 text-gray-900 dark:text-white">Prelims</h5>
+                <p class="text-gray-700 dark:text-gray-300 text-sm leading-relaxed">
+                  Objective-type screening test focusing on factual clarity, conceptual understanding, and speed. 
+                  Tests general knowledge across diverse subjects.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="feature-card bg-gradient-to-br from-purple-50 to-pink-50 dark:from-purple-900/20 dark:to-pink-900/20 rounded-3xl p-6 shadow-lg border border-purple-200 dark:border-purple-800 card-hover">
+            <div class="flex items-start gap-4">
+              <div class="feature-icon w-12 h-12 bg-purple-500 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i class="fas fa-pen-fancy text-white text-xl"></i>
+              </div>
+              <div>
+                <h5 class="text-xl font-bold mb-2 text-gray-900 dark:text-white">Mains</h5>
+                <p class="text-gray-700 dark:text-gray-300 text-sm leading-relaxed">
+                  Descriptive examination testing analytical depth, structured thinking, and articulation skills. 
+                  Requires comprehensive answer writing practice.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="feature-card bg-gradient-to-br from-green-50 to-emerald-50 dark:from-green-900/20 dark:to-emerald-900/20 rounded-3xl p-6 shadow-lg border border-green-200 dark:border-green-800 card-hover">
+            <div class="flex items-start gap-4">
+              <div class="feature-icon w-12 h-12 bg-green-500 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i class="fas fa-user-tie text-white text-xl"></i>
+              </div>
+              <div>
+                <h5 class="text-xl font-bold mb-2 text-gray-900 dark:text-white">Interview</h5>
+                <p class="text-gray-700 dark:text-gray-300 text-sm leading-relaxed">
+                  Personality test evaluating mental alertness, critical thinking, communication skills, 
+                  and overall suitability for civil services.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Mantra Card -->
+      <div class="bg-gradient-to-r from-amber-100 to-orange-100 dark:from-amber-900/30 dark:to-orange-900/30 rounded-3xl p-8 text-center shadow-xl border border-amber-200 dark:border-amber-800">
+        <i class="fas fa-quote-left text-3xl text-amber-600 dark:text-amber-400 mb-4"></i>
+        <p class="text-xl md:text-2xl font-semibold text-gray-900 dark:text-white mb-2">
+          Start with clarity, prepare with discipline, revise with purpose
+        </p>
+        <p class="text-gray-600 dark:text-gray-400">— The UPSC Mantra</p>
+      </div>
     </div>
   </section>
 
   <!-- Explore Grid -->
-  <section class="py-10 px-6 bg-yellow-100">
-    <h3 class="text-2xl font-semibold mb-6 text-center text-gray-800">Explore Resources</h3>
-    <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 text-center">
-      <a href="/upsc-notes/syllabus.html" class="bg-white p-6 rounded-xl shadow hover:shadow-xl transition transform hover:-translate-y-1"><i class="fas fa-list text-xl"></i><p>Syllabus</p></a>
-      <a href="/upsc-notes/news.html" class="bg-white p-6 rounded-xl shadow hover:shadow-xl transition transform hover:-translate-y-1"><i class="fas fa-list text-xl"></i><p>News</p></a>
-      <a href="/upsc-notes/practice.html" class="bg-white p-6 rounded-xl shadow hover:shadow-xl transition transform hover:-translate-y-1"><i class="fas fa-pencil-alt text-xl"></i><p>Practice</p></a>
-      <a href="/upsc-notes/pyq.html" class="bg-white p-6 rounded-xl shadow hover:shadow-xl transition transform hover:-translate-y-1"><i class="fas fa-history text-xl"></i><p>Pre PYQs</p></a>
-      <a href="/upsc-notes/mainpyq.html" class="bg-white p-6 rounded-xl shadow hover:shadow-xl transition transform hover:-translate-y-1"><i class="fas fa-history text-xl"></i><p>Mains PYQs</p></a>
-      <a href="/upsc-notes/updates.html" class="bg-white p-6 rounded-xl shadow hover:shadow-xl transition transform hover:-translate-y-1"><i class="fas fa-bullhorn text-xl"></i><p>Updates</p></a>
+  <section class="py-16 px-4 bg-gradient-to-b from-transparent to-amber-50/50 dark:to-gray-900/50 relative z-10">
+    <div class="max-w-7xl mx-auto">
+      <div class="text-center mb-12">
+        <h3 class="text-3xl md:text-4xl font-bold mb-4 text-gray-900 dark:text-white">
+          Explore <span class="gradient-text">Study Resources</span>
+        </h3>
+        <p class="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+          Comprehensive tools designed to accelerate your preparation journey
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Syllabus Card -->
+        <a href="/upsc-notes/syllabus.html" class="group bg-white dark:bg-gray-800 p-8 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 hover:border-amber-400 dark:hover:border-amber-500">
+          <div class="w-16 h-16 bg-gradient-to-br from-blue-400 to-blue-600 rounded-2xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300 shadow-lg">
+            <i class="fas fa-list-ul text-white text-2xl"></i>
+          </div>
+          <h4 class="text-xl font-bold mb-2 text-gray-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors">Syllabus</h4>
+          <p class="text-gray-600 dark:text-gray-400 text-sm">Detailed breakdown of Prelims & Mains topics</p>
+          <div class="mt-4 flex items-center text-amber-600 dark:text-amber-400 text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
+            Explore <i class="fas fa-arrow-right ml-2"></i>
+          </div>
+        </a>
+
+        <!-- News Card -->
+        <a href="/upsc-notes/news.html" class="group bg-white dark:bg-gray-800 p-8 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 hover:border-amber-400 dark:hover:border-amber-500">
+          <div class="w-16 h-16 bg-gradient-to-br from-red-400 to-red-600 rounded-2xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300 shadow-lg">
+            <i class="fas fa-newspaper text-white text-2xl"></i>
+          </div>
+          <h4 class="text-xl font-bold mb-2 text-gray-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors">Current Affairs</h4>
+          <p class="text-gray-600 dark:text-gray-400 text-sm">Daily news analysis & editorials</p>
+          <div class="mt-4 flex items-center text-amber-600 dark:text-amber-400 text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
+            Read Now <i class="fas fa-arrow-right ml-2"></i>
+          </div>
+        </a>
+
+        <!-- Practice Card -->
+        <a href="/upsc-notes/practice.html" class="group bg-white dark:bg-gray-800 p-8 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 hover:border-amber-400 dark:hover:border-amber-500">
+          <div class="w-16 h-16 bg-gradient-to-br from-green-400 to-green-600 rounded-2xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300 shadow-lg">
+            <i class="fas fa-pencil-alt text-white text-2xl"></i>
+          </div>
+          <h4 class="text-xl font-bold mb-2 text-gray-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors">Practice Questions</h4>
+          <p class="text-gray-600 dark:text-gray-400 text-sm">Daily practice sets & mock tests</p>
+          <div class="mt-4 flex items-center text-amber-600 dark:text-amber-400 text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
+            Start Practice <i class="fas fa-arrow-right ml-2"></i>
+          </div>
+        </a>
+
+        <!-- Pre PYQs Card -->
+        <a href="/upsc-notes/pyq.html" class="group bg-white dark:bg-gray-800 p-8 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 hover:border-amber-400 dark:hover:border-amber-500">
+          <div class="w-16 h-16 bg-gradient-to-br from-purple-400 to-purple-600 rounded-2xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300 shadow-lg">
+            <i class="fas fa-history text-white text-2xl"></i>
+          </div>
+          <h4 class="text-xl font-bold mb-2 text-gray-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors">Prelims PYQs</h4>
+          <p class="text-gray-600 dark:text-gray-400 text-sm">Previous year questions from 2015-2025</p>
+          <div class="mt-4 flex items-center text-amber-600 dark:text-amber-400 text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
+            View Papers <i class="fas fa-arrow-right ml-2"></i>
+          </div>
+        </a>
+
+        <!-- Mains PYQs Card -->
+        <a href="/upsc-notes/mainpyq.html" class="group bg-white dark:bg-gray-800 p-8 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 hover:border-amber-400 dark:hover:border-amber-500">
+          <div class="w-16 h-16 bg-gradient-to-br from-indigo-400 to-indigo-600 rounded-2xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300 shadow-lg">
+            <i class="fas fa-book text-white text-2xl"></i>
+          </div>
+          <h4 class="text-xl font-bold mb-2 text-gray-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors">Mains PYQs</h4>
+          <p class="text-gray-600 dark:text-gray-400 text-sm">Mains questions with model answers</p>
+          <div class="mt-4 flex items-center text-amber-600 dark:text-amber-400 text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
+            Practice Writing <i class="fas fa-arrow-right ml-2"></i>
+          </div>
+        </a>
+
+        <!-- Updates Card -->
+        <a href="/upsc-notes/updates.html" class="group bg-white dark:bg-gray-800 p-8 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 hover:border-amber-400 dark:hover:border-amber-500">
+          <div class="w-16 h-16 bg-gradient-to-br from-amber-400 to-orange-600 rounded-2xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300 shadow-lg">
+            <i class="fas fa-bullhorn text-white text-2xl"></i>
+          </div>
+          <h4 class="text-xl font-bold mb-2 text-gray-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors">Exam Updates</h4>
+          <p class="text-gray-600 dark:text-gray-400 text-sm">Latest notifications & announcements</p>
+          <div class="mt-4 flex items-center text-amber-600 dark:text-amber-400 text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
+            Stay Updated <i class="fas fa-arrow-right ml-2"></i>
+          </div>
+        </a>
+      </div>
     </div>
   </section>
 
   <!-- Recents -->
-  <section class="px-4 pb-24" id="recents-section">
-    <h3 class="text-xl font-semibold mb-4 text-center text-gray-800">Recent UPSC Activity</h3>
-    <ul id="recents-list" class="space-y-3 max-w-xl mx-auto text-sm text-gray-700"></ul>
-    <div class="text-center mt-4">
-      <button id="show-more-btn" class="text-blue-800 hover:underline text-sm">Show More</button>
+  <section class="py-16 px-4 pb-32 lg:pb-16 relative z-10" id="recents-section">
+    <div class="max-w-4xl mx-auto">
+      <div class="text-center mb-12">
+        <h3 class="text-3xl md:text-4xl font-bold mb-4 text-gray-900 dark:text-white">
+          Recent <span class="gradient-text">Activity</span>
+        </h3>
+        <p class="text-gray-600 dark:text-gray-400">
+          Track your latest study sessions and updates
+        </p>
+      </div>
+
+      <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-3xl shadow-xl border border-gray-200 dark:border-gray-700 p-6 md:p-8">
+        <ul id="recents-list" class="space-y-3 text-sm text-gray-700 dark:text-gray-300"></ul>
+        <div class="text-center mt-6">
+          <button id="show-more-btn" class="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-amber-500 to-orange-500 text-white font-semibold rounded-xl hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+            <span>Show More</span>
+            <i class="fas fa-chevron-down"></i>
+          </button>
+        </div>
+      </div>
     </div>
   </section>
 
   <!-- Footer -->
-  <footer class="bg-gray-900 text-white px-3 py-2 flex justify-around fixed bottom-0 w-full z-40 text-2xl lg:static lg:justify-center lg:gap-6">
-    <a href="https://www.youtube.com/@Upadesha"><i class="fab fa-youtube"></i></a>
-    <a href="https://github.com/GitKaran4723"><i class="fab fa-github"></i></a>
-    <a href="https://www.linkedin.com/in/karan-jadhav-03b5a329b/"><i class="fab fa-linkedin"></i></a>
+  <footer class="relative z-10 bg-gradient-to-b from-transparent to-gray-900 dark:from-transparent dark:to-black border-t border-gray-200 dark:border-gray-800">
+    <div class="max-w-7xl mx-auto px-4 py-12 lg:py-16">
+      <!-- Footer Content -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+        <!-- Brand -->
+        <div>
+          <div class="flex items-center space-x-3 mb-4">
+            <div class="w-10 h-10 bg-gradient-to-br from-amber-400 to-orange-500 rounded-xl flex items-center justify-center shadow-lg">
+              <i class="fas fa-graduation-cap text-white text-xl"></i>
+            </div>
+            <h3 class="text-xl font-bold text-white">UPSC Portal</h3>
+          </div>
+          <p class="text-gray-400 text-sm leading-relaxed">
+            Your comprehensive companion for UPSC Civil Services preparation. Quality resources, strategic guidance, and consistent practice.
+          </p>
+        </div>
+
+        <!-- Quick Links -->
+        <div>
+          <h4 class="text-white font-semibold mb-4">Quick Links</h4>
+          <ul class="space-y-2 text-sm">
+            <li><a href="/upsc-notes/syllabus.html" class="text-gray-400 hover:text-amber-400 transition-colors">Syllabus</a></li>
+            <li><a href="/upsc-notes/practice.html" class="text-gray-400 hover:text-amber-400 transition-colors">Practice</a></li>
+            <li><a href="/upsc-notes/pyq.html" class="text-gray-400 hover:text-amber-400 transition-colors">PYQs</a></li>
+            <li><a href="/upsc-notes/news.html" class="text-gray-400 hover:text-amber-400 transition-colors">Current Affairs</a></li>
+          </ul>
+        </div>
+
+        <!-- Connect -->
+        <div>
+          <h4 class="text-white font-semibold mb-4">Connect With Us</h4>
+          <div class="flex gap-4 mb-4">
+            <a href="https://www.youtube.com/@Upadesha" class="w-12 h-12 bg-gray-800 hover:bg-red-600 rounded-xl flex items-center justify-center transition-all duration-300 hover:-translate-y-1 shadow-lg" title="YouTube">
+              <i class="fab fa-youtube text-white text-xl"></i>
+            </a>
+            <a href="https://github.com/GitKaran4723" class="w-12 h-12 bg-gray-800 hover:bg-gray-700 rounded-xl flex items-center justify-center transition-all duration-300 hover:-translate-y-1 shadow-lg" title="GitHub">
+              <i class="fab fa-github text-white text-xl"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/karan-jadhav-03b5a329b/" class="w-12 h-12 bg-gray-800 hover:bg-blue-600 rounded-xl flex items-center justify-center transition-all duration-300 hover:-translate-y-1 shadow-lg" title="LinkedIn">
+              <i class="fab fa-linkedin text-white text-xl"></i>
+            </a>
+          </div>
+          <p class="text-gray-400 text-sm">
+            Made with <i class="fas fa-heart text-red-500"></i> by <a href="https://karanjadhav.tech" class="text-amber-400 hover:underline">Karan</a>
+          </p>
+        </div>
+      </div>
+
+      <!-- Bottom Bar -->
+      <div class="pt-8 border-t border-gray-800 text-center">
+        <p class="text-gray-500 text-sm">
+          © 2025 UPSC Portal. All rights reserved. | Empowering Civil Service Aspirants
+        </p>
+      </div>
+    </div>
   </footer>
+
+  <!-- Mobile Bottom Nav (Fixed on Mobile) -->
+  <div class="fixed bottom-0 left-0 right-0 lg:hidden bg-white/95 dark:bg-gray-900/95 backdrop-blur-lg border-t border-gray-200 dark:border-gray-800 z-50 shadow-lg">
+    <div class="flex justify-around items-center py-3 px-2">
+      <a href="https://www.youtube.com/@Upadesha" class="flex flex-col items-center gap-1 text-gray-600 dark:text-gray-400 hover:text-red-600 transition-colors">
+        <i class="fab fa-youtube text-2xl"></i>
+        <span class="text-xs">YouTube</span>
+      </a>
+      <a href="https://github.com/GitKaran4723" class="flex flex-col items-center gap-1 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
+        <i class="fab fa-github text-2xl"></i>
+        <span class="text-xs">GitHub</span>
+      </a>
+      <a href="https://www.linkedin.com/in/karan-jadhav-03b5a329b/" class="flex flex-col items-center gap-1 text-gray-600 dark:text-gray-400 hover:text-blue-600 transition-colors">
+        <i class="fab fa-linkedin text-2xl"></i>
+        <span class="text-xs">LinkedIn</span>
+      </a>
+    </div>
+  </div>
 
   <!-- Scripts -->
   <script src="js/menu.js"></script>
   <script src="js/recents.js"></script>
+  <script>
+    // Theme Toggle
+    const themeToggle = document.getElementById('themeToggle');
+    const html = document.documentElement;
+    
+    // Load saved theme
+    if (localStorage.getItem('theme') === 'dark' || 
+        (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      html.classList.add('dark');
+    }
+    
+    themeToggle.addEventListener('click', () => {
+      html.classList.toggle('dark');
+      localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
+    });
+
+    // Smooth scroll for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+
+    // Add animation on scroll
+    const observerOptions = {
+      threshold: 0.1,
+      rootMargin: '0px 0px -100px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.style.opacity = '1';
+          entry.target.style.transform = 'translateY(0)';
+        }
+      });
+    }, observerOptions);
+
+    document.querySelectorAll('.card-hover').forEach(el => {
+      el.style.opacity = '0';
+      el.style.transform = 'translateY(20px)';
+      el.style.transition = 'all 0.6s ease-out';
+      observer.observe(el);
+    });
+  </script>
 </body>
 
 </html>
