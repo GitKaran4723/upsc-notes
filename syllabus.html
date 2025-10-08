@@ -511,22 +511,13 @@
         } else saveExpandedIds([]);
       }
 
-      // Modal helpers
+      // Modal helpers - Navigate to rendernotesfinal.html instead of opening modal
       const markdownModal = document.getElementById('markdownModal');
       const markdownContent = document.getElementById('markdownContent');
-      async function openModal(mdUrl, title){
-        try {
-          markdownContent.innerHTML = '<div class="py-8 text-center">Loading…</div>';
-          markdownModal.classList.remove('hidden');
-          markdownModal.setAttribute('aria-hidden','false');
-          const res = await fetch(mdUrl);
-          const txt = await res.text();
-          markdownContent.innerHTML = marked.parse(txt);
-          if (window.MathJax && window.MathJax.typeset) MathJax.typeset();
-          // focus trap suggestion: focus first heading or modal itself
-          const focusEl = markdownContent.querySelector('h1,h2,h3,article,section') || markdownContent;
-          if(focusEl && focusEl.scrollIntoView) focusEl.scrollIntoView({behavior:'smooth'});
-        } catch(e){ markdownContent.innerHTML = '<p class="text-red-600">Failed to load content.</p>'; }
+      function openModal(mdUrl, title){
+        // Navigate to rendernotesfinal.html with the markdown URL as a parameter
+        const fullUrl = `/upsc-notes/rendernotesfinal.html?mdUrl=${encodeURIComponent(mdUrl)}`;
+        window.location.href = fullUrl;
       }
       window.openModal = openModal;
       function closeModal(){ markdownModal.classList.add('hidden'); markdownModal.setAttribute('aria-hidden','true'); markdownContent.innerHTML = ''; }
