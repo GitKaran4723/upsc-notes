@@ -254,22 +254,28 @@
 
     /* Question Grid Items */
     .question-number {
-      width: 40px;
-      height: 40px;
+      width: 44px;
+      height: 44px;
       display: flex;
       align-items: center;
       justify-content: center;
-      border-radius: 8px;
-      font-size: 14px;
+      border-radius: 10px;
+      font-size: 15px;
       font-weight: 600;
       cursor: pointer;
       transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
       border: 2px solid transparent;
+      touch-action: manipulation;
+      -webkit-tap-highlight-color: transparent;
     }
 
     .question-number:hover {
       transform: translateY(-3px) scale(1.1);
       box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+    }
+
+    .question-number:active {
+      transform: scale(0.95);
     }
 
     .question-number.unattempted {
@@ -311,6 +317,40 @@
 
     .mobile-nav-open {
       transform: translateX(0) !important;
+    }
+
+    /* Mobile improvements */
+    @media (max-width: 1024px) {
+      #question-navigator {
+        width: 85vw;
+        max-width: 320px;
+      }
+      
+      .question-number {
+        width: 40px;
+        height: 40px;
+        font-size: 14px;
+      }
+    }
+
+    /* Fix scrolling issues */
+    html, body {
+      overflow: hidden;
+      height: 100%;
+      width: 100%;
+      position: fixed;
+    }
+
+    #quiz-container {
+      overflow: hidden;
+    }
+
+    #question-navigator {
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .overflow-y-auto {
+      -webkit-overflow-scrolling: touch;
     }
   </style>
 </head>
@@ -358,18 +398,39 @@
       </div>
     </div>
   </header>
+  <!-- Fullscreen Prompt -->
+  <div id="fullscreen-prompt" class="fixed inset-0 z-[110] flex items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-slate-900">
+    <div class="bg-white dark:bg-gray-800 rounded-3xl shadow-2xl p-8 max-w-md mx-4 text-center animate-fade-in">
+      <div class="w-20 h-20 bg-gradient-to-br from-amber-400 to-orange-500 rounded-full flex items-center justify-center mx-auto mb-6 animate-float">
+        <i class="fas fa-expand text-white text-3xl"></i>
+      </div>
+      <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-3">Enter Fullscreen Mode</h2>
+      <p class="text-gray-600 dark:text-gray-300 mb-6">Get the best quiz experience in fullscreen mode. Focus better, score higher!</p>
+      <div class="space-y-3">
+        <button id="enter-fullscreen" class="w-full inline-flex items-center justify-center gap-3 rounded-xl bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white px-6 py-4 text-lg font-semibold shadow-lg transition-all hover:scale-105">
+          <i class="fas fa-expand-arrows-alt"></i>
+          <span>Start in Fullscreen</span>
+        </button>
+        <button id="skip-fullscreen" class="w-full inline-flex items-center justify-center gap-2 rounded-xl bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-300 px-6 py-3 text-sm font-medium transition-all">
+          <span>Continue Without Fullscreen</span>
+        </button>
+      </div>
+      <p class="text-xs text-gray-500 dark:text-gray-400 mt-4">Press <kbd class="px-2 py-1 bg-gray-200 dark:bg-gray-700 rounded">F11</kbd> anytime to toggle fullscreen</p>
+    </div>
+  </div>
+
   <!-- Loader -->
-  <div id="loader" class="fixed inset-0 z-[100] flex items-center justify-center bg-white/90">
-    <div class="text-center text-brand-800">
-      <div class="text-xl font-semibold mb-3">Preparing your practice…</div>
+  <div id="loader" class="fixed inset-0 z-[100] hidden flex items-center justify-center bg-white/90 dark:bg-gray-900/90">
+    <div class="text-center">
+      <div class="text-xl font-semibold mb-3 text-gray-800 dark:text-white">Preparing your practice…</div>
       <div class="w-12 h-12 border-4 border-amber-400 border-t-transparent rounded-full animate-spin mx-auto"></div>
     </div>
   </div>
 
   <!-- Full Screen Quiz Container -->
-  <div class="fixed inset-0 top-16 flex">
+  <div id="quiz-container" class="fixed inset-0 flex hidden">
     <!-- Left Sidebar - Question Navigator -->
-    <aside id="question-navigator" class="w-64 bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700 overflow-y-auto transition-all duration-300 lg:translate-x-0 -translate-x-full fixed lg:relative z-40 h-full">
+    <aside id="question-navigator" class="w-72 bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700 overflow-y-auto transition-all duration-300 lg:translate-x-0 -translate-x-full fixed lg:relative z-40 h-full shadow-xl">
       <div class="sticky top-0 bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 p-4 z-10">
         <div class="flex items-center justify-between mb-3">
           <h2 class="text-sm font-bold text-gray-800 dark:text-white">Questions</h2>
@@ -385,7 +446,7 @@
         </div>
       </div>
       
-      <div id="question-grid" class="grid grid-cols-5 gap-2 p-4">
+      <div id="question-grid" class="grid grid-cols-6 gap-2 p-4">
         <!-- Question numbers will be dynamically added here -->
       </div>
 
@@ -442,22 +503,25 @@
       </div>
 
       <!-- Bottom Navigation -->
-      <div class="fixed bottom-0 left-0 lg:left-64 right-0 z-30 glass-effect backdrop-blur-lg bg-white/90 dark:bg-gray-900/90 border-t border-gray-200 dark:border-gray-700 px-4 py-3">
-        <div class="max-w-4xl mx-auto flex items-center justify-between gap-3">
-          <button id="prev-btn" class="inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-gray-700 to-gray-900 dark:from-gray-600 dark:to-gray-800 text-white px-6 py-3 shadow-lg disabled:opacity-40 disabled:cursor-not-allowed transition-all hover:scale-105 disabled:hover:scale-100">
+      <div class="fixed bottom-0 left-0 lg:left-72 right-0 z-30 glass-effect backdrop-blur-lg bg-white/90 dark:bg-gray-900/90 border-t border-gray-200 dark:border-gray-700 px-4 py-3 lg:py-4">
+        <div class="max-w-4xl mx-auto flex items-center justify-between gap-2 sm:gap-3">
+          <button id="prev-btn" class="inline-flex items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-gray-700 to-gray-900 dark:from-gray-600 dark:to-gray-800 text-white px-4 sm:px-6 py-2.5 sm:py-3 shadow-lg disabled:opacity-40 disabled:cursor-not-allowed transition-all hover:scale-105 disabled:hover:scale-100 text-sm sm:text-base">
             <i class="fa-solid fa-arrow-left"></i><span class="hidden sm:inline">Previous</span>
           </button>
 
-          <div class="flex items-center gap-2">
-            <button id="jump-first" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors text-gray-700 dark:text-gray-300" title="First Question">
+          <div class="flex items-center gap-1 sm:gap-2">
+            <button id="jump-first" class="p-2 sm:p-2.5 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors text-gray-700 dark:text-gray-300 text-sm sm:text-base" title="First Question">
               <i class="fas fa-fast-backward"></i>
             </button>
-            <button id="jump-last" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors text-gray-700 dark:text-gray-300" title="Last Question">
+            <button id="exit-fullscreen-btn" class="p-2 sm:p-2.5 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors text-gray-700 dark:text-gray-300 text-sm sm:text-base hidden" title="Exit Fullscreen">
+              <i class="fas fa-compress"></i>
+            </button>
+            <button id="jump-last" class="p-2 sm:p-2.5 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors text-gray-700 dark:text-gray-300 text-sm sm:text-base" title="Last Question">
               <i class="fas fa-fast-forward"></i>
             </button>
           </div>
 
-          <button id="next-btn" class="inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white px-6 py-3 shadow-lg disabled:opacity-40 disabled:cursor-not-allowed transition-all hover:scale-105 disabled:hover:scale-100">
+          <button id="next-btn" class="inline-flex items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white px-4 sm:px-6 py-2.5 sm:py-3 shadow-lg disabled:opacity-40 disabled:cursor-not-allowed transition-all hover:scale-105 disabled:hover:scale-100 text-sm sm:text-base">
             <span class="hidden sm:inline">Next</span><i class="fa-solid fa-arrow-right"></i>
           </button>
         </div>
@@ -1029,6 +1093,78 @@
     window.closeWikiPopup = closeWikiPopup;
 
     // =========================
+    // Fullscreen Management
+    // =========================
+    function enterFullscreen() {
+      const elem = document.documentElement;
+      if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+      } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen();
+      } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+      }
+      
+      // Show exit button in fullscreen
+      const exitBtn = document.getElementById('exit-fullscreen-btn');
+      if (exitBtn) exitBtn.classList.remove('hidden');
+    }
+
+    function exitFullscreen() {
+      if (document.exitFullscreen) {
+        document.exitFullscreen();
+      } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+      } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+      }
+      
+      // Hide exit button
+      const exitBtn = document.getElementById('exit-fullscreen-btn');
+      if (exitBtn) exitBtn.classList.add('hidden');
+    }
+
+    function startQuiz() {
+      // Hide fullscreen prompt
+      document.getElementById('fullscreen-prompt').classList.add('hidden');
+      
+      // Show quiz container
+      document.getElementById('quiz-container').classList.remove('hidden');
+      
+      // Show loader
+      document.getElementById('loader').classList.remove('hidden');
+      
+      // Load questions
+      loadQuestions();
+    }
+
+    // Fullscreen prompt handlers
+    document.getElementById('enter-fullscreen')?.addEventListener('click', () => {
+      enterFullscreen();
+      startQuiz();
+    });
+
+    document.getElementById('skip-fullscreen')?.addEventListener('click', () => {
+      startQuiz();
+    });
+
+    document.getElementById('exit-fullscreen-btn')?.addEventListener('click', () => {
+      exitFullscreen();
+    });
+
+    // Handle fullscreen change
+    document.addEventListener('fullscreenchange', () => {
+      const exitBtn = document.getElementById('exit-fullscreen-btn');
+      if (exitBtn) {
+        if (document.fullscreenElement) {
+          exitBtn.classList.remove('hidden');
+        } else {
+          exitBtn.classList.add('hidden');
+        }
+      }
+    });
+
+    // =========================
     // Load Questions
     // =========================
     async function loadQuestions() {
@@ -1069,7 +1205,11 @@
       }
     }
 
-    document.addEventListener('DOMContentLoaded', loadQuestions);
+    // On page load, show fullscreen prompt instead of loading immediately
+    document.addEventListener('DOMContentLoaded', () => {
+      // Show fullscreen prompt (quiz will load after user choice)
+      document.getElementById('fullscreen-prompt').classList.remove('hidden');
+    });
   </script>
     <script src="/upsc-notes/assets/ui.js"></script>
 </body>
