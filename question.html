@@ -380,12 +380,16 @@
       <div class="flex justify-between items-center py-4">
         <div class="flex items-center space-x-3">
           <div class="w-10 h-10 bg-gradient-to-br from-amber-400 to-orange-500 rounded-xl flex items-center justify-center shadow-lg animate-glow">
-            <i class="fas fa-graduation-cap text-white text-xl"></i>
+            <i class="fas fa-calendar-alt text-white text-xl"></i>
           </div>
-          <h1 class="text-2xl font-bold">
-            <span class="gradient-text">UPSC</span>
-            <span class="text-gray-900 dark:text-white ml-1">Portal</span>
-          </h1>
+          <div>
+            <h1 id="navbar-date-display" class="text-lg sm:text-xl font-bold text-gray-900 dark:text-white">
+              Practice Quiz
+            </h1>
+            <p id="navbar-date-subtitle" class="text-xs text-gray-600 dark:text-gray-400">
+              Loading...
+            </p>
+          </div>
         </div>
 
         <div class="flex items-center gap-4">
@@ -769,6 +773,14 @@
       const mobileDateInfo = document.getElementById('date-info-mobile');
       if (mobileDateInfo) {
         mobileDateInfo.textContent = dateText;
+      }
+
+      // Update navbar with practice date
+      const navbarTitle = document.getElementById('navbar-date-display');
+      const navbarSubtitle = document.getElementById('navbar-date-subtitle');
+      if (navbarTitle && navbarSubtitle) {
+        navbarTitle.textContent = `${date || '—'} ${month || ''}, ${year || ''}`.trim();
+        navbarSubtitle.textContent = 'Practice Quiz';
       }
     }
 
