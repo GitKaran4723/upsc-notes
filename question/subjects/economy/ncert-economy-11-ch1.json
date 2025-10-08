@@ -1,0 +1,23 @@
+[
+  {
+    "id": "eco-dev-ch1-q1",
+    "question": "At the time of independence in 1947, India's per capita income was approximately:",
+    "options": [
+      "₹150",
+      "₹250",
+      "₹500",
+      "₹1000"
+    ],
+    "correct_option": "₹250",
+    "explanation": "At the time of independence, India's per capita income was very low, estimated at around ₹250 per annum. The economy was primarily agrarian with minimal industrialization, and the growth rate during British rule was extremely slow.",
+    "difficulty": "medium",
+    "tags": ["Indian Economy", "Independence", "Per capita income", "Economic history"],
+    "source": "NCERT Class 11 - Indian Economy on the Eve of Independence",
+    "chapter": "Indian Economy on the Eve of Independence",
+    "book": "NCERT Indian Economic Development Class 11",
+    "dateAdded": "2025-10-09",
+    "importance": "medium",
+    "previouslyAsked": false,
+    "notes": "Remember the contrast: very low per capita income vs modern India"
+  }
+]

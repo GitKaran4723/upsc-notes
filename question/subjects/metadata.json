@@ -1,0 +1,317 @@
+{
+  "subjects": [
+    {
+      "id": "history",
+      "name": "History",
+      "icon": "fa-landmark",
+      "color": "from-amber-500 to-orange-600",
+      "description": "Ancient, Medieval & Modern Indian History",
+      "books": [
+        {
+          "id": "ncert-ancient",
+          "name": "NCERT Ancient India",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "The Story of the First Cities",
+              "questionCount": 0
+            },
+            {
+              "id": "ch2",
+              "name": "Kingdoms, Kings and an Early Republic",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "ncert-medieval",
+          "name": "NCERT Medieval India",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Tracing Changes Through a Thousand Years",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "ncert-modern",
+          "name": "NCERT Modern India",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "How, When and Where",
+              "questionCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity",
+      "name": "Polity & Governance",
+      "icon": "fa-scale-balanced",
+      "color": "from-blue-500 to-indigo-600",
+      "description": "Indian Constitution, Governance, and Political System",
+      "books": [
+        {
+          "id": "ncert-polity-11",
+          "name": "NCERT Political Theory Class 11",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Constitution: Why and How?",
+              "questionCount": 0
+            },
+            {
+              "id": "ch2",
+              "name": "Rights in the Indian Constitution",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "ncert-polity-12",
+          "name": "NCERT Indian Constitution at Work Class 12",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Constitution as a Living Document",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "laxmikanth",
+          "name": "Indian Polity by M. Laxmikanth",
+          "author": "M. Laxmikanth",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Historical Background",
+              "questionCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "Economics",
+      "icon": "fa-chart-line",
+      "color": "from-green-500 to-emerald-600",
+      "description": "Indian Economy, Economic Development & Planning",
+      "books": [
+        {
+          "id": "ncert-economy-11",
+          "name": "NCERT Indian Economic Development Class 11",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Indian Economy on the Eve of Independence",
+              "questionCount": 0
+            },
+            {
+              "id": "ch2",
+              "name": "Indian Economy 1950-1990",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "ncert-economy-12",
+          "name": "NCERT Macroeconomics Class 12",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Introduction to Macroeconomics",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "ramesh-singh",
+          "name": "Indian Economy by Ramesh Singh",
+          "author": "Ramesh Singh",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Economic Growth and Development",
+              "questionCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "icon": "fa-earth-americas",
+      "color": "from-teal-500 to-cyan-600",
+      "description": "Indian & World Geography, Physical & Human Geography",
+      "books": [
+        {
+          "id": "ncert-geo-11",
+          "name": "NCERT Fundamentals of Physical Geography Class 11",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Geography as a Discipline",
+              "questionCount": 0
+            },
+            {
+              "id": "ch2",
+              "name": "The Origin and Evolution of the Earth",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "ncert-geo-12",
+          "name": "NCERT Fundamentals of Human Geography Class 12",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Human Geography: Nature and Scope",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "gc-leong",
+          "name": "Certificate Physical and Human Geography by GC Leong",
+          "author": "GC Leong",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "The Earth",
+              "questionCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "Environment & Ecology",
+      "icon": "fa-leaf",
+      "color": "from-lime-500 to-green-600",
+      "description": "Ecology, Biodiversity, Climate Change & Conservation",
+      "books": [
+        {
+          "id": "ncert-env-11",
+          "name": "NCERT Biology Class 11",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch13",
+              "name": "Photosynthesis in Higher Plants",
+              "questionCount": 0
+            },
+            {
+              "id": "ch14",
+              "name": "Respiration in Plants",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "ncert-env-12",
+          "name": "NCERT Biology Class 12",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch13",
+              "name": "Organisms and Populations",
+              "questionCount": 0
+            },
+            {
+              "id": "ch14",
+              "name": "Ecosystem",
+              "questionCount": 0
+            },
+            {
+              "id": "ch15",
+              "name": "Biodiversity and Conservation",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "shankar-env",
+          "name": "Environment by Shankar IAS",
+          "author": "Shankar IAS Academy",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Ecology and Ecosystem",
+              "questionCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Technology",
+      "icon": "fa-flask",
+      "color": "from-purple-500 to-pink-600",
+      "description": "Physics, Chemistry, Biology & Latest S&T Developments",
+      "books": [
+        {
+          "id": "ncert-physics-11",
+          "name": "NCERT Physics Class 11",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Physical World",
+              "questionCount": 0
+            },
+            {
+              "id": "ch2",
+              "name": "Units and Measurements",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "ncert-chemistry-11",
+          "name": "NCERT Chemistry Class 11",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Some Basic Concepts of Chemistry",
+              "questionCount": 0
+            }
+          ]
+        },
+        {
+          "id": "ncert-biology-11",
+          "name": "NCERT Biology Class 11",
+          "author": "NCERT",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "The Living World",
+              "questionCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-10-09",
+  "totalQuestions": 0,
+  "version": "1.0.0"
+}

@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>UPSC Subject Practice — NCERT & Standard Books</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            primary: {
+              50: '#fef3e2', 100: '#fde7c5', 200: '#fbcf8b', 300: '#f9b751',
+              400: '#f7a027', 500: '#f59e0b', 600: '#d97706', 700: '#b45309',
+              800: '#92400e', 900: '#78350f'
+            }
+          },
+          animation: {
+            'fade-in': 'fadeIn 0.5s ease-out',
+            'float': 'float 3s ease-in-out infinite',
+            'glow': 'glow 2s ease-in-out infinite alternate',
+            'slide-up': 'slideUp 0.4s ease-out'
+          },
+          keyframes: {
+            fadeIn: {
+              '0%': { opacity: '0', transform: 'translateY(10px)' },
+              '100%': { opacity: '1', transform: 'translateY(0)' }
+            },
+            float: {
+              '0%, 100%': { transform: 'translateY(0)' },
+              '50%': { transform: 'translateY(-20px)' }
+            },
+            glow: {
+              '0%': { boxShadow: '0 0 5px rgba(245, 158, 11, 0.5)' },
+              '100%': { boxShadow: '0 0 20px rgba(245, 158, 11, 0.8)' }
+            },
+            slideUp: {
+              '0%': { opacity: '0', transform: 'translateY(30px)' },
+              '100%': { opacity: '1', transform: 'translateY(0)' }
+            }
+          },
+          boxShadow: { soft: '0 10px 30px rgba(0,0,0,0.08)' }
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+  <style>
+    html { scroll-behavior: smooth; }
+    .glass-effect { background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); }
+    .dark .glass-effect { background: rgba(0, 0, 0, 0.2); border: 1px solid rgba(255, 255, 255, 0.1); }
+    .gradient-text { background: linear-gradient(135deg, #f59e0b 0%, #f97316 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .subject-card { transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1); }
+    .subject-card:hover { transform: translateY(-8px) scale(1.02); }
+    .book-item { transition: all 0.2s ease; }
+    .book-item:hover { transform: translateX(4px); background-color: rgba(245, 158, 11, 0.1); }
+    .chapter-badge { transition: all 0.2s ease; }
+    .chapter-badge:hover { transform: scale(1.05); box-shadow: 0 4px 12px rgba(245, 158, 11, 0.3); }
+  </style>
+</head>
+
+<body class="min-h-screen bg-gradient-to-br from-slate-50 via-orange-50 to-amber-50 dark:from-gray-900 dark:via-gray-800 dark:to-slate-900 text-gray-900 dark:text-gray-100 selection:bg-amber-200/60 transition-colors duration-300">
+  <!-- Animated Background -->
+  <div class="fixed inset-0 overflow-hidden pointer-events-none z-0">
+    <div class="absolute top-20 left-10 w-72 h-72 bg-amber-300/20 dark:bg-amber-500/10 rounded-full blur-3xl animate-float"></div>
+    <div class="absolute bottom-20 right-10 w-96 h-96 bg-orange-300/20 dark:bg-orange-500/10 rounded-full blur-3xl animate-float" style="animation-delay: 1s;"></div>
+  </div>
+
+  <!-- Header -->
+  <header class="glass-effect backdrop-blur-lg bg-white/80 dark:bg-gray-900/80 shadow-lg sticky top-0 z-50 border-b border-gray-200/50 dark:border-gray-700/50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center py-4">
+        <div class="flex items-center space-x-3">
+          <div class="w-10 h-10 bg-gradient-to-br from-amber-400 to-orange-500 rounded-xl flex items-center justify-center shadow-lg animate-glow">
+            <i class="fas fa-book-open text-white text-xl"></i>
+          </div>
+          <div>
+            <h1 class="text-lg sm:text-xl font-bold text-gray-900 dark:text-white">Subject Practice</h1>
+            <p class="text-xs text-gray-600 dark:text-gray-400">NCERT & Standard Books</p>
+          </div>
+        </div>
+        <div class="flex items-center gap-4">
+          <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors">
+            <i class="fas fa-moon dark:fa-sun text-gray-700 dark:text-gray-300"></i>
+          </button>
+          <nav class="hidden lg:flex gap-1 font-medium">
+            <a href="/upsc-notes/" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Home</a>
+            <a href="/upsc-notes/practice.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Daily Practice</a>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <!-- Stats Overview -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+      <div class="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-soft border border-gray-100 dark:border-gray-700 animate-fade-in">
+        <div class="text-3xl font-bold text-amber-600 dark:text-amber-400" id="total-questions">0</div>
+        <div class="text-sm text-gray-600 dark:text-gray-400 mt-1">Total Questions</div>
+      </div>
+      <div class="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-soft border border-gray-100 dark:border-gray-700 animate-fade-in" style="animation-delay: 0.1s;">
+        <div class="text-3xl font-bold text-green-600 dark:text-green-400" id="subjects-count">6</div>
+        <div class="text-sm text-gray-600 dark:text-gray-400 mt-1">Subjects</div>
+      </div>
+      <div class="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-soft border border-gray-100 dark:border-gray-700 animate-fade-in" style="animation-delay: 0.2s;">
+        <div class="text-3xl font-bold text-blue-600 dark:text-blue-400" id="books-count">0</div>
+        <div class="text-sm text-gray-600 dark:text-gray-400 mt-1">Books</div>
+      </div>
+      <div class="bg-white dark:bg-gray-800 rounded-xl p-4 shadow-soft border border-gray-100 dark:border-gray-700 animate-fade-in" style="animation-delay: 0.3s;">
+        <div class="text-3xl font-bold text-purple-600 dark:text-purple-400" id="chapters-count">0</div>
+        <div class="text-sm text-gray-600 dark:text-gray-400 mt-1">Chapters</div>
+      </div>
+    </div>
+
+    <!-- Search Bar -->
+    <div class="mb-8">
+      <div class="relative max-w-2xl mx-auto">
+        <input type="text" id="search-input" placeholder="Search subjects, books, or chapters..." class="w-full px-6 py-4 rounded-2xl bg-white dark:bg-gray-800 border-2 border-amber-200 dark:border-amber-700 focus:border-amber-400 dark:focus:border-amber-500 focus:outline-none focus:ring-4 focus:ring-amber-200/50 dark:focus:ring-amber-700/50 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 text-lg shadow-soft transition-all">
+        <i class="fas fa-search absolute right-6 top-1/2 transform -translate-y-1/2 text-gray-400 dark:text-gray-500 text-xl"></i>
+      </div>
+    </div>
+
+    <!-- Subjects Grid -->
+    <div id="subjects-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Subjects will be loaded here -->
+    </div>
+
+    <!-- Loading State -->
+    <div id="loading" class="text-center py-12">
+      <div class="inline-block w-12 h-12 border-4 border-amber-400 border-t-transparent rounded-full animate-spin"></div>
+      <p class="mt-4 text-gray-600 dark:text-gray-400">Loading subjects...</p>
+    </div>
+
+    <!-- Empty State -->
+    <div id="empty-state" class="hidden text-center py-12">
+      <i class="fas fa-search text-6xl text-gray-300 dark:text-gray-600 mb-4"></i>
+      <p class="text-xl text-gray-600 dark:text-gray-400">No results found</p>
+      <p class="text-sm text-gray-500 dark:text-gray-500 mt-2">Try different keywords</p>
+    </div>
+  </main>
+
+  <!-- Subject Detail Modal -->
+  <div id="subject-modal" class="hidden fixed inset-0 bg-black/60 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+    <div class="bg-white dark:bg-gray-800 rounded-3xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto relative animate-slide-up">
+      <div class="sticky top-0 bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 px-6 py-4 flex justify-between items-center z-10">
+        <div class="flex items-center gap-3">
+          <div id="modal-icon" class="w-12 h-12 rounded-xl flex items-center justify-center text-white text-2xl"></div>
+          <div>
+            <h2 id="modal-title" class="text-2xl font-bold text-gray-900 dark:text-white"></h2>
+            <p id="modal-description" class="text-sm text-gray-600 dark:text-gray-400"></p>
+          </div>
+        </div>
+        <button onclick="closeModal()" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-full transition-colors">
+          <i class="fas fa-times text-gray-600 dark:text-gray-300 text-xl"></i>
+        </button>
+      </div>
+      <div id="modal-content" class="p-6">
+        <!-- Books and chapters will be loaded here -->
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let metadata = null;
+    let allSubjects = [];
+
+    // Theme Toggle
+    const themeToggle = document.getElementById('themeToggle');
+    const html = document.documentElement;
+    
+    if (localStorage.getItem('theme') === 'dark' || (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      html.classList.add('dark');
+    }
+
+    themeToggle?.addEventListener('click', () => {
+      html.classList.toggle('dark');
+      localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
+    });
+
+    // Load Metadata
+    async function loadMetadata() {
+      try {
+        const response = await fetch('./question/subjects/metadata.json');
+        metadata = await response.json();
+        allSubjects = metadata.subjects;
+        updateStats();
+        renderSubjects(allSubjects);
+        document.getElementById('loading').classList.add('hidden');
+      } catch (error) {
+        console.error('Error loading metadata:', error);
+        document.getElementById('loading').innerHTML = '<p class="text-red-600">Failed to load subjects. Please refresh the page.</p>';
+      }
+    }
+
+    // Update Stats
+    function updateStats() {
+      const totalQuestions = allSubjects.reduce((sum, subject) => 
+        sum + subject.books.reduce((bookSum, book) => 
+          bookSum + book.chapters.reduce((chapSum, chap) => chapSum + (chap.questionCount || 0), 0), 0), 0);
+      
+      const totalBooks = allSubjects.reduce((sum, subject) => sum + subject.books.length, 0);
+      const totalChapters = allSubjects.reduce((sum, subject) => 
+        sum + subject.books.reduce((bookSum, book) => bookSum + book.chapters.length, 0), 0);
+
+      document.getElementById('total-questions').textContent = totalQuestions;
+      document.getElementById('books-count').textContent = totalBooks;
+      document.getElementById('chapters-count').textContent = totalChapters;
+    }
+
+    // Render Subjects
+    function renderSubjects(subjects) {
+      const container = document.getElementById('subjects-container');
+      const emptyState = document.getElementById('empty-state');
+      
+      if (subjects.length === 0) {
+        container.classList.add('hidden');
+        emptyState.classList.remove('hidden');
+        return;
+      }
+
+      container.classList.remove('hidden');
+      emptyState.classList.add('hidden');
+      
+      container.innerHTML = subjects.map((subject, index) => {
+        const totalQuestions = subject.books.reduce((sum, book) => 
+          sum + book.chapters.reduce((chapSum, chap) => chapSum + (chap.questionCount || 0), 0), 0);
+        const totalChapters = subject.books.reduce((sum, book) => sum + book.chapters.length, 0);
+
+        return `
+          <div class="subject-card bg-white dark:bg-gray-800 rounded-2xl shadow-soft border border-gray-100 dark:border-gray-700 overflow-hidden cursor-pointer animate-slide-up" style="animation-delay: ${index * 0.1}s;" onclick="openSubjectModal('${subject.id}')">
+            <div class="bg-gradient-to-r ${subject.color} p-6 text-white">
+              <div class="flex items-center justify-between mb-3">
+                <i class="fas ${subject.icon} text-4xl"></i>
+                <span class="text-2xl font-bold">${totalQuestions}</span>
+              </div>
+              <h3 class="text-xl font-bold">${subject.name}</h3>
+            </div>
+            <div class="p-6">
+              <p class="text-sm text-gray-600 dark:text-gray-400 mb-4">${subject.description}</p>
+              <div class="flex items-center justify-between text-sm">
+                <div class="flex items-center gap-2">
+                  <i class="fas fa-book text-amber-600 dark:text-amber-400"></i>
+                  <span class="text-gray-700 dark:text-gray-300">${subject.books.length} Books</span>
+                </div>
+                <div class="flex items-center gap-2">
+                  <i class="fas fa-list text-blue-600 dark:text-blue-400"></i>
+                  <span class="text-gray-700 dark:text-gray-300">${totalChapters} Chapters</span>
+                </div>
+              </div>
+              <button class="mt-4 w-full inline-flex items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white px-4 py-3 font-semibold shadow-lg transition-all hover:scale-105">
+                <span>Start Practice</span>
+                <i class="fas fa-arrow-right"></i>
+              </button>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // Open Subject Modal
+    function openSubjectModal(subjectId) {
+      const subject = allSubjects.find(s => s.id === subjectId);
+      if (!subject) return;
+
+      const modal = document.getElementById('subject-modal');
+      const modalIcon = document.getElementById('modal-icon');
+      const modalTitle = document.getElementById('modal-title');
+      const modalDescription = document.getElementById('modal-description');
+      const modalContent = document.getElementById('modal-content');
+
+      modalIcon.className = `w-12 h-12 rounded-xl flex items-center justify-center bg-gradient-to-r ${subject.color} text-white text-2xl`;
+      modalIcon.innerHTML = `<i class="fas ${subject.icon}"></i>`;
+      modalTitle.textContent = subject.name;
+      modalDescription.textContent = subject.description;
+
+      modalContent.innerHTML = subject.books.map(book => `
+        <div class="mb-6 bg-gray-50 dark:bg-gray-900 rounded-2xl p-5 border border-gray-200 dark:border-gray-700">
+          <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-2 flex items-center gap-2">
+            <i class="fas fa-book text-amber-600 dark:text-amber-400"></i>
+            ${book.name}
+          </h3>
+          <p class="text-sm text-gray-600 dark:text-gray-400 mb-4">by ${book.author}</p>
+          <div class="grid grid-cols-1 gap-2">
+            ${book.chapters.map(chapter => {
+              const hasQuestions = chapter.questionCount > 0;
+              return `
+                <div class="book-item flex items-center justify-between p-3 rounded-xl bg-white dark:bg-gray-800 border ${hasQuestions ? 'border-green-200 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'}">
+                  <div class="flex items-center gap-3 flex-1">
+                    <span class="w-8 h-8 rounded-lg ${hasQuestions ? 'bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400' : 'bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-400'} flex items-center justify-center text-sm font-bold">
+                      ${chapter.questionCount || 0}
+                    </span>
+                    <span class="text-sm font-medium text-gray-900 dark:text-white">${chapter.name}</span>
+                  </div>
+                  ${hasQuestions ? `
+                    <button onclick="startPractice('${subject.id}', '${book.id}', '${chapter.id}')" class="chapter-badge px-4 py-2 rounded-lg bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white text-sm font-semibold shadow-md">
+                      Practice <i class="fas fa-play ml-1"></i>
+                    </button>
+                  ` : `
+                    <span class="text-xs text-gray-400 dark:text-gray-500 italic">No questions yet</span>
+                  `}
+                </div>
+              `;
+            }).join('')}
+          </div>
+        </div>
+      `).join('');
+
+      modal.classList.remove('hidden');
+      document.body.style.overflow = 'hidden';
+    }
+
+    // Close Modal
+    function closeModal() {
+      const modal = document.getElementById('subject-modal');
+      modal.classList.add('hidden');
+      document.body.style.overflow = '';
+    }
+
+    // Start Practice
+    function startPractice(subjectId, bookId, chapterId) {
+      window.location.href = `subjectquestion.html?subject=${subjectId}&book=${bookId}&chapter=${chapterId}`;
+    }
+
+    // Search Functionality
+    document.getElementById('search-input').addEventListener('input', (e) => {
+      const query = e.target.value.toLowerCase().trim();
+      
+      if (!query) {
+        renderSubjects(allSubjects);
+        return;
+      }
+
+      const filtered = allSubjects.filter(subject => {
+        const nameMatch = subject.name.toLowerCase().includes(query);
+        const descMatch = subject.description.toLowerCase().includes(query);
+        const bookMatch = subject.books.some(book => 
+          book.name.toLowerCase().includes(query) ||
+          book.author.toLowerCase().includes(query) ||
+          book.chapters.some(chapter => chapter.name.toLowerCase().includes(query))
+        );
+        return nameMatch || descMatch || bookMatch;
+      });
+
+      renderSubjects(filtered);
+    });
+
+    // Close modal on escape
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeModal();
+    });
+
+    // Close modal on backdrop click
+    document.getElementById('subject-modal').addEventListener('click', (e) => {
+      if (e.target.id === 'subject-modal') closeModal();
+    });
+
+    // Initialize
+    window.addEventListener('DOMContentLoaded', loadMetadata);
+  </script>
+</body>
+</html>

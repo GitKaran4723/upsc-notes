@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pol-const-ch1-q1",
+    "question": "The Constitution of India was adopted on:",
+    "options": [
+      "26th January 1950",
+      "26th November 1949",
+      "15th August 1947",
+      "26th January 1949"
+    ],
+    "correct_option": "26th November 1949",
+    "explanation": "The Constitution of India was adopted by the Constituent Assembly on 26th November 1949, but it came into effect on 26th January 1950. This date was chosen to honor the Purna Swaraj declaration of 1930.",
+    "difficulty": "easy",
+    "tags": ["Constitution", "Important dates", "Constituent Assembly"],
+    "source": "NCERT Class 11 - Constitution: Why and How?",
+    "chapter": "Constitution: Why and How?",
+    "book": "NCERT Political Theory Class 11",
+    "dateAdded": "2025-10-09",
+    "importance": "high",
+    "previouslyAsked": true,
+    "notes": "Adopted: 26 Nov 1949, Came into force: 26 Jan 1950"
+  },
+  {
+    "id": "pol-const-ch1-q2",
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correct_option": "Dr. B.R. Ambedkar",
+    "explanation": "Dr. B.R. Ambedkar, as the Chairman of the Drafting Committee, played a pivotal role in drafting the Constitution of India. His expertise in law and his vision for social justice earned him the title 'Father of the Indian Constitution'.",
+    "difficulty": "easy",
+    "tags": ["Dr. Ambedkar", "Constitution makers", "Drafting Committee"],
+    "source": "NCERT Class 11 - Constitution: Why and How?",
+    "chapter": "Constitution: Why and How?",
+    "book": "NCERT Political Theory Class 11",
+    "dateAdded": "2025-10-09",
+    "importance": "high",
+    "previouslyAsked": true,
+    "notes": "Ambedkar was Chairman of Drafting Committee, not President of Constituent Assembly (that was Dr. Rajendra Prasad)"
+  }
+]
