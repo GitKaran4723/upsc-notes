@@ -76,4 +76,40 @@
       target.style.opacity = '0';
     }
   });
+
+  // Auto-wire theme toggle buttons present on pages (#themeToggle or .theme-toggle)
+  try {
+    document.addEventListener('DOMContentLoaded', () => {
+      const toggles = Array.from(document.querySelectorAll('#themeToggle, .theme-toggle'));
+      toggles.forEach(btn => {
+        // avoid double-binding
+        if (btn.__upsc_wired) return;
+        btn.__upsc_wired = true;
+        btn.addEventListener('click', (e) => {
+          try { btn.classList.add('pressed'); setTimeout(()=>btn.classList.remove('pressed'),120); } catch (ex) {}
+          if (window.upscUI && typeof window.upscUI.toggleTheme === 'function') {
+            const newTheme = window.upscUI.toggleTheme();
+            // pages that use body.dark-mode / sepia-mode rely on body class
+            if (document.documentElement.classList.contains('dark')) {
+              document.body.classList.add('dark-mode');
+              document.body.classList.remove('sepia-mode');
+            } else {
+              document.body.classList.remove('dark-mode');
+              // keep sepia untouched (site can set separately)
+            }
+            return;
+          }
+          // fallback: toggle html.dark and persist
+          document.documentElement.classList.toggle('dark');
+          try { localStorage.setItem(themeKey, document.documentElement.classList.contains('dark') ? 'dark' : 'light'); } catch(e){}
+          if (document.documentElement.classList.contains('dark')) {
+            document.body.classList.add('dark-mode');
+            document.body.classList.remove('sepia-mode');
+          } else {
+            document.body.classList.remove('dark-mode');
+          }
+        });
+      });
+    });
+  } catch (e) {}
 })();

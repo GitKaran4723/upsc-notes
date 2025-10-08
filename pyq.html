@@ -6,6 +6,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>UPSC PYQs - GS & CSAT</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: {
+                            50: '#fef3e2',
+                            100: '#fde7c5',
+                            200: '#fbcf8b',
+                            300: '#f9b751',
+                            400: '#f7a027',
+                            500: '#f59e0b',
+                            600: '#d97706',
+                            700: '#b45309',
+                            800: '#92400e',
+                            900: '#78350f',
+                        }
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.5s ease-out',
+                        'float': 'float 3s ease-in-out infinite',
+                        'glow': 'glow 2s ease-in-out infinite alternate',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0', transform: 'translateY(10px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
+                        },
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0)' },
+                            '50%': { transform: 'translateY(-20px)' },
+                        },
+                        glow: {
+                            '0%': { boxShadow: '0 0 5px rgba(245, 158, 11, 0.5)' },
+                            '100%': { boxShadow: '0 0 20px rgba(245, 158, 11, 0.8)' },
+                        },
+                    }
+                }
+            }
+        }
+    </script>
 
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/syllabus.css">
@@ -13,14 +55,69 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="/upsc-notes/assets/ui.css">
+
+    <style>
+        .glass-effect { 
+            background: rgba(255,255,255,0.1); 
+            backdrop-filter: blur(10px); 
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .dark .glass-effect {
+            background: rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .gradient-text {
+            background: linear-gradient(135deg, #f59e0b 0%, #f97316 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+    </style>
 </head>
 
-<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900 relative overflow-x-hidden">
+<body class="bg-gradient-to-br from-slate-50 via-orange-50 to-amber-50 dark:from-gray-900 dark:via-gray-800 dark:to-slate-900 text-gray-900 dark:text-gray-100 relative overflow-x-hidden transition-colors duration-300">
 
-    <!-- Header -->
-    <header class="bg-gray-900 text-white flex justify-between items-center p-4 sticky top-0 z-50 shadow-md">
-        <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Previous Year Questions (PYQs)</h1>
-        <a href="/upsc-notes/" class="text-sm hover:text-yellow-300">Back to Home</a>
+    <!-- Animated Background Elements (index-style) -->
+    <div class="fixed inset-0 overflow-hidden pointer-events-none z-0">
+        <div class="absolute top-20 left-10 w-72 h-72 bg-amber-300/20 dark:bg-amber-500/10 rounded-full blur-3xl animate-float"></div>
+        <div class="absolute bottom-20 right-10 w-96 h-96 bg-orange-300/20 dark:bg-orange-500/10 rounded-full blur-3xl animate-float" style="animation-delay: 1s;"></div>
+        <div class="absolute top-1/2 left-1/2 w-80 h-80 bg-yellow-300/10 dark:bg-yellow-500/5 rounded-full blur-3xl animate-float" style="animation-delay: 2s;"></div>
+    </div>
+
+    <!-- Navbar (index-style glass header) -->
+    <header class="glass-effect backdrop-blur-lg bg-white/80 dark:bg-gray-900/80 shadow-lg sticky top-0 z-50 border-b border-gray-200/50 dark:border-gray-700/50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 bg-gradient-to-br from-amber-400 to-orange-500 rounded-xl flex items-center justify-center shadow-lg animate-glow">
+                        <i class="fas fa-graduation-cap text-white text-xl"></i>
+                    </div>
+                    <h1 class="text-2xl font-bold">
+                        <span class="gradient-text">UPSC</span>
+                        <span class="text-gray-900 dark:text-white ml-1">Portal</span>
+                    </h1>
+                </div>
+
+                <div class="flex items-center gap-4">
+                    <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors">
+                        <i class="fas fa-moon dark:fa-sun text-gray-700 dark:text-gray-300"></i>
+                    </button>
+                    <button id="menuToggle" class="lg:hidden text-2xl focus:outline-none p-2 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors">
+                        <i id="menuIcon" class="fas fa-bars text-gray-700 dark:text-gray-300"></i>
+                    </button>
+                    <nav class="hidden lg:flex gap-1 font-medium">
+                        <a href="/upsc-notes/" class="px-4 py-2 rounded-lg bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 font-semibold transition-all">Home</a>
+                        <a href="/upsc-notes/syllabus.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Syllabus</a>
+                        <a href="/upsc-notes/news.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">News</a>
+                        <a href="/upsc-notes/practice.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Practice</a>
+                        <a href="/upsc-notes/pyq.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Pre PYQs</a>
+                        <a href="/upsc-notes/mainpyq.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Mains PYQs</a>
+                        <a href="/upsc-notes/updates.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Updates</a>
+                        <a href="https://karanjadhav.tech" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Portfolio</a>
+                    </nav>
+                </div>
+            </div>
+        </div>
     </header>
 
     <!-- Overview -->
