@@ -1,0 +1,527 @@
+[
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "The 2025 Nobel Prize in Physics was awarded for which of the following discoveries?",
+    "statements": [
+      "Demonstration of macroscopic quantum tunnelling in superconducting circuits",
+      "Observation of gravitational waves using LIGO detectors",
+      "Development of controllable Josephson junctions for studying quantum effects"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Nobel laureates John Clarke, Michel Devoret, and John Martinis were honoured for demonstrating macroscopic quantum tunnelling in Josephson junctions and showing quantum laws apply to large electrical circuits. Gravitational wave detection (LIGO) was awarded in 2017, not 2025. See [[Quantum tunnelling]], [[Josephson junction]].",
+    "tags": "Science and Technology, Physics, Quantum Mechanics"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Consider the following statements about macroscopic quantum tunnelling:",
+    "statements": [
+      "It occurs when a large-scale electrical circuit behaves as a single quantum system.",
+      "It demonstrates quantised energy levels even in visible-size circuits.",
+      "It contradicts the laws of classical physics."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Macroscopic quantum tunnelling shows that entire superconducting circuits can behave like one quantum particle, displaying discrete energy levels that defy classical predictions. It validates the universality of quantum mechanics. [[Superconductivity]], [[Quantum coherence]].",
+    "tags": "Science and Technology, Physics, Nobel Prize"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following devices is based on the Josephson Effect?",
+    "options": [
+      "SQUID magnetometers",
+      "Digital multimeters",
+      "Ultrasound scanners",
+      "Cryogenic turbines"
+    ],
+    "correct_option": "SQUID magnetometers",
+    "explanation": "SQUIDs (Superconducting Quantum Interference Devices) use the Josephson Effect to measure extremely weak magnetic fields with high precision. These devices are used in brain imaging, geology, and metrology. [[Josephson effect]], [[SQUID]].",
+    "tags": "Science and Technology, Physics, Quantum Technology"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "With reference to the 2025 Nobel Prize in Physiology or Medicine, consider the following statements:",
+    "statements": [
+      "It recognised the discovery of Regulatory T-cells that maintain immune tolerance.",
+      "The FOXP3 gene was identified as a key regulator of these T-cells.",
+      "It provided evidence that autoimmunity arises solely from thymus malfunction."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Nobel honoured Sakaguchi, Brunkow, and Ramsdell for discovering Regulatory T-cells and the FOXP3 gene. They showed peripheral immune tolerance mechanisms beyond the thymus, disproving the sole thymus malfunction idea. [[Regulatory T cell]], [[FOXP3]].",
+    "tags": "Science and Technology, Health, Immunology"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "The FOXP3 gene, recently in news, is primarily associated with which function?",
+    "options": [
+      "Regulation of immune tolerance through Tregs",
+      "Production of insulin in pancreas",
+      "Repair of damaged nerve cells",
+      "Activation of oncogenes in cancer cells"
+    ],
+    "correct_option": "Regulation of immune tolerance through Tregs",
+    "explanation": "The FOXP3 gene encodes a transcription factor vital for the formation and function of Regulatory T-cells (Tregs), which suppress immune overreaction and maintain self-tolerance. [[FOXP3]], [[Autoimmunity]].",
+    "tags": "Health, Biology, Nobel Prize"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "According to the INCOIS study, what is the role of Sri Lanka in ocean dynamics affecting India?",
+    "statements": [
+      "It acts as a natural barrier protecting India’s southeastern coast from Southern Ocean swells.",
+      "It deflects long-period swell waves towards the Arabian Sea.",
+      "It amplifies wave energy hitting the Tamil Nadu coast."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "INCOIS found that Sri Lanka blocks and redirects swell waves from the Southern Ocean, protecting the Tamil Nadu–Andhra coast. These waves mainly affect Kerala’s west coast. [[INCOIS]], [[Swell waves]].",
+    "tags": "Environment, Geography, Oceanography"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following tools were used by INCOIS to study the effect of Sri Lanka on Indian coastal waves?",
+    "options": [
+      "Wave Rider Buoys and WAVEWATCH III model",
+      "Tsunami Early Warning Radar",
+      "Satellite gravimetry data",
+      "Bathymetric sonar mapping"
+    ],
+    "correct_option": "Wave Rider Buoys and WAVEWATCH III model",
+    "explanation": "The INCOIS study used Wave Rider Buoys off Kerala and Tamil Nadu and simulated wave propagation using the WAVEWATCH III model to confirm Sri Lanka’s ‘Swell Shield’ role. [[WAVEWATCH III]], [[INCOIS]].",
+    "tags": "Environment, Science and Technology, Disaster Management"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "India’s Gold Monetisation Scheme (GMS) primarily aims to achieve which of the following?",
+    "options": [
+      "Mobilise idle household gold for productive use",
+      "Increase exports of gold jewellery",
+      "Reduce India’s fiscal deficit through foreign borrowing",
+      "Create a sovereign wealth fund from gold reserves"
+    ],
+    "correct_option": "Mobilise idle household gold for productive use",
+    "explanation": "The GMS, launched in 2015, seeks to convert idle household gold into productive financial assets, reduce gold imports, and ease pressure on the current account. [[Gold Monetisation Scheme]], [[Current account deficit]].",
+    "tags": "Economy, Banking, Financial Inclusion"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following components of the Gold Monetisation Scheme were discontinued in 2025?",
+    "options": [
+      "Short-Term Gold Deposit Scheme",
+      "Medium-Term and Long-Term Gold Deposit Schemes",
+      "Sovereign Gold Bond Scheme",
+      "Gold Metal Loan Scheme"
+    ],
+    "correct_option": "Medium-Term and Long-Term Gold Deposit Schemes",
+    "explanation": "The Government of India discontinued the Medium-Term (5–7 years) and Long-Term (7–12 years) Gold Deposit Schemes in March 2025 due to low participation and overlap with Sovereign Gold Bonds. [[Gold Monetisation Scheme]].",
+    "tags": "Economy, Policy, Banking"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Consider the following statements about India’s household gold holdings:",
+    "statements": [
+      "India’s private gold stock is estimated at around 25,000 tonnes.",
+      "It is valued at approximately 55% of India’s GDP.",
+      "Nearly 87% of domestic demand is still met through gold imports."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s households hold ~25,000 tonnes of gold worth ~$2.4 trillion (55% of GDP). Despite this, about 87% of demand is met through imports, highlighting the need for monetisation. [[Gold reserves in India]], [[Current account deficit]].",
+    "tags": "Economy, Finance, Current Affairs"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Xenobiology, recently in news, primarily studies which of the following?",
+    "options": [
+      "Alternative forms of life that may not use DNA or RNA",
+      "Extinct organisms of the Cambrian period",
+      "Behavioral patterns of alien species on Earth",
+      "Artificial intelligence in biological computation"
+    ],
+    "correct_option": "Alternative forms of life that may not use DNA or RNA",
+    "explanation": "Xenobiology studies hypothetical or synthetic life forms that may not rely on DNA, RNA, or water-based biochemistry. It explores how life could exist with alternative molecular systems, expanding astrobiology’s search for life. [[Xenobiology]], [[Astrobiology]].",
+    "tags": "Science and Technology, Biology, Space Research"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following best describes the focus of xenobiology compared to traditional biology?",
+    "statements": [
+      "Biology studies life as we know it; xenobiology studies life as it could be.",
+      "Xenobiology only applies to extraterrestrial organisms.",
+      "Xenobiology includes the design of synthetic genetic codes."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Traditional biology studies known Earth-based organisms, while xenobiology explores synthetic or non-natural life forms, often using new genetic codes or artificial bases. It is not limited to alien life. [[Synthetic biology]], [[Genetic code]].",
+    "tags": "Science and Technology, Biotechnology, Astrobiology"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following is a key experiment in the field of xenobiology?",
+    "options": [
+      "Creation of DNA molecules with six bases instead of four",
+      "Discovery of CRISPR-Cas9 editing in human embryos",
+      "Development of COVID-19 mRNA vaccines",
+      "Observation of extremophiles in hot springs"
+    ],
+    "correct_option": "Creation of DNA molecules with six bases instead of four",
+    "explanation": "Researchers in xenobiology have engineered DNA containing six bases (A, T, C, G, and synthetic bases X and Y), enabling storage of new information and production of novel proteins. [[Synthetic DNA]], [[Genetic alphabet expansion]].",
+    "tags": "Science and Technology, Biotechnology, DNA Research"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following solvents are studied in xenobiology as alternatives to water for supporting life?",
+    "options": [
+      "Methane and ammonia",
+      "Oxygen and nitrogen",
+      "Carbon dioxide and helium",
+      "Chlorine and sulfur dioxide"
+    ],
+    "correct_option": "Methane and ammonia",
+    "explanation": "Xenobiologists study methane, ethane, and ammonia as potential solvents for life, especially on icy moons like Titan and Europa. These environments could support non-water-based life chemistry. [[Methane]], [[Astrobiology]].",
+    "tags": "Science and Technology, Environment, Space Research"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following pairs are correctly matched regarding applications of xenobiology?",
+    "statements": [
+      "Biocontainment – Alien microbes that cannot survive outside labs",
+      "Space Research – Design of instruments to detect non-Earth-like life",
+      "Medicine – Engineering microbes for novel drug production"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Xenobiology aids medicine via engineered microbes, enhances biocontainment safety, and supports NASA and ESA’s search for alien biosignatures. [[Synthetic biology]], [[Biosafety]].",
+    "tags": "Science and Technology, Health, Astrobiology"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Consider the following statements regarding xenobiology and astrobiology:",
+    "statements": [
+      "Xenobiology designs synthetic life forms on Earth to study possible alien biochemistry.",
+      "Astrobiology focuses on detecting existing extraterrestrial life or its traces.",
+      "Both fields are unrelated and study different forms of life on Earth only."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Xenobiology creates artificial life for theoretical exploration, while astrobiology searches for real extraterrestrial life. Both are interlinked and vital to future planetary missions. [[Astrobiology]], [[Synthetic biology]].",
+    "tags": "Science and Technology, Space Research, Biology"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "With reference to euthanasia in India, consider the following statements:",
+    "statements": [
+      "Active euthanasia is illegal in India.",
+      "Passive euthanasia is permitted under Supreme Court guidelines.",
+      "The right to die with dignity is recognised under Article 21 of the Constitution."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Supreme Court’s 2018 Common Cause judgment upheld the right to die with dignity under Article 21 and legalised passive euthanasia through living wills, while active euthanasia remains prohibited. [[Passive euthanasia in India]], [[Article 21 of the Constitution of India]].",
+    "tags": "Polity, Ethics, Governance"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following Supreme Court cases first recognised passive euthanasia in India?",
+    "options": [
+      "Aruna Shanbaug vs Union of India (2011)",
+      "Common Cause vs Union of India (2018)",
+      "K.S. Puttaswamy vs Union of India (2017)",
+      "Maneka Gandhi vs Union of India (1978)"
+    ],
+    "correct_option": "Aruna Shanbaug vs Union of India (2011)",
+    "explanation": "The Aruna Shanbaug judgment (2011) allowed passive euthanasia under strict High Court supervision for the first time in India, paving the way for later liberalisation in 2018. [[Aruna Shanbaug case]], [[Passive euthanasia in India]].",
+    "tags": "Polity, Law, Ethics"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following reforms were suggested to make passive euthanasia more practical in India?",
+    "statements": [
+      "Digitising advance directives linked with Aadhaar",
+      "Empowering hospital ethics committees for faster decisions",
+      "Replacing judicial approvals with simplified medical oversight"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The reforms suggested include digitising living wills, empowering hospital ethics committees to decide within 48 hours, and replacing time-consuming judicial approvals with decentralised oversight. [[Passive euthanasia in India]], [[Advance directive]].",
+    "tags": "Governance, Health, Polity"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements is correct regarding India’s current legal stance on euthanasia?",
+    "options": [
+      "Active euthanasia is legal under the 2023 End-of-Life Act.",
+      "Passive euthanasia is legal through advance directives and medical review boards.",
+      "Both active and passive euthanasia are illegal under Article 21.",
+      "Euthanasia is governed entirely by state legislatures."
+    ],
+    "correct_option": "Passive euthanasia is legal through advance directives and medical review boards.",
+    "explanation": "Passive euthanasia in India is governed by Supreme Court guidelines (2011, 2018, and modified in 2023), allowing withdrawal of life support under advance directives and review by hospital-level medical boards. [[Euthanasia in India]], [[Common Cause case]].",
+    "tags": "Polity, Ethics, Health"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "The article 'A Path to Progress that is Paved with Gold' primarily argues for which form of Atmanirbharta (self-reliance)?",
+    "options": [
+      "Technological self-reliance through semiconductor manufacturing",
+      "Financial self-reliance by mobilising domestic gold wealth",
+      "Agricultural self-reliance through GM crop production",
+      "Defence self-reliance via indigenous missile development"
+    ],
+    "correct_option": "Financial self-reliance by mobilising domestic gold wealth",
+    "explanation": "The article stresses that India’s next phase of Atmanirbharta must be financial — funding growth internally by monetising the nation’s vast private gold holdings. [[Atmanirbhar Bharat]], [[Gold Monetisation Scheme]].",
+    "tags": "Economy, Governance, Financial Inclusion"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "According to the 2025 analysis on India’s financial Atmanirbharta, what is the estimated value of private gold held by Indian households?",
+    "options": [
+      "10,000 tonnes (~$1 trillion)",
+      "15,000 tonnes (~$1.5 trillion)",
+      "25,000 tonnes (~$2.4 trillion)",
+      "40,000 tonnes (~$4 trillion)"
+    ],
+    "correct_option": "25,000 tonnes (~$2.4 trillion)",
+    "explanation": "Indians collectively hold around 25,000 tonnes of gold valued at $2.4 trillion — about 55% of India’s GDP, representing an untapped domestic capital source. [[Gold reserves in India]].",
+    "tags": "Economy, Finance, Statistics"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following was a key reason for discontinuing the Medium-Term and Long-Term Gold Deposit Schemes in March 2025?",
+    "statements": [
+      "Low public participation and high administrative cost",
+      "Overlap with the Sovereign Gold Bond Scheme",
+      "Shift towards short-term retail deposits"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The government discontinued MTGD and LTGD in 2025 due to poor participation and overlap with SGBs. These schemes were costly to manage and offered limited public trust. [[Gold Monetisation Scheme]], [[Sovereign Gold Bond]].",
+    "tags": "Economy, Policy, Banking"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following best explains the mechanism of the Gold Monetisation Scheme (GMS)?",
+    "options": [
+      "Citizens deposit gold with banks, which is assayed, refined, and earns interest in gold or cash.",
+      "The Reserve Bank directly purchases household gold for forex reserves.",
+      "Private jewellers issue gold-backed securities to the public.",
+      "The government collects gold via import restrictions and revaluation."
+    ],
+    "correct_option": "Citizens deposit gold with banks, which is assayed, refined, and earns interest in gold or cash.",
+    "explanation": "Under GMS, households deposit physical gold with authorised banks for testing and refining. In return, they earn interest and certificates redeemable in gold or cash. [[Gold Monetisation Scheme]].",
+    "tags": "Economy, Banking, Financial Inclusion"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following are key challenges facing India’s Gold Monetisation initiatives?",
+    "statements": [
+      "Low public trust and lack of awareness",
+      "Insufficient hallmarking and assaying infrastructure",
+      "Cultural attachment to physical gold ornaments"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The GMS faces public trust issues, inadequate testing facilities, and deep cultural preferences for physical gold, limiting participation. [[Gold Monetisation Scheme]], [[Bureau of Indian Standards]].",
+    "tags": "Economy, Policy, Culture"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following economic benefits can result from successful implementation of the Gold Monetisation Scheme?",
+    "statements": [
+      "Reduction in current account deficit (CAD)",
+      "Lower cost of funds for infrastructure and industry",
+      "Stabilisation of the Indian rupee through reduced gold imports"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "By reducing gold imports, increasing domestic liquidity, and providing low-cost funds, GMS helps improve CAD and rupee stability. [[Current account deficit]], [[Gold import in India]].",
+    "tags": "Economy, External Sector, Finance"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "The INCOIS study concluded that Sri Lanka protects India’s southeastern coast by blocking which type of waves?",
+    "options": [
+      "Tsunami waves",
+      "Swell waves originating from the Southern Ocean",
+      "Tidal waves caused by lunar gravity",
+      "Storm surges generated by Bay of Bengal cyclones"
+    ],
+    "correct_option": "Swell waves originating from the Southern Ocean",
+    "explanation": "Sri Lanka acts as a ‘swell shield’ deflecting long-period waves from the Southern Ocean, preventing coastal erosion in Tamil Nadu and Andhra Pradesh. [[Swell waves]], [[INCOIS]].",
+    "tags": "Environment, Geography, Disaster Management"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following instruments and models were employed by INCOIS in studying coastal wave dynamics?",
+    "statements": [
+      "Wave Rider Buoys",
+      "WAVEWATCH III simulation model",
+      "Altimeter satellites"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "INCOIS scientists used offshore buoys and the WAVEWATCH III model to simulate the shielding effect of Sri Lanka against long-period swells. [[INCOIS]], [[Wave Rider Buoy]].",
+    "tags": "Environment, Oceanography, Science and Technology"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following are the potential implications of climate change on Sri Lanka’s role as India’s natural ocean barrier?",
+    "statements": [
+      "Rising sea levels may submerge low-lying landmasses, reducing wave deflection.",
+      "Changing storm patterns could alter swell directions towards India’s east coast.",
+      "Sea temperature rise will completely stop swell formation."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "INCOIS warns that sea-level rise and altered wind regimes may weaken Sri Lanka’s shielding role, but swells will not cease to form entirely. [[Climate change]], [[Indian Ocean]].",
+    "tags": "Environment, Climate Change, Geography"
+  },
+  {
+    "date": "8",
+    "month": "October",
+    "year": "2025",
+    "question": "‘Bharat can fund Bharat’ as mentioned in recent economic discussions signifies which of the following ideas?",
+    "options": [
+      "India’s self-financing growth through domestic wealth mobilisation",
+      "India’s dependence on foreign direct investment for infrastructure",
+      "Encouraging diaspora remittances as national capital",
+      "Replacing gold with cryptocurrency reserves"
+    ],
+    "correct_option": "India’s self-financing growth through domestic wealth mobilisation",
+    "explanation": "The phrase ‘Bharat can fund Bharat’ reflects the vision of financial Atmanirbharta — reducing dependence on external capital and using India’s own household wealth to drive development. [[Atmanirbhar Bharat]], [[Financial inclusion]].",
+    "tags": "Economy, Governance, Policy"
+  }
+]

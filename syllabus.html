@@ -12,6 +12,7 @@
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
     crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="/upsc-notes/assets/ui.css">
   <script>
     window.MathJax = {
       tex: {
@@ -27,12 +28,49 @@
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
 </head>
 
-<body class="bg-gradient-to-br from-yellow-50 via-white to-yellow-100 text-gray-900 relative overflow-x-hidden">
+<body class="bg-gradient-to-br from-slate-50 via-orange-50 to-amber-50 dark:from-gray-900 dark:via-gray-800 dark:to-slate-900 text-gray-900 dark:text-gray-100 relative overflow-x-hidden transition-colors duration-300">
 
-  <!-- Header -->
-  <header class="bg-gray-900 text-white flex justify-between items-center p-4 sticky top-0 z-50 shadow-md">
-    <h1 class="text-xl font-bold tracking-wide">UPSC CSE - Structured Syllabus</h1>
-    <a href="/upsc-notes/" class="text-sm hover:text-yellow-300">Back to Home</a>
+  <!-- Animated Background Elements (index-style) -->
+  <div class="fixed inset-0 overflow-hidden pointer-events-none z-0">
+    <div class="absolute top-20 left-10 w-72 h-72 bg-amber-300/20 dark:bg-amber-500/10 rounded-full blur-3xl animate-float"></div>
+    <div class="absolute bottom-20 right-10 w-96 h-96 bg-orange-300/20 dark:bg-orange-500/10 rounded-full blur-3xl animate-float" style="animation-delay: 1s;"></div>
+    <div class="absolute top-1/2 left-1/2 w-80 h-80 bg-yellow-300/10 dark:bg-yellow-500/5 rounded-full blur-3xl animate-float" style="animation-delay: 2s;"></div>
+  </div>
+
+  <!-- Navbar (index-style glass header) -->
+  <header class="glass-effect backdrop-blur-lg bg-white/80 dark:bg-gray-900/80 shadow-lg sticky top-0 z-50 border-b border-gray-200/50 dark:border-gray-700/50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center py-4">
+        <div class="flex items-center space-x-3">
+          <div class="w-10 h-10 bg-gradient-to-br from-amber-400 to-orange-500 rounded-xl flex items-center justify-center shadow-lg animate-glow">
+            <i class="fas fa-graduation-cap text-white text-xl"></i>
+          </div>
+          <h1 class="text-2xl font-bold">
+            <span class="gradient-text">UPSC</span>
+            <span class="text-gray-900 dark:text-white ml-1">Portal</span>
+          </h1>
+        </div>
+
+        <div class="flex items-center gap-4">
+          <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors">
+            <i class="fas fa-moon dark:fa-sun text-gray-700 dark:text-gray-300"></i>
+          </button>
+          <button id="menuToggle" class="lg:hidden text-2xl focus:outline-none p-2 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors">
+            <i id="menuIcon" class="fas fa-bars text-gray-700 dark:text-gray-300"></i>
+          </button>
+          <nav class="hidden lg:flex gap-1 font-medium">
+            <a href="/upsc-notes/" class="px-4 py-2 rounded-lg bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 font-semibold transition-all">Home</a>
+            <a href="/upsc-notes/syllabus.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Syllabus</a>
+            <a href="/upsc-notes/news.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">News</a>
+            <a href="/upsc-notes/practice.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Practice</a>
+            <a href="/upsc-notes/pyq.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Pre PYQs</a>
+            <a href="/upsc-notes/mainpyq.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Mains PYQs</a>
+            <a href="/upsc-notes/updates.html" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Updates</a>
+            <a href="https://karanjadhav.tech" class="px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300 transition-all">Portfolio</a>
+          </nav>
+        </div>
+      </div>
+    </div>
   </header>
 
   <!-- Overview -->
@@ -46,21 +84,457 @@
   </section>
 
   <!-- Syllabus Container -->
-  <section class="p-4" id="syllabus-container">
-    <h3 class="text-xl font-semibold mb-4 text-center">Detailed UPSC Syllabus</h3>
-    <div id="syllabus-root" class="space-y-4 max-w-4xl mx-auto text-sm"></div>
+  <!-- Syllabus Container (Modern, Mobile-first) -->
+  <section class="py-6 px-4 relative z-10">
+    <div class="max-w-6xl mx-auto">
+      <!-- Toolbar (mobile-first) -->
+      <div class="flex items-center gap-3 mb-4">
+        <button id="mobileMenuToggle" class="lg:hidden p-2 rounded-md bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+          <i class="fas fa-bars text-gray-700 dark:text-gray-200"></i>
+        </button>
+        <h2 class="flex-1 text-lg font-semibold text-gray-900 dark:text-white">Syllabus</h2>
+        <div class="hidden lg:flex items-center gap-2">
+          <button id="expandAll" class="px-3 py-2 rounded-md text-sm bg-amber-50 dark:bg-amber-900/20 text-amber-700">Expand</button>
+          <button id="collapseAll" class="px-3 py-2 rounded-md text-sm bg-white dark:bg-gray-800 text-amber-600">Collapse</button>
+        </div>
+      </div>
+
+      <div class="flex gap-6">
+        <!-- Sidebar / Drawer -->
+        <aside id="syllabus-sidebar" class="fixed inset-y-0 left-0 z-40 w-72 transform -translate-x-full lg:translate-x-0 transition-transform duration-300">
+          <div class="h-full flex flex-col p-4 bg-white dark:bg-gray-900 border-r border-gray-100 dark:border-gray-800">
+            <div class="flex items-center justify-between mb-3">
+              <div class="text-sm font-semibold text-gray-900 dark:text-white">Contents</div>
+              <button id="sidebarClose" class="lg:hidden text-gray-600 dark:text-gray-300">Close</button>
+            </div>
+            <input id="syllabusSearch" placeholder="Search topics, keywords..." class="upsc-input mb-3 w-full px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm" />
+            <div id="sidebar-links" class="flex-1 overflow-auto space-y-2 text-sm pr-2"></div>
+            <div class="mt-4 hidden lg:block">
+              <p class="text-xs text-gray-500 dark:text-gray-400">Tip: click a sidebar item to jump & expand.</p>
+            </div>
+          </div>
+        </aside>
+
+        <!-- Overlay for mobile drawer -->
+        <div id="sidebarOverlay" class="fixed inset-0 bg-black/30 z-30 hidden lg:hidden"></div>
+
+        <!-- Content area -->
+        <main id="syllabus-root-wrapper" class="flex-1 lg:ml-72">
+          <div id="syllabus-root" class="space-y-6"></div>
+        </main>
+      </div>
+    </div>
   </section>
 
+  <style>
+    /* iOS-inspired UI: safe-area, font stack, soft colors */
+    :root{ --card-bg: rgba(255,255,255,0.85); --card-border: rgba(2,6,23,0.06); }
+    html,body{ -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+    body{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); }
+    .dark :root{ --card-bg: rgba(6,8,15,0.65); --card-border: rgba(255,255,255,0.04); }
+
+  #syllabus-root .syll-card { background: var(--card-bg); border:1px solid var(--card-border); border-radius:16px; padding:14px; transition: transform .22s ease, box-shadow .22s ease; }
+    #syllabus-root .syll-card:hover { transform: translateY(-6px); box-shadow: 0 18px 48px rgba(2,6,23,0.12); }
+
+  .syll-header { display:flex; align-items:center; justify-content:space-between; gap:12px; }
+    .syll-header-btn { all:unset; display:flex; align-items:center; justify-content:space-between; width:100%; cursor:pointer; padding:6px 4px; border-radius:8px; }
+    .syll-header-btn:focus { outline:2px solid rgba(245,158,11,0.25); }
+    .title-wrap h4 { margin:0; }
+
+    .syll-body { max-height:0; overflow:hidden; opacity:0; transition: max-height .3s ease, opacity .18s ease; }
+    .syll-body.open { max-height:2000px; opacity:1; }
+
+    #sidebar-links a { display:block; padding:.5rem .6rem; border-radius:8px; color:inherit; text-decoration:none; }
+    #sidebar-links a.active { background: rgba(245,158,11,0.08); }
+
+  .toggle-sign { font-weight:700; font-size:18px; color: #f59e0b; }
+
+  /* Modal tweaks - responsive */
+    #markdownModal { background: rgba(0,0,0,0.6); display:flex; align-items:flex-start; padding-top:3.5rem; }
+    #markdownModal.hidden { display:none }
+    #markdownModal .modal-card { max-width:900px; width:calc(100% - 2rem); margin:auto; border-radius:12px; padding:1.25rem; box-shadow:0 24px 60px rgba(2,6,23,0.4); overflow:auto; }
+    #markdownModal .close-btn { position:absolute; right:1rem; top:1rem; }
+
+    /* small-screen: make modal fill more space */
+    @media (max-width:640px){
+      #markdownModal { align-items:center; padding:1rem; }
+      #markdownModal .modal-card { width:100%; height:calc(100vh - 2rem); border-radius:10px; }
+      #sidebar-links { font-size:13px }
+    }
+    /* sidebar / bottom-sheet helpers */
+    :root{ --header-h:64px; }
+    #syllabus-sidebar { transition: transform .28s cubic-bezier(.2,.9,.3,1); will-change:transform; }
+    /* Desktop: sticky sidebar on the left under the header */
+    @media(min-width:1024px){
+      #syllabus-sidebar { position:sticky; top:calc(var(--header-h) + 12px); transform:none; width:18rem; }
+      #syllabus-sidebar > div { height: calc(100vh - var(--header-h) - 48px); overflow:auto; padding:12px; }
+    }
+    /* Mobile: present the sidebar as an iOS-style bottom sheet */
+    @media(max-width:1023px){
+      #syllabus-sidebar { position:fixed; left:0; right:0; bottom:0; width:100%; transform: translateY(100%); border-radius:12px 12px 0 0; max-height:90vh; z-index:60; }
+      #syllabus-sidebar > div { height: calc(90vh - 48px); overflow:auto; padding:12px; }
+      #syllabus-sidebar.sheet-open { transform: translateY(0); box-shadow: 0 -18px 40px rgba(2,6,23,0.18); }
+      /* small grab handle */
+      #syllabus-sidebar .sheet-handle { width:36px; height:4px; background:rgba(0,0,0,0.12); border-radius:999px; margin:6px auto 10px; }
+    }
+
+    /* ensure readable topic/link colors in cards for both themes */
+    #syllabus-root .syll-card a { color: #0f172a; }
+    .dark #syllabus-root .syll-card a { color: #e6eef8; }
+  </style>
+
   <!-- Markdown Modal -->
-  <div id="markdownModal" class="fixed inset-0 bg-white z-50 hidden p-6 overflow-y-auto markdown-content">
-    <button class="text-red-600 text-lg float-right" onclick="closeModal()">
-      <i class="fas fa-times"></i> Close
-    </button>
-    <div id="markdownContent" class="prose max-w-full mt-8"></div>
+  <div id="markdownModal" class="fixed inset-0 z-50 hidden p-6 overflow-y-auto">
+    <div class="modal-card bg-white dark:bg-gray-800 rounded-xl relative">
+      <button class="close-btn text-gray-600 dark:text-gray-200" aria-label="Close" onclick="closeModal()">
+        <i class="fas fa-times"></i>
+      </button>
+      <div id="markdownContent" class="prose max-w-full mt-4 markdown-content p-2"></div>
+    </div>
   </div>
 
   <script src="js/syllabus.js"></script>
   <script src="js/marked.js"></script>
+  <script>
+    // Premium syllabus renderer
+    async function loadSyllabus() {
+      const root = document.getElementById('syllabus-root');
+      const sidebar = document.getElementById('sidebar-links');
+      const search = document.getElementById('syllabusSearch');
+      root.innerHTML = '<div class="text-center py-12">Loading syllabus…</div>';
+
+      let data = null;
+      try {
+        const res = await fetch('./data/syllabus.json', { cache: 'no-store' });
+        data = await res.json();
+      } catch (e) {
+        console.warn('Could not load syllabus.json, falling back to demo structure', e);
+      }
+
+      if (!data) {
+        // Demo structure when real file missing
+        data = {
+          "Prelims": {
+            "History": ["Ancient India","Medieval India","Modern India"],
+            "Polity": ["Constitution","Federalism","Governance"]
+          },
+          "Mains": {
+            "GS Paper 1": ["Indian Heritage","Geography"],
+            "GS Paper 2": ["Governance","Polity","Social Justice"]
+          }
+        };
+      }
+
+  // Build UI (robust parsing of real syllabus.json schema)
+      root.innerHTML = '';
+      sidebar.innerHTML = '';
+      let idx = 0;
+
+      for (const [section, subjects] of Object.entries(data)) {
+        const sectEl = document.createElement('div');
+        sectEl.className = 'syll-section';
+
+        const sectTitle = document.createElement('h3');
+        sectTitle.className = 'text-2xl font-bold mb-3 text-gray-900 dark:text-white';
+        sectTitle.textContent = section.charAt(0).toUpperCase() + section.slice(1);
+        sectEl.appendChild(sectTitle);
+
+  // subjects may be an object mapping to various shapes
+  for (const [subjectName, subjectVal] of Object.entries(subjects)) {
+          // Handle multiple possible shapes
+          const pushCard = (title, topicsArr) => {
+            idx++;
+            const card = document.createElement('div');
+            card.className = 'syll-card upsc-card p-4';
+            const id = `syll-${idx}`;
+            card.setAttribute('data-card-id', id);
+
+            const header = document.createElement('div');
+            header.className = 'syll-header flex items-center justify-between';
+            // Use a button for accessibility
+            const headerBtn = document.createElement('button');
+            headerBtn.className = 'syll-header-btn flex items-center justify-between w-full';
+            headerBtn.setAttribute('aria-expanded', 'false');
+            headerBtn.setAttribute('aria-controls', `${id}-body`);
+            headerBtn.innerHTML = `<div class="title-wrap"><h4 class="text-lg font-semibold text-gray-900 dark:text-white">${title}</h4><div class="text-sm text-gray-600 dark:text-gray-400">${topicsArr.length} topics</div></div><div class="toggle-sign text-amber-500">+</div>`;
+            headerBtn.addEventListener('click', () => {
+              const body = card.querySelector('.syll-body');
+              const open = body.classList.toggle('open');
+              headerBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+              const sign = headerBtn.querySelector('.toggle-sign');
+              if (sign) sign.textContent = open ? '−' : '+';
+              // persist expanded state
+              updateExpandedState(id, open);
+            });
+            header.appendChild(headerBtn);
+
+            const body = document.createElement('div');
+            body.className = 'syll-body mt-3';
+            body.id = `${id}-body`;
+            const ul = document.createElement('ul');
+            ul.className = 'space-y-2';
+            topicsArr.forEach(t => {
+              const name = (typeof t === 'string') ? t : (t.name || t.title || 'Topic');
+              const md = (typeof t === 'object' && t.markdown_url) ? t.markdown_url : null;
+              const li = document.createElement('li');
+              if (md) {
+                const a = document.createElement('a');
+                a.href = '#';
+                a.className = 'block text-sm text-gray-700 dark:text-gray-300 hover:underline';
+                a.textContent = name;
+                a.addEventListener('click', (ev) => { ev.preventDefault(); openModal(md, name); });
+                li.appendChild(a);
+              } else {
+                li.innerHTML = `<span class="block text-sm text-gray-700 dark:text-gray-300">${name}</span>`;
+              }
+              ul.appendChild(li);
+            });
+            body.appendChild(ul);
+
+            card.appendChild(header);
+            card.appendChild(body);
+            sectEl.appendChild(card);
+
+            // Sidebar link for this card
+            const link = document.createElement('a');
+            link.href = '#';
+            link.textContent = title;
+            link.addEventListener('click', (e) => {
+              e.preventDefault();
+              card.scrollIntoView({behavior:'smooth', block:'start'});
+              // open the card
+              const b = card.querySelector('.syll-body');
+              if (b && !b.classList.contains('open')) {
+                card.querySelector('.syll-header').click();
+              }
+              Array.from(sidebar.querySelectorAll('a')).forEach(a=>a.classList.remove('active'));
+              link.classList.add('active');
+            });
+            sidebar.appendChild(link);
+          };
+
+          // Now branch by detected shape
+          if (subjectVal && typeof subjectVal === 'object') {
+            // Case: has 'units' array (prelims, optional)
+            if (Array.isArray(subjectVal.units)) {
+              subjectVal.units.forEach(unit => {
+                const topics = Array.isArray(unit.topics) ? unit.topics : [];
+                pushCard(`${subjectName} — ${unit.name || 'Unit'}`, topics);
+              });
+            }
+            // Case: has 'topics' array directly
+            else if (Array.isArray(subjectVal.topics)) {
+              pushCard(subjectName, subjectVal.topics);
+            }
+            // Case: is a nested object (e.g., mains -> General Studies -> GS Paper I)
+            else {
+              for (const [subName, subVal] of Object.entries(subjectVal)) {
+                if (Array.isArray(subVal)) {
+                  pushCard(`${subjectName} — ${subName}`, subVal);
+                } else if (subVal && typeof subVal === 'object') {
+                  if (Array.isArray(subVal.topics)) pushCard(`${subjectName} — ${subName}`, subVal.topics);
+                  else if (Array.isArray(subVal.units)) {
+                    subVal.units.forEach(unit => pushCard(`${subjectName} — ${subName} — ${unit.name || 'Unit'}`, unit.topics || []));
+                  }
+                }
+              }
+            }
+          } else if (Array.isArray(subjectVal)) {
+            // subjectVal is already an array of topics (strings)
+            pushCard(subjectName, subjectVal);
+          }
+        }
+
+        root.appendChild(sectEl);
+      }
+
+  // restore expanded state
+  restoreExpandedState();
+
+  // Mobile-first: show sidebar as bottom sheet on small screens, sticky sidebar on desktop
+  const mobileToggle = document.getElementById('mobileMenuToggle');
+  const sidebarEl = document.getElementById('syllabus-sidebar');
+  const sidebarOverlayEl = document.getElementById('sidebarOverlay');
+  const sidebarCloseBtn = document.getElementById('sidebarClose');
+  function isMobile() { return window.innerWidth < 1024; }
+  function showSidebar(){
+    if (isMobile()) {
+      sidebarEl.classList.add('sheet-open');
+      sidebarOverlayEl.classList.remove('hidden');
+      document.body.style.overflow = 'hidden';
+    } else {
+      sidebarEl.classList.remove('-translate-x-full');
+      sidebarOverlayEl.classList.add('hidden');
+    }
+  }
+  function hideSidebar(){
+    if (isMobile()) {
+      sidebarEl.classList.remove('sheet-open');
+      sidebarOverlayEl.classList.add('hidden');
+      document.body.style.overflow = '';
+    } else {
+      sidebarEl.classList.add('-translate-x-full');
+      sidebarOverlayEl.classList.add('hidden');
+    }
+  }
+  if(mobileToggle) mobileToggle.addEventListener('click', (e)=>{ e.preventDefault(); showSidebar(); });
+  if(sidebarOverlayEl) sidebarOverlayEl.addEventListener('click', hideSidebar);
+  if(sidebarCloseBtn) sidebarCloseBtn.addEventListener('click', hideSidebar);
+
+  // Add small sheet handle close area for mobile
+  if (sidebarEl && isMobile()) {
+    const inner = sidebarEl.querySelector('div');
+    const handle = document.createElement('div'); handle.className='sheet-handle';
+    inner.insertBefore(handle, inner.firstChild);
+    handle.addEventListener('click', hideSidebar);
+    // Basic drag-to-close: track touch Y delta
+    let startY = 0; let curY = 0; let dragging = false;
+    inner.addEventListener('touchstart', (ev)=>{ if(ev.touches && ev.touches[0]) { startY = ev.touches[0].clientY; dragging = true; } });
+    inner.addEventListener('touchmove', (ev)=>{ if(!dragging) return; curY = ev.touches[0].clientY; const dy = curY - startY; if(dy>40) sidebarEl.style.transform = `translateY(${dy}px)`; });
+    inner.addEventListener('touchend', ()=>{ if(!dragging) return; dragging=false; const dy = curY - startY; sidebarEl.style.transform = ''; if(dy>120) hideSidebar(); });
+  }
+
+      // Search
+      search.addEventListener('input', (e) => {
+        const q = e.target.value.trim().toLowerCase();
+        document.querySelectorAll('#syllabus-root .syll-card').forEach(card => {
+          const txt = card.innerText.toLowerCase();
+          card.style.display = txt.includes(q) ? '' : 'none';
+        });
+      });
+
+      // Collapse all / Expand all
+      document.getElementById('collapseAll').addEventListener('click', () => {
+        document.querySelectorAll('.syll-body.open').forEach(b => {
+          b.classList.remove('open');
+          const headerBtn = b.previousSibling.querySelector('.syll-header-btn');
+          if (headerBtn) headerBtn.setAttribute('aria-expanded','false');
+          const sign = b.previousSibling.querySelector('.toggle-sign'); if (sign) sign.textContent = '+';
+        });
+        saveAllExpanded(false);
+      });
+      document.getElementById('expandAll').addEventListener('click', () => {
+        document.querySelectorAll('.syll-body').forEach(b => {
+          b.classList.add('open');
+          const headerBtn = b.previousSibling.querySelector('.syll-header-btn');
+          if (headerBtn) headerBtn.setAttribute('aria-expanded','true');
+          const sign = b.previousSibling.querySelector('.toggle-sign'); if (sign) sign.textContent = '−';
+        });
+        saveAllExpanded(true);
+      });
+
+      // helper: expand ids persistence
+      function getExpandedIds() {
+        try { return JSON.parse(localStorage.getItem('syllabus_expanded')||'[]'); } catch(e){ return []; }
+      }
+      function saveExpandedIds(ids){ try{ localStorage.setItem('syllabus_expanded', JSON.stringify(ids)); }catch(e){}
+      }
+      function updateExpandedState(id, open) {
+        const ids = new Set(getExpandedIds());
+        if (open) ids.add(id); else ids.delete(id);
+        saveExpandedIds(Array.from(ids));
+      }
+      function restoreExpandedState(){
+        const ids = new Set(getExpandedIds());
+        document.querySelectorAll('.syll-card').forEach(card=>{
+          const id = card.getAttribute('data-card-id');
+          const body = card.querySelector('.syll-body');
+          const headerBtn = card.querySelector('.syll-header-btn');
+          const sign = card.querySelector('.toggle-sign');
+          if (ids.has(id)) { body.classList.add('open'); if (headerBtn) headerBtn.setAttribute('aria-expanded','true'); if (sign) sign.textContent='−'; }
+        });
+      }
+      function saveAllExpanded(val){
+        if (val) {
+          const all = Array.from(document.querySelectorAll('.syll-card')).map(c=>c.getAttribute('data-card-id'));
+          saveExpandedIds(all);
+        } else saveExpandedIds([]);
+      }
+
+      // Modal helpers
+      const markdownModal = document.getElementById('markdownModal');
+      const markdownContent = document.getElementById('markdownContent');
+      async function openModal(mdUrl, title){
+        try {
+          markdownContent.innerHTML = '<div class="py-8 text-center">Loading…</div>';
+          markdownModal.classList.remove('hidden');
+          markdownModal.setAttribute('aria-hidden','false');
+          const res = await fetch(mdUrl);
+          const txt = await res.text();
+          markdownContent.innerHTML = marked.parse(txt);
+          if (window.MathJax && window.MathJax.typeset) MathJax.typeset();
+          // focus trap suggestion: focus first heading or modal itself
+          const focusEl = markdownContent.querySelector('h1,h2,h3,article,section') || markdownContent;
+          if(focusEl && focusEl.scrollIntoView) focusEl.scrollIntoView({behavior:'smooth'});
+        } catch(e){ markdownContent.innerHTML = '<p class="text-red-600">Failed to load content.</p>'; }
+      }
+      window.openModal = openModal;
+      function closeModal(){ markdownModal.classList.add('hidden'); markdownModal.setAttribute('aria-hidden','true'); markdownContent.innerHTML = ''; }
+      window.closeModal = closeModal;
+
+      // Close modal when clicking overlay or pressing Escape
+      document.addEventListener('keydown', (ev)=>{ if(ev.key === 'Escape'){ if(!markdownModal.classList.contains('hidden')) closeModal(); else hideSidebar(); } });
+      markdownModal.addEventListener('click', (ev)=>{ if(ev.target === markdownModal) closeModal(); });
+    }
+
+    document.addEventListener('DOMContentLoaded', loadSyllabus);
+  </script>
+  <script src="/upsc-notes/assets/ui.js"></script>
+  <script>
+    // Theme Toggle — use centralized window.upscUI when available (same as index)
+    const themeToggleBtn = document.getElementById('themeToggle');
+    const htmlEl = document.documentElement;
+    try {
+      const legacy = localStorage.getItem('theme');
+      if (legacy && !localStorage.getItem('upsc_theme')) {
+        localStorage.setItem('upsc_theme', legacy);
+      }
+    } catch (e) {}
+
+    function ensureThemeSync() {
+      if (window.upscUI && typeof window.upscUI.setTheme === 'function') {
+        const saved = localStorage.getItem('upsc_theme');
+        if (saved) window.upscUI.setTheme(saved);
+      }
+    }
+
+    if (themeToggleBtn) themeToggleBtn.addEventListener('click', ()=>{
+      themeToggleBtn.classList.add('pressed'); setTimeout(()=>themeToggleBtn.classList.remove('pressed'),120);
+      if (window.upscUI && typeof window.upscUI.toggleTheme === 'function') {
+        window.upscUI.toggleTheme();
+      } else {
+        htmlEl.classList.toggle('dark');
+        try { localStorage.setItem('upsc_theme', htmlEl.classList.contains('dark') ? 'dark' : 'light'); } catch(e){}
+      }
+    });
+
+    ensureThemeSync();
+  </script>
+  <script>
+    // Wire top navbar mobile menu to syllabus drawer on small screens
+    const menuToggleTop = document.getElementById('menuToggle');
+    const mobileDrawerToggle = document.getElementById('mobileMenuToggle');
+    if (menuToggleTop && mobileDrawerToggle) {
+      // Use a capture-phase listener and stopImmediatePropagation to prevent other global handlers
+      menuToggleTop.addEventListener('click', (ev)=>{
+        try { ev.stopImmediatePropagation(); ev.preventDefault(); } catch(e){}
+        mobileDrawerToggle.click();
+      }, { capture: true, passive: false });
+    }
+  </script>
+  <script>
+    // Keep CSS header height var in sync so sidebar/search is not hidden
+    function updateHeaderHeightVar(){
+      const header = document.querySelector('header');
+      if(!header) return;
+      const h = Math.round(header.getBoundingClientRect().height);
+      document.documentElement.style.setProperty('--header-h', h + 'px');
+    }
+    window.addEventListener('resize', updateHeaderHeightVar);
+    window.addEventListener('load', updateHeaderHeightVar);
+    // also run shortly after DOMContent to handle dynamic styles
+    setTimeout(updateHeaderHeightVar, 250);
+  </script>
 </body>
 
 </html>

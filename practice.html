@@ -32,6 +32,7 @@
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
         crossorigin="anonymous" referrerpolicy="no-referrer"/>
+  <link rel="stylesheet" href="/upsc-notes/assets/ui.css">
 
   <style>
     html { scroll-behavior: smooth; }
@@ -497,20 +498,29 @@
       window.location.href = `/upsc-notes/question.html?year=${LATEST.year}&month=${LATEST.month}&date=${LATEST.date}`;
     });
 
-    // Theme toggle (light/dark mode)
+    // Migrate legacy theme key to centralized key
+    try {
+      const legacy = localStorage.getItem('theme');
+      if (legacy && !localStorage.getItem('upsc_theme')) localStorage.setItem('upsc_theme', legacy);
+    } catch (e) {}
+
+    // Theme toggle (use shared window.upscUI when available)
     themeToggle.addEventListener('click', () => {
       applyPressed(themeToggle);
-      document.documentElement.classList.toggle('dark');
-      const dark = document.documentElement.classList.contains('dark');
-      // Save preference
-      localStorage.setItem('theme', dark ? 'dark' : 'light');
+      if (window.upscUI && typeof window.upscUI.toggleTheme === 'function') {
+        window.upscUI.toggleTheme();
+      } else {
+        document.documentElement.classList.toggle('dark');
+        try { localStorage.setItem('upsc_theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light'); } catch(e){}
+      }
     });
 
-    // Load saved theme on page load
-    if (localStorage.getItem('theme') === 'dark' || 
-        (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    // If shared theme is saved, ui.js will set it; else fallback to legacy check
+    if (!localStorage.getItem('upsc_theme') && (localStorage.getItem('theme') === 'dark' || (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches))) {
       document.documentElement.classList.add('dark');
+      try { localStorage.setItem('upsc_theme', 'dark'); } catch(e){}
     }
   </script>
+  <script src="/upsc-notes/assets/ui.js"></script>
 </body>
 </html>

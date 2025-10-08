@@ -10,6 +10,7 @@
   <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+  <link rel="stylesheet" href="/upsc-notes/assets/ui.css">
   <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   <style>
     @font-face {
@@ -320,9 +321,18 @@
     }
 
     function manualThemeChange(theme) {
+      // Use shared window.upscUI where possible (it toggles html.dark)
       document.body.classList.remove('dark-mode', 'sepia-mode');
-      if (theme === 'dark') document.body.classList.add('dark-mode');
-      else if (theme === 'sepia') document.body.classList.add('sepia-mode');
+      if (theme === 'dark') {
+        document.body.classList.add('dark-mode');
+        if (window.upscUI && window.upscUI.setTheme) window.upscUI.setTheme('dark');
+      }
+      else if (theme === 'sepia') {
+        document.body.classList.add('sepia-mode');
+        if (window.upscUI && window.upscUI.setTheme) window.upscUI.setTheme('light');
+      } else {
+        if (window.upscUI && window.upscUI.setTheme) window.upscUI.setTheme('light');
+      }
     }
 
     function speakFromCurrent() {
@@ -370,9 +380,14 @@
 
     window.onload = () => {
       loadMarkdown();
+      // Sync body classes from shared html.dark (if assets/ui.js is loaded)
+      try {
+        if (document.documentElement.classList.contains('dark')) document.body.classList.add('dark-mode');
+      } catch (e) {}
     };
 
   </script>
+  <script src="/upsc-notes/assets/ui.js"></script>
 </body>
 
 </html>

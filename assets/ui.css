@@ -1,0 +1,17 @@
+/* Small shared styles for modern look */
+:root{--glass: rgba(255,255,255,0.08);--glass-border: rgba(255,255,255,0.12)}
+.dark :root{--glass: rgba(0,0,0,0.32)}
+
+/* subtle card shadow used across pages */
+.upsc-card{background:rgba(255,255,255,0.85);border-radius:1rem;padding:1rem;border:1px solid rgba(0,0,0,0.04);box-shadow:0 10px 30px rgba(2,6,23,0.06)}
+.dark .upsc-card{background:rgba(17,24,39,0.66);border:1px solid rgba(255,255,255,0.04)}
+
+/* utility to hide mobile menu using data attribute */
+[data-open="false"]{transform:scaleY(0);opacity:0}
+[data-open="true"]{transform:scaleY(1);opacity:1}
+
+/* rounded input focus */
+.upsc-input:focus{outline:none;box-shadow:0 6px 20px rgba(245,158,11,0.12)}
+
+/* small responsive tweaks */
+@media (max-width:640px){.hide-sm{display:none!important}}
