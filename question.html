@@ -310,26 +310,37 @@
       transform: scale(1.15);
     }
 
-    /* Smooth transitions for sidebar */
-    aside {
-      transition: transform 0.3s ease-in-out;
+    /* Mobile Bottom Sheet */
+    #mobile-bottom-sheet.sheet-open {
+      transform: translateY(0);
     }
 
-    .mobile-nav-open {
-      transform: translateX(0) !important;
+    #mobile-bottom-sheet-overlay.overlay-open {
+      opacity: 1;
+    }
+
+    /* Floating Action Button Pulse */
+    #mobile-menu-fab {
+      animation: fab-pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes fab-pulse {
+      0%, 100% { box-shadow: 0 8px 24px rgba(245, 158, 11, 0.4); }
+      50% { box-shadow: 0 8px 32px rgba(245, 158, 11, 0.7), 0 0 0 8px rgba(245, 158, 11, 0.1); }
     }
 
     /* Mobile improvements */
     @media (max-width: 1024px) {
-      #question-navigator {
-        width: 85vw;
-        max-width: 320px;
-      }
-      
       .question-number {
         width: 40px;
         height: 40px;
         font-size: 14px;
+      }
+
+      #mobile-question-grid .question-number {
+        width: 44px;
+        height: 44px;
+        font-size: 15px;
       }
     }
 
@@ -427,10 +438,15 @@
     </div>
   </div>
 
+  <!-- Floating Action Button (Mobile Only) -->
+  <button id="mobile-menu-fab" class="lg:hidden fixed bottom-24 right-4 z-50 w-14 h-14 rounded-full bg-gradient-to-r from-amber-500 to-orange-600 shadow-2xl flex items-center justify-center text-white text-xl hover:scale-110 active:scale-95 transition-all hidden">
+    <i class="fas fa-grip-vertical"></i>
+  </button>
+
   <!-- Full Screen Quiz Container -->
   <div id="quiz-container" class="fixed inset-0 flex hidden">
-    <!-- Left Sidebar - Question Navigator -->
-    <aside id="question-navigator" class="w-72 bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700 overflow-y-auto transition-all duration-300 lg:translate-x-0 -translate-x-full fixed lg:relative z-40 h-full shadow-xl">
+    <!-- Left Sidebar - Question Navigator (Desktop) -->
+    <aside id="question-navigator" class="hidden lg:block w-72 bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700 overflow-y-auto h-full shadow-xl">
       <div class="sticky top-0 bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 p-4 z-10">
         <div class="flex items-center justify-between mb-3">
           <h2 class="text-sm font-bold text-gray-800 dark:text-white">Questions</h2>
@@ -529,8 +545,63 @@
     </main>
   </div>
 
-  <!-- Mobile Nav Overlay -->
-  <div id="nav-overlay" class="lg:hidden fixed inset-0 bg-black/50 z-30 hidden" onclick="toggleMobileNav()"></div>
+  <!-- Mobile Bottom Sheet (iOS Style) -->
+  <div id="mobile-bottom-sheet-overlay" class="lg:hidden fixed inset-0 bg-black/60 backdrop-blur-sm z-[60] hidden transition-opacity duration-300" onclick="closeMobileSheet()"></div>
+  
+  <div id="mobile-bottom-sheet" class="lg:hidden fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 rounded-t-3xl shadow-2xl z-[70] transform translate-y-full transition-transform duration-300 ease-out max-h-[85vh] flex flex-col">
+    <!-- Handle Bar -->
+    <div class="flex justify-center py-3 border-b border-gray-200 dark:border-gray-700">
+      <div class="w-12 h-1.5 bg-gray-300 dark:bg-gray-600 rounded-full"></div>
+    </div>
+    
+    <!-- Header -->
+    <div class="px-5 py-4 border-b border-gray-200 dark:border-gray-700">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-lg font-bold text-gray-900 dark:text-white">Question Navigator</h2>
+        <button onclick="closeMobileSheet()" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-full transition-colors">
+          <i class="fas fa-times text-gray-600 dark:text-gray-300"></i>
+        </button>
+      </div>
+      <p id="date-info-mobile" class="text-xs text-gray-600 dark:text-gray-400 mb-3"></p>
+      <div class="flex items-center gap-3 text-xs flex-wrap">
+        <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-green-500"></span>Correct</span>
+        <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-red-500"></span>Wrong</span>
+        <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-gray-300 dark:bg-gray-600"></span>Unattempted</span>
+      </div>
+    </div>
+
+    <!-- Questions Grid (Scrollable) -->
+    <div class="flex-1 overflow-y-auto p-5">
+      <div id="mobile-question-grid" class="grid grid-cols-6 gap-2.5">
+        <!-- Question numbers will be dynamically added here -->
+      </div>
+    </div>
+
+    <!-- Footer Actions -->
+    <div class="px-5 py-4 border-t border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900/50 space-y-3">
+      <div class="grid grid-cols-2 gap-2 text-xs text-gray-600 dark:text-gray-400">
+        <div class="flex justify-between">
+          <span>Score:</span>
+          <span class="font-bold text-amber-600 dark:text-amber-400"><span id="mobile-score-display">0</span> / <span id="mobile-total-questions">0</span></span>
+        </div>
+        <div class="flex justify-between">
+          <span>Accuracy:</span>
+          <span class="font-bold text-green-600 dark:text-green-400" id="mobile-accuracy-display">0%</span>
+        </div>
+      </div>
+      <div class="h-2 w-full bg-amber-100 dark:bg-amber-900/30 rounded-full overflow-hidden shadow-inner">
+        <div id="mobile-progress-bar" class="h-full bg-gradient-to-r from-amber-500 via-orange-500 to-red-500 transition-all duration-500" style="width:0%"></div>
+      </div>
+      <div class="grid grid-cols-2 gap-2">
+        <button id="mobile-clear-data-btn" class="inline-flex items-center justify-center gap-2 rounded-xl bg-red-500 hover:bg-red-600 active:scale-95 text-white px-4 py-3 text-sm font-semibold transition-all shadow-lg">
+          <i class="fa-solid fa-trash"></i><span>Clear Data</span>
+        </button>
+        <button id="mobile-reset-session" class="inline-flex items-center justify-center gap-2 rounded-xl bg-white dark:bg-gray-700 border-2 border-amber-300 dark:border-amber-600 hover:bg-amber-50 dark:hover:bg-gray-600 active:scale-95 px-4 py-3 text-sm font-semibold transition-all text-gray-900 dark:text-white">
+          <i class="fa-solid fa-rotate"></i><span>Reset</span>
+        </button>
+      </div>
+    </div>
+  </div>
 
   <!-- Explanation Modal -->
   <div id="solution-modal" class="hidden fixed inset-0 bg-black/50 items-center justify-center z-[60]" aria-hidden="true">
@@ -691,7 +762,14 @@
 
     function updateHeader() {
       const { year, month, date } = getUrlParams();
-      dateInfo.textContent = `📅 Practice Date: ${date || '—'} ${month || ''}, ${year || ''}`.trim();
+      const dateText = `📅 Practice Date: ${date || '—'} ${month || ''}, ${year || ''}`.trim();
+      dateInfo.textContent = dateText;
+      
+      // Update mobile date info
+      const mobileDateInfo = document.getElementById('date-info-mobile');
+      if (mobileDateInfo) {
+        mobileDateInfo.textContent = dateText;
+      }
     }
 
     function updateProgressUI() {
@@ -898,60 +976,97 @@
     }
 
     function updateQuestionGrid() {
+      // Update desktop grid
       const grid = document.getElementById('question-grid');
-      if (!grid) return;
-      
-      grid.innerHTML = '';
-      session.data.forEach((q, idx) => {
-        const btn = document.createElement('button');
-        btn.className = 'question-number unattempted';
-        btn.textContent = idx + 1;
-        btn.title = `Question ${idx + 1}`;
-        
-        // Apply status
-        const answer = session.answers.get(idx);
-        if (answer?.selectedText != null) {
-          btn.className = answer.correct ? 'question-number correct' : 'question-number wrong';
-        }
-        
-        // Highlight current question
-        if (idx === session.index) {
-          btn.classList.add('active');
-        }
-        
-        // Click to jump to question
-        btn.addEventListener('click', () => {
-          session.index = idx;
-          renderPage();
-          closeMobileNav();
+      if (grid) {
+        grid.innerHTML = '';
+        session.data.forEach((q, idx) => {
+          const btn = createQuestionButton(idx);
+          grid.appendChild(btn);
         });
-        
-        grid.appendChild(btn);
-      });
-    }
-
-    function toggleMobileNav() {
-      const nav = document.getElementById('question-navigator');
-      const overlay = document.getElementById('nav-overlay');
-      const isOpen = nav.classList.contains('mobile-nav-open');
-      
-      if (isOpen) {
-        nav.classList.remove('mobile-nav-open');
-        overlay.classList.add('hidden');
-      } else {
-        nav.classList.add('mobile-nav-open');
-        overlay.classList.remove('hidden');
       }
+
+      // Update mobile grid
+      const mobileGrid = document.getElementById('mobile-question-grid');
+      if (mobileGrid) {
+        mobileGrid.innerHTML = '';
+        session.data.forEach((q, idx) => {
+          const btn = createQuestionButton(idx, true);
+          mobileGrid.appendChild(btn);
+        });
+      }
+
+      // Update mobile stats
+      document.getElementById('mobile-score-display').textContent = session.score;
+      document.getElementById('mobile-total-questions').textContent = session.data.length;
+      
+      const attempted = Array.from(session.answers.values()).filter(v => v.selectedText != null).length;
+      const accuracy = attempted > 0 ? Math.round((session.score / attempted) * 100) : 0;
+      document.getElementById('mobile-accuracy-display').textContent = accuracy + '%';
+      
+      const total = session.data.length;
+      const pct = total ? Math.round((attempted / total) * 100) : 0;
+      document.getElementById('mobile-progress-bar').style.width = pct + '%';
     }
 
-    function closeMobileNav() {
-      const nav = document.getElementById('question-navigator');
-      const overlay = document.getElementById('nav-overlay');
-      nav.classList.remove('mobile-nav-open');
-      overlay.classList.add('hidden');
+    function createQuestionButton(idx, isMobile = false) {
+      const btn = document.createElement('button');
+      btn.className = 'question-number unattempted';
+      btn.textContent = idx + 1;
+      btn.title = `Question ${idx + 1}`;
+      
+      // Apply status
+      const answer = session.answers.get(idx);
+      if (answer?.selectedText != null) {
+        btn.className = answer.correct ? 'question-number correct' : 'question-number wrong';
+      }
+      
+      // Highlight current question
+      if (idx === session.index) {
+        btn.classList.add('active');
+      }
+      
+      // Click to jump to question
+      btn.addEventListener('click', () => {
+        session.index = idx;
+        renderPage();
+        if (isMobile) {
+          closeMobileSheet();
+        }
+      });
+      
+      return btn;
     }
 
-    window.toggleMobileNav = toggleMobileNav;
+    function openMobileSheet() {
+      const sheet = document.getElementById('mobile-bottom-sheet');
+      const overlay = document.getElementById('mobile-bottom-sheet-overlay');
+      
+      overlay.classList.remove('hidden');
+      overlay.classList.add('overlay-open');
+      
+      setTimeout(() => {
+        sheet.classList.add('sheet-open');
+      }, 10);
+      
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeMobileSheet() {
+      const sheet = document.getElementById('mobile-bottom-sheet');
+      const overlay = document.getElementById('mobile-bottom-sheet-overlay');
+      
+      sheet.classList.remove('sheet-open');
+      overlay.classList.remove('overlay-open');
+      
+      setTimeout(() => {
+        overlay.classList.add('hidden');
+      }, 300);
+      
+      document.body.style.overflow = '';
+    }
+
+    window.closeMobileSheet = closeMobileSheet;
 
     // =========================
     // Modal controls
@@ -1009,9 +1124,26 @@
       }
     });
 
-    // Mobile nav toggle
-    document.getElementById('toggle-nav')?.addEventListener('click', toggleMobileNav);
-    document.getElementById('close-nav-mobile')?.addEventListener('click', closeMobileNav);
+    // Mobile bottom sheet toggle
+    document.getElementById('toggle-nav')?.addEventListener('click', openMobileSheet);
+    document.getElementById('mobile-menu-fab')?.addEventListener('click', openMobileSheet);
+    
+    // Mobile action buttons
+    document.getElementById('mobile-clear-data-btn')?.addEventListener('click', () => {
+      clearLocalStorage();
+    });
+    
+    document.getElementById('mobile-reset-session')?.addEventListener('click', () => {
+      if (!confirm('🔄 Reset current session?\n\nAnswers will be cleared but saved data will remain in storage.')) return;
+      session.answers.clear();
+      session.index = 0;
+      session.score = 0;
+      session.streak = 0;
+      session.maxStreak = 0;
+      renderPage();
+      saveToLocalStorage();
+      closeMobileSheet();
+    });
 
     // Swipe
     let touchStartX = 0;
@@ -1130,6 +1262,9 @@
       
       // Show quiz container
       document.getElementById('quiz-container').classList.remove('hidden');
+      
+      // Show mobile FAB
+      document.getElementById('mobile-menu-fab')?.classList.remove('hidden');
       
       // Show loader
       document.getElementById('loader').classList.remove('hidden');
