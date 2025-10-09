@@ -10,6 +10,19 @@
       darkMode: 'class',
       theme: {
         extend: {
+          animation: {
+            'float': 'float 6s ease-in-out infinite',
+            'glow': 'glow 2s ease-in-out infinite alternate',
+          }
+        }
+      }
+    }
+  </script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
           colors: {
             primary: {
               50: '#fef3e2', 100: '#fde7c5', 200: '#fbcf8b', 300: '#f9b751',
@@ -103,6 +116,22 @@
     #mobile-bottom-sheet-overlay.overlay-open { opacity: 1; }
     #mobile-menu-fab { animation: fab-pulse 2s ease-in-out infinite; }
     @keyframes fab-pulse { 0%, 100% { box-shadow: 0 8px 24px rgba(245, 158, 11, 0.4); } 50% { box-shadow: 0 8px 32px rgba(245, 158, 11, 0.7), 0 0 0 8px rgba(245, 158, 11, 0.1); } }
+    
+    @keyframes shake { 0%, 100% { transform: translateX(0) scale(0.95); } 25% { transform: translateX(-5px) scale(0.95); } 50% { transform: translateX(5px) scale(0.95); } 75% { transform: translateX(-3px) scale(0.95); } }
+    
+    /* Enhanced button transitions */
+    .option-btn {
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    
+    .option-btn:hover:not(:disabled) {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    }
+    
+    .option-btn:active:not(:disabled) {
+      transform: translateY(0) scale(0.98);
+    }
 
     @media (max-width: 1024px) {
       .question-number { width: 40px; height: 40px; font-size: 14px; }
@@ -464,6 +493,100 @@
       setTimeout(() => burst.remove(), 2000);
     }
 
+    function createMiniConfetti(element) {
+      const rect = element.getBoundingClientRect();
+      const colors = ['#10b981', '#059669', '#34d399'];
+      
+      for (let i = 0; i < 8; i++) {
+        const particle = document.createElement('div');
+        particle.style.position = 'fixed';
+        particle.style.width = '6px';
+        particle.style.height = '6px';
+        particle.style.background = colors[Math.floor(Math.random() * colors.length)];
+        particle.style.borderRadius = '50%';
+        particle.style.left = (rect.left + rect.width / 2) + 'px';
+        particle.style.top = (rect.top + rect.height / 2) + 'px';
+        particle.style.pointerEvents = 'none';
+        particle.style.zIndex = '9999';
+        
+        const angle = (i / 8) * Math.PI * 2;
+        const velocity = 30 + Math.random() * 20;
+        const vx = Math.cos(angle) * velocity;
+        const vy = Math.sin(angle) * velocity;
+        
+        document.body.appendChild(particle);
+        
+        let x = 0, y = 0, opacity = 1;
+        const animate = () => {
+          x += vx * 0.02;
+          y += vy * 0.02 + 0.5; // gravity
+          opacity -= 0.02;
+          
+          particle.style.transform = `translate(${x}px, ${y}px)`;
+          particle.style.opacity = opacity;
+          
+          if (opacity > 0) {
+            requestAnimationFrame(animate);
+          } else {
+            particle.remove();
+          }
+        };
+        requestAnimationFrame(animate);
+      }
+    }
+
+    function finalizeMultipleCorrectQuestion(q, optionsDiv, correctKeys, answeredObj) {
+      const selectedSet = new Set(answeredObj.selectedMultiple);
+      const correctSet = new Set(correctKeys);
+      const isCorrect = selectedSet.size === correctSet.size && 
+                       [...selectedSet].every(key => correctSet.has(key));
+      
+      if (isCorrect) {
+        session.score++;
+        session.streak++;
+        session.maxStreak = Math.max(session.maxStreak, session.streak);
+        createConfetti();
+      } else {
+        session.streak = 0;
+      }
+
+      // Update answer object
+      answeredObj.selected = answeredObj.selectedMultiple;
+      answeredObj.correct = isCorrect;
+      session.answers.set(qidOf(q), answeredObj);
+
+      // Disable all buttons and show final state
+      Array.from(optionsDiv.children).forEach(btn => {
+        btn.disabled = true;
+        const text = btn.textContent;
+        const key = text.match(/^([A-D])\./)?.[1];
+        
+        if (!key) return;
+        
+        const wasSelected = answeredObj.selectedMultiple.includes(key);
+        const isCorrectOption = correctKeys.includes(key);
+        
+        if (wasSelected && isCorrectOption) {
+          btn.className = 'option-btn option-correct block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
+        } else if (wasSelected && !isCorrectOption) {
+          btn.className = 'option-btn option-wrong block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
+        } else if (!wasSelected && isCorrectOption) {
+          btn.className = 'option-btn option-reveal block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-medium';
+        }
+      });
+
+      // Show feedback
+      const feedback = document.querySelector('#feedback');
+      const expBtn = document.querySelector('#explanation-btn');
+      
+      feedback.textContent = isCorrect ? '✅ Correct! All right answers selected!' : `❌ Wrong! Correct Answers: ${correctKeys.join(', ')}`;
+      feedback.className = isCorrect ? 'text-green-700 dark:text-green-400 mt-3 text-base font-bold' : 'text-red-700 dark:text-red-400 mt-3 text-base font-bold';
+      expBtn.classList.remove('hidden');
+
+      updateProgressUI();
+      saveToLocalStorage();
+    }
+
     function updateProgressUI() {
       const total = session.data.length;
       counter.textContent = `${Math.min(session.index + 1, total)} / ${total}`;
@@ -519,6 +642,18 @@
       h.textContent = `Q${idx + 1}. ${q.question}`;
       card.appendChild(h);
 
+      // Add instruction based on question type
+      const instruction = document.createElement('p');
+      instruction.className = 'text-sm font-medium mt-2 mb-3';
+      if (q.question_type === 'multiple_correct') {
+        instruction.textContent = 'Instructions: Select all correct options (Multiple answers may be correct)';
+        instruction.className += ' text-blue-700 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/20 px-3 py-2 rounded-lg border-l-4 border-blue-400';
+      } else {
+        instruction.textContent = 'Instructions: Select the single correct option';
+        instruction.className += ' text-green-700 dark:text-green-400 bg-green-50 dark:bg-green-900/20 px-3 py-2 rounded-lg border-l-4 border-green-400';
+      }
+      card.appendChild(instruction);
+
       if (Array.isArray(q.statements) && q.statements.length) {
         const list = document.createElement('ol');
         list.className = 'list-decimal pl-6 mt-3 space-y-1 text-[15px] text-gray-800 dark:text-gray-200';
@@ -533,8 +668,38 @@
       const optionsDiv = document.createElement('div');
       optionsDiv.className = 'mt-4 space-y-3';
       const keyed = buildOptionKeyed(q.options || []);
-      let answeredObj = session.answers.get(qidOf(q)) || { selected: null, correct: null };
-      let correctKey = q.correct_key || (q.correct_option ? keyed.find(k => k.text.trim() === String(q.correct_option).trim())?.key : null);
+      let answeredObj = session.answers.get(qidOf(q)) || { selected: null, selectedMultiple: [], correct: null };
+      
+      // Handle correct answers for both single and multiple types
+      let correctKeys = [];
+      if (q.question_type === 'multiple_correct') {
+        correctKeys = (q.correct_options || []).map(opt => 
+          keyed.find(k => k.text.trim() === String(opt).trim())?.key
+        ).filter(Boolean);
+      } else {
+        // Handle both new format (correct_option) and legacy formats
+        let correctKey = null;
+        
+        if (q.correct_key) {
+          correctKey = q.correct_key;
+        } else if (q.correct_option) {
+          // Find the option key that matches the correct answer text
+          const foundKey = keyed.find(k => k.text.trim() === String(q.correct_option).trim())?.key;
+          if (foundKey) {
+            correctKey = foundKey;
+          }
+        } else if (q.correct_options && q.correct_options.length > 0) {
+          // Handle legacy correct_options for single answer
+          const foundKey = keyed.find(k => k.text.trim() === String(q.correct_options[0]).trim())?.key;
+          if (foundKey) {
+            correctKey = foundKey;
+          }
+        }
+        
+        if (correctKey) correctKeys = [correctKey];
+      }
+
+      // No submit button needed - instant feedback on selection
 
       keyed.forEach(opt => {
         const btn = document.createElement('button');
@@ -542,64 +707,210 @@
         btn.className = 'option-btn block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 border-amber-200 dark:border-amber-700 bg-gradient-to-r from-amber-50 to-orange-50 dark:from-gray-700 dark:to-gray-600 font-medium';
         optionsDiv.appendChild(btn);
 
+        // Show previous answers if any
         if (answeredObj.selected != null) {
           btn.disabled = true;
-          if (opt.key === answeredObj.selected && answeredObj.correct) {
-            btn.className = 'option-btn option-correct block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
-          } else if (opt.key === answeredObj.selected && !answeredObj.correct) {
-            btn.className = 'option-btn option-wrong block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
-          } else if (opt.key === correctKey) {
-            btn.className = 'option-btn option-reveal block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-medium';
+          if (q.question_type === 'multiple_correct') {
+            const isSelected = answeredObj.selectedMultiple?.includes(opt.key);
+            const isCorrect = correctKeys.includes(opt.key);
+            if (isSelected && isCorrect) {
+              btn.className = 'option-btn option-correct block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
+            } else if (isSelected && !isCorrect) {
+              btn.className = 'option-btn option-wrong block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
+            } else if (!isSelected && isCorrect) {
+              btn.className = 'option-btn option-reveal block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-medium';
+            }
+          } else {
+            if (opt.key === answeredObj.selected && answeredObj.correct) {
+              btn.className = 'option-btn option-correct block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
+            } else if (opt.key === answeredObj.selected && !answeredObj.correct) {
+              btn.className = 'option-btn option-wrong block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
+            } else if (correctKeys.includes(opt.key)) {
+              btn.className = 'option-btn option-reveal block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-medium';
+            }
           }
         }
 
         btn.onclick = () => {
           if (session.answers.get(qidOf(q))?.selected != null) return;
 
-          const isCorrect = opt.key === correctKey;
+          if (q.question_type === 'multiple_correct') {
+            // Instant feedback for multiple correct
+            const isCorrectOption = correctKeys.includes(opt.key);
+            
+            // Add immediate visual feedback with animation
+            if (isCorrectOption) {
+              btn.className = 'option-btn option-correct block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold transform transition-all duration-300';
+              btn.style.transform = 'scale(1.05)';
+              btn.style.boxShadow = '0 0 20px rgba(16, 185, 129, 0.6)';
+              
+              // Create mini confetti effect
+              createMiniConfetti(btn);
+              
+              setTimeout(() => {
+                btn.style.transform = 'scale(1)';
+                btn.style.boxShadow = '';
+              }, 300);
+            } else {
+              btn.className = 'option-btn option-wrong block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold transform transition-all duration-300';
+              btn.style.transform = 'scale(0.95)';
+              
+              // Shake animation for wrong answers
+              btn.style.animation = 'shake 0.5s ease-in-out';
+              
+              setTimeout(() => {
+                btn.style.transform = 'scale(1)';
+                btn.style.animation = '';
+              }, 500);
+            }
+
+            // Toggle selection for multiple correct
+            if (!answeredObj.selectedMultiple) answeredObj.selectedMultiple = [];
+            const index = answeredObj.selectedMultiple.indexOf(opt.key);
+            if (index > -1) {
+              answeredObj.selectedMultiple.splice(index, 1);
+            } else {
+              answeredObj.selectedMultiple.push(opt.key);
+            }
+
+            // Check if quiz is complete and provide final feedback
+            if (answeredObj.selectedMultiple.length > 0) {
+              const selectedSet = new Set(answeredObj.selectedMultiple);
+              const correctSet = new Set(correctKeys);
+              const allCorrectSelected = [...correctSet].every(key => selectedSet.has(key));
+              const noIncorrectSelected = [...selectedSet].every(key => correctSet.has(key));
+              
+              if (allCorrectSelected && noIncorrectSelected && selectedSet.size === correctSet.size) {
+                // All correct answers found, finalize the question
+                setTimeout(() => {
+                  finalizeMultipleCorrectQuestion(q, optionsDiv, correctKeys, answeredObj);
+                }, 800);
+              }
+            }
+          } else {
+            // Single correct answer logic
+            const isCorrect = correctKeys.includes(opt.key);
+            if (isCorrect) {
+              session.score++;
+              session.streak++;
+              session.maxStreak = Math.max(session.maxStreak, session.streak);
+            } else {
+              session.streak = 0;
+            }
+
+            answeredObj = { selected: opt.key, correct: isCorrect };
+            session.answers.set(qidOf(q), answeredObj);
+
+            Array.from(optionsDiv.children).forEach(b => {
+              b.disabled = true;
+              const text = b.textContent;
+              const k = text.match(/^([A-D])\./)?.[1];
+              if (k === opt.key && isCorrect) {
+                b.className = 'option-btn option-correct block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold transform transition-all duration-500';
+                // Add bounce and glow effect for correct answer
+                b.style.animation = 'correct-bounce 0.6s ease-out';
+                b.style.boxShadow = '0 0 25px rgba(16, 185, 129, 0.8)';
+                createConfetti();
+                setTimeout(() => {
+                  b.style.animation = '';
+                  b.style.boxShadow = '';
+                }, 600);
+              } else if (k === opt.key && !isCorrect) {
+                b.className = 'option-btn option-wrong block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold transform transition-all duration-300';
+                // Add shake effect for wrong answer
+                b.style.animation = 'wrong-shake 0.5s ease-in-out';
+                setTimeout(() => {
+                  b.style.animation = '';
+                }, 500);
+              } else if (correctKeys.includes(k)) {
+                b.className = 'option-btn option-reveal block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-medium transform transition-all duration-400';
+                // Add reveal glow effect
+                b.style.animation = 'reveal-glow 1s ease-out';
+                setTimeout(() => {
+                  b.style.animation = '';
+                }, 1000);
+              }
+            });
+
+            feedback.textContent = isCorrect ? '✅ Correct! Well done!' : `❌ Wrong! Correct Answer: ${correctKeys.join(', ')}`;
+            feedback.className = isCorrect ? 'text-green-700 dark:text-green-400 mt-3 text-base font-bold' : 'text-red-700 dark:text-red-400 mt-3 text-base font-bold';
+            expBtn.classList.remove('hidden');
+
+            updateProgressUI();
+            saveToLocalStorage();
+          }
+        };
+      });
+
+      // Add submit button functionality for multiple correct
+      if (submitBtn) {
+        submitBtn.onclick = () => {
+          if (!answeredObj.selectedMultiple || answeredObj.selectedMultiple.length === 0) return;
+          
+          // Check if all correct answers are selected and no incorrect ones
+          const selectedSet = new Set(answeredObj.selectedMultiple);
+          const correctSet = new Set(correctKeys);
+          const isCorrect = selectedSet.size === correctSet.size && 
+                           [...selectedSet].every(key => correctSet.has(key));
+
           if (isCorrect) {
             session.score++;
             session.streak++;
             session.maxStreak = Math.max(session.maxStreak, session.streak);
+            createConfetti();
           } else {
             session.streak = 0;
           }
 
-          answeredObj = { selected: opt.key, correct: isCorrect };
+          answeredObj.selected = 'submitted';
+          answeredObj.correct = isCorrect;
           session.answers.set(qidOf(q), answeredObj);
 
+          // Update button appearances
           Array.from(optionsDiv.children).forEach(b => {
             b.disabled = true;
             const text = b.textContent;
             const k = text.match(/^([A-D])\./)?.[1];
-            if (k === opt.key && isCorrect) {
+            const isSelected = answeredObj.selectedMultiple.includes(k);
+            const isCorrectOption = correctKeys.includes(k);
+            
+            if (isSelected && isCorrectOption) {
               b.className = 'option-btn option-correct block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
-              createConfetti();
-            } else if (k === opt.key && !isCorrect) {
+            } else if (isSelected && !isCorrectOption) {
               b.className = 'option-btn option-wrong block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-bold';
-            } else if (k === correctKey) {
+            } else if (!isSelected && isCorrectOption) {
               b.className = 'option-btn option-reveal block w-full text-left px-5 py-4 text-[15px] rounded-xl border-2 font-medium';
             }
           });
 
-          feedback.textContent = isCorrect ? '✅ Correct! Well done!' : `❌ Wrong! Correct Answer: ${correctKey}`;
+          submitBtn.style.display = 'none';
+          feedback.textContent = isCorrect ? '✅ Correct! Well done!' : `❌ Wrong! Correct Answers: ${correctKeys.join(', ')}`;
           feedback.className = isCorrect ? 'text-green-700 dark:text-green-400 mt-3 text-base font-bold' : 'text-red-700 dark:text-red-400 mt-3 text-base font-bold';
           expBtn.classList.remove('hidden');
 
           updateProgressUI();
           saveToLocalStorage();
         };
-      });
+      }
+      // Submit button functionality removed - now using instant feedback
 
       card.appendChild(optionsDiv);
 
       const feedback = document.createElement('p');
       if (answeredObj.selected != null) {
-        feedback.textContent = answeredObj.correct ? '✅ Correct! Well done!' : `❌ Wrong! Correct Answer: ${correctKey}`;
+        if (q.question_type === 'multiple_correct') {
+          feedback.textContent = answeredObj.correct ? '✅ Correct! Well done!' : `❌ Wrong! Correct Answers: ${correctKeys.join(', ')}`;
+        } else {
+          feedback.textContent = answeredObj.correct ? '✅ Correct! Well done!' : `❌ Wrong! Correct Answer: ${correctKeys.join(', ')}`;
+        }
         feedback.className = answeredObj.correct ? 'text-green-700 dark:text-green-400 mt-3 text-base font-bold' : 'text-red-700 dark:text-red-400 mt-3 text-base font-bold';
       } else {
         feedback.className = 'mt-3 text-sm text-gray-500 dark:text-gray-400 italic';
-        feedback.textContent = '💡 Select an option to check your answer.';
+        if (q.question_type === 'multiple_correct') {
+          feedback.textContent = '💡 Select all correct options and click Submit to check your answer.';
+        } else {
+          feedback.textContent = '💡 Select an option to check your answer.';
+        }
       }
       card.appendChild(feedback);
 
@@ -709,12 +1020,19 @@
       document.getElementById('exit-fullscreen-btn')?.classList.add('hidden');
     }
 
-    function startQuiz() {
+    async function startQuiz() {
       document.getElementById('fullscreen-prompt').classList.add('hidden');
       document.getElementById('quiz-container').classList.remove('hidden');
       document.getElementById('mobile-menu-fab')?.classList.remove('hidden');
       document.getElementById('loader').classList.remove('hidden');
-      loadQuestions();
+      
+      try {
+        await loadQuestions();
+      } catch (error) {
+        console.error('Error loading questions:', error);
+        document.getElementById('loader').classList.add('hidden');
+        container.innerHTML = `<p class="text-center text-red-600 dark:text-red-400 mt-6">❌ Failed to load questions. Please try again.</p>`;
+      }
     }
 
     document.getElementById('enter-fullscreen')?.addEventListener('click', () => {
@@ -803,29 +1121,113 @@
 
     async function loadQuestions() {
       updateHeader();
-      const { subject, book, chapter } = getUrlParams();
-      try {
-        const res = await fetch(`./question/subjects/${subject}/${book}-${chapter}.json`, { cache: 'no-store' });
-        const raw = await res.json();
-        session.fullData = (raw || []).map((q, i) => ({ ...q, _idx: i }));
-        
-        const hasProgress = loadFromLocalStorage();
-        session.data = session.fullData.slice();
-
-        if (hasProgress) {
-          const notification = document.createElement('div');
-          notification.className = 'saved-badge';
-          notification.innerHTML = '<i class="fas fa-history mr-2"></i>Progress Restored!';
-          document.body.appendChild(notification);
-          setTimeout(() => notification.remove(), 3000);
+      const urlParams = new URLSearchParams(window.location.search);
+      const category = urlParams.get('category');
+      const book = urlParams.get('book');
+      const chapter = urlParams.get('chapter');
+      const type = urlParams.get('type');
+      
+      // Check for new chapter-based system
+      if (category && book) {
+        try {
+          let questions = [];
+          
+          if (type === 'chapter' && chapter) {
+            // Load specific chapter questions
+            const res = await fetch(`./question/subjects/history/${book}.json`, { cache: 'no-store' });
+            const allQuestions = await res.json();
+            questions = allQuestions.filter(q => q.chapter_id == chapter);
+          } else if (type === 'book') {
+            // Load all questions for the book
+            const res = await fetch(`./question/subjects/history/${book}.json`, { cache: 'no-store' });
+            questions = await res.json();
+          }
+          
+          session.fullData = (questions || []).map((q, i) => ({ ...q, _idx: i }));
+          
+        } catch (err) {
+          console.error('New system failed, trying old system:', err);
+          // Fallback to old system
+          const { subject, book: oldBook, chapter: oldChapter } = getUrlParams();
+          
+          // Only try old system if we have valid parameters
+          if (subject && oldBook && oldChapter) {
+            try {
+              const res = await fetch(`./question/subjects/${subject}/${oldBook}-${oldChapter}.json`, { cache: 'no-store' });
+              const raw = await res.json();
+              session.fullData = (raw || []).map((q, i) => ({ ...q, _idx: i }));
+            } catch (oldErr) {
+              console.error('Both systems failed:', oldErr);
+              container.innerHTML = `<p class="text-center text-red-600 dark:text-red-400 mt-6">❌ Questions coming soon or failed to load.</p>`;
+              document.getElementById('loader').classList.add('hidden');
+              return;
+            }
+          } else {
+            console.error('Missing required URL parameters for fallback system');
+            container.innerHTML = `<p class="text-center text-red-600 dark:text-red-400 mt-6">❌ Questions coming soon or failed to load.</p>`;
+            document.getElementById('loader').classList.add('hidden');
+            return;
+          }
         }
-      } catch (err) {
-        console.error(err);
-        container.innerHTML = `<p class="text-center text-red-600 dark:text-red-400 mt-6">❌ Questions coming soon or failed to load.</p>`;
-      } finally {
+      } else {
+        // Old system
+        const { subject, book: oldBook, chapter: oldChapter } = getUrlParams();
+        
+        // Validate parameters before making request
+        if (!subject || !oldBook || !oldChapter) {
+          console.error('Missing required URL parameters for old system');
+          container.innerHTML = `<p class="text-center text-red-600 dark:text-red-400 mt-6">❌ Missing required parameters (subject, book, chapter).</p>`;
+          document.getElementById('loader').classList.add('hidden');
+          return;
+        }
+        
+        try {
+          const res = await fetch(`./question/subjects/${subject}/${oldBook}-${oldChapter}.json`, { cache: 'no-store' });
+          const raw = await res.json();
+          session.fullData = (raw || []).map((q, i) => ({ ...q, _idx: i }));
+        } catch (err) {
+          console.error(err);
+          container.innerHTML = `<p class="text-center text-red-600 dark:text-red-400 mt-6">❌ Questions coming soon or failed to load.</p>`;
+          document.getElementById('loader').classList.add('hidden');
+          return;
+        }
+      }
+      
+      const hasProgress = loadFromLocalStorage();
+      session.data = session.fullData.slice();
+
+      if (hasProgress) {
+        const notification = document.createElement('div');
+        notification.className = 'saved-badge';
+        notification.innerHTML = '<i class="fas fa-history mr-2"></i>Progress Restored!';
+        document.body.appendChild(notification);
+        setTimeout(() => notification.remove(), 3000);
+      }
+      
+      if (session.fullData.length === 0) {
+        container.innerHTML = `<p class="text-center text-amber-600 dark:text-amber-400 mt-6">📚 No questions available for this selection yet.</p>`;
+        document.getElementById('loader').classList.add('hidden');
+        return;
+      }
+      
+      renderPage();
+      updateQuestionGrid();
+      
+      // Hide loader after everything is loaded
+      document.getElementById('loader').classList.add('hidden');
+    }
+
+    // Global error handlers
+    window.addEventListener('unhandledrejection', function(event) {
+      console.error('Unhandled promise rejection:', event.reason);
+      event.preventDefault();
+      
+      // Hide loader if it's visible
+      const loader = document.getElementById('loader');
+      if (loader && !loader.classList.contains('hidden')) {
         loader.classList.add('hidden');
       }
-    }
+    });
 
     document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('fullscreen-prompt').classList.remove('hidden');

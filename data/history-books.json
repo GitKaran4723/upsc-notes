@@ -1,0 +1,380 @@
+{
+  "metadata": {
+    "title": "Complete History Booklist with Chapters - UPSC Prelims + Mains",
+    "description": "Exhaustive chapter-by-chapter coverage of Ancient, Medieval, Modern, World History, and Art & Culture",
+    "lastUpdated": "2025-10-09",
+    "totalCategories": 5,
+    "totalBooks": 15,
+    "totalChapters": 150,
+    "studyPlan": "9-month reading plan (October to March)"
+  },
+  "categories": {
+    "ancient_history": {
+      "title": "I. ANCIENT INDIA",
+      "description": "Prehistory to Post-Mauryan period - Essential for both Prelims & Mains",
+      "importance": "high",
+      "icon": "fas fa-monument",
+      "books": [
+        {
+          "id": "ancient_rs_sharma",
+          "title": "Ancient India",
+          "author": "R.S. Sharma",
+          "publisher": "Old NCERT",
+          "priority": "essential",
+          "exam_coverage": "Both Prelims & Mains",
+          "description": "Covers Prehistory to Post-Mauryan period",
+          "total_chapters": 20,
+          "chapters": [
+            {"id": 1, "title": "The Importance of Ancient Indian History", "quiz_available": true},
+            {"id": 2, "title": "Modern Historians of Ancient India", "quiz_available": true},
+            {"id": 3, "title": "Geographical Setting", "quiz_available": true},
+            {"id": 4, "title": "Stone Age", "quiz_available": true},
+            {"id": 5, "title": "Chalcolithic Cultures", "quiz_available": true},
+            {"id": 6, "title": "Harappan Civilization", "quiz_available": true},
+            {"id": 7, "title": "The Vedic Culture", "quiz_available": true},
+            {"id": 8, "title": "The Later Vedic Period", "quiz_available": true},
+            {"id": 9, "title": "Jainism and Buddhism", "quiz_available": true},
+            {"id": 10, "title": "Territorial States and the First Magadhan Empire", "quiz_available": true},
+            {"id": 11, "title": "Iranian and Macedonian Invasions", "quiz_available": true},
+            {"id": 12, "title": "The Mauryan Empire", "quiz_available": true},
+            {"id": 13, "title": "The Post-Mauryan Period: Indo-Greeks, Shakas, Kushanas", "quiz_available": true},
+            {"id": 14, "title": "The Satavahanas and Other Kingdoms", "quiz_available": true},
+            {"id": 15, "title": "The Gupta Empire", "quiz_available": true},
+            {"id": 16, "title": "The Vakatakas and Vardhanas", "quiz_available": true},
+            {"id": 17, "title": "The South Indian Kingdoms (Sangam Age)", "quiz_available": true},
+            {"id": 18, "title": "India and the World (Trade & Cultural Contacts)", "quiz_available": true},
+            {"id": 19, "title": "Administration, Economy, Society & Religion in Ancient India", "quiz_available": true},
+            {"id": 20, "title": "Art, Architecture, Science and Literature", "quiz_available": true}
+          ]
+        },
+        {
+          "id": "ncert_class6_past1",
+          "title": "Our Past I",
+          "class": "Class 6",
+          "board": "NCERT",
+          "priority": "must-read",
+          "exam_coverage": "Prelims",
+          "description": "Foundation level ancient history",
+          "total_chapters": 12,
+          "chapters": [
+            {"id": 1, "title": "What, Where, How and When", "quiz_available": true},
+            {"id": 2, "title": "On the Trail of the Earliest People", "quiz_available": true},
+            {"id": 3, "title": "From Gathering to Growing Food", "quiz_available": true},
+            {"id": 4, "title": "In the Earliest Cities (Harappa)", "quiz_available": true},
+            {"id": 5, "title": "What Books and Burials Tell Us", "quiz_available": true},
+            {"id": 6, "title": "Kingdoms, Kings and an Early Republic", "quiz_available": true},
+            {"id": 7, "title": "New Questions and Ideas (Buddhism, Jainism)", "quiz_available": true},
+            {"id": 8, "title": "Ashoka, The Emperor Who Gave Up War", "quiz_available": true},
+            {"id": 9, "title": "Vital Villages, Thriving Towns", "quiz_available": true},
+            {"id": 10, "title": "Traders, Kings and Pilgrims", "quiz_available": true},
+            {"id": 11, "title": "New Empires and Kingdoms", "quiz_available": true},
+            {"id": 12, "title": "Buildings, Paintings and Books", "quiz_available": true}
+          ]
+        },
+        {
+          "id": "ncert_class11_themes1",
+          "title": "Themes in Indian History – Part I",
+          "class": "Class 11",
+          "board": "NCERT",
+          "priority": "recommended",
+          "exam_coverage": "Both Prelims & Mains",
+          "description": "India-centric portions for Ancient analysis",
+          "total_chapters": 2,
+          "chapters": [
+            {"id": 1, "title": "From the Beginning of Time", "quiz_available": true},
+            {"id": 2, "title": "Writing and City Life (Mesopotamia comparison)", "quiz_available": true}
+          ]
+        }
+      ]
+    },
+    "medieval_history": {
+      "title": "II. MEDIEVAL INDIA",
+      "description": "Delhi Sultanate, Mughal Empire, and regional kingdoms",
+      "importance": "high",
+      "icon": "fas fa-mosque",
+      "books": [
+        {
+          "id": "medieval_satish_chandra",
+          "title": "History of Medieval India",
+          "author": "Satish Chandra",
+          "publisher": "Old NCERT",
+          "priority": "essential",
+          "exam_coverage": "Both Prelims & Mains",
+          "description": "Comprehensive medieval history coverage",
+          "total_chapters": 10,
+          "chapters": [
+            {"id": 1, "title": "India and the World", "quiz_available": true},
+            {"id": 2, "title": "Northern India: Early Medieval Period (750–1200)", "quiz_available": true},
+            {"id": 3, "title": "Kingdoms in the Deccan and South India", "quiz_available": true},
+            {"id": 4, "title": "Cultural Development (750–1200)", "quiz_available": true},
+            {"id": 5, "title": "The Delhi Sultanate (1206–1526)", "quiz_available": true},
+            {"id": 6, "title": "The Mughals and Afghans (1526–1707)", "quiz_available": true},
+            {"id": 7, "title": "The Maratha State and Administration", "quiz_available": true},
+            {"id": 8, "title": "Society, Economy, and Culture (1200–1700)", "quiz_available": true},
+            {"id": 9, "title": "Religious Movements: Bhakti & Sufi Traditions", "quiz_available": true},
+            {"id": 10, "title": "Architecture, Literature and Art in Medieval India", "quiz_available": true}
+          ]
+        },
+        {
+          "id": "ncert_class7_past2",
+          "title": "Our Past II",
+          "class": "Class 7",
+          "board": "NCERT",
+          "priority": "must-read",
+          "exam_coverage": "Prelims",
+          "description": "Basic medieval history concepts",
+          "total_chapters": 10,
+          "chapters": [
+            {"id": 1, "title": "Tracing Changes Through a Thousand Years", "quiz_available": true},
+            {"id": 2, "title": "New Kings and Kingdoms", "quiz_available": true},
+            {"id": 3, "title": "The Delhi Sultans", "quiz_available": true},
+            {"id": 4, "title": "The Mughal Empire", "quiz_available": true},
+            {"id": 5, "title": "Rulers and Buildings", "quiz_available": true},
+            {"id": 6, "title": "Towns, Traders, and Craftspersons", "quiz_available": true},
+            {"id": 7, "title": "Tribes, Nomads and Settled Communities", "quiz_available": true},
+            {"id": 8, "title": "Devotional Paths to the Divine", "quiz_available": true},
+            {"id": 9, "title": "The Making of Regional Cultures", "quiz_available": true},
+            {"id": 10, "title": "Eighteenth Century Political Formations", "quiz_available": true}
+          ]
+        },
+        {
+          "id": "tn_board_medieval",
+          "title": "Medieval India",
+          "class": "Class 12",
+          "board": "Tamil Nadu Board",
+          "priority": "supplementary",
+          "exam_coverage": "Prelims",
+          "description": "Timeline clarity and dynastic histories",
+          "total_chapters": 7,
+          "chapters": [
+            {"id": 1, "title": "India After Harsha", "quiz_available": true},
+            {"id": 2, "title": "The Rise of Regional Kingdoms", "quiz_available": true},
+            {"id": 3, "title": "The Delhi Sultanate", "quiz_available": true},
+            {"id": 4, "title": "The Mughal Empire", "quiz_available": true},
+            {"id": 5, "title": "Decline of the Mughals", "quiz_available": true},
+            {"id": 6, "title": "Society and Culture", "quiz_available": true},
+            {"id": 7, "title": "The Bhakti and Sufi Movements", "quiz_available": true}
+          ]
+        }
+      ]
+    },
+    "modern_history": {
+      "title": "III. MODERN INDIA",
+      "description": "Most important section: British rule, freedom struggle, and independence",
+      "importance": "very_high",
+      "icon": "fas fa-flag-usa",
+      "books": [
+        {
+          "id": "spectrum_modern_india",
+          "title": "A Brief History of Modern India",
+          "author": "Rajiv Ahir",
+          "publisher": "Spectrum",
+          "priority": "essential",
+          "exam_coverage": "Both Prelims & Mains",
+          "description": "Most essential book for modern history",
+          "total_chapters": 20,
+          "chapters": [
+            {"id": 1, "title": "Sources and Approaches to Modern Indian History", "quiz_available": true},
+            {"id": 2, "title": "India in the 18th Century", "quiz_available": true},
+            {"id": 3, "title": "British Expansion in India", "quiz_available": true},
+            {"id": 4, "title": "Economic Impact of British Rule", "quiz_available": true},
+            {"id": 5, "title": "Administrative Changes and Social Reforms", "quiz_available": true},
+            {"id": 6, "title": "The Revolt of 1857", "quiz_available": true},
+            {"id": 7, "title": "Social and Cultural Awakening", "quiz_available": true},
+            {"id": 8, "title": "Beginning of Modern Nationalism", "quiz_available": true},
+            {"id": 9, "title": "The Indian National Congress", "quiz_available": true},
+            {"id": 10, "title": "Moderate Phase (1885–1905)", "quiz_available": true},
+            {"id": 11, "title": "The Extremist Phase (1905–1917)", "quiz_available": true},
+            {"id": 12, "title": "The Home Rule Movement", "quiz_available": true},
+            {"id": 13, "title": "Gandhian Era (1915–1947)", "quiz_available": true},
+            {"id": 14, "title": "Non-Cooperation, Civil Disobedience, Quit India", "quiz_available": true},
+            {"id": 15, "title": "Left and Revolutionary Movements", "quiz_available": true},
+            {"id": 16, "title": "Subhas Chandra Bose & INA", "quiz_available": true},
+            {"id": 17, "title": "Towards Independence and Partition", "quiz_available": true},
+            {"id": 18, "title": "Constitutional, Educational, and Administrative Developments", "quiz_available": true},
+            {"id": 19, "title": "Economic and Social Developments", "quiz_available": true},
+            {"id": 20, "title": "Miscellaneous (Governor Generals, Congress Sessions, Acts)", "quiz_available": true}
+          ]
+        },
+        {
+          "id": "ncert_class8_past3",
+          "title": "Our Past III",
+          "class": "Class 8",
+          "board": "NCERT",
+          "priority": "must-read",
+          "exam_coverage": "Both Prelims & Mains",
+          "description": "Foundation for modern history understanding",
+          "total_chapters": 11,
+          "chapters": [
+            {"id": 1, "title": "How, When and Where", "quiz_available": true},
+            {"id": 2, "title": "From Trade to Territory", "quiz_available": true},
+            {"id": 3, "title": "Ruling the Countryside", "quiz_available": true},
+            {"id": 4, "title": "Tribals, Dikus and the Vision of a Golden Age", "quiz_available": true},
+            {"id": 5, "title": "When People Rebel (1857)", "quiz_available": true},
+            {"id": 6, "title": "Colonialism and the City", "quiz_available": true},
+            {"id": 7, "title": "Weavers, Iron Smelters and Factory Owners", "quiz_available": true},
+            {"id": 8, "title": "Civilising the \"Native\", Educating the Nation", "quiz_available": true},
+            {"id": 9, "title": "Women, Caste and Reform", "quiz_available": true},
+            {"id": 10, "title": "The Making of the National Movement", "quiz_available": true},
+            {"id": 11, "title": "India After Independence", "quiz_available": true}
+          ]
+        },
+        {
+          "id": "bipan_chandra_struggle",
+          "title": "India's Struggle for Independence",
+          "author": "Bipan Chandra",
+          "priority": "recommended",
+          "exam_coverage": "Mainly Mains",
+          "description": "Detailed freedom struggle analysis",
+          "total_chapters": 9,
+          "chapters": [
+            {"id": 1, "title": "The First Major Challenge (1857)", "quiz_available": true},
+            {"id": 2, "title": "Reconstruction of Indian Polity (1858–1885)", "quiz_available": true},
+            {"id": 3, "title": "Foundation of Indian National Congress", "quiz_available": true},
+            {"id": 4, "title": "Moderate and Extremist Phases", "quiz_available": true},
+            {"id": 5, "title": "Swadeshi and Revolutionary Movements", "quiz_available": true},
+            {"id": 6, "title": "Gandhi's Arrival and Mass Movements", "quiz_available": true},
+            {"id": 7, "title": "Civil Disobedience & Quit India", "quiz_available": true},
+            {"id": 8, "title": "Subhas Bose, INA, and Post-war Struggles", "quiz_available": true},
+            {"id": 9, "title": "Partition and Independence", "quiz_available": true}
+          ]
+        }
+      ]
+    },
+    "world_history": {
+      "title": "IV. WORLD HISTORY",
+      "description": "For Mains GS Paper 1 only - covering world events and their impact",
+      "importance": "medium",
+      "icon": "fas fa-globe",
+      "exam_coverage": "Mains Only",
+      "books": [
+        {
+          "id": "ncert_class12_world_themes",
+          "title": "Themes in World History",
+          "class": "Class 12",
+          "board": "NCERT",
+          "priority": "must-read",
+          "exam_coverage": "Mains GS Paper 1",
+          "description": "Essential world history concepts",
+          "total_chapters": 7,
+          "chapters": [
+            {"id": 1, "title": "The Industrial Revolution", "quiz_available": true},
+            {"id": 2, "title": "The Rise of Imperialism", "quiz_available": true},
+            {"id": 3, "title": "Colonialism and Countryside (Africa, Latin America, Asia)", "quiz_available": true},
+            {"id": 4, "title": "The World Between the Wars", "quiz_available": true},
+            {"id": 5, "title": "Displacement and War", "quiz_available": true},
+            {"id": 6, "title": "The Cold War Era", "quiz_available": true},
+            {"id": 7, "title": "Paths to Modernisation (Japan, China)", "quiz_available": true}
+          ]
+        },
+        {
+          "id": "norman_lowe_world_history",
+          "title": "Mastering Modern World History",
+          "author": "Norman Lowe",
+          "priority": "recommended",
+          "exam_coverage": "Mains GS Paper 1",
+          "description": "Use selectively for conceptual depth",
+          "total_chapters": 7,
+          "chapters": [
+            {"id": 1, "title": "The Rise of Fascism and Nazism", "quiz_available": true},
+            {"id": 2, "title": "The World Wars", "quiz_available": true},
+            {"id": 3, "title": "The Russian Revolution", "quiz_available": true},
+            {"id": 4, "title": "The Cold War", "quiz_available": true},
+            {"id": 5, "title": "Decolonization & Non-Aligned Movement", "quiz_available": true},
+            {"id": 6, "title": "UN and Global Institutions", "quiz_available": true},
+            {"id": 7, "title": "Post-Cold War Developments", "quiz_available": true}
+          ]
+        }
+      ]
+    },
+    "art_culture": {
+      "title": "V. INDIAN ART & CULTURE",
+      "description": "Overlaps with History - essential for both Prelims and Mains",
+      "importance": "high",
+      "icon": "fas fa-palette",
+      "books": [
+        {
+          "id": "nitin_singhania_art_culture",
+          "title": "Indian Art & Culture",
+          "author": "Nitin Singhania",
+          "priority": "essential",
+          "exam_coverage": "Both Prelims & Mains",
+          "description": "Most comprehensive book for art and culture",
+          "total_chapters": 10,
+          "chapters": [
+            {"id": 1, "title": "Indian Architecture (Stupa, Temple, Indo-Islamic)", "quiz_available": true},
+            {"id": 2, "title": "Sculpture and Iconography", "quiz_available": true},
+            {"id": 3, "title": "Painting and Pottery", "quiz_available": true},
+            {"id": 4, "title": "Performing Arts – Music, Dance, Theatre", "quiz_available": true},
+            {"id": 5, "title": "Language and Literature", "quiz_available": true},
+            {"id": 6, "title": "Religion and Philosophy", "quiz_available": true},
+            {"id": 7, "title": "Fairs and Festivals", "quiz_available": true},
+            {"id": 8, "title": "Indian Handicrafts and Handlooms", "quiz_available": true},
+            {"id": 9, "title": "Schools of Art (Mughal, Rajasthani, Pahari, etc.)", "quiz_available": true},
+            {"id": 10, "title": "UNESCO World Heritage Sites", "quiz_available": true}
+          ]
+        },
+        {
+          "id": "ccrt_notes",
+          "title": "CCRT Notes",
+          "source": "ccrt.gov.in",
+          "priority": "supplementary",
+          "exam_coverage": "Both Prelims & Mains",
+          "description": "Cultural heritage and traditional arts",
+          "total_chapters": 4,
+          "chapters": [
+            {"id": 1, "title": "Performing Arts", "quiz_available": true},
+            {"id": 2, "title": "Visual Arts", "quiz_available": true},
+            {"id": 3, "title": "Fairs & Festivals of India", "quiz_available": true},
+            {"id": 4, "title": "Heritage Monuments and Sites", "quiz_available": true}
+          ]
+        }
+      ]
+    }
+  },
+  "quick_recap": {
+    "title": "Quick Reference Summary",
+    "segments": [
+      {
+        "segment": "Ancient",
+        "primary_source": "R.S. Sharma + NCERT 6",
+        "chapter_coverage": "20 Chapters (Prehistoric–Gupta)"
+      },
+      {
+        "segment": "Medieval", 
+        "primary_source": "Satish Chandra + NCERT 7",
+        "chapter_coverage": "10–12 Chapters (Delhi Sultanate–Mughals)"
+      },
+      {
+        "segment": "Modern",
+        "primary_source": "Spectrum + NCERT 8",
+        "chapter_coverage": "20 Chapters (1757–1947)"
+      },
+      {
+        "segment": "World",
+        "primary_source": "NCERT 12 + Norman Lowe",
+        "chapter_coverage": "7–10 Chapters"
+      },
+      {
+        "segment": "Culture",
+        "primary_source": "Nitin Singhania + CCRT",
+        "chapter_coverage": "10+ Topics"
+      }
+    ]
+  },
+  "study_strategy": {
+    "reading_plan": "October to March (9-month plan)",
+    "time_allocation": {
+      "ancient": "20%",
+      "medieval": "15%",
+      "modern": "50%",
+      "world": "10%",
+      "art_culture": "20%"
+    },
+    "chapter_progression": {
+      "daily_target": "2-3 chapters per day",
+      "weekly_revision": "Complete 1 book per week",
+      "monthly_assessment": "Full category quiz"
+    }
+  }
+}

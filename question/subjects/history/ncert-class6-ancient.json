@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ncert-class6-ch1-q1",
+    "question": "What do we mean by the term 'history'?",
+    "question_type": "single_correct",
+    "options": [
+      "Study of only kings and wars",
+      "Study of the past through various sources",
+      "Study of only ancient times",
+      "Study of only important people"
+    ],
+    "correct_option": "Study of the past through various sources",
+    "correct_options": ["Study of the past through various sources"],
+    "explanation": "History is the study of the past through various sources like manuscripts, inscriptions, coins, buildings, tools, pottery, etc. It's not limited to kings, wars, or only important people.",
+    "difficulty": "easy",
+    "tags": ["History Basics", "NCERT Class 6", "Definition", "Sources"],
+    "source": "NCERT Class 6 - Our Past I Chapter 1",
+    "chapter": "What, Where, How and When",
+    "book": "Our Past I - Class 6 NCERT",
+    "category": "ancient_history",
+    "book_id": "ncert_class6_past1",
+    "chapter_id": 1,
+    "dateAdded": "2025-10-09",
+    "importance": "high",
+    "previouslyAsked": false,
+    "notes": "Foundation concept - very important for understanding history as a subject"
+  },
+  {
+    "id": "ncert-class6-ch1-q2",
+    "question": "Which of the following are sources of history? (Select all correct options)",
+    "question_type": "multiple_correct",
+    "options": [
+      "Manuscripts written on palm leaves",
+      "Inscriptions on stones and metals",
+      "Coins and pottery",
+      "Only government records"
+    ],
+    "correct_options": ["Manuscripts written on palm leaves", "Inscriptions on stones and metals", "Coins and pottery"],
+    "explanation": "Historical sources include manuscripts, inscriptions, coins, pottery, tools, buildings, paintings, etc. History is not limited to only government records but encompasses all types of evidence from the past.",
+    "difficulty": "easy",
+    "tags": ["Historical Sources", "Evidence", "Archaeology", "Manuscripts"],
+    "source": "NCERT Class 6 - Our Past I Chapter 1", 
+    "chapter": "What, Where, How and When",
+    "book": "Our Past I - Class 6 NCERT",
+    "category": "ancient_history",
+    "book_id": "ncert_class6_past1",
+    "chapter_id": 1,
+    "dateAdded": "2025-10-09",
+    "importance": "high",
+    "previouslyAsked": false,
+    "notes": "Multiple correct - important to know all types of historical sources"
+  },
+  {
+    "id": "ncert-class6-ch4-q1",
+    "question": "The Harappan civilization is also known as:",
+    "question_type": "single_correct",
+    "options": [
+      "Vedic Civilization",
+      "Indus Valley Civilization", 
+      "Gangetic Civilization",
+      "Deccan Civilization"
+    ],
+    "correct_option": "Indus Valley Civilization",
+    "correct_options": ["Indus Valley Civilization"],
+    "explanation": "The Harappan civilization is also called the Indus Valley Civilization because most of its sites were discovered in the Indus river valley region.",
+    "difficulty": "easy",
+    "tags": ["Harappan Civilization", "Indus Valley", "Ancient Cities", "Names"],
+    "source": "NCERT Class 6 - Our Past I Chapter 4",
+    "chapter": "In the Earliest Cities (Harappa)",
+    "book": "Our Past I - Class 6 NCERT", 
+    "category": "ancient_history",
+    "book_id": "ncert_class6_past1",
+    "chapter_id": 4,
+    "dateAdded": "2025-10-09",
+    "importance": "high",
+    "previouslyAsked": true,
+    "notes": "Basic but frequently asked - know both names"
+  }
+]

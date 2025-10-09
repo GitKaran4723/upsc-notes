@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ncert-polity-11-ch1-q1",
+    "question": "Which of the following is the correct definition of a constitution?",
+    "question_type": "single_correct",
+    "options": [
+      "A set of laws made by the government",
+      "A supreme law that determines the relationship among people living in a territory",
+      "Rules made by the judiciary",
+      "Guidelines for political parties"
+    ],
+    "correct_option": "A supreme law that determines the relationship among people living in a territory",
+    "correct_options": ["A supreme law that determines the relationship among people living in a territory"],
+    "explanation": "A constitution is the supreme law of a country that determines the relationship among people living in a territory (citizens and their government) and defines the structure and powers of government institutions.",
+    "difficulty": "easy",
+    "tags": ["Constitution", "Basic Concepts", "Political Theory"],
+    "source": "NCERT Political Theory Class 11 Chapter 1",
+    "chapter": "Constitution: Why and How?",
+    "book": "Political Theory Class 11 NCERT",
+    "category": "polity",
+    "book_id": "ncert_polity_11",
+    "chapter_id": 1,
+    "dateAdded": "2025-10-09", 
+    "importance": "high",
+    "previouslyAsked": true,
+    "notes": "Fundamental concept - definition of constitution"
+  },
+  {
+    "id": "ncert-polity-11-ch1-q2",
+    "question": "Which of the following functions does a constitution perform? (Select all correct options)",
+    "question_type": "multiple_correct", 
+    "options": [
+      "Specifies how the government will be constituted",
+      "Lays down limits on the powers of the government",
+      "Expresses the aspirations of the people about creating a good society", 
+      "Makes all laws for the country"
+    ],
+    "correct_options": ["Specifies how the government will be constituted", "Lays down limits on the powers of the government", "Expresses the aspirations of the people about creating a good society"],
+    "explanation": "Constitution performs three main functions: (1) Specifies how government will be constituted, (2) Lays down limits on government powers, (3) Expresses people's aspirations. Making laws is the function of legislature, not constitution directly.",
+    "difficulty": "medium",
+    "tags": ["Constitutional Functions", "Government Structure", "Limitations of Power"],
+    "source": "NCERT Political Theory Class 11 Chapter 1",
+    "chapter": "Constitution: Why and How?", 
+    "book": "Political Theory Class 11 NCERT",
+    "category": "polity",
+    "book_id": "ncert_polity_11",
+    "chapter_id": 1,
+    "dateAdded": "2025-10-09",
+    "importance": "high",
+    "previouslyAsked": false,
+    "notes": "Multiple correct - core constitutional functions"
+  },
+  {
+    "id": "ncert-polity-11-ch2-q1",
+    "question": "The concept of 'Right to Equality' includes:",
+    "question_type": "single_correct",
+    "options": [
+      "Only equality before law",
+      "Only prohibition of discrimination", 
+      "Both equality before law and prohibition of discrimination",
+      "Right to property"
+    ],
+    "correct_option": "Both equality before law and prohibition of discrimination",
+    "correct_options": ["Both equality before law and prohibition of discrimination"],
+    "explanation": "Right to Equality (Articles 14-18) includes equality before law, prohibition of discrimination, equality of opportunity in public employment, abolition of untouchability, and abolition of titles.",
+    "difficulty": "medium",
+    "tags": ["Fundamental Rights", "Right to Equality", "Articles 14-18"],
+    "source": "NCERT Political Theory Class 11 Chapter 2",
+    "chapter": "Rights in the Indian Constitution",
+    "book": "Political Theory Class 11 NCERT", 
+    "category": "polity",
+    "book_id": "ncert_polity_11",
+    "chapter_id": 2,
+    "dateAdded": "2025-10-09",
+    "importance": "high",
+    "previouslyAsked": true,
+    "notes": "Important for both Prelims and Mains - fundamental rights"
+  }
+]

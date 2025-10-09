@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ncert-ancient-ch1-q1",
+    "question": "The Indus Valley Civilization is also known as:",
+    "question_type": "single_correct",
+    "options": [
+      "Vedic Civilization",
+      "Harappan Civilization", 
+      "Mauryan Civilization",
+      "Gupta Civilization"
+    ],
+    "correct_option": "Harappan Civilization",
+    "correct_options": ["Harappan Civilization"],
+    "explanation": "The Indus Valley Civilization is also known as the Harappan Civilization, named after Harappa, the first site discovered in 1921 by Daya Ram Sahni.",
+    "difficulty": "easy",
+    "tags": ["Harappan Civilization", "Indus Valley", "Prehistoric India"],
+    "source": "NCERT Ancient India Chapter 1",
+    "chapter": "The Story of the First Cities",
+    "book": "Ancient India NCERT",
+    "category": "ancient_history",
+    "book_id": "ncert_ancient",
+    "chapter_id": 1,
+    "dateAdded": "2025-10-09",
+    "importance": "high",
+    "previouslyAsked": true,
+    "notes": "Basic but crucial - foundation of Indian civilization"
+  },
+  {
+    "id": "ncert-ancient-ch1-q2",
+    "question": "Which of the following were characteristic features of Harappan cities? (Select all correct options)",
+    "question_type": "multiple_correct",
+    "options": [
+      "Grid pattern of streets",
+      "Advanced drainage system",
+      "Great Bath at Mohenjodaro",
+      "Use of iron tools"
+    ],
+    "correct_options": ["Grid pattern of streets", "Advanced drainage system", "Great Bath at Mohenjodaro"],
+    "explanation": "Harappan cities featured grid pattern streets, advanced drainage systems, and public baths like the Great Bath at Mohenjodaro. However, they were Bronze Age people and did not use iron tools.",
+    "difficulty": "medium", 
+    "tags": ["Urban Planning", "Harappan Features", "Bronze Age"],
+    "source": "NCERT Ancient India Chapter 1",
+    "chapter": "The Story of the First Cities",
+    "book": "Ancient India NCERT",
+    "category": "ancient_history",
+    "book_id": "ncert_ancient",
+    "chapter_id": 1,
+    "dateAdded": "2025-10-09",
+    "importance": "high",
+    "previouslyAsked": false,
+    "notes": "Multiple correct - understand Harappan urban planning"
+  },
+  {
+    "id": "ncert-ancient-ch2-q1", 
+    "question": "The Vedic literature consists of four Vedas. Which of the following is NOT one of them?",
+    "question_type": "single_correct",
+    "options": [
+      "Rig Veda",
+      "Sama Veda", 
+      "Yajur Veda",
+      "Garuda Purana"
+    ],
+    "correct_option": "Garuda Purana",
+    "correct_options": ["Garuda Purana"],
+    "explanation": "The four Vedas are Rig Veda, Sama Veda, Yajur Veda, and Atharva Veda. Garuda Purana is one of the 18 major Puranas, not a Veda.",
+    "difficulty": "easy",
+    "tags": ["Vedic Literature", "Four Vedas", "Religious Texts"],
+    "source": "NCERT Ancient India Chapter 2", 
+    "chapter": "From Hunting-Gathering to Growing Food",
+    "book": "Ancient India NCERT",
+    "category": "ancient_history",
+    "book_id": "ncert_ancient", 
+    "chapter_id": 2,
+    "dateAdded": "2025-10-09",
+    "importance": "medium",
+    "previouslyAsked": true,
+    "notes": "Common confusion between Vedas and Puranas"
+  }
+]

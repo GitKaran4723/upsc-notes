@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>History Books - UPSC Preparation Guide</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            primary: {
+              50: '#fef3e2', 100: '#fde7c5', 200: '#fbcf8b', 300: '#f9b751',
+              400: '#f7a027', 500: '#f59e0b', 600: '#d97706', 700: '#b45309',
+              800: '#92400e', 900: '#78350f'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <style>
+    .book-card {
+      transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+      transform-style: preserve-3d;
+    }
+    .book-card:hover {
+      transform: translateY(-8px) scale(1.02);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+    }
+    .priority-essential { border-left: 5px solid #ef4444; }
+    .priority-must-read { border-left: 5px solid #f59e0b; }
+    .priority-recommended { border-left: 5px solid #10b981; }
+    .priority-supplementary { border-left: 5px solid #6b7280; }
+    .priority-optional { border-left: 5px solid #a78bfa; }
+    
+    .category-card {
+      background: linear-gradient(135deg, #f59e0b 0%, #f97316 100%);
+      position: relative;
+      overflow: hidden;
+    }
+    .category-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(45deg, transparent 30%, rgba(255,255,255,0.1) 50%, transparent 70%);
+      transform: translateX(-100%);
+      transition: transform 0.6s;
+    }
+    .category-card:hover::before {
+      transform: translateX(100%);
+    }
+    
+    .search-highlight {
+      background-color: #fef3c7;
+      padding: 2px 4px;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+    
+    .dark .search-highlight {
+      background-color: #92400e;
+      color: #fef3c7;
+    }
+  </style>
+</head>
+
+<body class="bg-gray-50 dark:bg-gray-900 transition-colors duration-300">
+  <!-- Header -->
+  <header class="bg-white dark:bg-gray-800 shadow-lg border-b border-amber-200 dark:border-amber-800">
+    <div class="container mx-auto px-4 py-4">
+      <div class="flex items-center justify-between">
+        <div class="flex items-center space-x-4">
+          <a href="index.html" class="flex items-center space-x-2 text-amber-600 hover:text-amber-700">
+            <i class="fas fa-arrow-left text-xl"></i>
+            <span class="font-semibold">Back to Home</span>
+          </a>
+          <div class="h-6 w-px bg-gray-300 dark:bg-gray-600"></div>
+          <h1 class="text-2xl font-bold text-gray-800 dark:text-gray-100">
+            <i class="fas fa-books text-amber-600 mr-2"></i>
+            History Books Guide
+          </h1>
+        </div>
+        <button id="darkModeToggle" class="p-2 rounded-lg bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors">
+          <i class="fas fa-sun dark:hidden"></i>
+          <i class="fas fa-moon hidden dark:inline"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Search and Filters -->
+  <div class="container mx-auto px-4 py-6">
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-8">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div class="relative">
+          <input type="text" id="searchInput" placeholder="Search books by title, author, or topic..." 
+                 class="w-full pl-10 pr-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-transparent bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100">
+          <i class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"></i>
+        </div>
+        <select id="categoryFilter" class="px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-amber-500 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100">
+          <option value="all">All Categories</option>
+          <option value="ancient_history">Ancient History</option>
+          <option value="medieval_history">Medieval History</option>
+          <option value="modern_history">Modern History</option>
+          <option value="world_history">World History</option>
+          <option value="art_culture">Art & Culture</option>
+        </select>
+        <select id="priorityFilter" class="px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-amber-500 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100">
+          <option value="all">All Priorities</option>
+          <option value="essential">Essential</option>
+          <option value="must-read">Must Read</option>
+          <option value="recommended">Recommended</option>
+          <option value="supplementary">Supplementary</option>
+          <option value="optional">Optional</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Quick Stats -->
+    <div class="grid grid-cols-2 md:grid-cols-5 gap-4 mb-8">
+      <div class="bg-gradient-to-r from-blue-500 to-blue-600 text-white p-4 rounded-xl text-center">
+        <div class="text-2xl font-bold" id="totalBooks">0</div>
+        <div class="text-sm opacity-90">Total Books</div>
+      </div>
+      <div class="bg-gradient-to-r from-red-500 to-red-600 text-white p-4 rounded-xl text-center">
+        <div class="text-2xl font-bold" id="essentialBooks">0</div>
+        <div class="text-sm opacity-90">Essential</div>
+      </div>
+      <div class="bg-gradient-to-r from-amber-500 to-amber-600 text-white p-4 rounded-xl text-center">
+        <div class="text-2xl font-bold" id="mustReadBooks">0</div>
+        <div class="text-sm opacity-90">Must Read</div>
+      </div>
+      <div class="bg-gradient-to-r from-green-500 to-green-600 text-white p-4 rounded-xl text-center">
+        <div class="text-2xl font-bold" id="recommendedBooks">0</div>
+        <div class="text-sm opacity-90">Recommended</div>
+      </div>
+      <div class="bg-gradient-to-r from-purple-500 to-purple-600 text-white p-4 rounded-xl text-center">
+        <div class="text-2xl font-bold">5</div>
+        <div class="text-sm opacity-90">Categories</div>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div id="booksContainer">
+      <!-- Content will be loaded here -->
+    </div>
+  </div>
+
+  <!-- Loading Spinner -->
+  <div id="loadingSpinner" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+    <div class="bg-white dark:bg-gray-800 rounded-xl p-8 text-center">
+      <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-amber-600 mx-auto mb-4"></div>
+      <p class="text-gray-600 dark:text-gray-400">Loading history books...</p>
+    </div>
+  </div>
+
+  <script>
+    let historyData = null;
+    let filteredBooks = [];
+
+    // Dark mode toggle
+    const darkModeToggle = document.getElementById('darkModeToggle');
+    const isDarkMode = localStorage.getItem('darkMode') === 'true';
+    
+    if (isDarkMode) {
+      document.documentElement.classList.add('dark');
+    }
+
+    darkModeToggle.addEventListener('click', () => {
+      document.documentElement.classList.toggle('dark');
+      const isDark = document.documentElement.classList.contains('dark');
+      localStorage.setItem('darkMode', isDark);
+    });
+
+    // Load data
+    async function loadHistoryBooks() {
+      try {
+        const response = await fetch('data/history-books.json');
+        historyData = await response.json();
+        document.getElementById('loadingSpinner').style.display = 'none';
+        renderBooks();
+        updateStats();
+      } catch (error) {
+        console.error('Error loading history books:', error);
+        document.getElementById('loadingSpinner').innerHTML = `
+          <div class="bg-white dark:bg-gray-800 rounded-xl p-8 text-center">
+            <i class="fas fa-exclamation-triangle text-red-500 text-4xl mb-4"></i>
+            <p class="text-gray-600 dark:text-gray-400">Error loading books data</p>
+          </div>
+        `;
+      }
+    }
+
+    function getAllBooks() {
+      const books = [];
+      Object.entries(historyData.categories).forEach(([categoryKey, category]) => {
+        const categoryName = category.title;
+        
+        // Process the new book structure
+        if (category.books) {
+          category.books.forEach(book => {
+            books.push({ ...book, category: categoryName, categoryKey, icon: category.icon });
+          });
+        }
+      });
+      
+      return books;
+    }
+
+    function renderBooks() {
+      const container = document.getElementById('booksContainer');
+      const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+      const categoryFilter = document.getElementById('categoryFilter').value;
+      const priorityFilter = document.getElementById('priorityFilter').value;
+
+      let books = getAllBooks();
+
+      // Apply filters
+      filteredBooks = books.filter(book => {
+        const matchesSearch = !searchTerm || 
+          book.title?.toLowerCase().includes(searchTerm) ||
+          book.author?.toLowerCase().includes(searchTerm) ||
+          book.topics?.some(topic => topic.toLowerCase().includes(searchTerm));
+          
+        const matchesCategory = categoryFilter === 'all' || book.categoryKey === categoryFilter;
+        const matchesPriority = priorityFilter === 'all' || book.priority === priorityFilter;
+        
+        return matchesSearch && matchesCategory && matchesPriority;
+      });
+
+      // Group by category
+      const groupedBooks = {};
+      filteredBooks.forEach(book => {
+        if (!groupedBooks[book.category]) {
+          groupedBooks[book.category] = [];
+        }
+        groupedBooks[book.category].push(book);
+      });
+
+      let html = '';
+      Object.entries(groupedBooks).forEach(([category, books]) => {
+        html += `
+          <div class="mb-8">
+            <div class="category-card text-white p-6 rounded-xl mb-6">
+              <h2 class="text-2xl font-bold mb-2">
+                <i class="fas fa-scroll mr-2"></i>${category}
+              </h2>
+              <p class="opacity-90">${books.length} books in this category</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              ${books.map(book => renderBookCard(book)).join('')}
+            </div>
+          </div>
+        `;
+      });
+
+      if (html === '') {
+        html = `
+          <div class="text-center py-12">
+            <i class="fas fa-search text-6xl text-gray-400 mb-4"></i>
+            <h3 class="text-xl font-semibold text-gray-600 dark:text-gray-400 mb-2">No books found</h3>
+            <p class="text-gray-500 dark:text-gray-500">Try adjusting your search criteria</p>
+          </div>
+        `;
+      }
+
+      container.innerHTML = html;
+    }
+
+    function renderBookCard(book) {
+      const priorityClass = `priority-${book.priority}`;
+
+      return `
+        <div class="book-card bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 ${priorityClass}">
+          <div class="flex items-start justify-between mb-4">
+            <div class="flex-1">
+              <h3 class="text-lg font-bold text-gray-800 dark:text-gray-100 mb-1">${book.title}</h3>
+              ${book.author ? `<p class="text-gray-600 dark:text-gray-400 text-sm">by ${book.author}</p>` : ''}
+              ${book.class ? `<p class="text-gray-600 dark:text-gray-400 text-sm">${book.class} - ${book.board || ''}</p>` : ''}
+              ${book.publisher ? `<p class="text-gray-600 dark:text-gray-400 text-sm">${book.publisher}</p>` : ''}
+              ${book.source ? `<p class="text-gray-600 dark:text-gray-400 text-sm">Source: ${book.source}</p>` : ''}
+            </div>
+            <span class="px-3 py-1 rounded-full text-xs font-semibold ${getPriorityColor(book.priority)}">
+              ${book.priority}
+            </span>
+          </div>
+          
+          <div class="mb-4">
+            <p class="text-gray-700 dark:text-gray-300 text-sm mb-3">${book.description}</p>
+            
+            <div class="grid grid-cols-2 gap-4 text-sm">
+              ${book.total_chapters ? `
+                <div class="flex items-center text-gray-600 dark:text-gray-400">
+                  <i class="fas fa-list mr-2"></i>
+                  ${book.total_chapters} chapters
+                </div>
+              ` : ''}
+              ${book.exam_coverage ? `
+                <div class="flex items-center text-blue-600 dark:text-blue-400">
+                  <i class="fas fa-graduation-cap mr-2"></i>
+                  ${book.exam_coverage}
+                </div>
+              ` : ''}
+            </div>
+          </div>
+          
+          <!-- Chapters Section -->
+          ${book.chapters && book.chapters.length > 0 ? `
+            <div class="mb-4">
+              <button onclick="toggleChapters('${book.id}')" 
+                      class="flex items-center justify-between w-full text-left p-3 bg-gray-50 dark:bg-gray-700 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-600 transition-colors">
+                <span class="font-medium text-gray-800 dark:text-gray-200">
+                  <i class="fas fa-book-open mr-2"></i>View Chapters (${book.chapters.length})
+                </span>
+                <i id="chapters-icon-${book.id}" class="fas fa-chevron-down text-gray-500 transition-transform"></i>
+              </button>
+              
+              <div id="chapters-${book.id}" class="hidden mt-3 space-y-2 max-h-64 overflow-y-auto">
+                ${book.chapters.map(chapter => `
+                  <div class="flex items-center justify-between p-2 bg-gray-25 dark:bg-gray-750 rounded border border-gray-200 dark:border-gray-600">
+                    <div class="flex-1">
+                      <span class="text-sm font-medium text-gray-800 dark:text-gray-200">
+                        Ch ${chapter.id}: ${chapter.title}
+                      </span>
+                    </div>
+                    <div class="flex items-center space-x-2">
+                      ${chapter.quiz_available ? `
+                        <button onclick="openChapterQuiz('${book.categoryKey}', '${book.id}', ${chapter.id})" 
+                                class="px-3 py-1 text-xs bg-amber-500 hover:bg-amber-600 text-white rounded-md transition-colors">
+                          <i class="fas fa-quiz mr-1"></i>Quiz
+                        </button>
+                      ` : `
+                        <span class="px-3 py-1 text-xs bg-gray-300 dark:bg-gray-600 text-gray-600 dark:text-gray-400 rounded-md">
+                          Quiz Soon
+                        </span>
+                      `}
+                      <button onclick="markChapterComplete('${book.id}', ${chapter.id})" 
+                              class="px-2 py-1 text-xs border border-gray-300 dark:border-gray-600 rounded-md hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+                              title="Mark as read">
+                        <i id="check-${book.id}-${chapter.id}" class="fas fa-check text-gray-400"></i>
+                      </button>
+                    </div>
+                  </div>
+                `).join('')}
+              </div>
+            </div>
+          ` : ''}
+          
+          <!-- Action Buttons -->
+          <div class="flex space-x-2">
+            ${book.chapters && book.chapters.length > 0 ? `
+              <button onclick="startBookQuiz('${book.categoryKey}', '${book.id}')" 
+                      class="flex-1 px-4 py-2 bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white rounded-lg font-medium transition-all">
+                <i class="fas fa-play mr-2"></i>Full Book Quiz
+              </button>
+            ` : ''}
+            <button onclick="viewBookProgress('${book.id}')" 
+                    class="px-4 py-2 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+              <i class="fas fa-chart-line"></i>
+            </button>
+          </div>
+        </div>
+      `;
+    }
+
+    function getPriorityColor(priority) {
+      const colors = {
+        'essential': 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200',
+        'must-read': 'bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200',
+        'recommended': 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200',
+        'supplementary': 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200',
+        'optional': 'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-200'
+      };
+      return colors[priority] || colors['recommended'];
+    }
+
+    function updateStats() {
+      const books = getAllBooks();
+      document.getElementById('totalBooks').textContent = books.length;
+      document.getElementById('essentialBooks').textContent = books.filter(b => b.priority === 'essential').length;
+      document.getElementById('mustReadBooks').textContent = books.filter(b => b.priority === 'must-read').length;
+      document.getElementById('recommendedBooks').textContent = books.filter(b => b.priority === 'recommended').length;
+    }
+
+    // Event listeners
+    document.getElementById('searchInput').addEventListener('input', renderBooks);
+    document.getElementById('categoryFilter').addEventListener('change', renderBooks);
+    document.getElementById('priorityFilter').addEventListener('change', renderBooks);
+
+    // Chapter interaction functions
+    function toggleChapters(bookId) {
+      const chaptersDiv = document.getElementById(`chapters-${bookId}`);
+      const icon = document.getElementById(`chapters-icon-${bookId}`);
+      
+      if (chaptersDiv.classList.contains('hidden')) {
+        chaptersDiv.classList.remove('hidden');
+        icon.classList.add('rotate-180');
+      } else {
+        chaptersDiv.classList.add('hidden');
+        icon.classList.remove('rotate-180');
+      }
+    }
+
+    function openChapterQuiz(category, bookId, chapterId) {
+      // Store the chapter context for the quiz
+      localStorage.setItem('quizContext', JSON.stringify({
+        category,
+        bookId,
+        chapterId,
+        type: 'chapter'
+      }));
+      
+      // Navigate to subject question page with parameters
+      const params = new URLSearchParams({
+        category: category,
+        book: bookId,
+        chapter: chapterId,
+        type: 'chapter'
+      });
+      
+      window.location.href = `subjectquestion.html?${params.toString()}`;
+    }
+
+    function startBookQuiz(category, bookId) {
+      // Store the book context for the quiz
+      localStorage.setItem('quizContext', JSON.stringify({
+        category,
+        bookId,
+        type: 'book'
+      }));
+      
+      // Navigate to subject question page
+      const params = new URLSearchParams({
+        category: category,
+        book: bookId,
+        type: 'book'
+      });
+      
+      window.location.href = `subjectquestion.html?${params.toString()}`;
+    }
+
+    function markChapterComplete(bookId, chapterId) {
+      const checkIcon = document.getElementById(`check-${bookId}-${chapterId}`);
+      const completedChapters = JSON.parse(localStorage.getItem('completedChapters') || '{}');
+      
+      if (!completedChapters[bookId]) {
+        completedChapters[bookId] = [];
+      }
+      
+      const isCompleted = completedChapters[bookId].includes(chapterId);
+      
+      if (isCompleted) {
+        // Remove from completed
+        completedChapters[bookId] = completedChapters[bookId].filter(id => id !== chapterId);
+        checkIcon.classList.remove('text-green-500');
+        checkIcon.classList.add('text-gray-400');
+      } else {
+        // Add to completed
+        completedChapters[bookId].push(chapterId);
+        checkIcon.classList.remove('text-gray-400');
+        checkIcon.classList.add('text-green-500');
+      }
+      
+      localStorage.setItem('completedChapters', JSON.stringify(completedChapters));
+      updateBookProgress();
+    }
+
+    function viewBookProgress(bookId) {
+      const completedChapters = JSON.parse(localStorage.getItem('completedChapters') || '{}');
+      const bookChapters = completedChapters[bookId] || [];
+      const book = getAllBooks().find(b => b.id === bookId);
+      
+      if (book) {
+        const totalChapters = book.total_chapters || book.chapters?.length || 0;
+        const completedCount = bookChapters.length;
+        const percentage = totalChapters > 0 ? Math.round((completedCount / totalChapters) * 100) : 0;
+        
+        alert(`Progress for "${book.title}":\n${completedCount}/${totalChapters} chapters completed (${percentage}%)`);
+      }
+    }
+
+    function updateBookProgress() {
+      const completedChapters = JSON.parse(localStorage.getItem('completedChapters') || '{}');
+      
+      Object.keys(completedChapters).forEach(bookId => {
+        completedChapters[bookId].forEach(chapterId => {
+          const checkIcon = document.getElementById(`check-${bookId}-${chapterId}`);
+          if (checkIcon) {
+            checkIcon.classList.remove('text-gray-400');
+            checkIcon.classList.add('text-green-500');
+          }
+        });
+      });
+    }
+
+    // Load progress on page load
+    function loadProgress() {
+      setTimeout(() => {
+        updateBookProgress();
+      }, 500);
+    }
+
+    // Update the main function to include progress loading
+    function renderBooks() {
+      const container = document.getElementById('booksContainer');
+      const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+      const categoryFilter = document.getElementById('categoryFilter').value;
+      const priorityFilter = document.getElementById('priorityFilter').value;
+
+      let books = getAllBooks();
+
+      // Apply filters
+      filteredBooks = books.filter(book => {
+        const matchesSearch = !searchTerm || 
+          book.title?.toLowerCase().includes(searchTerm) ||
+          book.author?.toLowerCase().includes(searchTerm) ||
+          book.description?.toLowerCase().includes(searchTerm) ||
+          book.chapters?.some(chapter => chapter.title.toLowerCase().includes(searchTerm));
+          
+        const matchesCategory = categoryFilter === 'all' || book.categoryKey === categoryFilter;
+        const matchesPriority = priorityFilter === 'all' || book.priority === priorityFilter;
+        
+        return matchesSearch && matchesCategory && matchesPriority;
+      });
+
+      // Group by category
+      const groupedBooks = {};
+      filteredBooks.forEach(book => {
+        if (!groupedBooks[book.category]) {
+          groupedBooks[book.category] = [];
+        }
+        groupedBooks[book.category].push(book);
+      });
+
+      let html = '';
+      Object.entries(groupedBooks).forEach(([category, books]) => {
+        html += `
+          <div class="mb-8">
+            <div class="category-card text-white p-6 rounded-xl mb-6">
+              <h2 class="text-2xl font-bold mb-2">
+                <i class="fas fa-scroll mr-2"></i>${category}
+              </h2>
+              <p class="opacity-90">${books.length} books • ${books.reduce((sum, book) => sum + (book.total_chapters || 0), 0)} total chapters</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              ${books.map(book => renderBookCard(book)).join('')}
+            </div>
+          </div>
+        `;
+      });
+
+      if (html === '') {
+        html = `
+          <div class="text-center py-12">
+            <i class="fas fa-search text-6xl text-gray-400 mb-4"></i>
+            <h3 class="text-xl font-semibold text-gray-600 dark:text-gray-400 mb-2">No books found</h3>
+            <p class="text-gray-500 dark:text-gray-500">Try adjusting your search criteria</p>
+          </div>
+        `;
+      }
+
+      container.innerHTML = html;
+      loadProgress();
+    }
+
+    // Initialize
+    loadHistoryBooks();
+  </script>
+</body>
+</html>

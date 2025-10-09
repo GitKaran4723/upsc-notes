@@ -2,6 +2,7 @@
   {
     "id": "eco-dev-ch1-q1",
     "question": "At the time of independence in 1947, India's per capita income was approximately:",
+    "question_type": "single_correct",
     "options": [
       "₹150",
       "₹250",
@@ -9,6 +10,7 @@
       "₹1000"
     ],
     "correct_option": "₹250",
+    "correct_options": ["₹250"],
     "explanation": "At the time of independence, India's per capita income was very low, estimated at around ₹250 per annum. The economy was primarily agrarian with minimal industrialization, and the growth rate during British rule was extremely slow.",
     "difficulty": "medium",
     "tags": ["Indian Economy", "Independence", "Per capita income", "Economic history"],
@@ -19,5 +21,27 @@
     "importance": "medium",
     "previouslyAsked": false,
     "notes": "Remember the contrast: very low per capita income vs modern India"
+  },
+  {
+    "id": "eco-dev-ch1-q2",
+    "question": "Which of the following were characteristics of India's economy at the time of independence? (Select all correct options)",
+    "question_type": "multiple_correct",
+    "options": [
+      "Primarily agrarian economy",
+      "Well-developed industrial base",
+      "Low per capita income",
+      "High growth rate during British rule"
+    ],
+    "correct_options": ["Primarily agrarian economy", "Low per capita income"],
+    "explanation": "India's economy at independence was characterized by being primarily agrarian with about 85% population dependent on agriculture, very low per capita income, and minimal industrialization. The growth rate during British rule was extremely slow, not high.",
+    "difficulty": "medium",
+    "tags": ["Indian Economy", "Independence", "Economic characteristics", "Colonial economy"],
+    "source": "NCERT Class 11 - Indian Economy on the Eve of Independence",
+    "chapter": "Indian Economy on the Eve of Independence",
+    "book": "NCERT Indian Economic Development Class 11",
+    "dateAdded": "2025-10-09",
+    "importance": "medium",
+    "previouslyAsked": false,
+    "notes": "Multiple correct answer question - remember to select all that apply"
   }
 ]
