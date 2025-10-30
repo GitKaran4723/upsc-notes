@@ -1,0 +1,568 @@
+[
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements about the rare defence behaviours in Indian frogs is/are correct?",
+    "statements": [
+      "The Apatani Horned Toad exhibits body inflation, distress calls, and biting as defence mechanisms.",
+      "The Bicoloured Frog displays body arching behaviour to appear larger to predators.",
+      "These are the first recorded anti-predator behaviours documented in Indian frog species."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Scientists from Delhi University led by Prof. S.D. Biju documented unique anti-predator traits in two Indian frogs — *Xenophrys apatani* (Apatani Horned Toad) and *Clinotarsus curtipes* (Bicoloured Frog). The former uses inflation, distress calls, and biting, while the latter arches its body. These are the first such behavioural records among Indian frogs. Such studies enrich understanding of India’s amphibian behavioural ecology. [[Amphibian]], [[Anti-predator adaptation]]",
+    "tags": "Environment, Biodiversity, Science and Technology"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "The Constitution (130th Amendment) Bill seeks to amend which of the following Articles of the Indian Constitution?",
+    "statements": [
+      "Article 75 — relating to Union Council of Ministers",
+      "Article 164 — relating to State Council of Ministers",
+      "Article 239AA — relating to Special provisions for Delhi Government"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Constitution (130th Amendment) Bill, 2024 seeks to amend Articles 75, 164, and 239AA to disqualify Ministers (Union, State, and Delhi) who remain in custody for 30 consecutive days for offences punishable with imprisonment of five years or more. It aims to promote constitutional morality and accountability in governance. [[Article 75 of the Constitution of India]], [[Council of Ministers]]",
+    "tags": "Polity, Governance, Ethics in Public Life"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "According to the proposed Constitution (130th Amendment) Bill, a Minister automatically ceases to hold office if —",
+    "options": [
+      "He is convicted for a crime with imprisonment of more than 5 years.",
+      "He is under arrest for 30 consecutive days for an offence punishable with imprisonment of 5 years or more.",
+      "He is charge-sheeted in a corruption case.",
+      "He fails to declare his assets annually."
+    ],
+    "correct_option": "He is under arrest for 30 consecutive days for an offence punishable with imprisonment of 5 years or more.",
+    "explanation": "The Bill provides for automatic removal of a Minister if detained for 30 days continuously for offences carrying a punishment of at least five years. The President (for Union) or Governor (for State) will act accordingly. The intent is ethical governance, but critics warn of political misuse. [[Indian Constitution]], [[Article 164]]",
+    "tags": "Polity, Governance, Constitutional Amendments"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "With reference to India–Norway maritime cooperation, consider the following statements:",
+    "statements": [
+      "India and Norway have established a Joint Working Group on Maritime Cooperation.",
+      "The India–EFTA TEPA agreement includes provisions for maritime services and technology collaboration.",
+      "The partnership supports the International Maritime Organization’s Net-Zero Framework for Shipping."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The India–Norway partnership focuses on sustainable maritime growth. The Joint Working Group and India–EFTA TEPA (2024) facilitate cooperation in shipping, ship recycling, and green technologies. Both support IMO’s Net-Zero Shipping framework, highlighting shared environmental and technological goals. [[International Maritime Organization]], [[Blue economy]]",
+    "tags": "International Relations, Environment, Economy"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following initiatives are part of India–Norway maritime collaboration?",
+    "statements": [
+      "Maritime SheEO initiative for women inclusion",
+      "Cochin Shipyard–Wilson ASA vessel partnership",
+      "Joint R&D on ammonia-based fuels and hydrogen technology"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India–Norway maritime collaboration includes gender inclusion through the Maritime SheEO initiative, shipbuilding partnerships such as Cochin Shipyard–Wilson ASA, and green technology R&D including ammonia and hydrogen-based fuel systems. [[Maritime India Vision 2030]], [[Blue economy]]",
+    "tags": "International Relations, Women Empowerment, Environment"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "China’s WTO complaint against India’s Production Linked Incentive (PLI) scheme primarily alleges violation of which WTO principle?",
+    "options": [
+      "Most-Favoured-Nation (MFN) principle",
+      "National Treatment principle",
+      "Transparency principle",
+      "Reciprocity principle"
+    ],
+    "correct_option": "National Treatment principle",
+    "explanation": "China contends that India’s PLI schemes favour domestic goods by linking incentives to Domestic Value Addition (DVA), violating the National Treatment obligation under Article III.4 of GATT and TRIMs Agreement. [[World Trade Organization]], [[GATT]], [[TRIMs]]",
+    "tags": "Economy, International Relations, WTO"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following PLI schemes have been challenged by China at the WTO?",
+    "statements": [
+      "Advanced Chemistry Cell (ACC) Battery scheme",
+      "Auto & Auto Components scheme",
+      "Semiconductor and Display Manufacturing scheme"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "China’s WTO complaint targets India’s PLIs for Advanced Chemistry Cell batteries and Auto & Auto Components sectors, alleging they promote import substitution through DVA requirements. The semiconductor PLI is not part of the current dispute. [[Production Linked Incentive]], [[Subsidy (WTO)]]",
+    "tags": "Economy, Trade Policy, International Relations"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following correctly describe the current state of India’s sugar industry?",
+    "statements": [
+      "India is the second-largest producer of sugar in the world after Brazil.",
+      "Sugar exports have been banned since 2023–24 to prioritise ethanol production.",
+      "The Ethanol Blending Programme has achieved more than 11% blending ratio with petrol."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s sugar industry is the world’s second-largest after Brazil, with exports restricted since 2023–24 to divert cane for ethanol. Ethanol blending reached around 11.96% by early 2024, aligning with India’s 20% blending target by 2025–26. [[Ethanol Blending Programme]], [[Sugar industry in India]]",
+    "tags": "Economy, Agriculture, Energy"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following government measures are linked to supporting India’s sugar sector?",
+    "statements": [
+      "Fair and Remunerative Price (FRP) for sugarcane",
+      "Minimum Selling Price (MSP) for sugar",
+      "Ethanol Blending Programme (EBP)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The government supports the sugar sector through FRP for cane farmers, MSP for sugar, and the Ethanol Blending Programme which diverts cane juice and molasses towards ethanol. These help balance farmer income, mill liquidity, and energy goals. [[Fair and Remunerative Price]], [[Ethanol fuel]]",
+    "tags": "Agriculture, Economy, Renewable Energy"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Consider the following pairs regarding frog species and their regions:",
+    "statements": [
+      "Apatani Horned Toad – Arunachal Pradesh",
+      "Bicoloured Frog – Kerala",
+      "Golden-backed Frog – Sikkim"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Apatani Horned Toad (*Xenophrys apatani*) is found in Arunachal Pradesh, and the Bicoloured Frog (*Clinotarsus curtipes*) inhabits Kerala’s Western Ghats. The Golden-backed Frog is not part of the recent study. [[Frog]], [[Western Ghats]]",
+    "tags": "Environment, Biodiversity"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following correctly describes the key rationale behind the Constitution (130th Amendment) Bill, 2024?",
+    "statements": [
+      "To ensure ethical governance by preventing Ministers in custody from holding office.",
+      "To promote political accountability and constitutional morality.",
+      "To provide judicial power to remove Ministers after conviction."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Bill seeks to strengthen constitutional morality and ensure ethical governance by disqualifying Ministers who are in custody for 30 days. However, it does not vest judicial power to remove Ministers after conviction; that remains an executive and constitutional process. [[Indian Constitution]], [[Ethics in Public Administration]]",
+    "tags": "Polity, Governance, Ethics"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "With reference to India’s Ethanol Blending Programme (EBP), consider the following statements:",
+    "statements": [
+      "It aims for 20% blending of ethanol with petrol by 2025–26.",
+      "It helps reduce India’s crude oil import dependence.",
+      "It has no impact on sugar mill profitability."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The EBP targets 20% ethanol blending with petrol by 2025–26, promoting energy security and reducing oil imports. It significantly enhances sugar mill liquidity through diversion of excess cane towards ethanol, aiding financial sustainability. [[Ethanol fuel]], [[Energy security in India]]",
+    "tags": "Economy, Agriculture, Renewable Energy"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following correctly describes India’s defence and ecological diversity based on recent frog studies?",
+    "options": [
+      "India is home to over 400 frog species, but their behavioural ecology remains poorly documented.",
+      "Around 650 frog species globally are known to display anti-predator behaviours.",
+      "The Apatani Horned Toad was the first Indian frog recorded to bite as a defence mechanism.",
+      "All of the above"
+    ],
+    "correct_option": "All of the above",
+    "explanation": "India has over 419 frog species, though their behavioural ecology is less understood. Globally, about 650 species exhibit anti-predator traits. The Apatani Horned Toad is the first Indian frog recorded to bite in defence, highlighting unique evolutionary adaptation. [[Frog]], [[Biodiversity of India]]",
+    "tags": "Environment, Zoology, Science and Technology"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following provisions or cases are associated with the issue of arrest misuse and ministerial disqualification discussed under the Constitution (130th Amendment) Bill?",
+    "statements": [
+      "Joginder Kumar vs State of U.P. (1994)",
+      "Arnesh Kumar vs State of Bihar (2014)",
+      "Satender Kumar Antil vs CBI (2022)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Bill’s critics cite these cases where the Supreme Court limited arbitrary arrests. Joginder Kumar (1994), Arnesh Kumar (2014), and Satender Kumar Antil (2022) upheld that arrest must be justified and not automatic, highlighting the risk of political misuse of arrests. [[Indian judiciary]], [[Code of Criminal Procedure]]",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "The India–Norway partnership aligns with which of the following global and national frameworks for sustainable ocean governance?",
+    "statements": [
+      "International Maritime Organization’s Net-Zero Framework",
+      "Maritime India Vision 2030",
+      "Amrit Kaal Vision 2047"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The India–Norway maritime cooperation supports IMO’s Net-Zero framework for global shipping while aligning with India’s Maritime Vision 2030 and Amrit Kaal 2047, aiming for blue economy growth and maritime sustainability. [[International Maritime Organization]], [[Blue economy]]",
+    "tags": "Environment, International Relations, Maritime Economy"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Under WTO rules, which of the following subsidies are prohibited under Article 3 of the Agreement on Subsidies and Countervailing Measures (SCM)?",
+    "statements": [
+      "Export-linked subsidies",
+      "Import-substitution subsidies",
+      "R&D and infrastructure subsidies"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Under Article 3 of the WTO’s SCM Agreement, export-linked and import-substitution subsidies are prohibited as they distort trade. Infrastructure and R&D subsidies are permitted under non-actionable categories. [[World Trade Organization]], [[Subsidy (WTO)]]",
+    "tags": "Economy, International Trade, WTO"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following challenges have been highlighted in India’s sugar industry?",
+    "statements": [
+      "Cyclic overproduction and delayed farmer payments",
+      "High water consumption and stagnant sugar prices",
+      "Unpredictable policies on export and ethanol diversion"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s sugar industry faces recurring issues of overproduction, delayed payments, high water use (≈2000–2500 litres/kg sugar), stagnant prices, and inconsistent export and ethanol policies, threatening its long-term sustainability. [[Sugar industry in India]], [[Ethanol Blending Programme]]",
+    "tags": "Economy, Agriculture, Industry"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Consider the following regarding India’s bilateral maritime cooperation with Norway:",
+    "statements": [
+      "It includes training of seafarers under India–EFTA TEPA.",
+      "Norway supports the Maritime SheEO Initiative for gender inclusion.",
+      "Both countries have committed to achieving zero-emission shipping by 2050."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The India–Norway cooperation under TEPA covers seafarer training, women empowerment via Maritime SheEO, and support for IMO’s 2050 zero-emission target — reflecting a comprehensive approach to sustainable maritime development. [[Blue economy]], [[Maritime India Vision 2030]]",
+    "tags": "International Relations, Environment, Women Empowerment"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following correctly explains India’s defence under WTO in the PLI dispute?",
+    "statements": [
+      "PLI does not impose mandatory local content requirements.",
+      "Value addition can include R&D, design, and software development.",
+      "Several developed countries also use similar green industrial subsidies."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s defence asserts that the PLI scheme does not mandate local content use, as value addition includes design, R&D, or software. India also cites global precedents like the US and EU’s green industrial subsidies. [[Production Linked Incentive]], [[WTO subsidy rules]]",
+    "tags": "Economy, Trade Policy, International Relations"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following countries form the European Free Trade Association (EFTA) associated with India’s TEPA agreement?",
+    "statements": [
+      "Norway",
+      "Switzerland",
+      "Iceland",
+      "Liechtenstein"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4",
+      "2, 3 and 4 only"
+    ],
+    "correct_option": "1, 2, 3 and 4",
+    "explanation": "EFTA comprises Norway, Switzerland, Iceland, and Liechtenstein. The India–EFTA TEPA Agreement (effective October 2024) enhances trade and technology cooperation, particularly in green shipping and investment. [[EFTA]], [[Trade and Economic Partnership Agreement]]",
+    "tags": "International Relations, Economy, Trade Agreements"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following best describes the concept of 'Blue Economy' as discussed in the India–Norway partnership?",
+    "options": [
+      "Sustainable use of ocean resources for economic growth and improved livelihoods while maintaining ocean health.",
+      "Exclusive economic exploitation of marine resources by coastal nations.",
+      "Development of military infrastructure along coastal regions.",
+      "Expansion of deep-sea mining for rare earth minerals."
+    ],
+    "correct_option": "Sustainable use of ocean resources for economic growth and improved livelihoods while maintaining ocean health.",
+    "explanation": "The India–Norway maritime cooperation emphasises the 'Blue Economy' — sustainable use of ocean resources for economic growth, improved livelihoods, and environmental preservation. It aligns with global ocean governance principles. [[Blue economy]], [[Sustainable development]]",
+    "tags": "Environment, International Relations, Economy"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following pairs regarding India’s sugar-producing regions are correctly matched?",
+    "statements": [
+      "Northern India – Seasonal production with lower sucrose content",
+      "Southern India – Higher recovery rate due to tropical climate",
+      "Western India – Major ethanol production zone"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Northern India (UP, Bihar) has a shorter season with lower sucrose; Southern India (Maharashtra, Karnataka) benefits from tropical climate and high recovery; Western states like Maharashtra and Gujarat lead in ethanol production. [[Sugar industry in India]], [[Ethanol fuel]]",
+    "tags": "Agriculture, Economy, Industry"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following are potential ethical and constitutional issues associated with the Constitution (130th Amendment) Bill, 2024?",
+    "statements": [
+      "It violates the presumption of innocence until proven guilty.",
+      "It may lead to political misuse through arbitrary arrests.",
+      "It ensures fair judicial oversight in removal of Ministers."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Critics argue that automatic removal based on arrest (not conviction) violates the presumption of innocence and allows political misuse of arrest powers. The Bill lacks provisions for judicial oversight, raising concerns over separation of powers. [[Constitutional morality]], [[Separation of powers]]",
+    "tags": "Polity, Ethics, Governance"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Under WTO rules, what are 'Actionable Subsidies'?",
+    "options": [
+      "Subsidies that can be challenged if they adversely affect trade interests of other members.",
+      "Subsidies that are automatically prohibited under WTO law.",
+      "Subsidies related to exports and imports only.",
+      "Subsidies provided for public infrastructure and R&D."
+    ],
+    "correct_option": "Subsidies that can be challenged if they adversely affect trade interests of other members.",
+    "explanation": "Actionable subsidies under the WTO SCM Agreement are allowed but can be challenged if they cause adverse effects to another member’s trade. They differ from prohibited subsidies, which are banned outright. [[WTO]], [[Agreement on Subsidies and Countervailing Measures]]",
+    "tags": "Economy, International Relations, WTO"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following reflects India’s argument in defence of its PLI Scheme at the WTO?",
+    "options": [
+      "PLI incentives are not linked to local content but to overall value addition.",
+      "PLI is similar to globally accepted industrial promotion programs.",
+      "PLI promotes non-discriminatory investment incentives.",
+      "All of the above"
+    ],
+    "correct_option": "All of the above",
+    "explanation": "India maintains that PLIs reward value addition, not import substitution. It argues that similar industrial subsidies exist globally, including in the US and EU. Thus, PLIs are consistent with WTO norms. [[Production Linked Incentive]], [[WTO law]]",
+    "tags": "Economy, International Relations, Trade Policy"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following targets has Norway set under its Green Maritime Model?",
+    "statements": [
+      "50% reduction in domestic maritime emissions by 2030 (base year 2005)",
+      "Net-zero shipping by 2050",
+      "Promotion of battery-powered and ammonia-fuelled vessels"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Norway aims to cut maritime emissions by 50% by 2030 (from 2005 levels) and achieve net-zero by 2050. It pioneers green maritime technology through hydrogen, ammonia, and battery-powered vessels. [[Shipping emissions]], [[Renewable energy]]",
+    "tags": "Environment, International Relations, Technology"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements regarding sugarcane cultivation in India is/are correct?",
+    "statements": [
+      "It requires a hot and humid climate with 21°C–27°C temperature.",
+      "It thrives in regions with annual rainfall between 75–100 cm.",
+      "Deep fertile alluvial soil with good drainage is ideal for its growth."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Sugarcane grows best in hot and humid climates (21–27°C) with 75–100 cm rainfall and well-drained loamy or alluvial soils. Such conditions prevail in both tropical and subtropical zones of India. [[Sugarcane]], [[Agriculture in India]]",
+    "tags": "Agriculture, Geography, Economy"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following reflects India’s global position in the sugar sector as of 2024?",
+    "options": [
+      "Second-largest producer after Brazil",
+      "Largest consumer of sugar in the world",
+      "Major ethanol producer contributing to energy transition",
+      "All of the above"
+    ],
+    "correct_option": "All of the above",
+    "explanation": "India ranks second globally in sugar production after Brazil and is the largest consumer. It is increasingly diverting cane towards ethanol production under the Ethanol Blending Programme, supporting its clean energy transition. [[Sugar industry in India]], [[Ethanol Blending Programme]]",
+    "tags": "Economy, Agriculture, Renewable Energy"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following government initiatives or policies are associated with India's maritime development goals?",
+    "statements": [
+      "Maritime India Vision 2030",
+      "Amrit Kaal Vision 2047",
+      "SAGAR (Security and Growth for All in the Region)"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s maritime goals are aligned with Maritime India Vision 2030, Amrit Kaal Vision 2047, and SAGAR. These aim to strengthen port-led growth, maritime security, and blue economy integration. [[SAGAR initiative]], [[Blue economy]]",
+    "tags": "International Relations, Maritime Economy, Governance"
+  },
+  {
+    "date": "30",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following reflect the global implications of China’s WTO complaint against India’s PLI Scheme?",
+    "statements": [
+      "It highlights growing tensions over green industrial policies worldwide.",
+      "It mirrors similar disputes involving the US Inflation Reduction Act and EU Green Deal.",
+      "It challenges India’s right to promote domestic manufacturing under Atmanirbhar Bharat."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The case signifies global friction over industrial subsidies. Similar debates surround the US Inflation Reduction Act and EU Green Deal. It tests how India’s self-reliance measures align with global trade norms. [[World Trade Organization]], [[Industrial policy]]",
+    "tags": "Economy, International Relations, Trade Policy"
+  }
+]
