@@ -23,7 +23,15 @@ question/subjects/
 ```json
 {
   "id": "unique-identifier",           // Format: subject-book-chapter-qNumber
+  "date": "3",                         // Optional: Day of question (for daily practice tracking)
+  "month": "November",                 // Optional: Month name
+  "year": "2025",                      // Optional: Year
   "question": "Question text here",
+  "statements": [                      // Optional: For statement-based questions
+    "Statement 1 text",
+    "Statement 2 text",
+    "Statement 3 text"
+  ],
   "options": [
     "Option A text",
     "Option B text",
@@ -33,7 +41,7 @@ question/subjects/
   "correct_option": "Exact text of correct option",
   "explanation": "Detailed explanation with reasoning",
   "difficulty": "easy|medium|hard",
-  "tags": ["tag1", "tag2", "tag3"],    // For filtering and search
+  "tags": "tag1, tag2, tag3",          // Comma-separated tags for filtering
   "source": "Book name and chapter",
   "chapter": "Chapter name",
   "book": "Book name",
@@ -62,12 +70,87 @@ Examples:
 1. Open the JSON file for the chapter you studied
 2. Add your questions in the array format
 3. Ensure each question has a unique ID
+4. Add today's date using `date`, `month`, `year` fields (optional but recommended)
 
 ### Step 4: Update Metadata
 After adding questions, update `metadata.json`:
 - Increment the `questionCount` for that chapter
 - Update `totalQuestions` count
 - Update `lastUpdated` date
+
+## 📅 Date Tracking Feature
+
+Add `date`, `month`, and `year` fields to track when questions were added:
+
+**Benefits:**
+- 📊 Displays a calendar badge above questions in the quiz interface
+- 📈 Track daily practice progress and revision timeline
+- 🎯 Organize questions by preparation schedule
+- ✅ Optional fields - questions without dates still work normally
+
+**Example:**
+```json
+{
+  "id": "hist-ancient-ch1-q1",
+  "date": "3",
+  "month": "November", 
+  "year": "2025",
+  "question": "Who discovered Harappa?",
+  ...
+}
+```
+
+## 🔢 Question Format Variants
+
+### 1️⃣ Simple Question (Direct Answer)
+```json
+{
+  "id": "hist-ncert-ancient-ch1-q1",
+  "date": "3",
+  "month": "November",
+  "year": "2025",
+  "question": "Who discovered Harappa in 1921?",
+  "options": ["Daya Ram Sahni", "R.D. Banerji", "John Marshall", "Mortimer Wheeler"],
+  "correct_option": "Daya Ram Sahni",
+  "explanation": "Daya Ram Sahni discovered Harappa in 1921 during excavations...",
+  "tags": "Indus Valley Civilization, Ancient History, Archaeology",
+  "difficulty": "easy",
+  "importance": "high"
+}
+```
+
+### 2️⃣ Statement-Based Question (UPSC Style)
+```json
+{
+  "id": "sci-biotech-health-ch1-q1",
+  "date": "3",
+  "month": "November",
+  "year": "2025",
+  "question": "Consider the following statements about Nipah virus monoclonal antibodies:",
+  "statements": [
+    "India has successfully developed monoclonal antibodies for Nipah virus treatment",
+    "These mAbs are part of the 'Aatmanirbhar Bharat' initiative in healthcare",
+    "Clinical trials have shown 100% efficacy in preventing Nipah virus infection"
+  ],
+  "options": [
+    "Only 1 and 2",
+    "Only 2 and 3",
+    "Only 1 and 3",
+    "All of the above"
+  ],
+  "correct_option": "Only 1 and 2",
+  "explanation": "Statement 1 is correct: India developed Nipah mAbs...\nStatement 2 is correct: Part of Aatmanirbhar Bharat...\nStatement 3 is incorrect: Clinical trials are ongoing...",
+  "tags": "Health, Biotechnology, Aatmanirbhar Bharat",
+  "difficulty": "medium",
+  "importance": "high"
+}
+```
+
+**When to use statements:**
+- Multiple assertions to evaluate
+- "Which of the following is/are correct?"
+- UPSC Prelims-style questions
+- Complex topics requiring nuanced understanding
 
 ## 💡 Pro Tips
 

@@ -637,6 +637,14 @@
       const card = document.createElement('div');
       card.className = 'bg-white dark:bg-gray-800 shadow-soft rounded-2xl p-6 md:p-7 card-enter border border-amber-100 dark:border-amber-900/30';
 
+      // Show date metadata if available
+      if (q.date && q.month && q.year) {
+        const dateDiv = document.createElement('div');
+        dateDiv.className = 'flex items-center gap-2 mb-3 text-xs text-gray-500 dark:text-gray-400';
+        dateDiv.innerHTML = `<i class="fas fa-calendar-day text-amber-500"></i> <span>${q.date} ${q.month}, ${q.year}</span>`;
+        card.appendChild(dateDiv);
+      }
+
       const h = document.createElement('h3');
       h.className = 'text-lg font-semibold text-gray-800 dark:text-gray-100';
       h.textContent = `Q${idx + 1}. ${q.question}`;

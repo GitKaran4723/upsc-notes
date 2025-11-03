@@ -1,6 +1,9 @@
 [
   {
     "id": "hist-ancient-ch1-q1",
+    "date": "3",
+    "month": "November",
+    "year": "2025",
     "question": "Which of the following was the first major city of the Indus Valley Civilization to be discovered?",
     "options": [
       "Harappa",
@@ -11,7 +14,7 @@
     "correct_option": "Harappa",
     "explanation": "Harappa was the first site of the Indus Valley Civilization to be discovered in 1921 by Daya Ram Sahni. The civilization was initially termed the 'Harappan Civilization' after this site.",
     "difficulty": "easy",
-    "tags": ["Indus Valley", "Harappa", "Ancient India", "Archaeology"],
+    "tags": "Indus Valley, Harappa, Ancient India, Archaeology",
     "source": "NCERT Class 12 - The Story of the First Cities",
     "chapter": "The Story of the First Cities",
     "book": "NCERT Ancient India",
@@ -22,6 +25,9 @@
   },
   {
     "id": "hist-ancient-ch1-q2",
+    "date": "3",
+    "month": "November",
+    "year": "2025",
     "question": "The Great Bath found at Mohenjo-daro was most likely used for:",
     "options": [
       "Royal ceremonies and public bathing",
@@ -32,7 +38,7 @@
     "correct_option": "Ritual purification and religious ceremonies",
     "explanation": "The Great Bath at Mohenjo-daro is believed to have been used for ritual purification and religious ceremonies. Its construction with waterproof bricks, steps on both sides, and the presence of rooms around it suggest a special ritualistic purpose rather than ordinary bathing.",
     "difficulty": "medium",
-    "tags": ["Mohenjo-daro", "Great Bath", "Indus Valley", "Religious practices"],
+    "tags": "Mohenjo-daro, Great Bath, Indus Valley, Religious practices",
     "source": "NCERT Class 12 - The Story of the First Cities",
     "chapter": "The Story of the First Cities",
     "book": "NCERT Ancient India",
@@ -43,7 +49,15 @@
   },
   {
     "id": "hist-ancient-ch1-q3",
-    "question": "Which of the following statements about the Indus Valley script is/are correct?\n1. It has been completely deciphered.\n2. It was written from right to left.\n3. It contains about 400-450 basic signs.\n\nSelect the correct answer:",
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements about the Indus Valley script is/are correct?",
+    "statements": [
+      "It has been completely deciphered.",
+      "It was written from right to left.",
+      "It contains about 400-450 basic signs."
+    ],
     "options": [
       "1 and 2 only",
       "2 and 3 only",
@@ -53,7 +67,7 @@
     "correct_option": "2 and 3 only",
     "explanation": "The Indus script remains undeciphered to this day, making statement 1 incorrect. However, it was indeed written from right to left, and contains approximately 400-450 basic signs. The script appears on seals, pottery, and other artifacts but its language and meaning remain unknown.",
     "difficulty": "hard",
-    "tags": ["Indus Script", "Undeciphered scripts", "Ancient writing"],
+    "tags": "Indus Script, Undeciphered scripts, Ancient writing",
     "source": "NCERT Class 12 - The Story of the First Cities",
     "chapter": "The Story of the First Cities",
     "book": "NCERT Ancient India",

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "sci-biotech-ch1-q1",
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is the development of monoclonal antibodies (mAbs) against Nipah virus a strategic priority for India?",
+    "statements": [
+      "Nipah virus outbreaks recur frequently in India, especially in Kerala.",
+      "It aligns with the 'One Health' approach integrating human, animal, and environmental health.",
+      "It helps reduce import dependency in biopharmaceutical preparedness."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The initiative addresses recurring NiV outbreaks, integrates the One Health framework, and promotes self-reliance in biopharmaceuticals — crucial for India's biosecurity strategy. [[Nipah virus]], [[One Health]]",
+    "tags": "Health, Biotechnology, Aatmanirbhar Bharat",
+    "difficulty": "medium",
+    "source": "Current Affairs - November 2025",
+    "chapter": "Biotechnology and Health",
+    "book": "Science & Technology Current Affairs",
+    "dateAdded": "2025-11-03",
+    "importance": "high",
+    "previouslyAsked": false,
+    "notes": "Important for prelims 2026 - One Health approach is a key concept"
+  },
+  {
+    "id": "sci-biotech-ch1-q2",
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following statements about mRNA vaccines:",
+    "statements": [
+      "They contain weakened or inactivated parts of the virus.",
+      "They instruct cells to produce a protein that triggers an immune response.",
+      "They can be developed faster than traditional vaccines."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "mRNA vaccines do not contain any viral particles (statement 1 is incorrect). They work by providing instructions (mRNA) to cells to produce a specific protein that triggers an immune response. This technology allows for rapid development compared to traditional vaccine methods.",
+    "tags": "Biotechnology, Vaccines, COVID-19, Health",
+    "difficulty": "medium",
+    "source": "NCERT Biology Class 12 + Current Affairs",
+    "chapter": "Biotechnology and Health",
+    "book": "Science & Technology",
+    "dateAdded": "2025-11-03",
+    "importance": "high",
+    "previouslyAsked": true,
+    "notes": "Remember: mRNA vaccines DO NOT contain live/dead virus particles"
+  },
+  {
+    "id": "sci-biotech-ch1-q3",
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "What is the primary advantage of the 'One Health' approach in disease management?",
+    "options": [
+      "It focuses exclusively on human health interventions",
+      "It integrates human, animal, and environmental health perspectives",
+      "It prioritizes veterinary medicine over human healthcare",
+      "It separates wildlife conservation from public health"
+    ],
+    "correct_option": "It integrates human, animal, and environmental health perspectives",
+    "explanation": "The One Health approach recognizes that human health, animal health, and environmental health are interconnected. This holistic perspective is crucial for managing zoonotic diseases (diseases that spread between animals and humans) like Nipah virus, Ebola, and COVID-19. It promotes collaborative efforts across disciplines to achieve better health outcomes.",
+    "tags": "One Health, Zoonotic diseases, Public health, Environment",
+    "difficulty": "easy",
+    "source": "Current Affairs - WHO Guidelines",
+    "chapter": "Biotechnology and Health",
+    "book": "Science & Technology",
+    "dateAdded": "2025-11-03",
+    "importance": "high",
+    "previouslyAsked": false,
+    "notes": "One Health = Human + Animal + Environment health integration"
+  }
+]

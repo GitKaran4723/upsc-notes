@@ -15,7 +15,7 @@
             {
               "id": "ch1",
               "name": "The Story of the First Cities",
-              "questionCount": 0
+              "questionCount": 3
             },
             {
               "id": "ch2",
@@ -307,11 +307,23 @@
               "questionCount": 0
             }
           ]
+        },
+        {
+          "id": "biotech-health",
+          "name": "Biotechnology & Health",
+          "author": "Current Affairs & Science Notes",
+          "chapters": [
+            {
+              "id": "ch1",
+              "name": "Recent Developments in Healthcare",
+              "questionCount": 3
+            }
+          ]
         }
       ]
     }
   ],
-  "lastUpdated": "2025-10-09",
-  "totalQuestions": 0,
+  "lastUpdated": "2025-11-03",
+  "totalQuestions": 6,
   "version": "1.0.0"
 }
