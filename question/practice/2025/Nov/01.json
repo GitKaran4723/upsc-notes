@@ -1,0 +1,537 @@
+[
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "The recently launched GSAT-7R satellite by ISRO primarily serves which of the following purposes?",
+    "statements": [
+      "It provides advanced communication support to the Indian Navy.",
+      "It enables real-time maritime surveillance in the Indian Ocean Region.",
+      "It is India’s first satellite placed in Sun-Synchronous Orbit."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "GSAT-7R (CMS-03) is India’s heaviest indigenous communication satellite (~4,400 kg) designed to enhance secure naval communication and maritime domain awareness. It operates in geostationary orbit and not in a Sun-Synchronous Orbit. [[GSAT-7]]",
+    "tags": "Science and Technology, Defence, Space"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to LVM3 (Launch Vehicle Mark-3), consider the following statements:",
+    "statements": [
+      "It can carry payloads up to 8 tonnes to Low Earth Orbit (LEO).",
+      "It uses both solid and cryogenic stages.",
+      "It was used for launching Chandrayaan-3 and Gaganyaan test missions."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "LVM3 (earlier GSLV Mk III) is India’s most powerful rocket. It uses a three-stage system—solid boosters, liquid core, and cryogenic upper stage—and has successfully launched Chandrayaan-3 and Gaganyaan test flights. [[LVM3]]",
+    "tags": "Science and Technology, Space, ISRO"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is the launch of GSAT-7R considered significant for India’s strategic autonomy?",
+    "options": [
+      "It reduces dependence on foreign launch vehicles for heavy payloads.",
+      "It enables India to join the Artemis lunar exploration program.",
+      "It allows India to use foreign satellites for defence communication.",
+      "It helps integrate with European defence satellite networks."
+    ],
+    "correct_option": "It reduces dependence on foreign launch vehicles for heavy payloads.",
+    "explanation": "The GSAT-7R launch demonstrates India’s ability to independently launch heavy satellites using LVM3, marking a move towards defence space self-reliance and reducing dependence on foreign launchers like Arianespace. [[Ariane 5]]",
+    "tags": "Defence, Space, Aatmanirbhar Bharat"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Karnataka’s proposed State Water Commission will be modelled on which central institution?",
+    "options": [
+      "Central Water Commission",
+      "Central Ground Water Board",
+      "NITI Aayog",
+      "Ministry of Jal Shakti"
+    ],
+    "correct_option": "Central Water Commission",
+    "explanation": "The proposed Karnataka State Water Commission will function as a state-level equivalent of the Central Water Commission, providing technical advice and dispute management on water resources. [[Central Water Commission]]",
+    "tags": "Governance, Environment, Federalism"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following functions will the Karnataka State Water Commission perform?",
+    "statements": [
+      "Advise on inter-state water disputes.",
+      "Recommend crop patterns based on water availability.",
+      "Conduct river interlinking projects independently."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Commission’s role includes advising the government on disputes and rational water use but not executing river interlinking projects, which require central coordination. [[Inter-state water dispute]]",
+    "tags": "Governance, Environment, Agriculture"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "‘Exercise Trishul 2025’ aims to enhance which of the following aspects?",
+    "statements": [
+      "Joint combat preparedness of Army, Navy, and Air Force.",
+      "Use of foreign weapons systems for operational readiness.",
+      "Network-centric warfare capabilities."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Exercise Trishul 2025 focuses on jointness among the three services and strengthening network-centric warfare, emphasizing indigenous technology rather than foreign systems. [[Indian Armed Forces]]",
+    "tags": "Defence, Internal Security, Joint Operations"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Exercise Trishul 2025 was primarily conducted in which of the following regions?",
+    "options": [
+      "Eastern Himalayas and Bay of Bengal",
+      "Creek and desert sectors of Rajasthan and Gujarat and the Northern Arabian Sea",
+      "Central India and Andaman Sea",
+      "North Eastern plains and Bay of Bengal"
+    ],
+    "correct_option": "Creek and desert sectors of Rajasthan and Gujarat and the Northern Arabian Sea",
+    "explanation": "The tri-service Exercise Trishul 2025 was held across Rajasthan–Gujarat sectors and the northern Arabian Sea to test joint operations across land and maritime theatres. [[Arabian Sea]]",
+    "tags": "Defence, Geography, Security"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following wetlands in Assam has been proposed for Ramsar Site recognition in 2025?",
+    "options": [
+      "Deepor Beel",
+      "Rowmari–Donduwa Wetland Complex",
+      "Majuli Wetland System",
+      "Chilika Lagoon"
+    ],
+    "correct_option": "Rowmari–Donduwa Wetland Complex",
+    "explanation": "The Rowmari–Donduwa Wetland Complex in Laokhowa Wildlife Sanctuary, Assam, has been proposed for Ramsar status due to its high bird diversity and ecological connectivity. [[Ramsar Convention]]",
+    "tags": "Environment, Biodiversity, Geography"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the Ramsar Convention?",
+    "statements": [
+      "It is an international treaty for wetland conservation signed in 1971 at Ramsar, Iran.",
+      "India is a founding member of the Ramsar Convention.",
+      "As of 2025, India has the largest number of Ramsar sites in the world."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Ramsar Convention (1971) focuses on conservation and wise use of wetlands. India joined in 1982 and currently has the largest network in Asia, not globally. [[Ramsar Convention]]",
+    "tags": "Environment, International Conventions"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following species recorded in the Rowmari–Donduwa Wetland Complex are considered globally threatened?",
+    "statements": [
+      "Knob-billed duck",
+      "Ferruginous pochard",
+      "Indian skimmer"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Rowmari–Donduwa wetlands host globally threatened species like the Knob-billed Duck and Ferruginous Pochard, as per the 6th Kaziranga Waterbird Census 2024. [[Ferruginous pochard]]",
+    "tags": "Environment, Biodiversity, Ecology"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Gogabeel Lake, recently designated as India’s 94th Ramsar Site, is located in which of the following states?",
+    "options": [
+      "Odisha",
+      "Bihar",
+      "West Bengal",
+      "Assam"
+    ],
+    "correct_option": "Bihar",
+    "explanation": "Gogabeel Lake is located in Katihar district of Bihar. It is Bihar’s first community reserve and sixth Ramsar Site, recognized in November 2025 under the Ramsar Convention. [[Gogabeel Lake]]",
+    "tags": "Environment, Geography, Biodiversity"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following statements about Gogabeel Lake:",
+    "statements": [
+      "It is an oxbow lake formed by the meandering of Ganga and Mahananda rivers.",
+      "It has been declared as Bihar’s first community reserve under the Wildlife (Protection) Act, 1972.",
+      "It lies within the boundaries of the Valmiki Tiger Reserve."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Gogabeel Lake is an oxbow lake formed by the Ganga and Mahananda rivers in Katihar district. It is Bihar’s first community reserve but not part of the Valmiki Tiger Reserve. [[Oxbow lake]]",
+    "tags": "Environment, Ecology, Geography"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following ecological functions are performed by Gogabeel Lake?",
+    "statements": [
+      "Acts as a floodplain wetland storing excess monsoon water.",
+      "Supports migratory bird species along the Central Asian Flyway.",
+      "Serves as a natural carbon sink mitigating climate change."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Gogabeel Lake serves multiple ecological roles — flood regulation, bird habitat, and carbon storage — making it vital for biodiversity and climate resilience. [[Wetlands of India]]",
+    "tags": "Environment, Biodiversity, Climate Change"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "As of 2025, which of the following statements about India’s Ramsar Sites is correct?",
+    "options": [
+      "India has the largest number of Ramsar sites in the world.",
+      "India ranks third globally after the UK and Mexico in number of Ramsar sites.",
+      "India joined the Ramsar Convention in 1971 as a founding member.",
+      "Tamil Nadu has the fewest Ramsar sites among Indian states."
+    ],
+    "correct_option": "India ranks third globally after the UK and Mexico in number of Ramsar sites.",
+    "explanation": "India ranks third globally after the UK and Mexico with 94 Ramsar sites as of 2025, covering about 13.6 lakh hectares. Tamil Nadu has the highest number of sites (16). [[Ramsar Convention]]",
+    "tags": "Environment, International Conventions"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements best defines a Ramsar Site?",
+    "options": [
+      "A site recognized for its geological uniqueness under UNESCO.",
+      "A wetland of international importance designated under the Ramsar Convention (1971).",
+      "A globally endangered ecosystem identified by IUCN.",
+      "A transboundary biosphere reserve under UNEP supervision."
+    ],
+    "correct_option": "A wetland of international importance designated under the Ramsar Convention (1971).",
+    "explanation": "A Ramsar Site is a wetland of international importance, recognized under the Ramsar Convention signed in 1971 at Ramsar, Iran. [[Ramsar Convention]]",
+    "tags": "Environment, Ecology, International Conventions"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which organization has recently invited Indian companies to develop monoclonal antibodies against the Nipah virus?",
+    "options": [
+      "Indian Council of Medical Research (ICMR)",
+      "National Centre for Disease Control (NCDC)",
+      "All India Institute of Medical Sciences (AIIMS)",
+      "National Institute of Virology (NIV)"
+    ],
+    "correct_option": "Indian Council of Medical Research (ICMR)",
+    "explanation": "The Indian Council of Medical Research (ICMR) has invited Expression of Interest from Indian companies to develop indigenous monoclonal antibodies against the Nipah virus. [[ICMR]]",
+    "tags": "Health, Science and Technology, Biotechnology"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following statements regarding the Nipah virus (NiV):",
+    "statements": [
+      "It is a zoonotic virus transmitted from bats to humans.",
+      "Its case fatality rate is generally below 10%.",
+      "There is no licensed vaccine available against it."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Nipah virus is a zoonotic virus with fruit bats as its reservoir. It causes encephalitis and respiratory illness with a high fatality rate (40–75%) and no licensed vaccine. [[Nipah virus]]",
+    "tags": "Health, Science, Epidemiology"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "What are monoclonal antibodies (mAbs)?",
+    "options": [
+      "Antibodies derived from multiple immune cells to enhance immunity.",
+      "Laboratory-made proteins that mimic immune system response to pathogens.",
+      "A type of vaccine made using weakened viruses.",
+      "RNA-based molecules that trigger antibody response."
+    ],
+    "correct_option": "Laboratory-made proteins that mimic immune system response to pathogens.",
+    "explanation": "Monoclonal antibodies are laboratory-engineered proteins that imitate the immune system’s natural ability to target viruses or cancer cells. They are used in therapies like COVID-19 and Ebola. [[Monoclonal antibody]]",
+    "tags": "Science and Technology, Health, Biotechnology"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "The ICMR–NIV initiative on monoclonal antibodies against Nipah virus aims to achieve which of the following?",
+    "statements": [
+      "Develop a ready stockpile of antibodies for emergency use.",
+      "Enable post-exposure prophylaxis and therapeutic interventions.",
+      "Reduce India’s dependence on imported biologics."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "ICMR’s initiative seeks to indigenously develop monoclonal antibodies to strengthen health preparedness, enable post-exposure prophylaxis, and minimize dependence on foreign biologics. [[NIV Pune]]",
+    "tags": "Health, Science and Tech, Aatmanirbhar Bharat"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is correctly matched with its function?",
+    "statements": [
+      "ICMR – Biomedical research and epidemic preparedness",
+      "NIV Pune – Virology and vaccine development",
+      "WHO – Administration of national vaccine drives"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "ICMR is India’s apex body for biomedical research under the Ministry of Health, while NIV Pune is its premier virus research institute. WHO coordinates global health policy, not national vaccine administration. [[ICMR]], [[National Institute of Virology]]",
+    "tags": "Health, Science Administration, Governance"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following Indian defence exercises aims at enhancing tri-services jointness and interoperability similar to Exercise Trishul 2025?",
+    "options": [
+      "Gagan Shakti",
+      "Vayu Shakti",
+      "Dakshin Shakti",
+      "All of the above"
+    ],
+    "correct_option": "All of the above",
+    "explanation": "Exercises like Gagan Shakti, Vayu Shakti, and Dakshin Shakti are large-scale joint training operations that improve inter-service coordination and combat preparedness, similar to Trishul 2025. [[Indian Armed Forces]]",
+    "tags": "Defence, Internal Security, Military Exercises"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements about network-centric warfare is/are correct?",
+    "statements": [
+      "It focuses on integrating all combat platforms through real-time data sharing.",
+      "It is based on the principle of decentralised command and control.",
+      "It relies heavily on secure satellite and communication systems."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Network-centric warfare enables real-time communication between units using satellite and data networks but operates under centralized command structures for coordinated responses. [[Network-centric warfare]]",
+    "tags": "Defence, Science and Technology, Internal Security"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following satellites are part of India’s defence communication network?",
+    "statements": [
+      "GSAT-7 (Rukmini)",
+      "GSAT-7A",
+      "GSAT-7R"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India’s defence communication network includes GSAT-7 for the Navy, GSAT-7A for the Air Force, and the newly launched GSAT-7R for advanced naval communication. [[GSAT-7]]",
+    "tags": "Defence, Space Technology, Science and Technology"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly differentiates between Geostationary Orbit and Geosynchronous Orbit?",
+    "options": [
+      "A geostationary orbit lies directly above the equator, whereas a geosynchronous orbit can be inclined.",
+      "Both orbits are non-repeating and used for polar observation.",
+      "Geostationary satellites have shorter orbital periods than geosynchronous ones.",
+      "Both terms are identical and used interchangeably in all contexts."
+    ],
+    "correct_option": "A geostationary orbit lies directly above the equator, whereas a geosynchronous orbit can be inclined.",
+    "explanation": "A geostationary orbit is a special case of a geosynchronous orbit, with zero inclination and an orbital period matching Earth’s rotation, keeping the satellite fixed above one point. [[Geostationary orbit]]",
+    "tags": "Science and Technology, Space, Geography"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are advantages of India’s LVM3 launch vehicle over previous GSLV variants?",
+    "statements": [
+      "Capability to launch over 4 tonnes to GTO.",
+      "Indigenous cryogenic upper stage C25.",
+      "Reusable launch system similar to SpaceX Falcon 9."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "LVM3 is India’s most powerful operational launcher with a payload capacity exceeding 4 tonnes to GTO and features an indigenously developed cryogenic stage, but it is not reusable. [[LVM3]]",
+    "tags": "Science and Technology, Space, ISRO"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes the Defence Space Agency (DSA)?",
+    "options": [
+      "A civilian space exploration body under ISRO.",
+      "A tri-service agency responsible for integrating space assets for defence applications.",
+      "An international organization coordinating satellite launches.",
+      "A private consortium under IN-SPACe for commercial satellite use."
+    ],
+    "correct_option": "A tri-service agency responsible for integrating space assets for defence applications.",
+    "explanation": "The Defence Space Agency (DSA) was established to coordinate India’s space-based military capabilities across the Army, Navy, and Air Force. [[Defence Space Agency]]",
+    "tags": "Defence, Space Policy, Internal Security"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are correctly matched with their primary focus?",
+    "statements": [
+      "RISAT series – Radar Imaging and Reconnaissance",
+      "EMISAT – Electronic Intelligence",
+      "Cartosat series – Communications Support"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "RISAT provides radar imaging for reconnaissance, while EMISAT focuses on electronic intelligence. Cartosat, however, is used for mapping and cartography, not communication. [[RISAT]]",
+    "tags": "Defence, Space, Science and Tech"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of wetland conservation in India, which of the following laws provides the legal framework for protection of wetlands?",
+    "options": [
+      "Environmental Protection Act, 1986",
+      "Wetlands (Conservation and Management) Rules, 2017",
+      "Biological Diversity Act, 2002",
+      "Forest Conservation Act, 1980"
+    ],
+    "correct_option": "Wetlands (Conservation and Management) Rules, 2017",
+    "explanation": "The Wetlands (Conservation and Management) Rules, 2017 under the Environment Protection Act provide legal protection, prohibit reclamation, and ensure wise use of wetlands. [[Wetlands (Conservation and Management) Rules, 2017]]",
+    "tags": "Environment, Governance, Ecology"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly explains the ecological role of wetlands?",
+    "statements": [
+      "They act as carbon sinks and regulate local climate.",
+      "They reduce the impact of floods and droughts.",
+      "They have no role in groundwater recharge."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Wetlands act as carbon sinks, help control floods, recharge groundwater, and support biodiversity — making them vital for climate and water regulation. [[Wetlands of India]]",
+    "tags": "Environment, Ecology, Climate Change"
+  },
+  {
+    "date": "3",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is the development of monoclonal antibodies (mAbs) against Nipah virus a strategic priority for India?",
+    "statements": [
+      "Nipah virus outbreaks recur frequently in India, especially in Kerala.",
+      "It aligns with the ‘One Health’ approach integrating human, animal, and environmental health.",
+      "It helps reduce import dependency in biopharmaceutical preparedness."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The initiative addresses recurring NiV outbreaks, integrates the One Health framework, and promotes self-reliance in biopharmaceuticals — crucial for India’s biosecurity strategy. [[Nipah virus]], [[One Health]]",
+    "tags": "Health, Biotechnology, Aatmanirbhar Bharat"
+  }
+]
