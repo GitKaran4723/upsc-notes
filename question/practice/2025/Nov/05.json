@@ -1,0 +1,603 @@
+[
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Pilia malenadu, recently discovered in Karnataka, belongs to which biological group?",
+    "statements": [
+      "It is a new species of jumping spider discovered in the Western Ghats.",
+      "It was found only on Memecylon plant species, indicating habitat specificity.",
+      "It marks the first discovery of a Pilia species after more than a century."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Pilia malenadu is a new species of jumping spider (family Salticidae) discovered in Madhugundi village, Chikkamagaluru, Karnataka. It is the first Pilia species found after 123 years and is restricted to Memecylon plants, showing strong habitat specificity. Published in Zootaxa, it highlights Western Ghats’ rich biodiversity. [[Jumping spider]] [[Western Ghats]] [[Biodiversity hotspot]]",
+    "tags": "Environment, Ecology, Biodiversity, Science and Technology"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following statements regarding the Surrogacy (Regulation) Act, 2021:",
+    "statements": [
+      "The Act permits only altruistic surrogacy and prohibits commercial surrogacy.",
+      "Married couples with one child are not eligible for surrogacy, except in special medical conditions.",
+      "Surrogacy is a fundamental right under Article 21 of the Constitution."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Surrogacy (Regulation) Act, 2021 allows only altruistic surrogacy and bans commercial surrogacy. Couples with one child can use surrogacy only if the child is disabled or terminally ill. However, surrogacy is a statutory, not a fundamental, right. The Supreme Court is reviewing this restriction. [[Surrogacy in India]] [[Article 21]]",
+    "tags": "Polity, Governance, Social Justice, Ethics"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "The BRICS Cross-Border Payments Initiative (BRICS Pay) aims to:",
+    "statements": [
+      "Facilitate trade settlements among BRICS countries in local currencies.",
+      "Act as an alternative to the SWIFT system dominated by G10 countries.",
+      "Integrate payment systems like UPI, CIPS, SPFS, and Pix."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "BRICS Pay is a digital cross-border payment initiative launched to reduce dependence on the U.S. dollar and SWIFT. It seeks to integrate national systems—India’s UPI, China’s CIPS, Russia’s SPFS, and Brazil’s Pix—for local currency trade settlements. [[BRICS]] [[SWIFT]] [[UPI]]",
+    "tags": "Economy, International Relations, Science and Tech"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the Green India Mission (GIM)?",
+    "statements": [
+      "It is one of the eight missions under the National Action Plan on Climate Change (NAPCC).",
+      "It aims to restore 25 million hectares of degraded land by 2030.",
+      "It is fully funded through the CAMPA Fund."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Green India Mission (2010) under the NAPCC aims to enhance forest and tree cover and restore 25 million hectares by 2030. It is only partially supported by the CAMPA Fund. It aligns with India’s climate goals and carbon sink targets. [[Green India Mission]] [[CAMPA Fund]] [[NAPCC]]",
+    "tags": "Environment, Climate Change, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are major gaps identified in India’s afforestation strategy under the revised Green India Mission?",
+    "statements": [
+      "Lack of community participation in plantation drives.",
+      "Over-reliance on monoculture species affecting biodiversity.",
+      "Effective utilization of the CAMPA Fund."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Green India Mission faces gaps such as poor community participation and ecological design issues due to monoculture species like Eucalyptus. CAMPA funds remain underutilized, hindering forest restoration. [[CAMPA]] [[Afforestation in India]] [[Forest Rights Act 2006]]",
+    "tags": "Environment, Governance, Ecology"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements is correct regarding the concept of 'Economics of Language' discussed in India’s language policy?",
+    "statements": [
+      "A language survives when it generates economic and livelihood opportunities.",
+      "Digital extinction of languages is a form of economic marginalization.",
+      "AI models can help revive endangered languages through large digital corpora."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The concept of 'Economics of Language' highlights that a language survives if it provides socio-economic utility. In the digital era, lack of online presence leads to digital extinction. AI tools like the Bhashini project aim to digitize and revive Indian languages. [[Language policy in India]] [[Digital linguistics]]",
+    "tags": "Culture, Society, Governance, Science and Technology"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following Indian initiatives uses AI for multilingual real-time translation?",
+    "statements": [
+      "Bhashini",
+      "eSanjeevani",
+      "IndiaAI Mission"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The ‘Bhashini’ Project is India’s multilingual real-time translation platform developed under the National Language Translation Mission. It aims to promote linguistic diversity and inclusivity through AI tools. [[Bhashini]] [[AI in India]]",
+    "tags": "Science and Technology, Culture, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to linguistic diversity in India, consider the following statements:",
+    "statements": [
+      "India currently recognizes 22 scheduled languages under the Eighth Schedule.",
+      "Assamese was declared a classical language in 2024.",
+      "NEP 2020 promotes multilingual education in schools."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India recognizes 22 scheduled languages under the Eighth Schedule. Assamese became the 7th classical language in 2024. NEP 2020 promotes multilingual and mother-tongue-based education to preserve linguistic diversity. [[Assamese language]] [[NEP 2020]] [[Indian languages]]",
+    "tags": "Culture, Education, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describe the recent trends discussed in 'Celebrating and Conserving Languages'?",
+    "statements": [
+      "AI-driven text generation poses a threat to literary creativity.",
+      "Short-form digital communication reduces linguistic richness.",
+      "Economic irrelevance is a major cause of language extinction."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The article highlights that AI-generated content and social media brevity threaten literary depth. Economic irrelevance accelerates linguistic death (linguicide). Preservation requires economic, digital, and cultural empowerment. [[Linguicide]] [[Artificial intelligence]] [[Digital culture]]",
+    "tags": "Culture, Society, Science and Tech, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which constitutional and policy provisions safeguard linguistic diversity in India?",
+    "statements": [
+      "Article 29(1) protects minorities’ cultural and linguistic rights.",
+      "Articles 350A–B ensure primary education in the mother tongue.",
+      "The Sahitya Akademi and CIIL are institutional mechanisms for language preservation."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Linguistic rights are protected under Articles 29(1) and 350A–B of the Constitution. NEP 2020 furthers this goal. Institutions like the Sahitya Akademi and CIIL work toward language research and preservation. [[Indian Constitution]] [[Sahitya Akademi]] [[CIIL]]",
+    "tags": "Polity, Culture, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes the ecological insight derived from the discovery of Pilia malenadu?",
+    "statements": [
+      "It indicates habitat specificity of certain fauna dependent on native flora.",
+      "It demonstrates how deforestation can cause extinction of microhabitat species.",
+      "It shows that spiders of the Salticidae family are highly adaptable to diverse environments."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Pilia malenadu’s discovery in Western Ghats highlights that specific fauna depend on native flora like Memecylon plants. It warns that destruction of local plant species can lead to extinction of microhabitat-dependent species. This shows ecological interdependence and the importance of conserving biodiversity hotspots. [[Western Ghats]] [[Habitat specificity]] [[Biodiversity conservation]]",
+    "tags": "Environment, Ecology, Biodiversity"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "The Supreme Court’s current review of the Surrogacy (Regulation) Act, 2021 primarily deals with which constitutional principle?",
+    "statements": [
+      "Right to reproductive autonomy under Article 21",
+      "Reasonable restrictions under Article 19",
+      "Equality before law under Article 14"
+    ],
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The challenge to the Surrogacy Act centers around Article 21 (personal liberty and reproductive autonomy) and Article 14 (equality before law), as the law restricts couples with one child from surrogacy. The debate is whether such restriction is constitutionally reasonable. [[Article 21]] [[Article 14]] [[Right to privacy]]",
+    "tags": "Polity, Governance, Social Issues, Constitution"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following was identified as a potential challenge to the BRICS Pay initiative?",
+    "statements": [
+      "Lack of interoperability among national payment systems",
+      "Trust deficit among BRICS members",
+      "Technological dominance of Western economies in financial messaging"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "BRICS Pay faces challenges like integrating diverse systems (UPI, CIPS, SPFS), building trust among politically diverse members, and overcoming Western control of financial networks like SWIFT. [[BRICS Pay]] [[SWIFT]] [[Financial sovereignty]]",
+    "tags": "Economy, International Relations, Technology"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which country’s national payment systems form the technical foundation of BRICS Pay?",
+    "statements": [
+      "India’s UPI",
+      "China’s CIPS",
+      "Russia’s SPFS",
+      "Brazil’s Pix"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4",
+      "2, 3 and 4 only"
+    ],
+    "correct_option": "1, 2, 3 and 4",
+    "explanation": "BRICS Pay integrates India’s UPI, China’s CIPS, Russia’s SPFS, and Brazil’s Pix systems to enable local-currency cross-border settlements, symbolizing a multipolar global finance framework. [[UPI]] [[CIPS]] [[SPFS]] [[Pix]]",
+    "tags": "Economy, International Relations, Digital Finance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is a core target of India’s revised Green India Mission (GIM)?",
+    "statements": [
+      "Restoration of 25 million hectares of degraded land by 2030",
+      "Creation of additional carbon sink of 2.5–3 billion tonnes CO₂ equivalent",
+      "Full financing through the National Clean Energy Fund"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The GIM aims to restore 25 million hectares of degraded land and generate a carbon sink of 2.5–3 billion tonnes of CO₂ equivalent by 2030. It is funded by multiple sources, including CAMPA, not solely by the Clean Energy Fund. [[Green India Mission]] [[Climate change policy]]",
+    "tags": "Environment, Climate Change, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "What is the key finding of the IIT Kharagpur–IIT Bombay study on India’s forests (2025)?",
+    "statements": [
+      "Dense forests show a 12% decline in photosynthetic efficiency.",
+      "Forest area has decreased substantially due to deforestation.",
+      "Increase in CO₂ concentration is improving forest productivity."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The study found that while India’s forest area expanded slightly, dense forests showed a 12% decline in photosynthetic efficiency due to rising temperature and soil moisture stress. [[Photosynthesis]] [[Forest ecology]] [[Climate change impact]]",
+    "tags": "Environment, Ecology, Science and Technology"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following State initiatives are correctly matched with their afforestation or restoration efforts?",
+    "statements": [
+      "Tamil Nadu – Doubled mangrove cover in three years",
+      "Himachal Pradesh – Biochar program for carbon credits",
+      "Uttar Pradesh – Panchayat-led carbon market plantation initiative"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Tamil Nadu expanded mangrove cover, Himachal Pradesh initiated biochar-based carbon credits, and Uttar Pradesh engaged panchayats in carbon market-linked plantation drives. [[Mangroves]] [[Carbon credit]] [[Afforestation]]",
+    "tags": "Environment, Governance, Climate Change"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following laws provide legal backing to community rights in India’s forest restoration efforts?",
+    "statements": [
+      "Forest Rights Act, 2006",
+      "Compensatory Afforestation Fund Act, 2016",
+      "Biological Diversity Act, 2002"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Forest Rights Act, 2006 empowers Gram Sabhas in forest management, while CAMPA Act, 2016 governs the afforestation fund. The Biological Diversity Act deals with conservation but not directly with afforestation funding. [[Forest Rights Act 2006]] [[CAMPA]]",
+    "tags": "Environment, Governance, Law"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "What does the concept ‘Forests as Future Capital’ signify in India’s environmental policy context?",
+    "statements": [
+      "Forests are central to achieving carbon neutrality by 2070.",
+      "They link climate resilience with rural livelihood and biodiversity.",
+      "They primarily serve as industrial timber resources."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The idea of ‘Forests as Future Capital’ represents integrating forests into India’s economic, climate, and livelihood frameworks—key to Net Zero 2070 and Viksit Bharat 2047. It goes beyond timber economics. [[Net Zero 2070]] [[Forest economy]]",
+    "tags": "Environment, Economy, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following measures can enhance transparency and accountability in India’s afforestation programs?",
+    "statements": [
+      "Use of digital dashboards to track fund utilization and tree survival rates.",
+      "Linking afforestation projects with carbon credit markets.",
+      "Replacing native species with high-yield exotic plants for faster carbon sequestration."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Digital transparency tools and integration with carbon markets can enhance accountability. However, replacing native species with exotics like Eucalyptus harms biodiversity and sustainability. [[Carbon markets]] [[Transparency in governance]]",
+    "tags": "Environment, Governance, Climate Policy"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements is correct regarding India’s strategy for achieving carbon neutrality by 2070?",
+    "statements": [
+      "Forests and soil carbon sinks are integral to India’s long-term decarbonization pathway.",
+      "Carbon Capture and Storage (CCS) technologies will play a larger role than natural sinks.",
+      "The strategy focuses exclusively on the energy sector."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "India’s net-zero strategy emphasizes natural carbon sinks like forests and soil carbon, coupled with renewable energy transitions. While CCS may supplement it, the focus is not exclusively on the energy sector. [[Net Zero Emissions]] [[Carbon sequestration]] [[Paris Agreement]]",
+    "tags": "Environment, Economy, Climate Policy"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is true about India’s participation in the BRICS Pay system?",
+    "statements": [
+      "It allows direct trade settlement between BRICS members in their respective national currencies.",
+      "It operates under the supervision of the International Monetary Fund (IMF).",
+      "It aims to bypass Western-dominated financial networks."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "India’s involvement in BRICS Pay facilitates rupee-based settlements and aims to reduce dependence on SWIFT. It is not under IMF supervision, as it is a BRICS-led independent mechanism. [[BRICS]] [[SWIFT]] [[De-dollarization]]",
+    "tags": "Economy, International Relations, Finance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of environmental governance, what is the significance of the ‘Mangrove Initiative for Shoreline Habitats and Tangible Incomes (MISHTI)’?",
+    "statements": [
+      "It seeks to restore mangroves across coastal states and island territories.",
+      "It is implemented through convergence of CAMPA funds and MGNREGA.",
+      "It aims to enhance blue carbon storage and coastal resilience."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "MISHTI focuses on mangrove restoration through CAMPA and MGNREGA convergence, strengthening blue carbon capacity and livelihood-based coastal resilience. [[Mangroves]] [[Blue carbon]] [[MGNREGA]]",
+    "tags": "Environment, Governance, Climate Change"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are functions of the Compensatory Afforestation Fund Management and Planning Authority (CAMPA)?",
+    "statements": [
+      "Approval and monitoring of afforestation activities using compensatory levies.",
+      "Transfer of funds to State CAMPA accounts.",
+      "Setting national targets for renewable energy generation."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "CAMPA manages funds from diversion of forest land for non-forest use. It oversees fund transfer, project approval, and monitoring, but not renewable energy generation. [[CAMPA]] [[Forest governance]]",
+    "tags": "Environment, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following technologies is used in monitoring India’s afforestation projects under the Green India Mission?",
+    "statements": [
+      "Remote sensing and GIS mapping for land-use tracking",
+      "Drone-based canopy and biomass assessment",
+      "Quantum sensor-based soil carbon estimation"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The GIM monitoring system uses GIS and remote sensing to track land use and employs drones for biomass and canopy density measurement. Quantum sensors are still experimental. [[GIS]] [[Drone technology]] [[Green India Mission]]",
+    "tags": "Science and Technology, Environment, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "The term ‘Digital Linguistic Divide’ refers to:",
+    "statements": [
+      "Unequal digital representation of languages on the internet.",
+      "Exclusion of non-dominant language speakers from digital economies.",
+      "Over-representation of classical languages in artificial intelligence models."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Digital Linguistic Divide highlights how lack of digital content in regional languages limits access to online education, jobs, and e-governance. AI often favors major global languages. [[Digital divide]] [[Language policy]] [[AI ethics]]",
+    "tags": "Society, Culture, Science and Technology, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "The Bhashini Mission under the National Language Translation Mission primarily focuses on:",
+    "statements": [
+      "Creating a multilingual AI-based ecosystem for real-time speech translation.",
+      "Supporting government portals in regional languages.",
+      "Developing new classical languages."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Bhashini Mission develops AI tools for real-time multilingual translation across 22+ Indian languages and ensures government services are accessible in regional languages. It does not aim to create new classical languages. [[Bhashini]] [[National Language Translation Mission]]",
+    "tags": "Governance, Science and Technology, Culture"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which constitutional provisions together ensure India’s linguistic pluralism?",
+    "statements": [
+      "Article 29 – Protection of minorities’ cultural and linguistic rights.",
+      "Article 343 – Official language of the Union.",
+      "Article 350A – Instruction in the mother tongue at primary stage."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Articles 29, 343, and 350A collectively uphold India’s linguistic diversity—protecting minority rights, defining official language policy, and promoting mother-tongue education. [[Indian Constitution]] [[Language policy]]",
+    "tags": "Polity, Culture, Governance"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is correct regarding the Classical Language status in India?",
+    "statements": [
+      "It is declared by the Ministry of Culture based on historical and literary criteria.",
+      "The language must have an early text tradition dating back at least 1500 years.",
+      "Assamese was granted classical language status in 2024."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Classical Language criteria include antiquity of at least 1500–2000 years, rich literature, and historical independence. Assamese became the 7th classical language in 2024. [[Classical languages of India]] [[Assamese language]]",
+    "tags": "Culture, Governance, Polity"
+  },
+  {
+    "date": "5",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following can help in conserving linguistic diversity in the age of AI?",
+    "statements": [
+      "Creation of open digital corpora for regional languages.",
+      "Inclusion of endangered languages in AI datasets.",
+      "Promotion of a single national language for digital standardization."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Linguistic preservation in the AI era requires inclusive data and open corpora for regional languages. Promoting a single national language would reduce diversity and increase marginalization. [[AI and language preservation]] [[UNESCO language policy]]",
+    "tags": "Culture, Science and Technology, Governance"
+  }
+]
