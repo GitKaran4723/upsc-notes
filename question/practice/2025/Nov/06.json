@@ -1,0 +1,499 @@
+[
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "According to QS Asia Rankings 2026, which country has become the most represented in the list of Asian universities?",
+    "statements": [
+      "India has 394 universities in the list.",
+      "China has overtaken India as the most-represented country.",
+      "The total number of ranked universities was 1,526."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "In QS Asia Rankings 2026, China overtook India with 394 universities, while India had 294. A total of 1,526 universities were ranked. The dominance reflects China's investment in higher education and international collaborations. [[QS World University Rankings]]",
+    "tags": "Education, International Reports, Governance"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following are key parameters used by QS Asia Rankings to assess universities?",
+    "statements": [
+      "Academic reputation",
+      "Employer reputation",
+      "Faculty-student ratio",
+      "Citations per paper"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2, 3 and 4",
+    "explanation": "QS evaluates universities on parameters such as academic reputation (30%), employer reputation (20%), faculty-student ratio (10%), international research network, and citation impact. These criteria measure global competitiveness and research output. [[QS World University Rankings]]",
+    "tags": "Education, International Reports"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which Indian institution ranked highest in the QS Asia Rankings 2026?",
+    "options": [
+      "Indian Institute of Science, Bengaluru",
+      "IIT Madras",
+      "IIT Delhi",
+      "University of Delhi"
+    ],
+    "correct_option": "IIT Delhi",
+    "explanation": "IIT Delhi ranked 59th in the QS Asia Rankings 2026, making it the top Indian institution though its position dropped from 44th in 2025. This reflects a need for greater internationalization and research impact. [[IIT Delhi]]",
+    "tags": "Education, Science and Technology"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best explains why India slipped in the QS Asia Rankings 2026?",
+    "options": [
+      "Decline in number of universities participating",
+      "Low internationalization and weak research collaborations",
+      "Government restrictions on foreign universities",
+      "Overemphasis on social sciences"
+    ],
+    "correct_option": "Low internationalization and weak research collaborations",
+    "explanation": "India’s relative decline is attributed to fewer foreign students and faculty, low citation impact, and limited international research partnerships. These affect its global academic visibility. [[QS World University Rankings]]",
+    "tags": "Education, Governance"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "The Model Code of Conduct (MCC) enforced by the Election Commission of India is primarily intended to ensure:",
+    "options": [
+      "A moral and ethical campaign environment",
+      "Strict legal compliance through penal provisions",
+      "Uniform election financing among candidates",
+      "Voter turnout above national average"
+    ],
+    "correct_option": "A moral and ethical campaign environment",
+    "explanation": "The MCC is a set of agreed norms among political parties to ensure free and fair elections. It is moral, not legal, in nature and ensures a level playing field. [[Model Code of Conduct (India)]]",
+    "tags": "Polity, Governance, Elections"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the legal status of the Model Code of Conduct (MCC)?",
+    "statements": [
+      "It is a statutory law under the Representation of the People Act, 1951.",
+      "It is a set of agreed norms with moral authority enforced by the Election Commission.",
+      "Its violation can only be punished under existing penal laws, not under the MCC itself."
+    ],
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "The MCC is not statutory. It derives authority from consensus and the ECI’s moral oversight. Only violations overlapping with existing laws like RPA 1951 or IPC can be penalized. [[Election Commission of India]]",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which welfare scheme became a recent example of Model Code of Conduct violation in Bihar (2025)?",
+    "options": [
+      "Mukhyamantri Mahila Rojgar Yojana",
+      "Kanya Utthan Scheme",
+      "Jeevika Self-Help Program",
+      "Bihar Garib Kalyan Yojana"
+    ],
+    "correct_option": "Mukhyamantri Mahila Rojgar Yojana",
+    "explanation": "The MMRY provided ₹10,000 to women for self-employment but was implemented during elections, violating the spirit of MCC by acting as an inducement. [[Model Code of Conduct (India)]]",
+    "tags": "Governance, Polity, Ethics"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Under which Articles of the Constitution does the Supreme Court and High Courts derive their power to punish for contempt?",
+    "options": [
+      "Articles 124 and 226",
+      "Articles 129 and 215",
+      "Articles 32 and 226",
+      "Articles 136 and 227"
+    ],
+    "correct_option": "Articles 129 and 215",
+    "explanation": "Article 129 declares the Supreme Court as a ‘Court of Record’ with contempt powers; Article 215 gives similar power to High Courts. [[Contempt of court (India)]]",
+    "tags": "Polity, Judiciary, Constitution"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly distinguishes Civil Contempt from Criminal Contempt under the Contempt of Courts Act, 1971?",
+    "options": [
+      "Civil Contempt refers to scandalizing the court; Criminal Contempt refers to disobedience of court order.",
+      "Civil Contempt refers to disobedience of court order; Criminal Contempt refers to acts scandalizing or obstructing justice.",
+      "Both mean the same and differ only in punishment.",
+      "Civil Contempt applies to citizens, Criminal Contempt applies to judges."
+    ],
+    "correct_option": "Civil Contempt refers to disobedience of court order; Criminal Contempt refers to acts scandalizing or obstructing justice.",
+    "explanation": "Under Section 2 of the Act: Civil Contempt = wilful disobedience of court orders; Criminal Contempt = acts that scandalize, prejudice, or obstruct judicial proceedings. [[Contempt of Courts Act, 1971]]",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following landmark cases clarified that fair criticism of judgments does not amount to contempt?",
+    "options": [
+      "Kesavananda Bharati v. State of Kerala (1973)",
+      "Ashwini Kumar Ghosh v. Arabinda Bose (1952)",
+      "Indira Gandhi v. Raj Narain (1975)",
+      "M.V. Jayarajan v. High Court of Kerala (2015)"
+    ],
+    "correct_option": "Ashwini Kumar Ghosh v. Arabinda Bose (1952)",
+    "explanation": "In Ashwini Kumar case (1952), the Supreme Court held that fair and respectful criticism of judicial decisions does not amount to contempt of court. [[Contempt of court]]",
+    "tags": "Polity, Judiciary, Ethics"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "What is the main objective of the Model Code of Conduct (MCC) during elections?",
+    "statements": [
+      "To ensure ethical campaigning by political parties",
+      "To prevent misuse of government machinery",
+      "To regulate political party registration",
+      "To ensure timely declaration of election results"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The MCC aims to create a level playing field by ensuring ethical campaigning and preventing the ruling party from misusing government machinery for electoral advantage. [[Election Commission of India]]",
+    "tags": "Polity, Governance, Elections"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "The Election Commission of India (ECI) opposed making the Model Code of Conduct legally binding because:",
+    "options": [
+      "It would delay elections due to legal proceedings",
+      "It lacked parliamentary approval",
+      "It would require constitutional amendment",
+      "It conflicted with the Representation of the People Act"
+    ],
+    "correct_option": "It would delay elections due to legal proceedings",
+    "explanation": "The ECI has argued that making MCC legally binding would involve court proceedings that could delay the electoral process, which must conclude within 45 days. [[Model Code of Conduct (India)]]",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which parliamentary committee recommended making the Model Code of Conduct legally enforceable?",
+    "options": [
+      "Public Accounts Committee (2013)",
+      "Standing Committee on Personnel, Public Grievances, Law and Justice (2013)",
+      "Law Commission of India (2015)",
+      "Committee on Electoral Reforms (2019)"
+    ],
+    "correct_option": "Standing Committee on Personnel, Public Grievances, Law and Justice (2013)",
+    "explanation": "The 2013 Parliamentary Standing Committee on Personnel, Public Grievances, Law and Justice suggested giving the MCC legal backing to ensure compliance. [[Parliamentary Standing Committee]]",
+    "tags": "Polity, Governance, Electoral Reforms"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following arguments is given in favor of revising the MCC provisions?",
+    "statements": [
+      "Many provisions are unenforceable in practice",
+      "Frequent elections disrupt governance due to repeated enforcement of MCC",
+      "The MCC reduces the autonomy of the Election Commission",
+      "The MCC allows political parties to freely announce welfare schemes during elections"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Analysts argue that certain MCC provisions—like banning project announcements—are difficult to enforce, and frequent elections disrupt governance due to recurring MCC enforcement. [[Model Code of Conduct (India)]]",
+    "tags": "Governance, Polity"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "The debate over simultaneous elections in India is linked to the Model Code of Conduct because:",
+    "options": [
+      "Frequent enforcement of MCC slows governance and policy decisions",
+      "Simultaneous elections are mandated under MCC",
+      "The MCC mandates annual elections for all states",
+      "MCC allows central government to suspend Parliament sessions"
+    ],
+    "correct_option": "Frequent enforcement of MCC slows governance and policy decisions",
+    "explanation": "Frequent elections trigger repeated imposition of MCC, halting policy decisions and development projects. Simultaneous elections are proposed to minimize governance disruptions. [[Simultaneous elections in India]]",
+    "tags": "Polity, Governance, Electoral Reforms"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Under the Contempt of Courts Act, 1971, who can initiate contempt proceedings in the Supreme Court?",
+    "options": [
+      "Any citizen directly",
+      "Attorney General or Solicitor General only",
+      "Supreme Court suo motu or any person with Attorney General’s consent",
+      "Chief Justice of India only"
+    ],
+    "correct_option": "Supreme Court suo motu or any person with Attorney General’s consent",
+    "explanation": "Under Section 15 of the Contempt of Courts Act, the Supreme Court may initiate contempt proceedings suo motu or upon a petition with the consent of the Attorney General. [[Contempt of Courts Act, 1971]]",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT a ground for criminal contempt of court under Section 2(c) of the Contempt of Courts Act, 1971?",
+    "options": [
+      "Scandalizing or lowering the authority of the court",
+      "Interfering with judicial proceedings",
+      "Publishing accurate summaries of judgments",
+      "Interfering with the administration of justice"
+    ],
+    "correct_option": "Publishing accurate summaries of judgments",
+    "explanation": "Publishing fair and accurate reports or summaries of judicial proceedings does not constitute contempt. Criminal contempt covers acts that scandalize, prejudice, or obstruct justice. [[Contempt of Courts Act, 1971]]",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements correctly describe the balance between free speech and contempt powers under the Constitution?",
+    "statements": [
+      "Article 19(1)(a) guarantees freedom of speech and expression.",
+      "Article 19(2) allows reasonable restrictions for contempt of court.",
+      "Articles 129 and 215 empower courts to punish for contempt."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Constitution ensures a balance between free speech (Article 19(1)(a)) and judicial dignity via Articles 19(2), 129, and 215. Courts protect themselves from attacks undermining public confidence. [[Indian Constitution]]",
+    "tags": "Polity, Constitution, Judiciary"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following countries has abolished ‘scandalizing the court’ as a form of contempt?",
+    "options": [
+      "United Kingdom",
+      "India",
+      "United States",
+      "Australia"
+    ],
+    "correct_option": "United Kingdom",
+    "explanation": "The United Kingdom abolished ‘scandalizing the court’ as an offence in 2013, citing free speech and tolerance to criticism—suggesting India could reform its contempt laws similarly. [[Contempt of court]]",
+    "tags": "Polity, Judiciary, Comparative Law"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "The main purpose of contempt powers under Articles 129 and 215 of the Constitution is to:",
+    "options": [
+      "Protect judges from personal criticism",
+      "Maintain public confidence in the administration of justice",
+      "Silence media reporting on courts",
+      "Ensure speedy disposal of cases"
+    ],
+    "correct_option": "Maintain public confidence in the administration of justice",
+    "explanation": "Contempt powers exist not to protect judges personally but to uphold public confidence in the judiciary’s authority and the integrity of justice delivery. [[Contempt of court]]",
+    "tags": "Judiciary, Polity, Ethics"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements about Contempt of Court in India is correct?",
+    "options": [
+      "It is explicitly defined in the Constitution of India.",
+      "It is defined under the Contempt of Courts Act, 1971.",
+      "It is defined under the Indian Penal Code.",
+      "It is defined by the Supreme Court through judicial orders only."
+    ],
+    "correct_option": "It is defined under the Contempt of Courts Act, 1971.",
+    "explanation": "The Constitution grants the power of contempt to the Supreme Court and High Courts, but the Contempt of Courts Act, 1971 provides the statutory definitions and procedures. [[Contempt of Courts Act, 1971]]",
+    "tags": "Polity, Judiciary, Law"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Who among the following can grant permission to initiate contempt proceedings in the High Court?",
+    "options": [
+      "Chief Justice of India",
+      "Attorney General for India",
+      "Advocate General of the State",
+      "Union Law Minister"
+    ],
+    "correct_option": "Advocate General of the State",
+    "explanation": "Under Section 15 of the Contempt of Courts Act, any person may initiate contempt proceedings in the High Court with the consent of the Advocate General of the concerned state. [[Contempt of Courts Act, 1971]]",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements best differentiates 'Fair Criticism' from 'Contempt of Court'?",
+    "statements": [
+      "Fair criticism analyses judicial decisions respectfully.",
+      "Contempt involves personal attacks or abusive language.",
+      "Both are protected under Article 19(1)(a) without restriction."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Fair criticism is analytical and constructive, while contempt undermines public confidence through disrespectful or defamatory statements. Article 19(2) allows restrictions on contempt. [[Judicial Accountability in India]]",
+    "tags": "Judiciary, Ethics, Polity"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "In which of the following cases did the Supreme Court clarify that contempt powers exist to uphold the administration of justice, not to protect judges personally?",
+    "options": [
+      "M.V. Jayarajan v. High Court of Kerala (2015)",
+      "Shanmugam @ Lakshminarayanan v. High Court of Madras (2025)",
+      "Aruna Shanbaug v. Union of India (2011)",
+      "Prashant Bhushan v. Supreme Court (2020)"
+    ],
+    "correct_option": "Shanmugam @ Lakshminarayanan v. High Court of Madras (2025)",
+    "explanation": "In this 2025 judgment, the Court held that the purpose of contempt law is to protect the system of justice, not the personal dignity of judges. [[Contempt of court]]",
+    "tags": "Judiciary, Law, Ethics"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following criticisms of the Contempt of Courts Act, 1971 are valid?",
+    "statements": [
+      "The definition of 'scandalizing the court' is vague and subjective.",
+      "It may have a chilling effect on free speech.",
+      "It is used selectively to silence legitimate criticism."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Critics argue that the contempt law’s vague wording and broad judicial discretion could suppress free expression and shield judicial institutions from healthy criticism. [[Freedom of speech in India]]",
+    "tags": "Judiciary, Polity, Rights"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reforms have been suggested for Contempt Law in India?",
+    "options": [
+      "Abolish 'scandalizing the court' as a ground for contempt",
+      "Restrict contempt to acts that directly obstruct justice",
+      "Allow greater public criticism of judicial functioning",
+      "All of the above"
+    ],
+    "correct_option": "All of the above",
+    "explanation": "Reforms suggest narrowing the definition of criminal contempt and abolishing the offence of 'scandalizing the court', in line with liberal democracies like the UK. [[Contempt of Courts Act, 1971]]",
+    "tags": "Judiciary, Governance, Law"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is an example of Civil Contempt?",
+    "options": [
+      "Publishing false allegations against a judge",
+      "Disobeying a Supreme Court order intentionally",
+      "Disrupting court proceedings through slogans",
+      "Posting defamatory social media posts about judges"
+    ],
+    "correct_option": "Disobeying a Supreme Court order intentionally",
+    "explanation": "Civil Contempt refers to willful disobedience of court orders or breach of undertakings given to a court. [[Contempt of Courts Act, 1971]]",
+    "tags": "Judiciary, Polity, Law"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following combinations correctly match the type of Contempt with its example?",
+    "statements": [
+      "Civil Contempt – Failure to comply with a court’s injunction",
+      "Criminal Contempt – Publishing defamatory statements about the judiciary"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "Civil Contempt deals with disobedience of orders, while Criminal Contempt involves acts like scandalizing the court or prejudicing proceedings. [[Contempt of Courts Act, 1971]]",
+    "tags": "Judiciary, Law, Polity"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "In which country’s legal framework was the provision of 'scandalizing the court' abolished in 2013, influencing debates in India?",
+    "options": [
+      "United Kingdom",
+      "United States",
+      "Canada",
+      "New Zealand"
+    ],
+    "correct_option": "United Kingdom",
+    "explanation": "The UK abolished 'scandalizing the court' as an offence through the Crime and Courts Act, 2013, emphasizing free speech and judicial accountability. [[Contempt of court]]",
+    "tags": "Comparative Law, Judiciary, Polity"
+  },
+  {
+    "date": "6",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is reforming the Contempt of Court law considered important for democratic governance?",
+    "options": [
+      "It aligns judicial accountability with democratic values",
+      "It ensures that courts are beyond public scrutiny",
+      "It restricts the Parliament from discussing judicial actions",
+      "It abolishes judicial review"
+    ],
+    "correct_option": "It aligns judicial accountability with democratic values",
+    "explanation": "Reforming contempt laws ensures a balance between judicial independence and public accountability, fostering democratic transparency without undermining the judiciary’s authority. [[Judicial reform in India]]",
+    "tags": "Judiciary, Governance, Democracy"
+  }
+]
