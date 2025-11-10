@@ -1,0 +1,606 @@
+[
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Denmark recently announced a policy restricting social media access for which age group?",
+    "statements": [
+      "For individuals below 15 years of age",
+      "It is aimed at promoting mental health and child safety",
+      "It aligns with Europe’s growing digital regulation trend"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Government of Denmark imposed a ban on social media access for those under 15 years, citing concerns of mental health, digital safety, and data privacy. It reflects the growing European approach to protecting minors online, similar to France’s and Germany’s evolving data laws.",
+    "tags": "Governance, Society, International Relations"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following about Denmark:",
+    "statements": [
+      "It shares a land border with Sweden and Norway.",
+      "Greenland and Faroe Islands are self-governing territories under the Kingdom of Denmark.",
+      "Its capital Copenhagen is a global leader in renewable wind energy."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "Denmark shares its only land border with Germany. Greenland and Faroe Islands are self-governing territories, and Copenhagen is known for its wind power and green energy innovations. This makes Denmark a leader in sustainable urban practices.",
+    "tags": "Geography, Environment, International"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Volcanic lightning occurs due to:",
+    "statements": [
+      "Frictional charging among ash and ice particles in the volcanic plume",
+      "Electrical discharge similar to thunderstorm lightning",
+      "Fusion reactions inside volcanic magma chambers"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Volcanic lightning results from electrostatic charge separation due to collisions among ash, dust, and ice particles in the volcanic plume, causing lightning similar to that in thunderstorms. There are no nuclear or fusion reactions involved.",
+    "tags": "Science and Technology, Geography, Environment"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements about lichens is correct?",
+    "statements": [
+      "Lichen is a symbiotic association between a fungus and an alga or cyanobacterium.",
+      "They are considered pioneer species in ecological succession.",
+      "They are commonly used as indicators of soil fertility."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Lichens are a symbiotic partnership between fungi and algae/cyanobacteria. They act as pioneer species on bare rocks and help in soil formation. They are, however, indicators of air pollution, not soil fertility.",
+    "tags": "Environment, Ecology, Biology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following lichens were newly discovered in India between 2022–2024?",
+    "statements": [
+      "Parmotrema sahyadricum",
+      "Solenopsora rhizomorpha",
+      "Buelloa ghattensis",
+      "Cladonia rangiferina"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "Recent discoveries in the Western Ghats include Parmotrema sahyadricum, Solenopsora rhizomorpha, and Buelloa ghattensis. Cladonia rangiferina is a well-known Arctic lichen and not newly discovered in India.",
+    "tags": "Biodiversity, Environment, Geography"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Rhesus macaque has been reinstated under Schedule II of the Wildlife (Protection) Act, 1972 due to:",
+    "statements": [
+      "Rising cases of poaching and illegal trade",
+      "Increased human–wildlife conflict in urban areas",
+      "Its declining global population making it critically endangered"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Rhesus macaque (Macaca mulatta) has been reinstated in Schedule II due to illegal trade and habitat loss amid increasing conflict with humans. It is still listed as 'Least Concern' under IUCN, so not critically endangered.",
+    "tags": "Environment, Ecology, Wildlife Protection"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are correct about Project Suncatcher?",
+    "statements": [
+      "It is a Google-led initiative to establish AI data centers in space powered by solar energy.",
+      "It will use free-space optical communication for high-speed data transfer.",
+      "The project’s prototype is expected to launch in 2027 in collaboration with ISRO."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Project Suncatcher is a Google research initiative exploring solar-powered AI data centers in orbit using free-space optical communication. The prototype launch is planned with Planet Labs, not ISRO.",
+    "tags": "Science and Technology, Space, Environment"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Aditya-L1 Mission aims to study which of the following?",
+    "statements": [
+      "Solar corona and coronal mass ejections (CMEs)",
+      "Solar wind and magnetic storms",
+      "Dark matter composition of interstellar space"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India’s Aditya-L1, launched by ISRO in 2023, studies the Sun’s outer corona, CMEs, and solar wind to understand solar storms and their effect on space weather. It does not focus on dark matter.",
+    "tags": "Space, Science and Technology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "VELC, the key instrument onboard Aditya-L1, was developed by:",
+    "statements": [
+      "Indian Institute of Astrophysics (IIA)",
+      "Vikram Sarabhai Space Centre (VSSC)",
+      "NASA’s Goddard Space Flight Center"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Visible Emission Line Coronagraph (VELC) was developed by the Indian Institute of Astrophysics, Bengaluru, and is capable of spectroscopic observations of the solar corona close to the Sun’s surface.",
+    "tags": "Space, Science and Technology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes 'functional foods' as discussed in the context of India’s nutritional transformation?",
+    "statements": [
+      "Foods providing health benefits beyond basic nutrition",
+      "Foods genetically engineered to replace staple crops",
+      "Foods that contain additives to increase calorie density"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 only",
+      "3 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Functional foods are those that offer health benefits beyond basic nutrition — for instance, fortified rice or probiotic yogurt. They help combat micronutrient deficiencies and lifestyle diseases in India’s nutrition policy.",
+    "tags": "Health, Economy, Governance"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following factors contribute to Denmark’s reputation as a leader in renewable energy?",
+    "statements": [
+      "High investment in offshore wind farms and green technologies",
+      "National policies promoting carbon neutrality by 2050",
+      "Complete dependence on imported fossil fuels"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Denmark’s leadership in renewable energy is driven by early investments in offshore wind power and a goal of achieving carbon neutrality by 2050. It produces a significant portion of its energy domestically, contrary to statement 3.",
+    "tags": "Environment, Geography, Economy"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following rivers of Denmark is the longest?",
+    "statements": [
+      "Skjern River",
+      "Odense River",
+      "Guden River",
+      "Ringkøbing River"
+    ],
+    "options": [
+      "Skjern River",
+      "Odense River",
+      "Guden River",
+      "Ringkøbing River"
+    ],
+    "correct_option": "Guden River",
+    "explanation": "The Guden River, approximately 160 km long, is the longest river in Denmark. It flows through central Jutland and is used for irrigation, recreation, and small-scale hydroelectric power generation.",
+    "tags": "Geography, Environment"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly differentiates volcanic lightning from regular thunderstorm lightning?",
+    "statements": [
+      "Volcanic lightning originates from charge separation in ash and dust particles, not water droplets.",
+      "Volcanic lightning occurs only near the Earth's poles due to magnetic field interaction.",
+      "Thunderstorm lightning requires condensation of water vapor, unlike volcanic lightning."
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Volcanic lightning results from frictional charging of ash and ice particles ejected during eruptions. It differs from thunderstorm lightning, which forms from water vapor condensation. It is not restricted to polar regions.",
+    "tags": "Geography, Environment, Science and Technology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are ecological functions of lichens?",
+    "statements": [
+      "They act as pioneer species initiating soil formation on bare rocks.",
+      "They serve as bioindicators for air pollution monitoring.",
+      "They accelerate nitrogen fixation in aquatic ecosystems."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Lichens are pioneer species that help in soil formation and are sensitive indicators of air pollution. However, they are not primary agents of nitrogen fixation in aquatic systems — that function is carried out by cyanobacteria.",
+    "tags": "Ecology, Environment, Biodiversity"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following scientific roles are performed by lichens?",
+    "statements": [
+      "Used in lichenometry for dating exposed rock surfaces",
+      "Source of natural dyes and perfumes",
+      "Used as a substitute for fossil fuels in energy production"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Lichens are useful in determining the age of exposed surfaces through lichenometry and provide natural dyes and aromatic substances. They are not used in energy production due to low biomass yield.",
+    "tags": "Environment, Science and Technology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "The reinstatement of Rhesus Macaque under Schedule II of the Wildlife (Protection) Act aims to ensure:",
+    "statements": [
+      "Stronger legal protection against capture and trade",
+      "Better management of human–wildlife conflict zones",
+      "Complete removal of the species from urban areas through eradication"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Reinstatement ensures stricter regulation of hunting and trade, and promotes conflict mitigation programs. However, eradication of the species from urban areas is not a policy goal.",
+    "tags": "Environment, Governance, Wildlife Conservation"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "What distinguishes Project Suncatcher from traditional data centers on Earth?",
+    "statements": [
+      "It operates using 100% solar energy in low Earth orbit.",
+      "It utilizes free-space optical communication instead of radio waves.",
+      "It completely replaces terrestrial data centers by 2030."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Project Suncatcher aims to create sustainable, solar-powered space data centers using optical communication. It is experimental and not designed to replace Earth-based systems by 2030.",
+    "tags": "Science and Technology, Space, Environment"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are advantages of Google’s Project Suncatcher?",
+    "statements": [
+      "Continuous operation in sunlight with no downtime",
+      "Zero carbon footprint as it runs entirely on renewable solar power",
+      "Minimal data latency due to high-speed laser communication"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Project Suncatcher’s proposed advantages include continuous solar exposure in sun-synchronous orbit, zero carbon emissions, and reduced data transfer latency through laser-based optical links.",
+    "tags": "Space, Environment, Science and Technology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Aditya-L1’s orbit at the Lagrange Point 1 (L1) offers which advantage for solar observation?",
+    "statements": [
+      "Continuous, unobstructed view of the Sun",
+      "Protection from cosmic radiation due to Earth's magnetic field",
+      "Direct communication with deep space networks"
+    ],
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "At Lagrange Point 1, Aditya-L1 maintains an uninterrupted view of the Sun while allowing stable communication with Earth. However, it is outside the protection of Earth's magnetic field.",
+    "tags": "Space, Science and Technology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best explains the objective of India’s ‘Eat Right Movement’?",
+    "statements": [
+      "To promote balanced consumption with nutritional adequacy rather than quantity of food",
+      "To reduce the prevalence of undernutrition and overnutrition simultaneously",
+      "To enforce restrictions on processed food imports"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Eat Right Movement by FSSAI focuses on both undernutrition and obesity by encouraging balanced and nutritious food intake. It emphasizes quality nutrition over calorie-rich diets.",
+    "tags": "Health, Governance, Economy"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes Denmark’s Green Tax Reform (2025)?",
+    "statements": [
+      "It aims to impose carbon taxes on companies exceeding emission limits.",
+      "It introduces incentives for renewable energy research and innovation.",
+      "It seeks to completely phase out fossil fuels by 2030."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Denmark’s Green Tax Reform of 2025 focuses on penalizing carbon-heavy industries and rewarding clean-tech innovations. The fossil fuel phase-out is targeted by 2050, not 2030.",
+    "tags": "Environment, Economy, International"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is/are correct regarding volcanic lightning monitoring in recent times?",
+    "statements": [
+      "NASA’s Earth Observatory has developed systems to detect lightning in volcanic plumes using satellite data.",
+      "Ground-based Lightning Mapping Arrays (LMA) are used to measure electric field changes during eruptions.",
+      "Volcanic lightning signals are irrelevant for aviation safety."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Volcanic lightning detection is now used by NASA and meteorological agencies to predict eruption intensity and guide aviation routes. These signals are highly relevant for air safety, making statement 3 incorrect.",
+    "tags": "Science and Technology, Environment, Disaster Management"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "In ecological succession, lichens are followed by which group of organisms?",
+    "statements": [
+      "Bryophytes",
+      "Ferns",
+      "Angiosperms",
+      "Fungi"
+    ],
+    "options": [
+      "Bryophytes",
+      "Ferns",
+      "Angiosperms",
+      "Fungi"
+    ],
+    "correct_option": "Bryophytes",
+    "explanation": "In primary succession, lichens colonize bare rocks, followed by mosses (bryophytes), then ferns and higher plants. This sequence shows ecological succession leading to soil formation.",
+    "tags": "Environment, Ecology, Biology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Why are lichens considered excellent bioindicators?",
+    "statements": [
+      "They absorb nutrients directly from the atmosphere, making them sensitive to pollutants.",
+      "They thrive in areas with high industrial emissions.",
+      "They respond quickly to changes in atmospheric sulfur dioxide levels."
+    ],
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Lichens absorb air moisture and nutrients directly from the atmosphere, making them highly sensitive to air pollutants like sulfur dioxide. They vanish from polluted areas, marking air quality decline.",
+    "tags": "Environment, Ecology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT correctly matched with its purpose under the Wildlife (Protection) Act, 1972?",
+    "statements": [
+      "Schedule I – Species under absolute protection",
+      "Schedule II – Species requiring protection but causing conflict",
+      "Schedule VI – Species of high medicinal plants under cultivation",
+      "Schedule IV – Common species under partial protection"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "4 only"
+    ],
+    "correct_option": "3 only",
+    "explanation": "Schedule VI of the Wildlife (Protection) Act lists prohibited plants, not medicinal ones under cultivation. Schedule II includes animals like monkeys with controlled protection, while Schedule I ensures complete protection.",
+    "tags": "Environment, Polity, Governance"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following space-based missions focus on solar observation like Aditya-L1?",
+    "statements": [
+      "NASA’s Parker Solar Probe",
+      "ESA’s Solar Orbiter",
+      "JAXA’s Hinode Mission"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three missions — Parker Solar Probe (NASA), Solar Orbiter (ESA), and Hinode (JAXA) — are solar observatories studying the Sun’s outer layers, magnetic field, and solar wind, similar to India’s Aditya-L1 mission.",
+    "tags": "Space, Science and Technology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "The Visible Emission Line Coronagraph (VELC) onboard Aditya-L1 studies which of the following?",
+    "statements": [
+      "Dynamics of the solar corona",
+      "Emission spectra of solar flares",
+      "Radio signal variations in the heliosphere"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "VELC observes the corona’s structure and temperature changes by analyzing emission spectra during solar flares. It does not measure radio signals in the heliosphere.",
+    "tags": "Space, Science and Technology"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Functional foods can help address which of the following health challenges in India?",
+    "statements": [
+      "Micronutrient deficiency in children and women",
+      "Obesity and non-communicable diseases in urban areas",
+      "Communicable diseases like malaria and dengue"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Functional foods like fortified cereals and probiotic dairy help reduce micronutrient deficiency and lifestyle diseases such as obesity and diabetes. They do not directly impact communicable diseases.",
+    "tags": "Health, Nutrition, Governance"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Under the Eat Right India campaign, FSSAI’s ‘Yellow Book’ is intended for which group?",
+    "statements": [
+      "Children and school students",
+      "Food business operators",
+      "Healthcare professionals"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The FSSAI ‘Yellow Book’ educates school children about healthy eating habits and hygiene. It is part of the Eat Right India campaign to build nutritional awareness at a young age.",
+    "tags": "Health, Education, Governance"
+  },
+  {
+    "date": "10",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements regarding India’s nutrition policy is correct?",
+    "statements": [
+      "The National Nutrition Mission focuses on both undernutrition and anemia among women.",
+      "Poshan Abhiyaan is implemented through the Ministry of Health and Family Welfare.",
+      "It aims for inter-sectoral convergence of health, sanitation, and food security schemes."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The National Nutrition Mission or Poshan Abhiyaan addresses undernutrition, stunting, and anemia. It is implemented by the Ministry of Women and Child Development and ensures convergence of multiple social sector schemes.",
+    "tags": "Health, Governance, Economy"
+  }
+]
