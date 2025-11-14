@@ -1,0 +1,603 @@
+[
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Neodymium has recently been in news. Which of the following best explains why Neodymium is considered a critical mineral for India?",
+    "statements": [
+      "It is used in high-strength permanent magnets used in EV motors and wind turbines",
+      "It is essential for strategic defence technologies such as precision-guided weapons and radar systems",
+      "India completely imports Neodymium due to absence of any domestic reserves"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Neodymium is vital for NdFeB permanent magnets used in EV motors, wind turbines, smartphones, and robotics. It is also crucial for strategic defence applications like precision-guided missiles and radar. India has monazite reserves in Kerala, Odisha, and Tamil Nadu, meaning it does not import 100%. See [[Neodymium]] and [[Rare-earth element]].",
+    "tags": "Science and Technology, Economy, Critical Minerals"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to Monazite in India, consider the following statements:",
+    "statements": [
+      "Monazite is a major source of rare-earth elements",
+      "Monazite contains thorium",
+      "It is naturally found across the entire Indian coastline",
+      "Only government agencies can process or export Monazite in India"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Monazite is a phosphate mineral rich in rare-earths including neodymium, and it contains radioactive thorium. Its distribution is limited mainly to Kerala, Tamil Nadu, and Odisha, not the entire coast. Processing and export are restricted to government agencies like IREL. See [[Monazite]] and [[Thorium]].",
+    "tags": "Geography, Economy, Critical Minerals"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Quality Control Orders (QCOs) were recently removed from certain polyester-related products. What is the purpose of QCOs?",
+    "statements": [
+      "To ensure compliance with BIS standards",
+      "To restrict low-quality imports",
+      "To promote consumer safety"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "QCOs under BIS aim to ensure product quality, restrict substandard imports, and protect consumer safety. They are mandatory compliance mechanisms for notified items. See [[Bureau of Indian Standards]].",
+    "tags": "Economy, Governance, Industry"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "The removal of QCOs on PTA and MEG is expected to benefit which sector the most?",
+    "statements": [
+      "Man-Made Fibre (MMF) sector",
+      "Technical Textiles sector",
+      "Cotton textile sector"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "PTA and MEG are key raw materials for polyester and thus directly support MMF and technical textiles. Cotton textiles do not depend on these raw materials. See [[Polyester]] and [[Technical textiles]].",
+    "tags": "Economy, Industry, Textile Sector"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "In India, BIS certification (ISI Mark) is mandatory for which of the following?",
+    "statements": [
+      "Automotive tyres and tubes",
+      "Food products under AGMARK",
+      "Helmets for two-wheelers"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "BIS certification is mandatory for tyres, tubes, helmets, gas cylinders, and several electrical items. AGMARK is issued by the Directorate of Marketing and Inspection, not BIS. See [[Bureau of Indian Standards]] and [[AGMARK]].",
+    "tags": "Governance, Economy, Standards"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following diseases can spread through tattooing?",
+    "statements": [
+      "Chikungunya",
+      "Hepatitis B",
+      "HIV/AIDS"
+    ],
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "Tattooing involves needles and risk of blood contamination. Hepatitis B and HIV can spread through contaminated needles; Chikungunya spreads only through Aedes mosquitoes. See [[Hepatitis B]] and [[HIV]].",
+    "tags": "Health, Science and Technology"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Hepatitis A spreads mainly through which route?",
+    "statements": [
+      "Contaminated water",
+      "Food prepared with unclean hands",
+      "Blood transfusion"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Hepatitis A virus spreads through the faecal–oral route — contaminated water or food. Blood transmission is extremely rare. See [[Hepatitis A]].",
+    "tags": "Health, Disease"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements about Hepatitis B and C are correct?",
+    "statements": [
+      "Hepatitis B spreads like HIV",
+      "Hepatitis B has no vaccine",
+      "Hepatitis C has no vaccine"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Hepatitis B spreads through blood and sexual contact similar to HIV and has a widely-used vaccine. Hepatitis C has no vaccine. See [[Hepatitis B]] and [[Hepatitis C]].",
+    "tags": "Health, Disease"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following measures help prevent Hepatitis A outbreaks?",
+    "statements": [
+      "Vaccination",
+      "Improved sanitation",
+      "Safe drinking water"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Hepatitis A can be prevented through effective vaccination, clean sanitation, and safe drinking water. See [[Hepatitis A]].",
+    "tags": "Health, Sanitation, Disease Prevention"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Seed Replacement Rates (SRR) in India face challenges due to which of the following?",
+    "statements": [
+      "Absence of a national seed policy",
+      "No private sector participation in seed supply",
+      "Demand–supply gap in quality seeds of low-value, high-volume crops"
+    ],
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "None of the above"
+    ],
+    "correct_option": "3 only",
+    "explanation": "India has a National Seed Policy (2002), and private companies dominate hybrid and vegetable seeds. The main challenge is the demand–supply gap in quality seeds for low-value crops. See [[Seed]] and [[Agriculture in India]].",
+    "tags": "Agriculture, Economy, Governance"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Draft Seeds Bill 2025 aims to modernize India's seed regulation. Which of the following is a key objective of this Bill?",
+    "statements": [
+      "Ensuring quality seeds in the market",
+      "Simplifying seed imports for high-yielding varieties",
+      "Criminalizing minor violations in seed trade"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Bill focuses on ensuring quality seeds and easing imports of superior varieties. Minor violations are decriminalized instead of criminalized. See [[Seed]] and [[Agriculture in India]].",
+    "tags": "Agriculture, Governance, Economy"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which provision of the Draft Seeds Bill 2025 directly protects farmers from losses due to seed failure?",
+    "statements": [
+      "Mandatory registration of all seed sellers",
+      "Compensation mechanism for seed failure",
+      "Ban on import of foreign seed varieties"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The Bill proposes compensation for farmers if seeds fail despite following recommended practices. Import bans are not part of the Bill. See [[Seed]] and [[Agricultural policy]].",
+    "tags": "Agriculture, Governance"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which stakeholders have expressed concern that Draft Seeds Bill 2025 may increase corporate control over seeds?",
+    "statements": [
+      "Farmer unions",
+      "Private seed companies",
+      "State governments"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Farmer unions fear increased corporate influence due to easier imports and seed sector commercialization. Private companies support the Bill. See [[Seed]] and [[Agriculture in India]].",
+    "tags": "Agriculture, Governance, Economy"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are mandatory requirements under the Draft Seeds Bill 2025?",
+    "statements": [
+      "Registration of seed sellers",
+      "Compliance with minimum seed certification standards",
+      "Mandatory use of GM seeds for high productivity"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Bill mandates seed seller registration and compliance with germination, purity, and health standards. There is no compulsory GM seed requirement. See [[Seed]] and [[Genetically modified crops]].",
+    "tags": "Agriculture, Governance"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is decriminalization included in the Draft Seeds Bill 2025?",
+    "statements": [
+      "To reduce regulatory burden on small traders",
+      "To promote ease of doing business",
+      "To eliminate penalties for selling fake seeds"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Minor violations are decriminalized to reduce harassment and improve ease of doing business. Selling fake seeds remains a serious punishable offence. See [[Regulation]] and [[Agricultural policy]].",
+    "tags": "Governance, Agriculture, Economy"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following issues were raised by farmer organizations regarding the Draft Seeds Bill 2025?",
+    "statements": [
+      "Dependence on foreign seed companies may increase",
+      "Seed prices may rise due to commercialization",
+      "Seed imports may threaten local biodiversity"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Farmers are concerned about rising prices, foreign dependence, and potential biodiversity loss due to increased seed import flexibility. See [[Biodiversity]] and [[Agriculture in India]].",
+    "tags": "Agriculture, Environment, Governance"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which existing laws does the Draft Seeds Bill 2025 aim to replace or update?",
+    "statements": [
+      "Seeds Act 1966",
+      "Seeds (Control) Order 1983",
+      "Protection of Plant Varieties and Farmers’ Rights Act 2001"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The new Bill replaces the Seeds Act 1966 and Seeds (Control) Order 1983. PPVFR Act remains active and unchanged. See [[Seed]] and [[Plant variety protection]].",
+    "tags": "Agriculture, Governance, Law"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes the benefit of liberalizing seed imports under the Draft Seeds Bill 2025?",
+    "statements": [
+      "Greater access to high-yielding varieties",
+      "Improved competitiveness of Indian agriculture",
+      "Lower dependency on public-sector seed research"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Import liberalization allows access to advanced varieties and improves global competitiveness, but does not intend to reduce public research dependence. See [[Agriculture in India]].",
+    "tags": "Agriculture, Economy, Governance"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are included in the minimum seed certification standards under Draft Seeds Bill 2025?",
+    "statements": [
+      "Germination percentage",
+      "Genetic and physical purity",
+      "Seed health"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Seeds must meet basic quality parameters such as germination %, purity, and absence of seed-borne diseases. See [[Seed]] and [[Agronomy]].",
+    "tags": "Agriculture, Science and Technology"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best explains why the Draft Seeds Bill 2025 received support from the seed industry?",
+    "statements": [
+      "It modernizes seed regulation and aligns with global standards",
+      "It promotes private-sector R&D investment",
+      "It removes all types of penalties on seed producers"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The industry supports the Bill because it introduces modern quality testing standards and encourages private R&D. Penalties for serious offences remain. See [[Agricultural policy]] and [[Seed]].",
+    "tags": "Agriculture, Economy, Governance"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is Hepatitis A considered a high public-health concern in India today?",
+    "statements": [
+      "Improved sanitation has reduced childhood exposure, leaving more adults susceptible",
+      "Recent outbreaks have shown higher severity among young adults",
+      "Hepatitis A virus is known to cause chronic liver disease in most patients"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India’s sanitation improvements reduced natural exposure in children, increasing adult susceptibility. Adult cases are more severe. Hepatitis A does not cause chronic disease. See [[Hepatitis A]].",
+    "tags": "Health, Disease, Public Health"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are symptoms commonly associated with Hepatitis A infection?",
+    "statements": [
+      "Jaundice",
+      "Dark urine",
+      "Chronic liver fibrosis"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Hepatitis A causes acute jaundice, abdominal discomfort and dark urine, but does not lead to chronic fibrosis. See [[Hepatitis A]].",
+    "tags": "Health, Disease"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following groups are at higher risk of severe Hepatitis A infection?",
+    "statements": [
+      "Adults",
+      "Children below 5 years",
+      "Persons with pre-existing liver disease"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Children usually have mild or no symptoms, while adults and those with chronic liver disease face higher severity. See [[Hepatitis A]].",
+    "tags": "Health, Disease, Vulnerable Groups"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which preventive measures are effective against Hepatitis A transmission?",
+    "statements": [
+      "Proper hand-washing",
+      "Safe food and water practices",
+      "Universal PPE requirement for public places"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Hepatitis A spreads through the faecal-oral route; hygiene and clean water are essential. PPE is not required. See [[Hepatitis A]].",
+    "tags": "Health, Disease Prevention"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Seed Replacement Rate (SRR) is important for agricultural productivity. Which factors reduce SRR in India?",
+    "statements": [
+      "Low profitability for private seed companies in low-value crops",
+      "Dependence on farm-saved seeds",
+      "Inadequate certified seed production in public-sector institutions"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Private firms avoid low-margin crops, farmers reuse seeds, and public production is insufficient—together reducing SRR. See [[Agriculture in India]].",
+    "tags": "Agriculture, Economy, Governance"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following crops often show a greater demand–supply gap for quality seeds in India?",
+    "statements": [
+      "Pulses",
+      "Millets",
+      "Oilseeds"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Private sector investment is low in these crops due to lower margins, leading to seed shortages. See [[Seed]] and [[Agriculture in India]].",
+    "tags": "Agriculture, Economy"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of seed regulation, which institutions are primarily responsible for maintaining minimum seed certification standards?",
+    "statements": [
+      "State Seed Certification Agencies",
+      "Indian Council of Agricultural Research (ICAR)",
+      "Protection of Plant Varieties and Farmers’ Rights Authority"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Seed certification is done by State Seed Certification Agencies, guided by ICAR standards. PPV&FRA deals with plant variety rights. See [[Seed]] and [[ICAR]].",
+    "tags": "Agriculture, Governance, Standards"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Under seed quality regulation, which parameters must be tested before a seed is sold in the market?",
+    "statements": [
+      "Germination percentage",
+      "Moisture level",
+      "Resistance to all crop diseases"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Seed standards include germination, purity, and moisture content. Universal disease resistance is not a requirement. See [[Seed]] and [[Agronomy]].",
+    "tags": "Agriculture, Science and Technology"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "What is the primary purpose of farmer compensation provisions in seed regulation frameworks?",
+    "statements": [
+      "To ensure accountability of seed companies",
+      "To reduce crop losses due to seed failure",
+      "To subsidize seed prices for small farmers"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Compensation ensures accountability and reduces economic harm from seed failure. Subsidies are not part of compensation schemes. See [[Agricultural policy]].",
+    "tags": "Agriculture, Governance, Economy"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reflect benefits expected from the Draft Seeds Bill 2025 for India’s agricultural sector?",
+    "statements": [
+      "Higher productivity due to improved seed quality",
+      "Better global competitiveness through standardization",
+      "Reduction of seed prices by mandatory price control"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Bill improves quality and global alignment, but does not mandate price control on seeds. See [[Agriculture in India]].",
+    "tags": "Agriculture, Economy, Governance"
+  }
+]

@@ -1,0 +1,535 @@
+[
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to Constitutional Amendment Bills, consider the following statements:",
+    "statements": [
+      "They can be introduced in either House of Parliament",
+      "Prior recommendation of the President is required before their introduction",
+      "They must be passed only by a special majority of members present and voting"
+    ],
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "A Constitutional Amendment Bill can be introduced in either House and does NOT need the President’s prior recommendation. It must be passed by a special majority that includes majority of total membership AND two-thirds of members present and voting. [[Constitution of India]]",
+    "tags": "Polity, Parliament, Constitution"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following provisions require ratification by at least half of the State Legislatures?",
+    "statements": [
+      "Amendment affecting the election of the President",
+      "Amendment regarding distribution of legislative powers",
+      "Amendment changing the salaries of MPs"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Changes affecting federal provisions—election of the President, distribution of powers, courts, and Article 368 itself—require state ratification. Salaries of MPs do not require it. [[Indian federalism]]",
+    "tags": "Polity, Federalism"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes the special majority required under Article 368(2)?",
+    "options": [
+      "Majority of total membership of the House",
+      "Two-thirds of total membership of the House",
+      "Two-thirds of members present and voting, plus majority of total membership",
+      "Two-thirds of the total strength of both Houses combined"
+    ],
+    "correct_option": "Two-thirds of members present and voting, plus majority of total membership",
+    "explanation": "Article 368(2) requires a dual special majority: (1) majority of total membership, AND (2) two-thirds of members present and voting. [[Article 368]]",
+    "tags": "Polity, Constitution"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following Bills cannot be referred to a Joint Sitting of Parliament?",
+    "statements": [
+      "Money Bills",
+      "Constitutional Amendment Bills",
+      "Financial Bills under Article 117(1)"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Joint Sitting under Article 108 is applicable only to Ordinary Bills and Financial Bills (117(1)). Money Bills and Constitutional Amendments cannot go to Joint Sitting. [[Parliament of India]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Who presides over a Joint Sitting of Parliament?",
+    "options": [
+      "President of India",
+      "Vice-President of India",
+      "Speaker of Lok Sabha",
+      "Chairman of Rajya Sabha"
+    ],
+    "correct_option": "Speaker of Lok Sabha",
+    "explanation": "In a Joint Sitting, the Speaker presides; if absent → Deputy Speaker; if both absent → Deputy Chairman of Rajya Sabha. [[Indian Parliament]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "A Joint Sitting of Parliament can be summoned under which of the following conditions?",
+    "statements": [
+      "If Rajya Sabha rejects an Ordinary Bill",
+      "If Rajya Sabha does not return a Money Bill within 14 days",
+      "If the two Houses disagree on amendments to an Ordinary Bill"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Joint Sitting is for Ordinary Bills only. Money Bills cannot go to Joint Sitting; they become law after 14 days irrespective of Rajya Sabha’s action. [[Article 108]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following historical Joint Sessions is correctly matched?",
+    "options": [
+      "1961 – Banking Service Commission Repeal Bill",
+      "1978 – Dowry Prohibition Bill",
+      "2002 – Prevention of Terrorism Bill",
+      "1972 – Essential Commodities Bill"
+    ],
+    "correct_option": "2002 – Prevention of Terrorism Bill",
+    "explanation": "India has had only three Joint Sittings: 1961 (Dowry Prohibition), 1978 (Banking Service Commission), 2002 (POTA). [[Indian legislative history]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Why does the President have no power to return a Constitutional Amendment Bill?",
+    "options": [
+      "The Constitution explicitly bars it",
+      "The Supreme Court does not permit it",
+      "The bill is already ratified by states",
+      "The President has discretionary veto only on Ordinary Bills"
+    ],
+    "correct_option": "The Constitution explicitly bars it",
+    "explanation": "Under Article 368(2), the President must give assent; he cannot return a Constitutional Amendment Bill. [[Article 368]]",
+    "tags": "Polity, Constitution"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly distinguishes a Financial Bill under Article 117(1)?",
+    "options": [
+      "It is certified by the Speaker as a Money Bill",
+      "It contains only taxation provisions",
+      "It contains Money Bill provisions plus other matters",
+      "It can be introduced in either House"
+    ],
+    "correct_option": "It contains Money Bill provisions plus other matters",
+    "explanation": "Article 117(1) Financial Bill contains Money Bill provisions + other subjects; it MUST be introduced in Lok Sabha with President’s recommendation. [[Financial legislation in India]]",
+    "tags": "Polity, Budget"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following Bills can result in a Joint Sitting if a deadlock occurs?",
+    "statements": [
+      "Ordinary Bill",
+      "Financial Bill under Article 117(1)",
+      "Constitutional Amendment Bill"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Ordinary Bills and Financial Bills under Article 117(1) can go to Joint Sitting. Constitutional Amendments cannot. [[Article 108]]",
+    "tags": "Polity, Parliament"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Regarding Constitutional Amendment Bills, which of the following is correct?",
+    "options": [
+      "They can be introduced only in Lok Sabha",
+      "They require approval of two-thirds of total membership",
+      "They require a special majority in both Houses",
+      "They automatically require ratification by all State Legislatures"
+    ],
+    "correct_option": "They require a special majority in both Houses",
+    "explanation": "A Constitutional Amendment Bill can be introduced in either House and requires a special majority in each House. Only certain amendments require state ratification. [[Constitution of India]]",
+    "tags": "Polity, Constitution"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Under what condition can a Joint Sitting be convened if the Rajya Sabha delays an Ordinary Bill?",
+    "statements": [
+      "If Rajya Sabha does not return the bill within six months",
+      "If Rajya Sabha proposes amendments not acceptable to Lok Sabha",
+      "If Lok Sabha withdraws the bill"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "A Joint Sitting may be called if Rajya Sabha does not return an Ordinary Bill within six months or if the Houses disagree on amendments. [[Article 108]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the role of Rajya Sabha in Constitutional Amendment Bills?",
+    "options": [
+      "Rajya Sabha can only delay the bill",
+      "Rajya Sabha has equal powers as Lok Sabha",
+      "Rajya Sabha may be bypassed through Joint Sitting",
+      "Rajya Sabha can amend but not reject the bill"
+    ],
+    "correct_option": "Rajya Sabha has equal powers as Lok Sabha",
+    "explanation": "Rajya Sabha cannot be bypassed in Constitutional Amendments. Both Houses have equal powers, and no Joint Sitting is allowed. [[Indian Parliament]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following provisions. Amendment of which of them requires state ratification?",
+    "statements": [
+      "Amendment of Article 368",
+      "Representation of States in Parliament",
+      "Size of Council of Ministers"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Amendments affecting federal features such as Article 368 and representation of states require ratification by half the states; changes in Council of Ministers do not. [[Federal structure of India]]",
+    "tags": "Polity, Constitution"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which one of the following is NOT a reason for excluding Constitutional Amendment Bills from Joint Sitting?",
+    "options": [
+      "They require a higher level of consensus",
+      "They alter federal features needing state involvement",
+      "Allowing Joint Sitting would give Lok Sabha dominance",
+      "Rajya Sabha has no role in constitutional changes"
+    ],
+    "correct_option": "Rajya Sabha has no role in constitutional changes",
+    "explanation": "Rajya Sabha has full and equal powers in Constitutional Amendments; hence Joint Sitting is prohibited to maintain federal balance. [[Article 368]]",
+    "tags": "Polity, Federalism"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements about Money Bills is correct?",
+    "options": [
+      "Rajya Sabha can reject a Money Bill",
+      "Rajya Sabha can delay it by 14 days",
+      "A Money Bill can originate in either House",
+      "President may return a Money Bill for reconsideration"
+    ],
+    "correct_option": "Rajya Sabha can delay it by 14 days",
+    "explanation": "Money Bills originate only in Lok Sabha. Rajya Sabha can only recommend changes and can delay for 14 days. President must give assent. [[Money Bill]]",
+    "tags": "Polity, Budget"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following Bills can be introduced ONLY in Lok Sabha?",
+    "options": [
+      "Financial Bill under Article 117(1)",
+      "Financial Bill under Article 117(3)",
+      "Constitutional Amendment Bill",
+      "Ordinary Bill involving taxation"
+    ],
+    "correct_option": "Financial Bill under Article 117(1)",
+    "explanation": "Article 117(1) Bills contain Money Bill provisions plus others and must be introduced in Lok Sabha with President’s recommendation. [[Financial legislation]]",
+    "tags": "Polity, Budget"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following determines the outcome of a Joint Sitting?",
+    "options": [
+      "Two-thirds majority of members present",
+      "Majority of total membership of both Houses",
+      "Simple majority of members present and voting",
+      "Voting by only Lok Sabha members"
+    ],
+    "correct_option": "Simple majority of members present and voting",
+    "explanation": "Joint Sitting decisions are taken by simple majority of those present and voting. Lok Sabha often dominates due to its larger size. [[Article 108]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is the Speaker of Lok Sabha preferred over the Vice-President to preside over a Joint Sitting?",
+    "options": [
+      "Speaker is constitutionally superior to the Vice-President",
+      "Speaker represents the directly elected House",
+      "Speaker is the head of Parliament",
+      "Vice-President cannot vote in Lok Sabha"
+    ],
+    "correct_option": "Speaker represents the directly elected House",
+    "explanation": "Joint Sitting resolves a deadlock between Houses and is designed to favour the popular mandate represented by Lok Sabha. [[Indian Parliament]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which historical Joint Sitting overturned the decision of Rajya Sabha and passed a bill rejected by it?",
+    "options": [
+      "Dowry Prohibition Bill, 1961",
+      "Banking Service Commission Repeal Bill, 1978",
+      "Prevention of Terrorism Bill, 2002",
+      "Essential Commodities Bill, 1972"
+    ],
+    "correct_option": "Prevention of Terrorism Bill, 2002",
+    "explanation": "Rajya Sabha rejected POTA in 2002, but the Joint Sitting passed it, making it the most politically significant joint session. [[POTA]]",
+    "tags": "Polity, Parliament"
+  },
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following Bills necessarily requires the President’s recommendation before introduction?",
+    "options": [
+      "Ordinary Bill",
+      "Constitutional Amendment Bill",
+      "Financial Bill under Article 117(1)",
+      "Constitutional Amendment Bill requiring state ratification"
+    ],
+    "correct_option": "Financial Bill under Article 117(1)",
+    "explanation": "A Financial Bill (117(1)) contains Money Bill provisions and must be introduced in Lok Sabha with the President’s recommendation. Constitutional Amendment Bills do not need such recommendation. [[Financial legislation]]",
+    "tags": "Polity, Budget, Constitution"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of Joint Sitting, what is the quorum required?",
+    "options": [
+      "1/5th of total members of both Houses",
+      "1/10th of total members of both Houses",
+      "Simple majority of total members of both Houses",
+      "Quorum rules do not apply to Joint Sitting"
+    ],
+    "correct_option": "1/10th of total members of both Houses",
+    "explanation": "A Joint Sitting requires a quorum of one-tenth of total membership of both Houses combined. [[Article 108]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT a characteristic of a Constitutional Amendment Bill?",
+    "statements": [
+      "It requires a special majority in each House",
+      "Rajya Sabha has equal powers as Lok Sabha",
+      "It can be referred to a Joint Sitting if there is disagreement",
+      "The President must give assent"
+    ],
+    "options": [
+      "1 only",
+      "3 only",
+      "2 only",
+      "4 only"
+    ],
+    "correct_option": "3 only",
+    "explanation": "Constitutional Amendment Bills never go to Joint Sitting. All other statements are correct features. [[Article 368]]",
+    "tags": "Polity, Constitution"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "For which of the following is a simple majority sufficient?",
+    "statements": [
+      "Creation of new states",
+      "Abolition of Legislative Councils",
+      "Amendment of Fundamental Rights"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Creation of states and abolition of Legislative Councils require simple majority. Fundamental Rights require special majority + sometimes state ratification. [[State reorganization]]",
+    "tags": "Polity, Federalism"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly distinguishes an Ordinary Bill from a Constitutional Amendment Bill?",
+    "options": [
+      "Ordinary Bills need special majority; Amendment Bills require simple majority",
+      "Ordinary Bills can go to Joint Sitting; Amendment Bills cannot",
+      "Amendment Bills can originate only in Lok Sabha",
+      "Ordinary Bills need President’s prior recommendation"
+    ],
+    "correct_option": "Ordinary Bills can go to Joint Sitting; Amendment Bills cannot",
+    "explanation": "Ordinary Bills follow normal majority and can be resolved via Joint Sitting; Constitutional Amendments do not allow Joint Sitting. [[Legislative procedure]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "The President must give assent to which of the following Bills?",
+    "statements": [
+      "Money Bill",
+      "Constitutional Amendment Bill",
+      "Financial Bill under Article 117(3)"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Money Bills and Constitutional Amendment Bills must receive Presidential assent. Financial Bill (117(3)) is treated like an Ordinary Bill, and may be returned once. [[Indian Presidency]]",
+    "tags": "Polity, President"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Under what situation is the Rajya Sabha constitutionally required to pass a bill?",
+    "options": [
+      "Money Bills",
+      "Finance Bills under Article 117(3)",
+      "Constitutional Amendment Bills",
+      "Appropriation Bills"
+    ],
+    "correct_option": "Constitutional Amendment Bills",
+    "explanation": "Rajya Sabha’s approval is mandatory for Constitutional Amendments; Money Bills and Appropriation Bills can pass without its consent. [[Indian Parliament]]",
+    "tags": "Polity, Parliament, Constitution"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which Financial Bill is treated exactly like an Ordinary Bill in every respect?",
+    "options": [
+      "Financial Bill under Article 117(1)",
+      "Financial Bill under Article 117(2)",
+      "Financial Bill under Article 117(3)",
+      "None of the above"
+    ],
+    "correct_option": "Financial Bill under Article 117(3)",
+    "explanation": "Article 117(3) Bills do not contain Money Bill provisions and are treated like Ordinary Bills, except requiring President’s recommendation. [[Financial Bills]]",
+    "tags": "Polity, Budget"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which one of the following is a consequence of Lok Sabha’s numerical superiority during a Joint Sitting?",
+    "options": [
+      "Rajya Sabha dominates the voting process",
+      "Ordinary Bills usually pass in favour of Lok Sabha",
+      "Speaker does not have a casting vote",
+      "Joint Sitting becomes unnecessary"
+    ],
+    "correct_option": "Ordinary Bills usually pass in favour of Lok Sabha",
+    "explanation": "Due to Lok Sabha’s larger size, voting outcomes in Joint Sittings tend to reflect Lok Sabha’s position. [[Article 108]]",
+    "tags": "Polity, Parliament"
+  },
+
+  {
+    "date": "14",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following features makes Constitutional Amendment Bills different from Ordinary Bills?",
+    "statements": [
+      "They cannot be introduced without the President’s recommendation",
+      "They require a special majority",
+      "They cannot be sent for a Joint Sitting"
+    ],
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "Constitution Amendment Bills need special majority and cannot go to Joint Sitting. No presidential recommendation is required for their introduction. [[Article 368]]",
+    "tags": "Polity, Constitution"
+  }
+]
