@@ -148,18 +148,76 @@
     }
   },
   "mains": {
-    "General Studies": {
-      "GS Paper I": [
-        "Indian Heritage & Culture",
-        "Modern Indian History",
-        "Society",
-        "Geography"
-      ],
-      "GS Paper II": ["Constitution & Polity", "Governance", "IR"],
-      "GS Paper III": ["Economy", "Agriculture", "Science & Tech", "Security"],
-      "GS Paper IV": ["Ethics", "Integrity", "Aptitude"]
+    "GS Paper I":{
+      "topics": [
+        {
+          "name": "Indian Heritage & Culture",
+          "markdown_url": "notes/mains/gs1/heritage-culture.md"
+        },
+        {
+          "name": "Modern Indian History",
+          "markdown_url": "notes/mains/gs1/modern-history.md"
+        },
+        {
+          "name": "Society",
+          "markdown_url": "notes/mains/gs1/society.md"
+        },
+        {
+          "name": "Geography",
+          "markdown_url": "notes/mains/gs1/geography.md"
+        }
+      ]
     },
-    "Essay": {
+    "GS Paper II": {
+      "topics": [
+        {
+          "name": "Polity & Governance",
+          "markdown_url": "notes/mains/gs2/polity-governance.md"
+        },
+        {
+          "name": "International Relations",
+          "markdown_url": "notes/mains/gs2/international-relations.md"
+        }
+      ]
+    },
+    "GS Paper III": {
+      "topics": [
+        {
+          "name": "Economy",
+          "markdown_url": "notes/mains/gs3/economy.md"
+        },
+        {
+          "name": "Environment & Ecology",
+          "markdown_url": "notes/mains/gs3/environment-ecology.md"
+        },
+        {
+          "name": "Science & Technology",
+          "markdown_url": "notes/mains/gs3/science-tech.md"
+        },
+        {
+          "name": "Security",
+          "markdown_url": "notes/mains/gs3/security.md"
+        }
+      ]
+    },
+    "GS Paper IV": {
+      "topics": [
+        {
+          "name": "Ethics",
+          "markdown_url": "notes/mains/gs4/ethics.md"
+        },
+        {
+          "name": "Integrity",
+          "markdown_url": "notes/mains/gs4/integrity.md"
+        },
+        {
+          "name": "Aptitude",
+          "markdown_url": "notes/mains/gs4/aptitude.md"
+        }
+      ]
+    }
+  },
+  "Essay": {
       "topics": [
         {
           "name": "Essay Structure & Types",
