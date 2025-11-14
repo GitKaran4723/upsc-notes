@@ -56,18 +56,7 @@
 
   <!-- Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer"/>
-  
-  <!-- Dynamic asset loading -->
-  <script>
-    (function() {
-      const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
-      const basePath = isLocal ? '' : '/upsc-notes';
-      const link = document.createElement('link');
-      link.rel = 'stylesheet';
-      link.href = basePath + '/assets/ui.css';
-      document.head.appendChild(link);
-    })();
-  </script>
+  <link rel="stylesheet" href="/upsc-notes/assets/ui.css">
 
   <!-- Markdown renderer & sanitizer -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -1349,16 +1338,15 @@
     async function loadQuestions() {
       updateHeader();
       const { year, month, date, subject, concept } = getUrlParams();
-      const basePath = getBasePath();
 
       try {
         let res;
         if (subject && concept) {
-          // Load subject-based questions - use dynamic path
-          res = await fetch(`${basePath}/question/practice/subjects/${encodeURIComponent(subject)}/${encodeURIComponent(concept)}.json`, { cache: 'no-store' });
+          // Load subject-based questions - use relative path
+          res = await fetch(`./question/practice/subjects/${encodeURIComponent(subject)}/${encodeURIComponent(concept)}.json`, { cache: 'no-store' });
         } else {
-          // Load date-based questions - use dynamic path
-          res = await fetch(`${basePath}/question/practice/${year}/${month}/${date}.json`, { cache: 'no-store' });
+          // Load date-based questions - use relative path
+          res = await fetch(`./question/practice/${year}/${month}/${date}.json`, { cache: 'no-store' });
         }
         
         const data = await res.json();
