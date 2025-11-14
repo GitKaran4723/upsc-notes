@@ -1,0 +1,802 @@
+[
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following Acts first created a central administrative post titled 'Governor-General of Bengal'?",
+    "statements": [
+      "Regulating Act, 1773",
+      "Pitt's India Act, 1784",
+      "Charter Act, 1833"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Regulating Act of 1773 established the office of the Governor-General of Bengal (Warren Hastings was the first). It marked the first step toward centralizing British administration. Pitt’s India Act increased parliamentary control but did not create this post. See [[Regulating Act 1773]].",
+    "tags": "History, Constitutional Development"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Consider the following features and identify which were introduced by the Government of India Act, 1935:",
+    "statements": [
+      "Provincial autonomy",
+      "Provision for a federal union with princely states",
+      "Introduction of Diarchy at the provincial level"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Government of India Act, 1935 introduced provincial autonomy and proposed a federal structure including princely states. Diarchy at the provincial level was introduced earlier under the 1919 Act. See [[Government of India Act 1935]].",
+    "tags": "History, Constitutional Development"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Who moved the Objectives Resolution in the Constituent Assembly and what was its significance?",
+    "statements": [
+      "It was moved by Jawaharlal Nehru",
+      "It laid down the guiding philosophy of the Constitution",
+      "It declared India to be an independent sovereign republic"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Jawaharlal Nehru moved the Objectives Resolution on 13 December 1946. It became the foundation of the Preamble and declared India’s sovereignty and commitment to justice, equality, liberty, and fraternity. See [[Objectives Resolution]].",
+    "tags": "Constituent Assembly, Preamble"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which committee of the Constituent Assembly was primarily responsible for preparing the draft Constitution?",
+    "statements": [
+      "Drafting Committee chaired by B.R. Ambedkar",
+      "Union Powers Committee chaired by Jawaharlal Nehru",
+      "Steering Committee chaired by Dr. Rajendra Prasad"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Drafting Committee, chaired by Dr. B.R. Ambedkar, had the main responsibility of preparing the constitutional text. Other committees handled specific domains but not the drafting itself. See [[Drafting Committee of the Indian Constitution]].",
+    "tags": "Constituent Assembly, Drafting Committee"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements about Dr. B.R. Ambedkar's role in constitution making is/are correct?",
+    "statements": [
+      "He chaired the Drafting Committee",
+      "He emphasized balancing Fundamental Rights and Directive Principles",
+      "He opposed the idea of an independent judiciary"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Ambedkar chaired the Drafting Committee and strongly advocated harmonizing Fundamental Rights with Directive Principles. He supported, not opposed, judicial independence. See [[B. R. Ambedkar]].",
+    "tags": "Ambedkar, Constitutional Philosophy"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "The Constituent Assembly of India first met on which date, and who served as its permanent President?",
+    "statements": [
+      "The first meeting was on 9 December 1946",
+      "Dr. Rajendra Prasad was elected President",
+      "B.N. Rau served as President of the Assembly"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The first meeting was held on 9 December 1946, and Dr. Rajendra Prasad became the permanent President. B.N. Rau was the Constitutional Adviser, not the President. See [[Constituent Assembly of India]].",
+    "tags": "Constituent Assembly, Important Dates"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which constitutional features in India have their roots in British governance?",
+    "statements": [
+      "Parliamentary system",
+      "Civil services tradition",
+      "Single citizenship"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "India adopted several institutions from British practice, including the parliamentary system, a professional civil service, and single citizenship. See [[Parliamentary system in India]].",
+    "tags": "British Influence, Constitution"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "How long did the Constituent Assembly take to complete the Constitution, and how many sittings were held?",
+    "statements": [
+      "It took 2 years, 11 months, and 18 days",
+      "It held 165 sittings",
+      "The Drafting Committee took 365 days to prepare the draft"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Assembly worked for 2 years, 11 months, 18 days and held 165 sittings. The Drafting Committee worked for 141 days, not 365. See [[Constituent Assembly Debates]].",
+    "tags": "Constituent Assembly, Facts"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements about the Objectives Resolution is NOT correct?",
+    "statements": [
+      "It was moved in December 1946",
+      "It became the Preamble word-for-word",
+      "It highlighted safeguards for minorities"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The Objectives Resolution inspired the Preamble but did not become it verbatim. It was moved in December 1946 and included protections for minorities. See [[Objectives Resolution]].",
+    "tags": "Preamble, Objectives Resolution"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which criticisms were commonly made against the Constituent Assembly?",
+    "statements": [
+      "It was not elected by universal adult franchise",
+      "It was dominated by the Congress Party",
+      "Its proceedings were kept secret from the public"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Assembly was indirectly elected and dominated by the Congress. Its debates were published widely, so secrecy was not a valid criticism. See [[Constituent Assembly of India debates]].",
+    "tags": "Constituent Assembly, Criticism"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which among the following was the first Act that brought the East India Company under direct control of the British Parliament?",
+    "statements": [
+      "Regulating Act, 1773",
+      "Pitt’s India Act, 1784",
+      "Charter Act, 1853"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Regulating Act of 1773 was the first law by which the British Parliament directly intervened in the affairs of the East India Company. Pitt’s India Act strengthened control later, while the Charter Act of 1853 focused on administration and civil services. See [[Regulating Act 1773]].",
+    "tags": "History, British Acts"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "What was the key contribution of the Indian Councils Act, 1861?",
+    "statements": [
+      "It introduced Indians into the legislative process",
+      "It began decentralisation by restoring legislative powers to provinces",
+      "It introduced separate electorates for Muslims"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The 1861 Act brought the first Indians (as non-official members) into legislative councils and revived provincial legislative powers. Communal electorates were introduced later in the 1909 Act. See [[Indian Councils Act 1861]].",
+    "tags": "History, Legislative Development"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which features were introduced by the Morley–Minto Reforms of 1909?",
+    "statements": [
+      "Expansion of legislative councils",
+      "Separate electorates for Muslims",
+      "Introduction of diarchy at provincial level"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Morley–Minto Reforms expanded legislative councils and introduced communal representation through separate electorates for Muslims. Diarchy came much later in the 1919 Act. See [[Indian Councils Act 1909]].",
+    "tags": "History, Communal Representation"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which provisions are correctly associated with the Government of India Act, 1919?",
+    "statements": [
+      "Introduction of Diarchy in provinces",
+      "Creation of a bicameral legislature at the Centre",
+      "Creation of a Public Service Commission"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The 1919 Act introduced diarchy, established a bicameral central legislature, and created the Public Service Commission in 1926. See [[Government of India Act 1919]].",
+    "tags": "History, Administration"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which statement correctly describes the nature of the Simon Commission (1927)?",
+    "statements": [
+      "It consisted only of British members",
+      "It was set up to review the functioning of the 1919 Act",
+      "It recommended provincial autonomy"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Simon Commission was all-British and was created to assess the working of the 1919 Act. Provincial autonomy later appeared in the 1935 Act. See [[Simon Commission]].",
+    "tags": "History, Constitutional Development"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following were provisions of the Government of India Act, 1858?",
+    "statements": [
+      "Transfer of power from the Company to the British Crown",
+      "Creation of the office of the Secretary of State for India",
+      "Abolition of the post of Viceroy"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The 1858 Act abolished Company rule, created the Secretary of State for India, and introduced the Viceroy (not abolished it). See [[Government of India Act 1858]].",
+    "tags": "History, British Administration"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Under which plan was the Constituent Assembly of India formed?",
+    "statements": [
+      "Cripps Mission Plan",
+      "Cabinet Mission Plan",
+      "Mountbatten Plan"
+    ],
+    "options": [
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The Constituent Assembly was created under the Cabinet Mission Plan of 1946. The Cripps Mission and Mountbatten Plan did not create the Assembly. See [[Cabinet Mission Plan]].",
+    "tags": "Constituent Assembly, Modern History"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following correctly describes the election method for members of the Constituent Assembly?",
+    "statements": [
+      "They were directly elected by adult franchise",
+      "Provincial Assemblies elected the members",
+      "Single transferable vote system was used"
+    ],
+    "options": [
+      "2 and 3 only",
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "Members were indirectly elected by Provincial Legislative Assemblies using proportional representation with the single transferable vote. They were not directly elected. See [[Constituent Assembly of India]].",
+    "tags": "Constituent Assembly, Elections"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following were major committees headed by Jawaharlal Nehru in the Constituent Assembly?",
+    "statements": [
+      "Union Powers Committee",
+      "Union Constitution Committee",
+      "Provincial Constitution Committee"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Jawaharlal Nehru chaired the Union Powers Committee and the Union Constitution Committee. The Provincial Constitution Committee was chaired by Sardar Vallabhbhai Patel. See [[Committees of the Constituent Assembly]].",
+    "tags": "Constituent Assembly, Committees"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which statement about the Drafting Committee is correct?",
+    "statements": [
+      "It submitted the first draft in February 1948",
+      "T.T. Krishnamachari replaced D.P. Khaitan in the Committee",
+      "It completed drafting in 141 days"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Drafting Committee (headed by Ambedkar) submitted the first draft in February 1948, T.T. Krishnamachari replaced D.P. Khaitan, and the drafting was finished in 141 days. See [[Drafting Committee of the Indian Constitution]].",
+    "tags": "Constitution Drafting, Ambedkar"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "What was the primary purpose of the Charter Act of 1813?",
+    "statements": [
+      "To end the trade monopoly of the East India Company",
+      "To allow Christian missionaries to work in India",
+      "To introduce open competition for civil services"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Charter Act of 1813 ended the Company's trade monopoly (except for tea and China) and allowed Christian missionaries in India. Open competition for civil services was introduced later in the 1853 Act. See [[Charter Act 1813]].",
+    "tags": "History, British Acts"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which feature was introduced by the Charter Act of 1833?",
+    "statements": [
+      "Governor-General of India was created",
+      "Commercial activities of the Company were abolished",
+      "A Central Legislature for India was created"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The 1833 Act created the office of Governor-General of India (Bentinck), ended the Company’s commercial functions, and centralized legislative powers. See [[Charter Act 1833]].",
+    "tags": "History, Governance"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which among the following was a key change brought by the Charter Act of 1853?",
+    "statements": [
+      "It separated legislative and executive functions",
+      "It introduced open competition for civil services",
+      "It created the first Public Service Commission"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Act of 1853 separated the Governor-General’s Council into legislative and executive wings and introduced open civil service exams. The Public Service Commission was created later under the 1919 Act. See [[Charter Act 1853]].",
+    "tags": "History, Civil Services"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following are true regarding the Indian Independence Act, 1947?",
+    "statements": [
+      "It ended British rule in India",
+      "It created the dominions of India and Pakistan",
+      "It made the Constituent Assembly a sovereign body"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The 1947 Act ended British rule, created India and Pakistan as dominions, and made the Constituent Assembly fully sovereign to frame the Constitution. See [[Indian Independence Act 1947]].",
+    "tags": "Modern History, Constitutional Development"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Who among the following served as the Constitutional Adviser to the Constituent Assembly?",
+    "statements": [
+      "B.N. Rau",
+      "H.V.R Iyengar",
+      "K.M. Munshi"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Sir B.N. Rau served as the Constitutional Adviser and played a key role in preparing the initial draft. Iyengar was the Assembly Secretary, and Munshi was a committee member. See [[B. N. Rau]].",
+    "tags": "Constituent Assembly, Advisors"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "What was the total original membership of the Constituent Assembly before Partition?",
+    "statements": [
+      "389 members",
+      "292 from British Indian provinces",
+      "93 from princely states"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Assembly originally had 389 members: 292 from provinces, 93 from princely states, and 4 from Chief Commissioner’s provinces. See [[Constituent Assembly of India]].",
+    "tags": "Constituent Assembly, Structure"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following statements about the Objectives Resolution are correct?",
+    "statements": [
+      "It declared that the Constitution would derive authority from the people",
+      "It guaranteed justice, equality, and freedom",
+      "It proposed that India would be a federation of autonomous units"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Resolution affirmed popular sovereignty, guaranteed core values, and proposed a Union of autonomous units. It acted as the blueprint of the Preamble. See [[Objectives Resolution]].",
+    "tags": "Preamble, Constituent Assembly"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which among the following were Minor Committees of the Constituent Assembly?",
+    "statements": [
+      "Credentials Committee",
+      "Linguistic Provinces Committee",
+      "Finance and Staff Committee"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "These three were all Minor Committees created for specific administrative and structural tasks. See [[Committees of the Constituent Assembly]].",
+    "tags": "Constituent Assembly, Committees"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which statement about the working of the Constituent Assembly is correct?",
+    "statements": [
+      "It adopted the Constitution on 26 November 1949",
+      "The Constitution came into force immediately on the same day",
+      "It held 165 sittings in total"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Constitution was adopted on 26 November 1949, but came into force on 26 January 1950. The Assembly held 165 sittings. See [[Constituent Assembly Debates]].",
+    "tags": "Constitution Adoption, Assembly Facts"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following reflect Ambedkar’s constitutional philosophy?",
+    "statements": [
+      "Establishing political, social, and economic democracy",
+      "Emphasising constitutional morality",
+      "Ensuring a rigid Constitution with little scope for amendment"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Ambedkar stressed social, political, and economic democracy, and constitutional morality. He supported a flexible, adaptable Constitution, not a rigid one. See [[B. R. Ambedkar]].",
+    "tags": "Ambedkar, Constitutional Philosophy"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Under the Government of India Act, 1935, which of the following institutions was established for the first time?",
+    "statements": [
+      "Federal Court of India",
+      "Reserve Bank of India",
+      "Public Service Commission"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The 1935 Act established the Federal Court (1937) and provided for the RBI (established 1935). The Public Service Commission had already been created under the 1919 Act. See [[Government of India Act 1935]].",
+    "tags": "History, Governance, British Acts"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which Act first allowed limited budget discussions and questioning by Indian members?",
+    "statements": [
+      "Indian Councils Act, 1861",
+      "Indian Councils Act, 1892",
+      "Morley-Minto Reforms, 1909"
+    ],
+    "options": [
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The Indian Councils Act of 1892 allowed Indians for the first time to discuss the budget and ask questions. The 1861 Act only introduced Indians to councils, and the 1909 Act expanded councils further. See [[Indian Councils Act 1892]].",
+    "tags": "History, Legislative Councils"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which changes occurred in the Constituent Assembly after the Partition of 1947?",
+    "statements": [
+      "Membership reduced from 389 to 299",
+      "Muslim League members withdrew",
+      "Princely states refused to join the Assembly"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "After Partition, the Assembly’s membership dropped to 299 and Muslim League members left to form Pakistan's Assembly. Princely states continued to join gradually and did not boycott. See [[Constituent Assembly of India]].",
+    "tags": "Constituent Assembly, Partition"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which committees were chaired by Sardar Vallabhbhai Patel?",
+    "statements": [
+      "Provincial Constitution Committee",
+      "Advisory Committee on Fundamental Rights",
+      "Union Powers Committee"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Patel chaired the Provincial Constitution Committee and the Advisory Committee on Fundamental Rights, Minorities, and Tribal Areas. The Union Powers Committee was chaired by Nehru. See [[Committees of the Constituent Assembly]].",
+    "tags": "Committees, Constituent Assembly"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following was a major criticism of the Constituent Assembly?",
+    "statements": [
+      "It was not created by a sovereign Indian people initially",
+      "It was dominated by lawyers",
+      "It did not include any women members"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Critics argued it was established under the Cabinet Mission Plan (not fully sovereign at first) and was heavily lawyer-dominated. But it did include 15 women members. See [[Constituent Assembly of India]].",
+    "tags": "Criticism, Constitution Making"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which statements reflect the federal influence of the Government of India Act, 1935 on the Indian Constitution?",
+    "statements": [
+      "Adoption of a federal structure",
+      "Features of provincial autonomy",
+      "Emergency provisions"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The 1935 Act greatly influenced India’s Constitution, including federalism, provincial autonomy, and emergency provisions. See [[Government of India Act 1935]].",
+    "tags": "British Legacy, Constitution"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which of the following reflects a key characteristic of the Regulating Act, 1773?",
+    "statements": [
+      "It established the Supreme Court at Calcutta",
+      "It made the Governor of Bengal the Governor-General of India",
+      "It laid the foundation of central administration in India"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Act created the Supreme Court and initiated central administration. The title 'Governor-General of India' came later in the 1833 Act. See [[Regulating Act 1773]].",
+    "tags": "British Acts, Administration"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which reforms were introduced under the Government of India Act, 1919?",
+    "statements": [
+      "Introduction of Diarchy at the Centre",
+      "Expansion of franchise",
+      "Creation of a bicameral legislature at the Central level"
+    ],
+    "options": [
+      "2 and 3 only",
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "The 1919 Act expanded limited franchise and introduced bicameralism at the Centre, but diarchy was introduced only at the provincial—not central—level. See [[Government of India Act 1919]].",
+    "tags": "Governance, British Era"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "What was a significant outcome of the Indian Independence Act, 1947?",
+    "statements": [
+      "Complete abolition of the post of Governor-General",
+      "Full sovereignty granted to the dominions",
+      "Right of the dominions to frame their own Constitutions"
+    ],
+    "options": [
+      "2 and 3 only",
+      "1 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "The Act granted sovereignty to India and Pakistan and made their Constituent Assemblies fully empowered to frame their own Constitutions. The Governor-General post continued temporarily. See [[Indian Independence Act 1947]].",
+    "tags": "Modern History, Constitutional Development"
+  },
+  {
+    "date": "25",
+    "month": "October",
+    "year": "2025",
+    "question": "Which statement about the adoption of the Indian Constitution is correct?",
+    "statements": [
+      "The Constitution was signed on 24 January 1950",
+      "It came into force on 26 January 1950",
+      "26 January was chosen to commemorate the Purna Swaraj Day of 1930"
+    ],
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Members signed the Constitution on 24 January 1950. It was enforced on 26 January 1950 to honour the declaration of Purna Swaraj made in 1930. See [[Constitution of India]].",
+    "tags": "Indian Constitution, Important Dates"
+  }
+]
