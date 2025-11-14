@@ -632,7 +632,10 @@
     // LOCAL STORAGE KEY MANAGEMENT
     // =========================
     function getStorageKey() {
-      const { year, month, date } = getUrlParams();
+      const { year, month, date, subject, concept } = getUrlParams();
+      if (subject && concept) {
+        return `upsc_quiz_subject_${subject}_${concept}`;
+      }
       return `upsc_quiz_${year}_${month}_${date}`;
     }
 
@@ -741,7 +744,9 @@
       return {
         year: urlParams.get('year'),
         month: urlParams.get('month'),
-        date: urlParams.get('date')
+        date: urlParams.get('date'),
+        subject: urlParams.get('subject'),
+        concept: urlParams.get('concept')
       };
     }
 
@@ -761,8 +766,15 @@
     }
 
     function updateHeader() {
-      const { year, month, date } = getUrlParams();
-      const dateText = `📅 Practice Date: ${date || '—'} ${month || ''}, ${year || ''}`.trim();
+      const { year, month, date, subject, concept } = getUrlParams();
+      
+      let dateText;
+      if (subject && concept) {
+        dateText = `📚 ${subject} — ${concept.replace(/_/g, ' ')}`;
+      } else {
+        dateText = `📅 Practice Date: ${date || '—'} ${month || ''}, ${year || ''}`.trim();
+      }
+      
       dateInfo.textContent = dateText;
       
       // Update mobile date info
@@ -771,12 +783,17 @@
         mobileDateInfo.textContent = dateText;
       }
 
-      // Update navbar with practice date
+      // Update navbar with practice date or subject
       const navbarTitle = document.getElementById('navbar-date-display');
       const navbarSubtitle = document.getElementById('navbar-date-subtitle');
       if (navbarTitle && navbarSubtitle) {
-        navbarTitle.textContent = `${date || '—'} ${month || ''}, ${year || ''}`.trim();
-        navbarSubtitle.textContent = 'Practice Quiz';
+        if (subject && concept) {
+          navbarTitle.textContent = concept.replace(/_/g, ' ');
+          navbarSubtitle.textContent = subject;
+        } else {
+          navbarTitle.textContent = `${date || '—'} ${month || ''}, ${year || ''}`.trim();
+          navbarSubtitle.textContent = 'Practice Quiz';
+        }
       }
     }
 
@@ -1312,10 +1329,18 @@
     // =========================
     async function loadQuestions() {
       updateHeader();
-      const { year, month, date } = getUrlParams();
+      const { year, month, date, subject, concept } = getUrlParams();
 
       try {
-        const res = await fetch(`./question/practice/${year}/${month}/${date}.json`, { cache: 'no-store' });
+        let res;
+        if (subject && concept) {
+          // Load subject-based questions
+          res = await fetch(`./question/practice/subjects/${subject}/${concept}.json`, { cache: 'no-store' });
+        } else {
+          // Load date-based questions
+          res = await fetch(`./question/practice/${year}/${month}/${date}.json`, { cache: 'no-store' });
+        }
+        
         const data = await res.json();
 
         // Normalize minimal

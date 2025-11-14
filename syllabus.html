@@ -134,12 +134,13 @@
   </header>
 
   <!-- Overview -->
-  <section class="py-6 px-4 bg-yellow-100 text-center">
-    <h2 class="text-2xl font-semibold text-yellow-800">Syllabus Structure</h2>
-    <p class="max-w-3xl mx-auto mt-2 text-sm text-gray-700">
-      UPSC CSE consists of multiple stages: <strong>Prelims</strong>, <strong>Mains</strong>, and <strong>Interview</strong>.
-      Below is the structured syllabus with unit-wise and topic-wise breakdown for <strong>Prelims</strong>, <strong>GS Mains Papers</strong>, and <strong>Optional Subjects</strong>.
-      Click on any concept to open detailed markdown notes and analysis.
+  <section class="py-6 px-4 bg-gradient-to-r from-amber-100 via-orange-100 to-yellow-100 dark:from-amber-900/30 dark:via-orange-900/30 dark:to-yellow-900/30 text-center relative z-10">
+    <h2 class="text-3xl font-bold bg-gradient-to-r from-amber-600 to-orange-600 bg-clip-text text-transparent mb-3">
+      UPSC CSE Complete Syllabus
+    </h2>
+    <p class="max-w-3xl mx-auto text-sm text-gray-700 dark:text-gray-300">
+      Study subject-wise with comprehensive coverage of all UPSC topics. Each subject contains organized chapters with detailed markdown notes.
+      <br><strong>15 Major Subjects</strong> covering History, Polity, Economy, Geography, Science, Ethics, and more.
     </p>
   </section>
 
@@ -193,8 +194,15 @@
     body{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); }
     .dark :root{ --card-bg: rgba(6,8,15,0.65); --card-border: rgba(255,255,255,0.04); }
 
-  #syllabus-root .syll-card { background: var(--card-bg); border:1px solid var(--card-border); border-radius:16px; padding:14px; transition: transform .22s ease, box-shadow .22s ease; }
-    #syllabus-root .syll-card:hover { transform: translateY(-6px); box-shadow: 0 18px 48px rgba(2,6,23,0.12); }
+    #syllabus-root .syll-card { 
+      background: var(--card-bg); 
+      backdrop-filter: blur(10px);
+      transition: transform .25s ease, box-shadow .25s ease; 
+    }
+    #syllabus-root .syll-card:hover { 
+      transform: translateY(-4px); 
+      box-shadow: 0 12px 32px rgba(0,0,0,0.15); 
+    }
 
   .syll-header { display:flex; align-items:center; justify-content:space-between; gap:12px; }
     .syll-header-btn { all:unset; display:flex; align-items:center; justify-content:space-between; width:100%; cursor:pointer; padding:6px 4px; border-radius:8px; }
@@ -256,157 +264,152 @@
   <script src="js/syllabus.js"></script>
   <script src="js/marked.js"></script>
   <script>
-    // Premium syllabus renderer
+    // Subject color mapping for visual distinction
+    const subjectColors = {
+      'History': { gradient: 'from-amber-500 to-orange-600', bg: 'bg-amber-50 dark:bg-amber-900/20', border: 'border-amber-200 dark:border-amber-800', icon: 'fa-landmark', iconColor: 'text-amber-600 dark:text-amber-400' },
+      'Polity & Governance': { gradient: 'from-blue-500 to-indigo-600', bg: 'bg-blue-50 dark:bg-blue-900/20', border: 'border-blue-200 dark:border-blue-800', icon: 'fa-scale-balanced', iconColor: 'text-blue-600 dark:text-blue-400' },
+      'Economy': { gradient: 'from-green-500 to-emerald-600', bg: 'bg-green-50 dark:bg-green-900/20', border: 'border-green-200 dark:border-green-800', icon: 'fa-chart-line', iconColor: 'text-green-600 dark:text-green-400' },
+      'Geography': { gradient: 'from-teal-500 to-cyan-600', bg: 'bg-teal-50 dark:bg-teal-900/20', border: 'border-teal-200 dark:border-teal-800', icon: 'fa-earth-americas', iconColor: 'text-teal-600 dark:text-teal-400' },
+      'Environment & Ecology': { gradient: 'from-lime-500 to-green-600', bg: 'bg-lime-50 dark:bg-lime-900/20', border: 'border-lime-200 dark:border-lime-800', icon: 'fa-leaf', iconColor: 'text-lime-600 dark:text-lime-400' },
+      'Science & Technology': { gradient: 'from-purple-500 to-pink-600', bg: 'bg-purple-50 dark:bg-purple-900/20', border: 'border-purple-200 dark:border-purple-800', icon: 'fa-flask', iconColor: 'text-purple-600 dark:text-purple-400' },
+      'International Relations': { gradient: 'from-sky-500 to-blue-600', bg: 'bg-sky-50 dark:bg-sky-900/20', border: 'border-sky-200 dark:border-sky-800', icon: 'fa-globe', iconColor: 'text-sky-600 dark:text-sky-400' },
+      'Internal Security': { gradient: 'from-red-500 to-rose-600', bg: 'bg-red-50 dark:bg-red-900/20', border: 'border-red-200 dark:border-red-800', icon: 'fa-shield-halved', iconColor: 'text-red-600 dark:text-red-400' },
+      'Society': { gradient: 'from-pink-500 to-rose-600', bg: 'bg-pink-50 dark:bg-pink-900/20', border: 'border-pink-200 dark:border-pink-800', icon: 'fa-people-group', iconColor: 'text-pink-600 dark:text-pink-400' },
+      'Ethics & Integrity': { gradient: 'from-violet-500 to-purple-600', bg: 'bg-violet-50 dark:bg-violet-900/20', border: 'border-violet-200 dark:border-violet-800', icon: 'fa-hand-holding-heart', iconColor: 'text-violet-600 dark:text-violet-400' },
+      'Agriculture': { gradient: 'from-emerald-500 to-green-600', bg: 'bg-emerald-50 dark:bg-emerald-900/20', border: 'border-emerald-200 dark:border-emerald-800', icon: 'fa-seedling', iconColor: 'text-emerald-600 dark:text-emerald-400' },
+      'CSAT - Aptitude': { gradient: 'from-orange-500 to-amber-600', bg: 'bg-orange-50 dark:bg-orange-900/20', border: 'border-orange-200 dark:border-orange-800', icon: 'fa-calculator', iconColor: 'text-orange-600 dark:text-orange-400' },
+      'Essay Writing': { gradient: 'from-fuchsia-500 to-pink-600', bg: 'bg-fuchsia-50 dark:bg-fuchsia-900/20', border: 'border-fuchsia-200 dark:border-fuchsia-800', icon: 'fa-pen-fancy', iconColor: 'text-fuchsia-600 dark:text-fuchsia-400' },
+      'Current Affairs': { gradient: 'from-slate-500 to-gray-600', bg: 'bg-slate-50 dark:bg-slate-900/20', border: 'border-slate-200 dark:border-slate-800', icon: 'fa-newspaper', iconColor: 'text-slate-600 dark:text-slate-400' },
+      'Interview Preparation': { gradient: 'from-indigo-500 to-blue-600', bg: 'bg-indigo-50 dark:bg-indigo-900/20', border: 'border-indigo-200 dark:border-indigo-800', icon: 'fa-user-tie', iconColor: 'text-indigo-600 dark:text-indigo-400' }
+    };
+
+    // Premium syllabus renderer with subject-focused structure
     async function loadSyllabus() {
       const root = document.getElementById('syllabus-root');
       const sidebar = document.getElementById('sidebar-links');
       const search = document.getElementById('syllabusSearch');
-      root.innerHTML = '<div class="text-center py-12">Loading syllabus…</div>';
+      root.innerHTML = '<div class="text-center py-12"><i class="fas fa-spinner fa-spin text-3xl text-amber-500 mb-3"></i><p class="text-gray-600 dark:text-gray-400">Loading syllabus…</p></div>';
 
       let data = null;
       try {
         const res = await fetch('./data/syllabus.json', { cache: 'no-store' });
         data = await res.json();
       } catch (e) {
-        console.warn('Could not load syllabus.json, falling back to demo structure', e);
+        console.error('Could not load syllabus.json', e);
+        root.innerHTML = '<div class="text-center py-12 text-red-500"><i class="fas fa-exclamation-circle text-3xl mb-3"></i><p>Failed to load syllabus data</p></div>';
+        return;
       }
 
-      if (!data) {
-        // Demo structure when real file missing
-        data = {
-          "Prelims": {
-            "History": ["Ancient India","Medieval India","Modern India"],
-            "Polity": ["Constitution","Federalism","Governance"]
-          },
-          "Mains": {
-            "GS Paper 1": ["Indian Heritage","Geography"],
-            "GS Paper 2": ["Governance","Polity","Social Justice"]
-          }
-        };
+      if (!data || !data.subjects || !Array.isArray(data.subjects)) {
+        root.innerHTML = '<div class="text-center py-12 text-red-500"><p>Invalid syllabus data structure</p></div>';
+        return;
       }
 
-  // Build UI (robust parsing of real syllabus.json schema)
+      // Build UI from new subject-focused structure
       root.innerHTML = '';
       sidebar.innerHTML = '';
       let idx = 0;
 
-      for (const [section, subjects] of Object.entries(data)) {
-        const sectEl = document.createElement('div');
-        sectEl.className = 'syll-section';
+      // Create a grid layout for subject cards
+      const grid = document.createElement('div');
+      grid.className = 'grid grid-cols-1 md:grid-cols-2 gap-6';
 
-        const sectTitle = document.createElement('h3');
-        sectTitle.className = 'text-2xl font-bold mb-3 text-gray-900 dark:text-white';
-        sectTitle.textContent = section.charAt(0).toUpperCase() + section.slice(1);
-        sectEl.appendChild(sectTitle);
+      data.subjects.forEach(subject => {
+        idx++;
+        const subjectName = subject.name;
+        const chapters = subject.chapters || [];
+        const icon = subject.icon || 'fa-book';
+        const colors = subjectColors[subjectName] || subjectColors['History']; // fallback to history colors
 
-  // subjects may be an object mapping to various shapes
-  for (const [subjectName, subjectVal] of Object.entries(subjects)) {
-          // Handle multiple possible shapes
-          const pushCard = (title, topicsArr) => {
-            idx++;
-            const card = document.createElement('div');
-            card.className = 'syll-card upsc-card p-4';
-            const id = `syll-${idx}`;
-            card.setAttribute('data-card-id', id);
+        const card = document.createElement('div');
+        card.className = `syll-card ${colors.bg} ${colors.border} border-2 p-5 rounded-2xl transition-all duration-300 hover:shadow-xl`;
+        const id = `syll-${idx}`;
+        card.setAttribute('data-card-id', id);
+        card.setAttribute('data-subject-name', subjectName.toLowerCase());
 
-            const header = document.createElement('div');
-            header.className = 'syll-header flex items-center justify-between';
-            // Use a button for accessibility
-            const headerBtn = document.createElement('button');
-            headerBtn.className = 'syll-header-btn flex items-center justify-between w-full';
-            headerBtn.setAttribute('aria-expanded', 'false');
-            headerBtn.setAttribute('aria-controls', `${id}-body`);
-            headerBtn.innerHTML = `<div class="title-wrap"><h4 class="text-lg font-semibold text-gray-900 dark:text-white">${title}</h4><div class="text-sm text-gray-600 dark:text-gray-400">${topicsArr.length} topics</div></div><div class="toggle-sign text-amber-500">+</div>`;
-            headerBtn.addEventListener('click', () => {
-              const body = card.querySelector('.syll-body');
-              const open = body.classList.toggle('open');
-              headerBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
-              const sign = headerBtn.querySelector('.toggle-sign');
-              if (sign) sign.textContent = open ? '−' : '+';
-              // persist expanded state
-              updateExpandedState(id, open);
-            });
-            header.appendChild(headerBtn);
+        const header = document.createElement('div');
+        header.className = 'syll-header flex items-center justify-between mb-4';
+        
+        const headerBtn = document.createElement('button');
+        headerBtn.className = 'syll-header-btn flex items-center justify-between w-full text-left';
+        headerBtn.setAttribute('aria-expanded', 'false');
+        headerBtn.setAttribute('aria-controls', `${id}-body`);
+        
+        headerBtn.innerHTML = `
+          <div class="title-wrap flex items-center gap-3">
+            <div class="w-12 h-12 rounded-xl bg-gradient-to-br ${colors.gradient} flex items-center justify-center shadow-lg">
+              <i class="fas ${icon} text-white text-xl"></i>
+            </div>
+            <div>
+              <h4 class="text-xl font-bold text-gray-900 dark:text-white">${subjectName}</h4>
+              <div class="text-sm text-gray-600 dark:text-gray-400">${chapters.length} chapters</div>
+            </div>
+          </div>
+          <div class="toggle-sign text-2xl font-bold ${colors.iconColor}">+</div>
+        `;
+        
+        headerBtn.addEventListener('click', () => {
+          const body = card.querySelector('.syll-body');
+          const open = body.classList.toggle('open');
+          headerBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+          const sign = headerBtn.querySelector('.toggle-sign');
+          if (sign) sign.textContent = open ? '−' : '+';
+          updateExpandedState(id, open);
+        });
+        
+        header.appendChild(headerBtn);
 
-            const body = document.createElement('div');
-            body.className = 'syll-body mt-3';
-            body.id = `${id}-body`;
-            const ul = document.createElement('ul');
-            ul.className = 'space-y-2';
-            topicsArr.forEach(t => {
-              const name = (typeof t === 'string') ? t : (t.name || t.title || 'Topic');
-              const md = (typeof t === 'object' && t.markdown_url) ? t.markdown_url : null;
-              const li = document.createElement('li');
-              if (md) {
-                const a = document.createElement('a');
-                a.href = '#';
-                a.className = 'block text-sm text-gray-700 dark:text-gray-300 hover:underline';
-                a.textContent = name;
-                a.addEventListener('click', (ev) => { ev.preventDefault(); openModal(md, name); });
-                li.appendChild(a);
-              } else {
-                li.innerHTML = `<span class="block text-sm text-gray-700 dark:text-gray-300">${name}</span>`;
-              }
-              ul.appendChild(li);
-            });
-            body.appendChild(ul);
+        const body = document.createElement('div');
+        body.className = 'syll-body mt-4';
+        body.id = `${id}-body`;
+        
+        const ul = document.createElement('ul');
+        ul.className = 'space-y-2 pl-2';
+        
+        chapters.forEach((chapter, chIdx) => {
+          const chapterName = chapter.name;
+          const mdUrl = chapter.markdown_url;
+          
+          const li = document.createElement('li');
+          li.className = 'flex items-start gap-2';
+          
+          const a = document.createElement('a');
+          a.href = '#';
+          a.className = `flex-1 text-sm text-gray-700 dark:text-gray-300 hover:${colors.iconColor} hover:underline transition-colors py-1 px-2 rounded hover:bg-white/50 dark:hover:bg-gray-800/50`;
+          a.innerHTML = `<i class="fas fa-file-alt mr-2 ${colors.iconColor} text-xs"></i>${chapterName}`;
+          a.addEventListener('click', (ev) => { 
+            ev.preventDefault(); 
+            openModal(mdUrl, chapterName); 
+          });
+          
+          li.appendChild(a);
+          ul.appendChild(li);
+        });
+        
+        body.appendChild(ul);
+        card.appendChild(header);
+        card.appendChild(body);
+        grid.appendChild(card);
 
-            card.appendChild(header);
-            card.appendChild(body);
-            sectEl.appendChild(card);
-
-            // Sidebar link for this card
-            const link = document.createElement('a');
-            link.href = '#';
-            link.textContent = title;
-            link.addEventListener('click', (e) => {
-              e.preventDefault();
-              card.scrollIntoView({behavior:'smooth', block:'start'});
-              // open the card
-              const b = card.querySelector('.syll-body');
-              if (b && !b.classList.contains('open')) {
-                card.querySelector('.syll-header').click();
-              }
-              Array.from(sidebar.querySelectorAll('a')).forEach(a=>a.classList.remove('active'));
-              link.classList.add('active');
-            });
-            sidebar.appendChild(link);
-          };
-
-          // Now branch by detected shape
-          if (subjectVal && typeof subjectVal === 'object') {
-            // Case: has 'units' array (prelims, optional)
-            if (Array.isArray(subjectVal.units)) {
-              subjectVal.units.forEach(unit => {
-                const topics = Array.isArray(unit.topics) ? unit.topics : [];
-                pushCard(`${subjectName} — ${unit.name || 'Unit'}`, topics);
-              });
-            }
-            // Case: has 'topics' array directly
-            else if (Array.isArray(subjectVal.topics)) {
-              pushCard(subjectName, subjectVal.topics);
-            }
-            // Case: is a nested object (e.g., mains -> General Studies -> GS Paper I)
-            else {
-              for (const [subName, subVal] of Object.entries(subjectVal)) {
-                if (Array.isArray(subVal)) {
-                  pushCard(`${subjectName} — ${subName}`, subVal);
-                } else if (subVal && typeof subVal === 'object') {
-                  if (Array.isArray(subVal.topics)) pushCard(`${subjectName} — ${subName}`, subVal.topics);
-                  else if (Array.isArray(subVal.units)) {
-                    subVal.units.forEach(unit => pushCard(`${subjectName} — ${subName} — ${unit.name || 'Unit'}`, unit.topics || []));
-                  }
-                }
-              }
-            }
-          } else if (Array.isArray(subjectVal)) {
-            // subjectVal is already an array of topics (strings)
-            pushCard(subjectName, subjectVal);
+        // Sidebar link for this subject
+        const link = document.createElement('a');
+        link.href = '#';
+        link.className = 'flex items-center gap-2 group';
+        link.innerHTML = `<i class="fas ${icon} ${colors.iconColor} text-sm"></i><span class="group-hover:${colors.iconColor}">${subjectName}</span>`;
+        link.addEventListener('click', (e) => {
+          e.preventDefault();
+          card.scrollIntoView({behavior:'smooth', block:'start'});
+          const b = card.querySelector('.syll-body');
+          if (b && !b.classList.contains('open')) {
+            headerBtn.click();
           }
-        }
+          Array.from(sidebar.querySelectorAll('a')).forEach(a=>a.classList.remove('active'));
+          link.classList.add('active');
+        });
+        sidebar.appendChild(link);
+      });
 
-        root.appendChild(sectEl);
-      }
+      root.appendChild(grid);
 
   // restore expanded state
   restoreExpandedState();
@@ -454,12 +457,20 @@
     inner.addEventListener('touchend', ()=>{ if(!dragging) return; dragging=false; const dy = curY - startY; sidebarEl.style.transform = ''; if(dy>120) hideSidebar(); });
   }
 
-      // Search
+      // Search functionality - filter by subject name or chapter name
       search.addEventListener('input', (e) => {
         const q = e.target.value.trim().toLowerCase();
         document.querySelectorAll('#syllabus-root .syll-card').forEach(card => {
+          const subjectName = card.getAttribute('data-subject-name') || '';
           const txt = card.innerText.toLowerCase();
-          card.style.display = txt.includes(q) ? '' : 'none';
+          const matches = subjectName.includes(q) || txt.includes(q);
+          card.style.display = matches ? '' : 'none';
+        });
+        
+        // Update sidebar visibility
+        document.querySelectorAll('#sidebar-links a').forEach(link => {
+          const linkText = link.textContent.toLowerCase();
+          link.style.display = linkText.includes(q) ? '' : 'none';
         });
       });
 

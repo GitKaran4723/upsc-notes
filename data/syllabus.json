@@ -1,314 +1,570 @@
 {
-  "prelims": {
-    "GS Paper I": {
-      "units": [
+  "subjects": [
+    {
+      "name": "History",
+      "icon": "fa-landmark",
+      "chapters": [
         {
-          "name": "History",
-          "topics": [
-            {
-              "name": "Ancient India",
-              "markdown_url": "notes/prelims/history/ancient.md"
-            },
-            {
-              "name": "Medieval India",
-              "markdown_url": "notes/prelims/history/medieval.md"
-            },
-            {
-              "name": "Modern India",
-              "markdown_url": "notes/prelims/history/modern.md"
-            },
-            {
-              "name": "Art & Culture",
-              "markdown_url": "notes/prelims/history/culture.md"
-            }
-          ]
+          "name": "Ancient India",
+          "markdown_url": "notes/history/ancient.md"
         },
         {
-          "name": "Geography",
-          "topics": [
-            {
-              "name": "Physical Geography",
-              "markdown_url": "notes/prelims/geography/physical.md"
-            },
-            {
-              "name": "Indian Geography",
-              "markdown_url": "notes/prelims/geography/india.md"
-            },
-            {
-              "name": "World Geography",
-              "markdown_url": "notes/prelims/geography/world.md"
-            }
-          ]
+          "name": "Medieval India",
+          "markdown_url": "notes/history/medieval.md"
         },
         {
-          "name": "Polity",
-          "topics": [
-            {
-              "name": "Indian Constitution",
-              "markdown_url": "notes/prelims/polity/constitution.md"
-            },
-            {
-              "name": "Governance",
-              "markdown_url": "notes/prelims/polity/governance.md"
-            }
-          ]
+          "name": "Modern India",
+          "markdown_url": "notes/history/modern.md"
         },
         {
-          "name": "Economy",
-          "topics": [
-            {
-              "name": "Basic Economic Concepts",
-              "markdown_url": "notes/prelims/economy/basics.md"
-            },
-            {
-              "name": "Indian Economy",
-              "markdown_url": "notes/prelims/economy/indian.md"
-            }
-          ]
+          "name": "Art & Culture",
+          "markdown_url": "notes/history/culture.md"
         },
         {
-          "name": "Environment & Ecology",
-          "topics": [
-            {
-              "name": "Biodiversity",
-              "markdown_url": "notes/prelims/environment/biodiversity.md"
-            },
-            {
-              "name": "Climate Change",
-              "markdown_url": "notes/prelims/environment/climate.md"
-            }
-          ]
+          "name": "Freedom Struggle",
+          "markdown_url": "notes/history/freedom-struggle.md"
         },
         {
-          "name": "Science & Tech",
-          "topics": [
-            {
-              "name": "Basic Science",
-              "markdown_url": "notes/prelims/science/basic.md"
-            },
-            {
-              "name": "Space & Defense",
-              "markdown_url": "notes/prelims/science/space.md"
-            }
-          ]
-        },
-        {
-          "name": "Current Affairs",
-          "topics": [
-            {
-              "name": "Monthly Current Affairs",
-              "markdown_url": "notes/prelims/current/monthly.md"
-            },
-            {
-              "name": "Schemes & Reports",
-              "markdown_url": "notes/prelims/current/schemes.md"
-            }
-          ]
+          "name": "World History",
+          "markdown_url": "notes/history/world-history.md"
         }
       ]
     },
-    "CSAT Paper II": {
-      "units": [
+    {
+      "name": "Polity & Governance",
+      "icon": "fa-scale-balanced",
+      "chapters": [
         {
-          "name": "Quantitative Aptitude",
-          "topics": [
-            {
-              "name": "Numbers & Arithmetic",
-              "markdown_url": "notes/csat/quant/numbers.md"
-            },
-            {
-              "name": "Time, Work, Distance",
-              "markdown_url": "notes/csat/quant/time.md"
-            }
-          ]
+          "name": "Indian Constitution - Basics",
+          "markdown_url": "notes/polity/constitution-basics.md"
+        },
+        {
+          "name": "Fundamental Rights",
+          "markdown_url": "notes/polity/fundamental-rights.md"
+        },
+        {
+          "name": "Directive Principles",
+          "markdown_url": "notes/polity/dpsp.md"
+        },
+        {
+          "name": "Union Executive",
+          "markdown_url": "notes/polity/union-executive.md"
+        },
+        {
+          "name": "Parliament",
+          "markdown_url": "notes/polity/parliament.md"
+        },
+        {
+          "name": "Judiciary",
+          "markdown_url": "notes/polity/judiciary.md"
+        },
+        {
+          "name": "State Government",
+          "markdown_url": "notes/polity/state-government.md"
+        },
+        {
+          "name": "Local Government",
+          "markdown_url": "notes/polity/local-government.md"
+        },
+        {
+          "name": "Constitutional Bodies",
+          "markdown_url": "notes/polity/constitutional-bodies.md"
+        },
+        {
+          "name": "Governance & Administration",
+          "markdown_url": "notes/polity/governance.md"
+        },
+        {
+          "name": "Social Justice",
+          "markdown_url": "notes/polity/social-justice.md"
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "icon": "fa-chart-line",
+      "chapters": [
+        {
+          "name": "Basic Economic Concepts",
+          "markdown_url": "notes/economy/basics.md"
+        },
+        {
+          "name": "National Income",
+          "markdown_url": "notes/economy/national-income.md"
+        },
+        {
+          "name": "Money & Banking",
+          "markdown_url": "notes/economy/money-banking.md"
+        },
+        {
+          "name": "Fiscal Policy",
+          "markdown_url": "notes/economy/fiscal-policy.md"
+        },
+        {
+          "name": "Monetary Policy",
+          "markdown_url": "notes/economy/monetary-policy.md"
+        },
+        {
+          "name": "Indian Economy - Planning",
+          "markdown_url": "notes/economy/planning.md"
+        },
+        {
+          "name": "Agriculture & Food Security",
+          "markdown_url": "notes/economy/agriculture-food.md"
+        },
+        {
+          "name": "Industry & Infrastructure",
+          "markdown_url": "notes/economy/industry.md"
+        },
+        {
+          "name": "Economic Reforms",
+          "markdown_url": "notes/economy/reforms.md"
+        },
+        {
+          "name": "International Trade",
+          "markdown_url": "notes/economy/international-trade.md"
+        },
+        {
+          "name": "Poverty & Unemployment",
+          "markdown_url": "notes/economy/poverty.md"
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "icon": "fa-earth-americas",
+      "chapters": [
+        {
+          "name": "Physical Geography - Basics",
+          "markdown_url": "notes/geography/physical-basics.md"
+        },
+        {
+          "name": "Geomorphology",
+          "markdown_url": "notes/geography/geomorphology.md"
+        },
+        {
+          "name": "Climatology",
+          "markdown_url": "notes/geography/climatology.md"
+        },
+        {
+          "name": "Oceanography",
+          "markdown_url": "notes/geography/oceanography.md"
+        },
+        {
+          "name": "Indian Geography - Physical",
+          "markdown_url": "notes/geography/india-physical.md"
+        },
+        {
+          "name": "Indian Geography - Resources",
+          "markdown_url": "notes/geography/india-resources.md"
+        },
+        {
+          "name": "Indian Geography - Climate",
+          "markdown_url": "notes/geography/india-climate.md"
+        },
+        {
+          "name": "World Geography",
+          "markdown_url": "notes/geography/world.md"
+        },
+        {
+          "name": "Economic Geography",
+          "markdown_url": "notes/geography/economic.md"
+        },
+        {
+          "name": "Disaster Management",
+          "markdown_url": "notes/geography/disaster.md"
+        }
+      ]
+    },
+    {
+      "name": "Environment & Ecology",
+      "icon": "fa-leaf",
+      "chapters": [
+        {
+          "name": "Ecology - Basics",
+          "markdown_url": "notes/environment/ecology-basics.md"
+        },
+        {
+          "name": "Ecosystems",
+          "markdown_url": "notes/environment/ecosystems.md"
+        },
+        {
+          "name": "Biodiversity",
+          "markdown_url": "notes/environment/biodiversity.md"
+        },
+        {
+          "name": "Climate Change",
+          "markdown_url": "notes/environment/climate-change.md"
+        },
+        {
+          "name": "Environmental Pollution",
+          "markdown_url": "notes/environment/pollution.md"
+        },
+        {
+          "name": "Environmental Laws & Policies",
+          "markdown_url": "notes/environment/laws.md"
+        },
+        {
+          "name": "Conservation",
+          "markdown_url": "notes/environment/conservation.md"
+        },
+        {
+          "name": "International Conventions",
+          "markdown_url": "notes/environment/conventions.md"
+        }
+      ]
+    },
+    {
+      "name": "Science & Technology",
+      "icon": "fa-flask",
+      "chapters": [
+        {
+          "name": "Physics - Basics",
+          "markdown_url": "notes/science/physics-basics.md"
+        },
+        {
+          "name": "Chemistry - Basics",
+          "markdown_url": "notes/science/chemistry-basics.md"
+        },
+        {
+          "name": "Biology - Basics",
+          "markdown_url": "notes/science/biology-basics.md"
+        },
+        {
+          "name": "Biotechnology",
+          "markdown_url": "notes/science/biotechnology.md"
+        },
+        {
+          "name": "Space Technology",
+          "markdown_url": "notes/science/space.md"
+        },
+        {
+          "name": "Defense Technology",
+          "markdown_url": "notes/science/defense.md"
+        },
+        {
+          "name": "Information Technology",
+          "markdown_url": "notes/science/information-tech.md"
+        },
+        {
+          "name": "Nuclear Technology",
+          "markdown_url": "notes/science/nuclear.md"
+        },
+        {
+          "name": "Health & Medicine",
+          "markdown_url": "notes/science/health-medicine.md"
+        },
+        {
+          "name": "Emerging Technologies",
+          "markdown_url": "notes/science/emerging-tech.md"
+        }
+      ]
+    },
+    {
+      "name": "International Relations",
+      "icon": "fa-globe",
+      "chapters": [
+        {
+          "name": "International Relations - Basics",
+          "markdown_url": "notes/international-relations/basics.md"
+        },
+        {
+          "name": "India's Foreign Policy",
+          "markdown_url": "notes/international-relations/foreign-policy.md"
+        },
+        {
+          "name": "Bilateral Relations",
+          "markdown_url": "notes/international-relations/bilateral.md"
+        },
+        {
+          "name": "India & Neighborhood",
+          "markdown_url": "notes/international-relations/neighborhood.md"
+        },
+        {
+          "name": "International Organizations",
+          "markdown_url": "notes/international-relations/organizations.md"
+        },
+        {
+          "name": "Global Issues",
+          "markdown_url": "notes/international-relations/global-issues.md"
+        },
+        {
+          "name": "Groupings & Alliances",
+          "markdown_url": "notes/international-relations/groupings.md"
+        }
+      ]
+    },
+    {
+      "name": "Internal Security",
+      "icon": "fa-shield-halved",
+      "chapters": [
+        {
+          "name": "Internal Security - Basics",
+          "markdown_url": "notes/security/basics.md"
+        },
+        {
+          "name": "Terrorism & Extremism",
+          "markdown_url": "notes/security/terrorism.md"
+        },
+        {
+          "name": "Border Management",
+          "markdown_url": "notes/security/border.md"
+        },
+        {
+          "name": "Cyber Security",
+          "markdown_url": "notes/security/cyber.md"
+        },
+        {
+          "name": "Defence & Security Forces",
+          "markdown_url": "notes/security/forces.md"
+        },
+        {
+          "name": "Security Challenges",
+          "markdown_url": "notes/security/challenges.md"
+        }
+      ]
+    },
+    {
+      "name": "Society",
+      "icon": "fa-people-group",
+      "chapters": [
+        {
+          "name": "Indian Society - Basics",
+          "markdown_url": "notes/society/basics.md"
+        },
+        {
+          "name": "Social Issues",
+          "markdown_url": "notes/society/social-issues.md"
+        },
+        {
+          "name": "Poverty & Development",
+          "markdown_url": "notes/society/poverty-development.md"
+        },
+        {
+          "name": "Education",
+          "markdown_url": "notes/society/education.md"
+        },
+        {
+          "name": "Health",
+          "markdown_url": "notes/society/health.md"
+        },
+        {
+          "name": "Urbanization",
+          "markdown_url": "notes/society/urbanization.md"
+        },
+        {
+          "name": "Women & Child Development",
+          "markdown_url": "notes/society/women-child.md"
+        },
+        {
+          "name": "Caste & Religion",
+          "markdown_url": "notes/society/caste-religion.md"
+        }
+      ]
+    },
+    {
+      "name": "Ethics & Integrity",
+      "icon": "fa-hand-holding-heart",
+      "chapters": [
+        {
+          "name": "Ethics - Basics",
+          "markdown_url": "notes/ethics/basics.md"
+        },
+        {
+          "name": "Human Values",
+          "markdown_url": "notes/ethics/values.md"
+        },
+        {
+          "name": "Aptitude & Attitude",
+          "markdown_url": "notes/ethics/aptitude.md"
+        },
+        {
+          "name": "Public/Civil Service Values",
+          "markdown_url": "notes/ethics/civil-service.md"
+        },
+        {
+          "name": "Emotional Intelligence",
+          "markdown_url": "notes/ethics/emotional-intelligence.md"
+        },
+        {
+          "name": "Case Studies",
+          "markdown_url": "notes/ethics/case-studies.md"
+        },
+        {
+          "name": "Thinkers & Philosophers",
+          "markdown_url": "notes/ethics/thinkers.md"
+        }
+      ]
+    },
+    {
+      "name": "Agriculture",
+      "icon": "fa-seedling",
+      "chapters": [
+        {
+          "name": "Ecology & Environment",
+          "markdown_url": "notes/agriculture/ecology.md"
+        },
+        {
+          "name": "Agronomy & Cropping Systems",
+          "markdown_url": "notes/agriculture/agronomy.md"
+        },
+        {
+          "name": "Weed Science & Forestry",
+          "markdown_url": "notes/agriculture/weed-forestry.md"
+        },
+        {
+          "name": "Soil Science & Water Conservation",
+          "markdown_url": "notes/agriculture/soil.md"
+        },
+        {
+          "name": "Agricultural Economics & Extension",
+          "markdown_url": "notes/agriculture/economics-extension.md"
+        },
+        {
+          "name": "Cell Biology & Genetics",
+          "markdown_url": "notes/agriculture/genetics.md"
+        },
+        {
+          "name": "Plant Breeding & Biotechnology",
+          "markdown_url": "notes/agriculture/plant-breeding.md"
+        },
+        {
+          "name": "Seed Technology & IPR",
+          "markdown_url": "notes/agriculture/seed.md"
+        },
+        {
+          "name": "Plant Physiology & Horticulture",
+          "markdown_url": "notes/agriculture/physiology-horticulture.md"
+        },
+        {
+          "name": "Plant Protection & Food Security",
+          "markdown_url": "notes/agriculture/plant-protection.md"
+        }
+      ]
+    },
+    {
+      "name": "CSAT - Aptitude",
+      "icon": "fa-calculator",
+      "chapters": [
+        {
+          "name": "Numbers & Arithmetic",
+          "markdown_url": "notes/csat/numbers.md"
+        },
+        {
+          "name": "Time, Work & Distance",
+          "markdown_url": "notes/csat/time-work-distance.md"
+        },
+        {
+          "name": "Percentage & Ratio",
+          "markdown_url": "notes/csat/percentage-ratio.md"
+        },
+        {
+          "name": "Data Interpretation",
+          "markdown_url": "notes/csat/data-interpretation.md"
+        },
+        {
+          "name": "Syllogism",
+          "markdown_url": "notes/csat/syllogism.md"
         },
         {
           "name": "Logical Reasoning",
-          "topics": [
-            {
-              "name": "Syllogism",
-              "markdown_url": "notes/csat/reasoning/syllogism.md"
-            },
-            {
-              "name": "Puzzles",
-              "markdown_url": "notes/csat/reasoning/puzzles.md"
-            }
-          ]
+          "markdown_url": "notes/csat/logical-reasoning.md"
+        },
+        {
+          "name": "Puzzles & Seating Arrangement",
+          "markdown_url": "notes/csat/puzzles.md"
         },
         {
           "name": "Reading Comprehension",
-          "topics": [
-            {
-              "name": "Passage Solving",
-              "markdown_url": "notes/csat/english/passage.md"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "mains": {
-    "GS Paper I":{
-      "topics": [
-        {
-          "name": "Indian Heritage & Culture",
-          "markdown_url": "notes/mains/gs1/heritage-culture.md"
+          "markdown_url": "notes/csat/comprehension.md"
         },
         {
-          "name": "Modern Indian History",
-          "markdown_url": "notes/mains/gs1/modern-history.md"
-        },
-        {
-          "name": "Society",
-          "markdown_url": "notes/mains/gs1/society.md"
-        },
-        {
-          "name": "Geography",
-          "markdown_url": "notes/mains/gs1/geography.md"
+          "name": "Decision Making",
+          "markdown_url": "notes/csat/decision-making.md"
         }
       ]
     },
-    "GS Paper II": {
-      "topics": [
+    {
+      "name": "Essay Writing",
+      "icon": "fa-pen-fancy",
+      "chapters": [
         {
-          "name": "Polity & Governance",
-          "markdown_url": "notes/mains/gs2/polity-governance.md"
+          "name": "Essay Structure & Approach",
+          "markdown_url": "notes/essay/structure.md"
         },
         {
-          "name": "International Relations",
-          "markdown_url": "notes/mains/gs2/international-relations.md"
+          "name": "Types of Essays",
+          "markdown_url": "notes/essay/types.md"
+        },
+        {
+          "name": "Previous Year Topics",
+          "markdown_url": "notes/essay/previous-topics.md"
+        },
+        {
+          "name": "Content Building",
+          "markdown_url": "notes/essay/content-building.md"
+        },
+        {
+          "name": "Quotes & Examples",
+          "markdown_url": "notes/essay/quotes.md"
         }
       ]
     },
-    "GS Paper III": {
-      "topics": [
+    {
+      "name": "Current Affairs",
+      "icon": "fa-newspaper",
+      "chapters": [
         {
-          "name": "Economy",
-          "markdown_url": "notes/mains/gs3/economy.md"
+          "name": "Monthly Current Affairs",
+          "markdown_url": "notes/current-affairs/monthly.md"
         },
         {
-          "name": "Environment & Ecology",
-          "markdown_url": "notes/mains/gs3/environment-ecology.md"
+          "name": "Government Schemes",
+          "markdown_url": "notes/current-affairs/schemes.md"
         },
         {
-          "name": "Science & Technology",
-          "markdown_url": "notes/mains/gs3/science-tech.md"
+          "name": "Reports & Indices",
+          "markdown_url": "notes/current-affairs/reports.md"
         },
         {
-          "name": "Security",
-          "markdown_url": "notes/mains/gs3/security.md"
+          "name": "Personalities",
+          "markdown_url": "notes/current-affairs/personalities.md"
+        },
+        {
+          "name": "Awards & Honors",
+          "markdown_url": "notes/current-affairs/awards.md"
+        },
+        {
+          "name": "Summits & Conferences",
+          "markdown_url": "notes/current-affairs/summits.md"
         }
       ]
     },
-    "GS Paper IV": {
-      "topics": [
+    {
+      "name": "Interview Preparation",
+      "icon": "fa-user-tie",
+      "chapters": [
         {
-          "name": "Ethics",
-          "markdown_url": "notes/mains/gs4/ethics.md"
+          "name": "DAF Preparation",
+          "markdown_url": "notes/interview/daf.md"
         },
         {
-          "name": "Integrity",
-          "markdown_url": "notes/mains/gs4/integrity.md"
+          "name": "Mock Interview Tips",
+          "markdown_url": "notes/interview/mock.md"
         },
         {
-          "name": "Aptitude",
-          "markdown_url": "notes/mains/gs4/aptitude.md"
+          "name": "Current Affairs for Interview",
+          "markdown_url": "notes/interview/current-affairs.md"
+        },
+        {
+          "name": "Personality Development",
+          "markdown_url": "notes/interview/personality.md"
+        },
+        {
+          "name": "Common Questions",
+          "markdown_url": "notes/interview/common-questions.md"
         }
       ]
     }
-  },
-  "Essay": {
-      "topics": [
-        {
-          "name": "Essay Structure & Types",
-          "markdown_url": "notes/mains/essay/structure.md"
-        },
-        {
-          "name": "Past Topics with Analysis",
-          "markdown_url": "notes/mains/essay/previous.md"
-        }
-      ]
-    },
-    "Compulsory Languages": {
-      "topics": [
-        {
-          "name": "English Language",
-          "markdown_url": "notes/mains/lang/english.md"
-        },
-        {
-          "name": "Regional Language",
-          "markdown_url": "notes/mains/lang/regional.md"
-        }
-      ]
-    }
-  },
-  "optional": {
-    "Agriculture": {
-      "units": [
-        {
-          "name": "Paper I",
-          "topics": [
-            {
-              "name": "Ecology & Environment",
-              "markdown_url": "notes/mains/agriculture/ecology.md"
-            },
-            {
-              "name": "Agronomy & Cropping Systems",
-              "markdown_url": "notes/mains/agriculture/agronomy.md"
-            },
-            {
-              "name": "Weed Science & Forestry",
-              "markdown_url": "notes/mains/agriculture/weed-science.md"
-            },
-            {
-              "name": "Soil Science & Water Conservation",
-              "markdown_url": "notes/mains/agriculture/soil.md"
-            },
-            {
-              "name": "Agricultural Economics & Extension",
-              "markdown_url": "notes/mains/agriculture/economics-extension.md"
-            }
-          ]
-        },
-        {
-          "name": "Paper II",
-          "topics": [
-            {
-              "name": "Cell Biology & Genetics",
-              "markdown_url": "notes/mains/agriculture/genetics.md"
-            },
-            {
-              "name": "Plant Breeding & Biotechnology",
-              "markdown_url": "notes/mains/agriculture/plant-breeding.md"
-            },
-            {
-              "name": "Seed Technology & IPR",
-              "markdown_url": "notes/mains/agriculture/seed.md"
-            },
-            {
-              "name": "Plant Physiology & Horticulture",
-              "markdown_url": "notes/mains/agriculture/physiology-horticulture.md"
-            },
-            {
-              "name": "Plant Protection & Food Security",
-              "markdown_url": "notes/mains/agriculture/plant-protection.md"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "interview": {
-    "topics": [
-      { "name": "DAF Preparation", "markdown_url": "notes/interview/daf.md" },
-      {
-        "name": "Mock Interview Guidance",
-        "markdown_url": "notes/interview/mock.md"
-      },
-      {
-        "name": "Current Affairs for Interview",
-        "markdown_url": "notes/interview/current-affairs.md"
-      }
-    ]
-  }
+  ]
 }
