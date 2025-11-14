@@ -1,11 +1,6 @@
 {
   "Subjects":{
-    "Polity":["Historical_Background","Parliament"],
-    "History":["Ancient_India","Medieval_India"],
-    "Economy":["Basic_Concepts","Indian_Economy"],
-    "Geography":["Physical_Geography","Indian_Geography"],
-    "Environment":["Biodiversity","Climate_Change"],
-    "Science":["Basic_Science","Space_Technology"]
+    "Polity":["Historical_Background","Parliament"]
   },
   "2025": {
     "Nov":["03","05","06","10","14"],

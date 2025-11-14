@@ -43,7 +43,18 @@
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
         crossorigin="anonymous" referrerpolicy="no-referrer"/>
-  <link rel="stylesheet" href="/upsc-notes/assets/ui.css">
+  
+  <!-- Dynamic asset loading -->
+  <script>
+    (function() {
+      const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+      const basePath = isLocal ? '' : '/upsc-notes';
+      const link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = basePath + '/assets/ui.css';
+      document.head.appendChild(link);
+    })();
+  </script>
 
   <style>
     html { scroll-behavior: smooth; }
@@ -254,6 +265,12 @@
     // -------------------------
     // Utilities & State
     // -------------------------
+    // Path helper - works on both local and GitHub Pages
+    function getBasePath() {
+      const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+      return isLocal ? '' : '/upsc-notes';
+    }
+
     const MONTHS = [
       'january','february','march','april','may','june',
       'july','august','september','october','november','december'
@@ -379,8 +396,8 @@
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           ${concepts.map(concept => `
-            <button onclick="window.location.href='/upsc-notes/question.html?subject=${encodeURIComponent(subject)}&concept=${encodeURIComponent(concept)}'" 
-                    class="text-left px-4 py-3 rounded-lg bg-gradient-to-r ${colors.bg} text-white hover:opacity-90 transition-all shadow-md hover:shadow-lg">
+        <button onclick="window.location.href='${getBasePath()}/question.html?subject=${encodeURIComponent(subject)}&concept=${encodeURIComponent(concept)}'" 
+                class="text-left px-4 py-3 rounded-lg bg-gradient-to-r ${colors.bg} text-white hover:opacity-90 transition-all shadow-md hover:shadow-lg">
               <div class="flex items-center gap-2">
                 <i class="fas fa-play-circle"></i>
                 <span class="font-medium">${concept.replace(/_/g, ' ')}</span>
@@ -472,7 +489,7 @@
 
           dates.forEach(d => {
             const btn = document.createElement('a');
-            btn.href = `/upsc-notes/question.html?year=${year}&month=${month}&date=${d}`;
+            btn.href = `${getBasePath()}/question.html?year=${year}&month=${month}&date=${d}`;
             btn.className = 'date-btn inline-flex items-center justify-center min-w-[3rem] px-3 py-2 rounded-lg border border-amber-300 dark:border-amber-600 bg-amber-50 dark:bg-amber-900/30 hover:bg-amber-100 dark:hover:bg-amber-800/50 text-gray-900 dark:text-amber-100 font-semibold text-sm focus:outline-none focus:ring-2 focus:ring-amber-400 dark:focus:ring-amber-500 transition-colors';
             btn.textContent = d;
             btn.setAttribute('title', `${monthTitle(month)} ${d}, ${year}`);
@@ -564,7 +581,8 @@
     // -------------------------
     async function loadPracticeDates() {
       try {
-        const response = await fetch('./question/practice/metadata.json', { cache: 'no-store' });
+        const basePath = getBasePath();
+        const response = await fetch(`${basePath}/question/practice/metadata.json`, { cache: 'no-store' });
         const metadata = await response.json();
 
         // Separate subjects from date-based practice
@@ -629,7 +647,8 @@
     latestBtn.addEventListener('click', () => {
       applyPressed(latestBtn);
       if (!LATEST) return;
-      window.location.href = `/upsc-notes/question.html?year=${LATEST.year}&month=${LATEST.month}&date=${LATEST.date}`;
+      const basePath = getBasePath();
+      window.location.href = `${basePath}/question.html?year=${LATEST.year}&month=${LATEST.month}&date=${LATEST.date}`;
     });
 
     // Migrate legacy theme key to centralized key
