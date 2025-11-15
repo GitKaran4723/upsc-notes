@@ -1,0 +1,367 @@
+[
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Regarding Parliamentary control over the Executive, what is the constitutional basis for making the Council of Ministers accountable to the Lok Sabha?",
+    "statements": [
+      "It is derived from the principle of collective responsibility",
+      "It is mentioned under Article 75(3)",
+      "It applies equally to both Houses of Parliament"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Council of Ministers is collectively responsible only to the Lok Sabha, not both Houses. This flows from Article 75(3) and is central to the parliamentary system. [[Parliament of India]], [[Council of Ministers of India]].",
+    "tags": "Polity, Parliamentary System, Executive Accountability"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of Parliamentary tools, why is Question Hour considered the most effective instrument of accountability?",
+    "statements": [
+      "It allows MPs to question ministers on administrative actions",
+      "It takes place from 11 AM to 12 PM",
+      "It enables suspension of regular business"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Question Hour allows direct questioning of ministers and is held from 11 AM to 12 PM. It does not suspend business; that is done through Adjournment Motions. [[Question Hour]], [[Lok Sabha]].",
+    "tags": "Polity, Parliamentary Control"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following accurately describes Zero Hour in the Indian Parliament?",
+    "statements": [
+      "It begins immediately after Question Hour",
+      "It is mentioned in the Rules of Procedure of Parliament",
+      "It allows MPs to raise urgent public matters without prior notice"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Zero Hour is not part of the official rulebook; it is a parliamentary innovation started in 1962. It follows Question Hour and allows raising urgent matters. [[Zero Hour]].",
+    "tags": "Polity, Parliamentary Procedures"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to financial control of Parliament, which among the following is correct about Cut Motions?",
+    "statements": [
+      "Policy Cut motion reduces the amount of demand to Re.1",
+      "Economy Cut motion reduces the demand by a specified amount",
+      "Token Cut motion reduces the demand by Rs. 100"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Policy Cut = ₹1 symbolically opposing the policy; Economy Cut = reduce demand; Token Cut = ₹100 to highlight a specific grievance. [[Budget of India]], [[Public Finance in India]].",
+    "tags": "Polity, Economy, Financial Control"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following Parliamentary committees is known for examining the audit reports submitted by the CAG?",
+    "statements": [
+      "Public Accounts Committee",
+      "Committee on Public Undertakings",
+      "Estimates Committee"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Public Accounts Committee (PAC) is responsible for examining CAG reports and ensuring financial accountability of the Executive. [[Public Accounts Committee]], [[Comptroller and Auditor General of India]].",
+    "tags": "Polity, Accountability, Financial Committees"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is true regarding No-Confidence Motion?",
+    "statements": [
+      "It can be moved only in the Lok Sabha",
+      "It requires the support of at least 50 members for admission",
+      "If passed, the entire Council of Ministers must resign"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "No-Confidence Motion is exclusive to Lok Sabha, needs support of 50 MPs, and if passed, the government must resign. [[No-confidence motion]], [[Lok Sabha]].",
+    "tags": "Polity, Executive Accountability"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following motions expresses disapproval of a specific policy of the government but does not require resignation?",
+    "options": [
+      "No-Confidence Motion",
+      "Censure Motion",
+      "Adjournment Motion",
+      "Privilege Motion"
+    ],
+    "correct_option": "Censure Motion",
+    "explanation": "Censure Motion criticizes specific policies, unlike a No-Confidence Motion which tests majority support. [[Censure motion]], [[Indian Parliamentary procedure]].",
+    "tags": "Polity, Motions"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "In India, which financial document requires approval of Parliament before the government can withdraw money from the Consolidated Fund?",
+    "options": [
+      "Finance Bill",
+      "Appropriation Bill",
+      "Demand for Grants",
+      "Vote on Account"
+    ],
+    "correct_option": "Appropriation Bill",
+    "explanation": "Appropriation Bill authorises withdrawal from the Consolidated Fund of India. It must be passed before expenditure. [[Appropriation bill]], [[Consolidated Fund of India]].",
+    "tags": "Polity, Public Finance"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Department-related Standing Committees (DRSCs) primarily examine which of the following?",
+    "statements": [
+      "Demands for Grants",
+      "Bills referred to them",
+      "Subordinate legislation of ministries"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "DRSCs examine Bills and Demands for Grants. Subordinate legislation is examined by the Committee on Subordinate Legislation. [[Parliamentary Committees of India]].",
+    "tags": "Polity, Committees"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of delegated legislation, which of the following ensures that rules framed by the Executive do not violate the intent of the parent Act?",
+    "options": [
+      "Estimates Committee",
+      "Committee on Subordinate Legislation",
+      "Committee on Privileges",
+      "Business Advisory Committee"
+    ],
+    "correct_option": "Committee on Subordinate Legislation",
+    "explanation": "This committee scrutinises rules and regulations framed under Acts to ensure they align with legislative intent. [[Delegated legislation]], [[Committee on Subordinate Legislation]].",
+    "tags": "Polity, Delegated Legislation"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is the Parliamentary Committee system considered the backbone of legislative oversight in India?",
+    "statements": [
+      "Committees examine issues in detail beyond the time constraints of Parliament",
+      "They function in a non-partisan environment",
+      "Their recommendations are legally binding on the Executive"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Committees enable detailed scrutiny and often work beyond political divisions. However, their recommendations are advisory, not binding. [[Parliamentary Committees of India]], [[Legislative oversight]].",
+    "tags": "Polity, Committees, Executive Accountability"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is a unique feature of the Adjournment Motion?",
+    "statements": [
+      "It suspends the normal business of the House",
+      "It is used to discuss a matter of urgent public importance",
+      "It requires the President’s prior approval"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Adjournment Motion allows temporary suspension of business to discuss urgent matters. It does not require the President’s approval. [[Adjournment motion]].",
+    "tags": "Polity, Parliamentary Motions"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements regarding the Budget process in the Indian Parliament is correct?",
+    "statements": [
+      "Only Lok Sabha can vote on Demands for Grants",
+      "Rajya Sabha has equal powers to amend the Appropriation Bill",
+      "Finance Bill is introduced in the Rajya Sabha"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Lok Sabha alone votes on Demands for Grants. Appropriation and Finance Bills are Money Bills introduced only in Lok Sabha. Rajya Sabha cannot amend them. [[Budget of India]], [[Money Bill]].",
+    "tags": "Polity, Public Finance"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reflects Parliament’s control during Emergencies?",
+    "statements": [
+      "National Emergency proclamation must be approved by Parliament",
+      "President’s Rule must be approved by Parliament",
+      "Financial Emergency requires approval of both Houses within two months"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All types of emergencies—National (Art.352), State (Art.356), and Financial (Art.360)—require Parliamentary approval within prescribed time limits. [[Emergency provisions in India]].",
+    "tags": "Polity, Emergency Provisions"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of Parliamentary privilege, which of the following is correct?",
+    "options": [
+      "Privilege Motion is used to punish breaches of Parliamentary privilege",
+      "It is moved only against private individuals",
+      "It requires a two-thirds majority to pass",
+      "It is used only during the Budget Session"
+    ],
+    "correct_option": "Privilege Motion is used to punish breaches of Parliamentary privilege",
+    "explanation": "Privilege Motion is raised when an MP feels that parliamentary privilege is breached. It is not session-specific and does not require a special majority. [[Parliamentary Privileges of India]].",
+    "tags": "Polity, Parliamentary Privileges"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT a limitation of Parliamentary control over the Executive?",
+    "options": [
+      "Frequent disruptions reduce effective deliberations",
+      "Party whip restricts independence of MPs",
+      "Parliament cannot reduce expenditure charged on the Consolidated Fund",
+      "Committee recommendations are binding on the government"
+    ],
+    "correct_option": "Committee recommendations are binding on the government",
+    "explanation": "Recommendations of committees are advisory and non-binding. The other options are genuine limitations. [[Indian Parliamentary procedure]].",
+    "tags": "Polity, Parliamentary Effectiveness"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly differentiates between the Public Accounts Committee and the Estimates Committee?",
+    "statements": [
+      "PAC examines expenditure already incurred",
+      "Estimates Committee suggests alternative policies to bring efficiency in expenditure",
+      "PAC has more members from Rajya Sabha than Lok Sabha"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "PAC examines post-audit expenditure; Estimates Committee focuses on economy and efficiency in expenditure. PAC does not include Rajya Sabha members. [[Public Accounts Committee]], [[Estimates Committee]].",
+    "tags": "Polity, Public Finance, Committees"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following tools allows MPs to seek clarification on a minister’s previous reply?",
+    "options": [
+      "Half-an-Hour Discussion",
+      "Calling Attention",
+      "Short Duration Discussion",
+      "Censure Motion"
+    ],
+    "correct_option": "Half-an-Hour Discussion",
+    "explanation": "Half-an-Hour Discussion is specifically meant to clarify matters arising from answers already given. [[Indian Parliamentary procedure]].",
+    "tags": "Polity, Parliamentary Devices"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes Calling Attention Motion?",
+    "statements": [
+      "It is an Indian innovation",
+      "It allows MPs to draw government’s attention to urgent matters",
+      "It ends with a formal House decision"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Calling Attention is an Indian innovation combining a question with a short statement. It does not conclude with a vote or decision. [[Calling attention]].",
+    "tags": "Polity, Parliamentary Control"
+  },
+  {
+    "date": "15",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following matters can be discussed under Short Duration Discussion (Rule 193)?",
+    "options": [
+      "Matters of urgent public importance without formal motion",
+      "Matters requiring suspension of business",
+      "Matters requiring constitutional amendment",
+      "Matters that require voting after the debate"
+    ],
+    "correct_option": "Matters of urgent public importance without formal motion",
+    "explanation": "Short Duration Discussions allow MPs to discuss important matters without voting. They do not interrupt normal business. [[Indian Parliamentary debate procedures]].",
+    "tags": "Polity, Parliamentary Procedures"
+  }
+]
