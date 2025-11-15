@@ -605,12 +605,12 @@
 
   <!-- Explanation Modal -->
   <div id="solution-modal" class="hidden fixed inset-0 bg-black/50 items-center justify-center z-[60]" aria-hidden="true">
-    <div role="dialog" aria-modal="true" aria-labelledby="modal-title" class="bg-white w-[92%] md:max-w-xl rounded-2xl shadow-xl relative p-5 md:p-6 max-h-[90vh] overflow-y-auto slide-up">
-      <button id="modal-close" class="absolute top-3 right-3 text-gray-600 text-xl" aria-label="Close">
+    <div role="dialog" aria-modal="true" aria-labelledby="modal-title" class="bg-white dark:bg-gray-800 w-[92%] md:max-w-xl rounded-2xl shadow-xl relative p-5 md:p-6 max-h-[90vh] overflow-y-auto slide-up">
+      <button id="modal-close" class="absolute top-3 right-3 text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white text-xl" aria-label="Close">
         <i class="fas fa-times"></i>
       </button>
-      <h3 id="modal-title" class="text-lg font-bold mb-3 text-gray-800">Explanation</h3>
-      <div id="modal-content" class="prose prose-sm max-w-none"></div>
+      <h3 id="modal-title" class="text-lg font-bold mb-3 text-gray-800 dark:text-white">Explanation</h3>
+      <div id="modal-content" class="prose prose-sm dark:prose-invert max-w-none text-gray-700 dark:text-gray-200"></div>
     </div>
   </div>
 
