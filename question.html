@@ -1343,7 +1343,7 @@
         let res;
         if (subject && concept) {
           // Load subject-based questions - use relative path
-          res = await fetch(`./question/practice/subjects/${encodeURIComponent(subject)}/${encodeURIComponent(concept)}.json`, { cache: 'no-store' });
+          res = await fetch(`./question/practice/Subjects/${encodeURIComponent(subject)}/${encodeURIComponent(concept)}.json`, { cache: 'no-store' });
         } else {
           // Load date-based questions - use relative path
           res = await fetch(`./question/practice/${year}/${month}/${date}.json`, { cache: 'no-store' });
