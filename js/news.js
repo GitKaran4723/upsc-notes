@@ -8,8 +8,45 @@ async function loadNews() {
     const data = await res.json();
 
     renderNews(data, baseURL);
+    setupLatestButton(data, baseURL);
   } catch (error) {
     console.error("Failed to load news:", error);
+  }
+}
+
+function setupLatestButton(structure, baseURL) {
+  const latestBtn = document.getElementById("readLatestBtn");
+  if (!latestBtn) return;
+
+  // Find the most recent article
+  const sortedYears = Object.keys(structure).sort((a, b) => b - a);
+  const monthOrder = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", 
+                      "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  
+  let latestUrl = null;
+  
+  for (const year of sortedYears) {
+    const months = structure[year];
+    const sortedMonths = Object.keys(months).sort(
+      (a, b) => monthOrder.indexOf(b) - monthOrder.indexOf(a)
+    );
+    
+    for (const month of sortedMonths) {
+      const days = months[month].sort((a, b) => b - a);
+      if (days.length > 0) {
+        const latestDay = String(days[0]).padStart(2, '0');
+        latestUrl = `${baseURL}/${year}/${month}/${latestDay}.md`;
+        
+        // Update button text with date
+        const dateText = document.createElement('span');
+        dateText.className = 'text-sm opacity-90';
+        dateText.innerHTML = `<br/>${month} ${latestDay}, ${year}`;
+        latestBtn.querySelector('span').innerHTML = `Read Latest News${dateText.outerHTML}`;
+        
+        latestBtn.addEventListener('click', () => openNews(latestUrl));
+        return;
+      }
+    }
   }
 }
 
