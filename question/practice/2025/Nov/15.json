@@ -1,0 +1,597 @@
+[
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following about the Bihar Assembly Election 2025 result:",
+    "statements": [
+      "NDA won 202 out of 243 seats",
+      "NDA secured about 46.7% vote share",
+      "RJD emerged as single largest party by seat count"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "NDA secured 202 seats and a 46.7% vote share. RJD was the single-largest by vote share, not seat count. See [[Electoral system]] for FPTP effects.",
+    "tags": "Polity, Governance, Elections"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best explains the discrepancy where a party gets higher vote share but fewer seats under FPTP?",
+    "statements": [
+      "Votes are not geographically concentrated",
+      "Differential voter turnout across constituencies",
+      "Proportional representation corrects seat allocation in FPTP"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Under the FPTP system, dispersed votes convert poorly into seats. Proportional representation does not apply in FPTP. See [[First-past-the-post voting]].",
+    "tags": "Polity, Governance, Elections"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which women-focused welfare scheme significantly influenced the Bihar 2025 election?",
+    "statements": [
+      "Mahila Rojgar Yojana providing ₹10,000 to women",
+      "PM-Kisan income support",
+      "Ujjwala LPG subsidy"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Mahila Rojgar Yojana was highlighted as a decisive women-centric scheme. Central schemes also help but were not the specific focus here.",
+    "tags": "Welfare, Governance, Social Issues"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "What did the notification of DPDP Rules, 2025 achieve?",
+    "statements": [
+      "Operational details of the DPDP Act were released",
+      "Government exemptions became immediately effective",
+      "All fiduciaries must comply fully by December 2025"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Operational rules were notified and government exemptions activated. Full compliance is required only by 2026.",
+    "tags": "Governance, Law, Technology"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "What criticism did activists raise regarding the DPDP Rules, 2025?",
+    "statements": [
+      "They may weaken RTI by restricting personal data disclosure",
+      "They mandate full data localisation for all personal data",
+      "They expand state powers through broad exemptions"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "RTI concerns and broad exemptions were key issues. Full data localisation was not mandated.",
+    "tags": "Rights, Governance, Cybersecurity"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which events occurred during the Karnataka sugarcane farmers’ protest?",
+    "statements": [
+      "Farmers demanded ₹3,500/tonne while the state offered ₹3,300",
+      "Cane loads and tractors were burned during tensions",
+      "All pending dues were cleared immediately"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Farmers demanded a higher price, and arson incidents occurred. Full dues clearance did not happen immediately.",
+    "tags": "Agriculture, Economy, Governance"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which statement about the review of India’s FIT framework is correct?",
+    "statements": [
+      "Current target is 4% CPI inflation with ±2% band",
+      "RBI is evaluating core vs headline inflation targeting",
+      "FIT was adopted in 2023"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India targets 4% CPI within a 2–6% band and is reviewing headline vs core inflation. FIT was adopted in 2016.",
+    "tags": "Economy, Monetary Policy"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "What recognition did Ambaji marble receive in 2025?",
+    "statements": [
+      "Geographical Indication (GI) tag",
+      "UNESCO Intangible Cultural Heritage status",
+      "Support measures for artisan clusters"
+    ],
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 only",
+      "1 and 2 only"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Ambaji marble received a GI tag and MSME-linked support was highlighted. No UNESCO listing exists.",
+    "tags": "Economy, IPR, Culture"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "India–Canada discussions prioritised which cooperation areas?",
+    "statements": [
+      "Critical minerals supply chains",
+      "Withdrawal from aerospace cooperation",
+      "Dual-use technology collaboration"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Critical minerals and dual-use capabilities were emphasised. No withdrawal from aerospace was stated.",
+    "tags": "IR, Economy, Energy Transition"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following about Birsa Munda’s legacy is correct?",
+    "statements": [
+      "He led the Ulgulan movement for tribal land rights",
+      "JanaJatiya Gaurav Diwas honours tribal heroes including Birsa",
+      "His movement was an urban middle-class reform effort"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Birsa Munda led a tribal resistance (Ulgulan) and is commemorated through JanaJatiya Gaurav Diwas. His movement was rural and tribal-led.",
+    "tags": "History, Society, GS-I"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which factor was highlighted as a major reason behind NDA’s strong performance among women voters in Bihar?",
+    "statements": [
+      "The Mahila Rojgar Yojana offered direct income support",
+      "Reservation of seats for women in Parliament",
+      "A rise in women’s labour force participation due to MGNREGA"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Mahila Rojgar Yojana’s ₹10,000 direct transfer to women was highlighted as a decisive electoral factor. Parliament reservation was not part of this election narrative, and MGNREGA-related changes were not cited.",
+    "tags": "Polity, Welfare, Elections"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the role of a Data Fiduciary under the DPDP Act?",
+    "statements": [
+      "Entity that collects and processes personal data",
+      "Responsible for ensuring data security and lawful purpose",
+      "Acts only as a grievance redress authority for citizens"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Data Fiduciaries are organisations that collect, store, and process personal data and must ensure compliance. Grievance redress is done mainly through DPOs and the Data Protection Board.",
+    "tags": "Governance, Technology, Privacy"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "The Sugarcane (Control) Order, 1966 mandates which of the following?",
+    "statements": [
+      "Payment to sugarcane farmers within 14 days of procurement",
+      "Penalty and interest on mills for delayed payments",
+      "Minimum Selling Price of sugar fixed annually by the Supreme Court"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Order mandates timely farmer payments and allows recovery with penalties. The Supreme Court does not fix the Minimum Selling Price — the government does.",
+    "tags": "Agriculture, Economy, Regulation"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which issue was raised in the FIT review regarding inflation measurement?",
+    "statements": [
+      "Food inflation in India has second-round effects",
+      "Core inflation fully captures rural consumption shocks",
+      "Headline inflation better reflects welfare impacts"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Food inflation spills over to wages and core inflation, and headline inflation captures real household experiences. Core inflation alone misses rural food-volatile patterns.",
+    "tags": "Economy, Monetary Policy"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Ambaji marble is valued for which of the following characteristics?",
+    "statements": [
+      "High brightness",
+      "Fine grain structure",
+      "Natural black streaks that distinguish it from other marbles"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Ambaji marble is known for its fine grain, uniform white texture, and high brightness. Black streaks are not typical of it.",
+    "tags": "Culture, Economy, IPR"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "India–Canada cooperation on critical minerals is important for India because:",
+    "statements": [
+      "India is heavily import-dependent for battery minerals",
+      "Canada is a reliable global supplier of critical minerals",
+      "India has surplus domestic reserves of lithium, reducing the need for partnerships"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India imports most lithium, cobalt, and rare earths. Canada is a top global source. India does not have surplus lithium reserves.",
+    "tags": "IR, Economy, Energy Security"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Birsa Munda’s Ulgulan movement primarily focused on:",
+    "statements": [
+      "Reclaiming tribal land from British-imposed systems",
+      "Protecting tribal culture and identity",
+      "Promoting missionary education reforms"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Ulgulan opposed colonial land laws and cultural interference. Birsa resisted missionary influences rather than promoting them.",
+    "tags": "History, Tribal Issues, GS-I"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which initiative aims to uplift Particularly Vulnerable Tribal Groups (PVTGs)?",
+    "statements": [
+      "PM-JANMAN Scheme",
+      "Eklavya Model Residential Schools (EMRS)",
+      "National Rural Livelihood Mission (NRLM)"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "PM-JANMAN is specifically targeted at PVTGs. EMRS covers tribal education broadly. NRLM is not PVTG-specific.",
+    "tags": "Welfare, Tribal Affairs, GS-II"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which challenge was highlighted regarding India’s critical minerals strategy?",
+    "statements": [
+      "Growing global competition to secure mineral assets",
+      "India’s lack of advanced mineral processing capacity",
+      "Oversupply of cobalt in India leading to export pressures"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India faces import dependence and limited processing capabilities. There is no cobalt oversupply domestically.",
+    "tags": "IR, Economy, Energy Transition"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Eklavya Model Residential Schools (EMRS) aim to:",
+    "statements": [
+      "Provide quality residential education to tribal children",
+      "Promote digital and skill-based learning in tribal regions",
+      "Offer free college education to all PVTG youth"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "EMRS schools offer quality schooling and modern learning infrastructure to tribal students. They do not provide automatic free college education.",
+    "tags": "Education, Tribal Development, GS-II"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following explains why RJD secured the highest vote share but won far fewer seats in the Bihar 2025 election?",
+    "statements": [
+      "Votes were spread thinly across constituencies",
+      "FPTP system rewards concentrated vote banks",
+      "Proportional representation rules reduced its seat share"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Under FPTP, dispersed votes result in fewer wins, whereas concentrated votes convert into seats. Proportional representation does not apply in Indian assembly elections.",
+    "tags": "Polity, Elections, Governance"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is the DPDP Act considered a major shift in India’s digital governance?",
+    "statements": [
+      "It is India’s first dedicated digital personal data protection law",
+      "It creates a Data Protection Board for adjudicating breaches",
+      "It abolishes all surveillance powers of the State"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Act establishes India’s first comprehensive digital personal data protection framework and sets up a Data Protection Board. It does not abolish surveillance powers.",
+    "tags": "Governance, Law, Technology"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which factor contributed to recurring sugarcane agitations in Karnataka?",
+    "statements": [
+      "Chronic delays in payment by sugar mills",
+      "Mismatch between SAP/FRP and farmers’ actual production costs",
+      "High profit margins of mills enabling easy settlement of dues"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Farmers face payment delays and price–cost mismatches. Mills often operate under financial stress; high profit margins are generally not the case.",
+    "tags": "Agriculture, Economy, Rural Issues"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "According to the FIT review, why should headline inflation continue to be targeted?",
+    "statements": [
+      "It reflects actual household consumption patterns",
+      "Food price shocks influence wages and overall inflation",
+      "Core inflation completely captures rural food vulnerabilities"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Headline inflation includes food, and food shocks spill into core inflation. Core inflation alone cannot represent rural food price volatility.",
+    "tags": "Economy, Monetary Policy"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which benefit is expected from the GI tag awarded to Ambaji marble?",
+    "statements": [
+      "Protection against imitation and misuse",
+      "Better market value and branding for genuine producers",
+      "Automatic UNESCO World Heritage status"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "GI tags protect authenticity and improve economic value. They do not provide UNESCO status.",
+    "tags": "Culture, Economy, IPR"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Why are critical minerals essential for India’s economic and strategic goals?",
+    "statements": [
+      "They are required for EV batteries and renewable energy",
+      "They are vital for defence and semiconductor technologies",
+      "India is currently self-sufficient in most critical minerals"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India depends heavily on imports of lithium, cobalt, and rare earths, which are essential for energy transition and high-tech industries.",
+    "tags": "IR, Economy, Energy Transition"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which major initiative has been launched to transform tribal-majority villages across India?",
+    "statements": [
+      "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan",
+      "Sansad Adarsh Gram Yojana 3.0",
+      "Digital India Tribal Inclusion Mission"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Dharti Aaba Abhiyan aims to transform over 63,000 tribal villages through saturation of services. The other schemes are unrelated.",
+    "tags": "Tribal Affairs, Governance, GS-II"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which statement best describes the Ulgulan movement?",
+    "statements": [
+      "A tribal uprising led by Birsa Munda",
+      "Protested exploitative British land policies",
+      "Focused on expanding missionary institutions in tribal areas"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Ulgulan resisted colonial land systems and protected tribal autonomy. It opposed missionary interference; it did not promote it.",
+    "tags": "History, Tribal Movements, GS-I"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which area of cooperation was discussed between India and Canada beyond critical minerals?",
+    "options": [
+      "Aerospace and dual-use technologies",
+      "Joint wheat procurement agreements",
+      "Shared regulatory framework for FTA with EU",
+      "Large-scale desalination infrastructure"
+    ],
+    "correct_option": "Aerospace and dual-use technologies",
+    "explanation": "India and Canada agreed to explore aerospace and dual-use technology cooperation as part of deeper trade relations.",
+    "tags": "IR, Economy, Strategic Cooperation"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which government initiative aims to commemorate tribal heroes and preserve their legacy?",
+    "statements": [
+      "JanaJatiya Gaurav Diwas",
+      "Establishment of Tribal Freedom Fighter Museums",
+      "PM Kaushal Vikas Yojana"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Both JanaJatiya Gaurav Diwas and tribal museums honour the contributions of tribal freedom fighters. PMKVY is a general skill scheme.",
+    "tags": "Culture, History, Tribal Affairs"
+  }
+]
