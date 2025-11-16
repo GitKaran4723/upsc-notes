@@ -65,6 +65,21 @@
     .control-btn:hover { transform: translateY(-4px) scale(1.05); box-shadow: 0 8px 24px rgba(245, 158, 11, 0.6); }
     .control-btn.active { animation: pulse-soft 1.5s ease-in-out infinite; }
     @keyframes pulse-soft { 0%, 100% { opacity: 1; } 50% { opacity: 0.8; } }
+    @media print {
+      body { font-size: 11pt; line-height: 1.5; background: white !important; }
+      header, .control-panel, .settings-panel, #readingProgress { display: none !important; }
+      #markdownContent { max-width: 100%; padding: 0.5cm; column-count: 2; column-gap: 0.5cm; }
+      #markdownContent h1 { font-size: 18pt; break-after: avoid; color: #000 !important; -webkit-text-fill-color: initial !important; }
+      #markdownContent h2 { font-size: 14pt; break-after: avoid; color: #000 !important; border-bottom: 1px solid #000; }
+      #markdownContent h3 { font-size: 12pt; break-after: avoid; color: #000 !important; }
+      #markdownContent p, #markdownContent li { orphans: 3; widows: 3; }
+      #markdownContent img { max-width: 100%; break-inside: avoid; }
+      #markdownContent table { break-inside: avoid; font-size: 9pt; }
+      #markdownContent blockquote { break-inside: avoid; border-left: 2px solid #000; background: #f5f5f5 !important; }
+      #markdownContent code { background: #f0f0f0 !important; color: #000 !important; }
+      #markdownContent pre { break-inside: avoid; background: #f5f5f5 !important; }
+      * { color-adjust: exact !important; -webkit-print-color-adjust: exact !important; }
+    }
     .settings-panel { position: fixed; right: -400px; top: 0; bottom: 0; width: 380px; background: white; box-shadow: -4px 0 24px rgba(0, 0, 0, 0.2); transition: right 0.3s ease; z-index: 1001; overflow-y: auto; padding: 2rem; }
     .dark .settings-panel { background: #1f2937; }
     .settings-panel.open { right: 0; }
@@ -143,6 +158,12 @@
   </div>
   
   <div class="control-panel">
+    <button id="printBtn" class="control-btn" title="Print Page">
+      <i class="fas fa-print"></i>
+    </button>
+    <button id="copyAllBtn" class="control-btn" title="Copy All Text">
+      <i class="fas fa-clipboard"></i>
+    </button>
     <button id="readAloudBtn" class="control-btn" title="Read Aloud">
       <i class="fas fa-play" id="readAloudIcon"></i>
     </button>
@@ -274,6 +295,27 @@
     }
 
     function initializeControls() {
+      document.getElementById("printBtn").addEventListener("click", () => {
+        window.print();
+      });
+      document.getElementById("copyAllBtn").addEventListener("click", async () => {
+        const content = document.getElementById("markdownContent");
+        const text = content.innerText;
+        try {
+          await navigator.clipboard.writeText(text);
+          const btn = document.getElementById("copyAllBtn");
+          const icon = btn.querySelector("i");
+          icon.className = "fas fa-check";
+          btn.style.background = "linear-gradient(135deg, #10b981 0%, #059669 100%)";
+          setTimeout(() => {
+            icon.className = "fas fa-clipboard";
+            btn.style.background = "linear-gradient(135deg, #f59e0b 0%, #f97316 100%)";
+          }, 2000);
+        } catch (err) {
+          console.error("Copy failed:", err);
+          alert("Failed to copy text. Please try again.");
+        }
+      });
       document.getElementById("readAloudBtn").addEventListener("click", toggleReadAloud);
       document.getElementById("settingsBtn").addEventListener("click", () => {
         document.getElementById("settingsPanel").classList.add("open");

@@ -118,21 +118,26 @@
     </header>
 
     <!-- Overview -->
-    <section class="py-6 px-4 bg-yellow-100 text-center">
-        <h2 class="text-2xl font-semibold text-yellow-800">Stay Informed. Stay Ahead.</h2>
-        <p class="max-w-3xl mx-auto mt-2 text-sm text-gray-700">
-            Stay updated with important current affairs curated specifically for
-            <strong>UPSC Prelims and Mains</strong>. We break down complex news into simple, structured insights,
-            highlight key terms, and provide exam-relevant analysis with a focus on
-            <strong>Constitution, Governance, Economy, Environment, and International Relations</strong>.
-            Click on any topic to read detailed notes and analysis.
-        </p>
+    <section class="relative z-10 py-12 px-4">
+        <div class="max-w-5xl mx-auto text-center">
+            <div class="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-amber-400 to-orange-500 rounded-2xl shadow-xl mb-4 animate-float">
+                <i class="fas fa-newspaper text-white text-3xl"></i>
+            </div>
+            <h2 class="text-4xl font-bold mb-3">
+                <span class="gradient-text">Daily News Analysis</span>
+            </h2>
+            <p class="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+                Stay updated with <strong>UPSC-relevant</strong> current affairs. Curated daily analysis covering
+                <span class="text-amber-600 dark:text-amber-400 font-semibold">Constitution, Governance, Economy, Environment & IR</span>
+            </p>
+        </div>
     </section>
 
     <!-- News Container -->
-    <section class="p-4" id="news-root">
-        <h3 class="text-xl font-semibold mb-4 text-center text-gray-800">Click a date to read UPSC-relevant news</h3>
-        <div id="news-container" class="space-y-6 max-w-4xl mx-auto text-sm"></div>
+    <section class="relative z-10 pb-12 px-4">
+        <div class="max-w-6xl mx-auto">
+            <div id="news-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+        </div>
     </section>
 
     <!-- Markdown Modal -->

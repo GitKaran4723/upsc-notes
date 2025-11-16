@@ -1,0 +1,517 @@
+[
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the Supreme Court of India, consider the following statements:",
+    "statements": [
+      "It is established under Articles 124–147 of the Constitution.",
+      "It acts as a Court of Record under Article 129.",
+      "It can issue writs for enforcement of Fundamental Rights under Article 32."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All provisions related to the Supreme Court, including its structure and powers, are provided under Articles 124–147. Article 129 makes it a Court of Record with the power to punish for contempt. Article 32 empowers it to issue writs for enforcement of Fundamental Rights. For more, see [[Supreme Court of India]], [[Article 32]], and [[Contempt of court]].",
+    "tags": "Polity, Judiciary, Constitution"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following with respect to the composition of the Supreme Court:",
+    "statements": [
+      "The maximum strength of the Supreme Court is 34 judges including the Chief Justice of India.",
+      "A Constitution Bench requires a minimum of seven judges.",
+      "Judges of the Supreme Court are appointed by the President."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The sanctioned strength of the Supreme Court is 34 (CJI + 33). A Constitution Bench requires a minimum of five judges, not seven. Supreme Court judges are appointed by the President based on recommendations of the Collegium. See [[Collegium system]] and [[Supreme Court of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are part of the original jurisdiction of the Supreme Court?",
+    "statements": [
+      "Centre–State disputes",
+      "Disputes between two or more States",
+      "Water disputes between States"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Article 131 gives the Supreme Court exclusive original jurisdiction over Centre–State and inter-State legal disputes. Water disputes are excluded because they are handled by tribunals under the Inter-State Water Disputes Act. See [[Article 131]].",
+    "tags": "Polity, Federalism"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to Article 32 of the Constitution, consider the following:",
+    "statements": [
+      "It empowers the Supreme Court to issue five types of writs.",
+      "It is itself a Fundamental Right.",
+      "It can be suspended only during National Emergency."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Article 32 allows the Supreme Court to issue five writs: Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo Warranto. It is a Fundamental Right. However, it cannot be suspended except as provided by the Constitution; emergency does not automatically suspend it unless FRs themselves are suspended. See [[Article 32]] and [[Fundamental Rights]].",
+    "tags": "Polity, Fundamental Rights"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the Advisory Jurisdiction of the Supreme Court?",
+    "options": [
+      "Binding opinion to the President on any legal question",
+      "Non-binding opinion to the President on questions of law or fact",
+      "Mandatory judicial opinion on constitutional amendments",
+      "Mandatory opinion to Parliament on financial matters"
+    ],
+    "correct_option": "Non-binding opinion to the President on questions of law or fact",
+    "explanation": "Under Article 143, the President may seek the opinion of the Supreme Court on any question of law or fact. The Court’s opinion is advisory in nature and not binding. See [[Article 143]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "With respect to Judicial Review in India, consider the following:",
+    "statements": [
+      "It is explicitly mentioned in the Constitution.",
+      "It was declared part of the Basic Structure in the Kesavananda Bharati case.",
+      "It extends to reviewing constitutional amendments."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "Judicial review is not explicitly mentioned in any specific Article, though it flows from Articles 13, 32, 226, and 136. It was held to be part of the Basic Structure in the Kesavananda Bharati case. The Court can review constitutional amendments under Article 368 limits. See [[Judicial review in India]] and [[Kesavananda Bharati v. State of Kerala]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following cases is correctly matched with its contribution?",
+    "options": [
+      "Maneka Gandhi case – Expanded the meaning of Article 21",
+      "Minerva Mills case – Upheld unlimited amending power of Parliament",
+      "I.R. Coelho case – Ninth Schedule laws enjoy immunity from judicial review",
+      "Kesavananda Bharati case – Struck down Article 32"
+    ],
+    "correct_option": "Maneka Gandhi case – Expanded the meaning of Article 21",
+    "explanation": "The Maneka Gandhi case (1978) broadened Article 21 by introducing ‘due process’ requirements. Minerva Mills limited Parliament’s amending powers. I.R. Coelho brought Ninth Schedule laws under Basic Structure review. None struck down Article 32. See [[Maneka Gandhi v. Union of India]] and [[Minerva Mills v. Union of India]].",
+    "tags": "Polity, Judiciary, Landmark Judgments"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is a key feature of Judicial Activism in India?",
+    "options": [
+      "Strict adherence to separation of powers",
+      "Conservative and narrow interpretation of the Constitution",
+      "Use of PIL to expand access to justice",
+      "Non-interference in administrative matters"
+    ],
+    "correct_option": "Use of PIL to expand access to justice",
+    "explanation": "Judicial activism involves a proactive role of the judiciary in areas like social justice, environment protection and rights enforcement. Public Interest Litigation (PIL), liberal interpretation of rights and suo motu actions are its tools. See [[Public Interest Litigation in India]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to writs issued by the Supreme Court, consider the following:",
+    "statements": [
+      "Habeas Corpus is issued to produce a detained person before the court.",
+      "Prohibition is issued by a higher court to forbid a lower court from exceeding its jurisdiction.",
+      "Quo Warranto is issued to prevent violation of Fundamental Rights."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Habeas Corpus ensures protection against illegal detention. Prohibition restrains lower courts from acting beyond jurisdiction. Quo Warranto questions the legal authority of a public office holder—not related to Fundamental Rights enforcement. See [[Writ]].",
+    "tags": "Polity, Fundamental Rights"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following regarding the independence of the Supreme Court:",
+    "statements": [
+      "Salaries of judges are charged on the Consolidated Fund of India.",
+      "Judges can be removed by the President on advice of the Cabinet.",
+      "Judges are barred from practicing law after retirement."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Judicial salaries are charged on the Consolidated Fund of India to protect independence. Judges can be removed only through impeachment by Parliament, not by Cabinet advice. Post-retirement practice is prohibited in all courts except the Supreme Court and tribunals. See [[Judiciary of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "In which of the following matters does the Supreme Court exercise appellate jurisdiction?",
+    "statements": [
+      "Civil cases involving substantial questions of law",
+      "Criminal cases where the High Court awards the death penalty",
+      "Constitutional cases decided by High Courts"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The appellate jurisdiction covers civil, criminal, and constitutional matters from High Courts. In criminal cases, death penalty or reversed acquittal appeals directly lie before the Supreme Court. See [[Supreme Court of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the Curative Petition?",
+    "options": [
+      "A petition filed by the High Court to correct an error by the Supreme Court",
+      "A petition filed to review judgments after review petitions are dismissed",
+      "A petition filed to question the constitutionality of amendments",
+      "A petition filed by the President under Article 143"
+    ],
+    "correct_option": "A petition filed to review judgments after review petitions are dismissed",
+    "explanation": "Curative petitions were evolved by the Supreme Court to prevent miscarriage of justice and can be filed only after the review petition is dismissed. See [[Curative petition]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following safeguards help ensure independence of the Supreme Court?",
+    "statements": [
+      "Security of tenure and difficult process of removal",
+      "Salaries charged on the Consolidated Fund of India",
+      "No discussion on conduct of judges in Parliament"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three safeguard judicial independence: impeachment protects tenure, salaries charged on Consolidated Fund ensure autonomy, and conduct of judges cannot be discussed in Parliament (except during impeachment). See [[Judiciary of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which power of the Supreme Court enables it to transfer cases from one High Court to another?",
+    "options": [
+      "Advisory power",
+      "Appellate power",
+      "Administrative power",
+      "Writ jurisdiction"
+    ],
+    "correct_option": "Administrative power",
+    "explanation": "The Supreme Court also performs administrative and supervisory functions, including transferring cases between High Courts. This is not part of writ or appellate jurisdiction. See [[Supreme Court of India]].",
+    "tags": "Polity, Judiciary, Administration"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to Judicial Activism, consider the following:",
+    "statements": [
+      "It often relies on a liberal interpretation of Fundamental Rights.",
+      "It emerged in India mainly after the Emergency period.",
+      "It always adheres strictly to separation of powers."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Judicial activism uses expansive interpretation of rights and became prominent post-Emergency. It may blur separation of powers, raising concerns of judicial overreach. See [[Judicial activism]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Public Interest Litigation (PIL) in India was first strengthened through which landmark case?",
+    "options": [
+      "Hussainara Khatoon case",
+      "Minerva Mills case",
+      "Kesavananda Bharati case",
+      "Golaknath case"
+    ],
+    "correct_option": "Hussainara Khatoon case",
+    "explanation": "The Hussainara Khatoon case (1979) expanded PIL and brought attention to the rights of undertrials. PIL later became a primary tool of judicial activism. See [[Public Interest Litigation in India]].",
+    "tags": "Polity, Judiciary, Rights"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT included in the Supreme Court’s powers?",
+    "options": [
+      "Power to punish for contempt",
+      "Power to review its own judgments",
+      "Power to amend the Constitution",
+      "Power to issue writs"
+    ],
+    "correct_option": "Power to amend the Constitution",
+    "explanation": "The Supreme Court cannot amend the Constitution; that power lies with Parliament. The Court can punish for contempt (Art. 129), review its judgments (Art. 137), and issue writs (Art. 32). See [[Supreme Court of India]].",
+    "tags": "Polity, Constitution"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following cases placed the Ninth Schedule under judicial review?",
+    "options": [
+      "Kesavananda Bharati case",
+      "Minerva Mills case",
+      "I.R. Coelho case",
+      "Indra Sawhney case"
+    ],
+    "correct_option": "I.R. Coelho case",
+    "explanation": "The I.R. Coelho (2007) judgment held that Ninth Schedule laws are subject to judicial review if they violate the Basic Structure. See [[I.R. Coelho v. State of Tamil Nadu]].",
+    "tags": "Polity, Judiciary, Landmark Judgments"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following regarding the removal of Supreme Court judges:",
+    "statements": [
+      "They can be removed only on proven misbehaviour or incapacity.",
+      "The impeachment motion must be passed by a special majority in both Houses.",
+      "The President removes the judge after the motion is passed."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Removal requires: (1) grounds of misbehaviour/incapacity, (2) special majority in both Houses, and (3) order of the President. Procedure is defined in the Judges Inquiry Act. See [[Judges (Inquiry) Act 1968]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Under Judicial Review, which of the following can be examined by the Supreme Court?",
+    "statements": [
+      "Executive orders",
+      "Constitutional amendments",
+      "State laws"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Judicial review extends to legislative, executive, administrative actions and even constitutional amendments if they violate the Basic Structure. See [[Judicial review in India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which Article empowers the Supreme Court to review its own judgments?",
+    "options": [
+      "Article 32",
+      "Article 129",
+      "Article 137",
+      "Article 145"
+    ],
+    "correct_option": "Article 137",
+    "explanation": "Article 137 authorises the Supreme Court to review its own judgments. This provision is vital to correct errors that may have occurred in earlier judgments. See [[Article 137]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes a Constitution Bench?",
+    "options": [
+      "A bench of three or more judges deciding civil cases",
+      "A bench of five or more judges deciding constitutional matters",
+      "A bench formed by the President under Article 143",
+      "A bench deciding disputes between States only"
+    ],
+    "correct_option": "A bench of five or more judges deciding constitutional matters",
+    "explanation": "A Constitution Bench (minimum five judges) is formed to decide cases involving substantial questions of constitutional interpretation. See [[Supreme Court of India]].",
+    "tags": "Polity, Judiciary, Constitution"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT a writ issued by the Supreme Court under Article 32?",
+    "options": [
+      "Mandamus",
+      "Prohibition",
+      "Injunction",
+      "Quo Warranto"
+    ],
+    "correct_option": "Injunction",
+    "explanation": "The Supreme Court can issue five writs—Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo Warranto. Injunction is not one of them. See [[Writ]].",
+    "tags": "Polity, Fundamental Rights"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which provision makes the Supreme Court a 'Court of Record'?",
+    "options": [
+      "Article 124",
+      "Article 129",
+      "Article 136",
+      "Article 145"
+    ],
+    "correct_option": "Article 129",
+    "explanation": "Article 129 declares the Supreme Court a Court of Record, giving it the power to punish for contempt and maintain authoritative records. See [[Contempt of court]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following cases established that Judicial Review is a part of the Basic Structure?",
+    "options": [
+      "Golaknath case",
+      "Kesavananda Bharati case",
+      "S.R. Bommai case",
+      "A.K. Gopalan case"
+    ],
+    "correct_option": "Kesavananda Bharati case",
+    "explanation": "The Kesavananda Bharati judgment (1973) held that Judicial Review forms part of the Basic Structure of the Constitution. See [[Kesavananda Bharati v. State of Kerala]].",
+    "tags": "Polity, Judiciary, Basic Structure"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "In India, Judicial Review is derived mainly from which Articles?",
+    "statements": [
+      "Article 13",
+      "Article 32",
+      "Article 226"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All these Articles together enable judicial review of laws and executive actions. Article 13 invalidates laws violating Fundamental Rights, while Articles 32 and 226 empower Supreme Court and High Courts to enforce them. See [[Judicial review in India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is a criticism of Judicial Activism?",
+    "options": [
+      "It enhances social justice",
+      "It may lead to judicial overreach",
+      "It ensures speedy justice",
+      "It increases legislative accountability"
+    ],
+    "correct_option": "It may lead to judicial overreach",
+    "explanation": "A major criticism of judicial activism is that it may cross constitutional boundaries and encroach upon legislative or executive domains, resulting in judicial overreach. See [[Judicial activism]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes the Special Leave Petition (SLP)?",
+    "options": [
+      "A petition filed by the President to review laws",
+      "A discretionary appeal to the Supreme Court under Article 136",
+      "A mandatory appeal granted to all litigants",
+      "A type of writ petition for enforcement of Fundamental Rights"
+    ],
+    "correct_option": "A discretionary appeal to the Supreme Court under Article 136",
+    "explanation": "SLP under Article 136 gives the Supreme Court discretionary power to grant special leave to appeal against any judgment or order of any court or tribunal. See [[Article 136]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes Judicial Restraint?",
+    "options": [
+      "A philosophy encouraging activism through PILs",
+      "A philosophy limiting the interference of courts in policymaking",
+      "A mechanism to increase the number of judicial benches",
+      "A method used to rewrite outdated laws"
+    ],
+    "correct_option": "A philosophy limiting the interference of courts in policymaking",
+    "explanation": "Judicial restraint emphasises limited judicial interference and respect for separation of powers. It is often contrasted with judicial activism. See [[Judicial restraint]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "16",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of the Supreme Court’s jurisdiction, which of the following is true?",
+    "options": [
+      "Its original jurisdiction can be expanded by Parliament.",
+      "Its appellate jurisdiction cannot be changed by Parliament.",
+      "Its writ jurisdiction extends to non-fundamental rights.",
+      "Its advisory opinion is binding on the government."
+    ],
+    "correct_option": "Its original jurisdiction can be expanded by Parliament.",
+    "explanation": "While Article 131 original jurisdiction is exclusive, Parliament may expand the Court's jurisdiction through law. Appellate jurisdiction is also subject to parliamentary regulation. Advisory opinion under Article 143 is not binding. See [[Supreme Court of India]].",
+    "tags": "Polity, Judiciary, Constitution"
+  }
+]
