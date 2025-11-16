@@ -1,0 +1,538 @@
+[
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the High Courts in India, consider the following statements:",
+    "statements": [
+      "High Courts can issue writs only for the enforcement of Fundamental Rights.",
+      "High Courts have wider writ jurisdiction than the Supreme Court."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "2 only",
+    "explanation": "Under Article 226, High Courts can issue writs not only for Fundamental Rights but for “any other purpose” as well. This makes their writ jurisdiction wider than that of the Supreme Court, whose writ powers (Article 32) are limited to Fundamental Rights. This distinction is discussed under [[Fundamental rights in India]] and [[Writ]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following articles deals with the High Court’s power of superintendence over all subordinate courts?",
+    "statements": [],
+    "options": [
+      "Article 215",
+      "Article 226",
+      "Article 227",
+      "Article 235"
+    ],
+    "correct_option": "Article 227",
+    "explanation": "Article 227 grants the High Court the power of superintendence over all courts and tribunals within its jurisdiction. This includes judicial and administrative supervision, crucial for maintaining uniformity in the justice system. Refer to [[High Court]] for details.",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following statements regarding the appointment of judges of High Courts:",
+    "statements": [
+      "The President appoints High Court judges after consulting the Chief Justice of India.",
+      "The Governor of the concerned State plays no role in the appointment process."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Under Article 217, the President appoints High Court judges after consulting the Chief Justice of India, the Governor, and the Chief Justice of the concerned High Court. Therefore, the Governor has a mandatory consultative role. See [[Chief Justice of India]] and [[High Court]] for more.",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes the ‘Court of Record’ status of High Courts?",
+    "statements": [
+      "Its records can be used as evidence in lower courts.",
+      "It has the power to punish for contempt of court."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "Article 215 declares every High Court a Court of Record, meaning its acts and proceedings are authoritative and it has inherent contempt powers. Refer to [[Contempt of court]] and [[High Court]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to removal of judges of High Courts, consider the following:",
+    "statements": [
+      "A High Court judge may be removed only by impeachment by Parliament.",
+      "The grounds for removal include proved misbehaviour or incapacity."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "Article 217 provides that High Court judges are removed in the same manner as Supreme Court judges—through impeachment on grounds of proved misbehaviour or incapacity. The full procedure is explained under [[Judges (Inquiry) Act 1968]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes 'Additional Judges' of a High Court?",
+    "statements": [
+      "They are appointed to clear arrears of cases.",
+      "They are appointed for a maximum period of two years."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "Additional Judges are appointed under Article 224 to deal with temporary increases in case load. Their tenure cannot exceed two years. See [[High Court]] for constitutional basis.",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which committee or recommendation originally suggested the creation of an All India Judicial Service?",
+    "statements": [],
+    "options": [
+      "Sarkaria Commission",
+      "First Administrative Reforms Commission",
+      "Law Commission of India (1958)",
+      "National Judicial Appointments Commission"
+    ],
+    "correct_option": "Law Commission of India (1958)",
+    "explanation": "The idea of an All India Judicial Service (AIJS) first appeared in the 14th Report of the Law Commission (1958). Later, the First ARC and others reiterated it. See [[Law Commission of India]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT a ground for removal of judges?",
+    "statements": [],
+    "options": [
+      "Proved misbehaviour",
+      "Incapacity",
+      "Inefficiency in disposal of cases",
+      "Violation of the Constitution"
+    ],
+    "correct_option": "Inefficiency in disposal of cases",
+    "explanation": "Constitution under Article 124(4) and 217 allows removal only for proved misbehaviour or incapacity. 'Inefficiency' is not a constitutional ground. Refer to [[Judicial independence]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following regarding the jurisdiction of High Courts:",
+    "statements": [
+      "They can hear election petitions related to Parliament and State Legislatures.",
+      "They may exercise both appellate and original jurisdiction."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "High Courts have original jurisdiction in election matters (varies by state) and also function as appellate courts over district courts. See [[High Court]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Under Article 235, the administrative control of High Courts includes which of the following?",
+    "statements": [
+      "Postings of District Judges",
+      "Promotion of judicial officers",
+      "Enforcement of civil procedure rules"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Article 235 grants High Courts control over posting, promotion and discipline of district judges, but not the general enforcement of procedure rules. See [[District Courts of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the Collegium System, consider the following statements:",
+    "statements": [
+      "It was established through a constitutional amendment.",
+      "It gives primacy to the judiciary in the appointment of judges."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "2 only",
+    "explanation": "The Collegium System evolved through Supreme Court judgments, mainly the Second Judges Case (1993) and Third Judges Case (1998). It is not based on a constitutional amendment. The system ensures judicial primacy in appointments. See [[Supreme Court of India]].",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements regarding High Court jurisdiction is correct?",
+    "statements": [],
+    "options": [
+      "High Courts cannot hear appeals from tribunals.",
+      "High Courts may hear appeals from both civil and criminal cases.",
+      "High Courts cannot frame rules for subordinate courts.",
+      "High Courts do not have original jurisdiction in any matter."
+    ],
+    "correct_option": "High Courts may hear appeals from both civil and criminal cases.",
+    "explanation": "High Courts have appellate jurisdiction in both civil and criminal matters, depending on the nature of the lower court judgment. This structure is described under [[Indian Judiciary]].",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following responsibilities of High Courts:",
+    "statements": [
+      "Supervision over subordinate courts",
+      "Control over recruitment of district judges",
+      "Power to transfer subordinate judicial officers between districts"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Under Articles 227 and 235, High Courts exercise complete supervision and administrative control over subordinate courts, including transfers, promotions, and disciplinary actions. See [[District Courts of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the transfer of High Court judges?",
+    "statements": [
+      "They can be transferred by the President.",
+      "The Chief Justice of India must be consulted before such transfer."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "Article 222 allows the President to transfer High Court judges after mandatory consultation with the Chief Justice of India. This ensures judicial independence. Related topic: [[Judiciary of India]].",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are advantages often cited in support of an All India Judicial Service (AIJS)?",
+    "statements": [
+      "Ensuring uniform judicial standards across states",
+      "Enabling faster filling of judicial vacancies",
+      "Eliminating the need for state judicial academies"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "AIJS may improve uniformity and reduce vacancies, but state judicial academies would still be required for local legal training. Refer to discussions under [[Judicial Service Commission]].",
+    "tags": "Governance, Polity"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which article empowers Parliament to create an All India Judicial Service?",
+    "statements": [],
+    "options": [
+      "Article 233",
+      "Article 312",
+      "Article 217",
+      "Article 323B"
+    ],
+    "correct_option": "Article 312",
+    "explanation": "Article 312 allows the Rajya Sabha to pass a resolution enabling Parliament to create new All India Services, including AIJS. See [[Rajya Sabha]].",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the difference between Articles 226 and 227?",
+    "statements": [
+      "Article 226 deals with writ jurisdiction of High Courts.",
+      "Article 227 deals with superintendence over subordinate courts."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "Article 226 empowers High Courts to issue writs, while Article 227 grants supervisory powers over subordinate courts. See [[Writ]] and [[High Court]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "In the removal of Supreme Court and High Court judges, which of the following majorities is required in Parliament?",
+    "statements": [],
+    "options": [
+      "Simple majority of each House",
+      "Special majority: 2/3rd present and voting",
+      "Special majority: 2/3rd present & voting + majority of total membership",
+      "Unanimous vote of both Houses"
+    ],
+    "correct_option": "Special majority: 2/3rd present & voting + majority of total membership",
+    "explanation": "Judges (Inquiry) Act procedure requires a dual special majority: majority of total membership and 2/3rd present and voting. Related topic: [[Impeachment]].",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is a unique feature of High Courts as compared to the Supreme Court?",
+    "statements": [],
+    "options": [
+      "High Courts can review their own judgments.",
+      "High Courts have original jurisdiction in matters of fundamental rights.",
+      "High Courts supervise subordinate courts.",
+      "High Courts conduct judicial review at the national level."
+    ],
+    "correct_option": "High Courts supervise subordinate courts.",
+    "explanation": "Only High Courts have constitutional superintendence over subordinate courts (Article 227). The Supreme Court has no such power. Refer to [[Judicial review in India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT part of the administrative control of High Courts under Article 235?",
+    "statements": [],
+    "options": [
+      "Granting leave to district judges",
+      "Deciding budget allocation for district courts",
+      "Holding disciplinary proceedings",
+      "Transfer of officers of subordinate judiciary"
+    ],
+    "correct_option": "Deciding budget allocation for district courts",
+    "explanation": "High Courts do not control financial allocation; that remains with the state government. Administrative control includes leave, discipline, transfers. See [[High Court]].",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to judicial independence, which of the following provisions safeguards the High Court judiciary?",
+    "statements": [
+      "Salaries of High Court judges are charged on the Consolidated Fund of India.",
+      "High Court judges cannot be removed except through a stringent impeachment process."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "Judicial salaries of both Supreme Court and High Court judges are charged on the Consolidated Fund of India, ensuring financial independence. Removal is only through impeachment for proved misbehaviour or incapacity. Refer to [[Judicial independence]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following bodies does the Constitution vest with the power to determine the number of High Court judges?",
+    "statements": [],
+    "options": [
+      "Parliament",
+      "Supreme Court Collegium",
+      "President of India",
+      "Union Public Service Commission"
+    ],
+    "correct_option": "President of India",
+    "explanation": "Under Article 216, the President determines the strength of High Court judges from time to time based on workload. See [[High Court]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which one of the following statements about High Courts is correct?",
+    "statements": [],
+    "options": [
+      "A High Court has no jurisdiction over tribunals.",
+      "A High Court may issue writs only to state governments.",
+      "A High Court is a Court of Record.",
+      "A High Court can punish only for civil contempt, not criminal contempt."
+    ],
+    "correct_option": "A High Court is a Court of Record.",
+    "explanation": "Article 215 declares that every High Court is a Court of Record with the power to punish for both civil and criminal contempt. See [[Contempt of court]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the All India Judicial Service (AIJS), which of the following is a major constitutional concern raised by States?",
+    "statements": [],
+    "options": [
+      "It violates the separation of powers doctrine.",
+      "It dilutes the control of High Courts under Articles 233–235.",
+      "It gives too much power to District Courts.",
+      "It restricts the powers of the Supreme Court."
+    ],
+    "correct_option": "It dilutes the control of High Courts under Articles 233–235.",
+    "explanation": "States and High Courts argue that AIJS interferes with their constitutional powers over subordinate judiciary. See [[District Courts of India]].",
+    "tags": "Governance, Polity, Federalism"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is true about the writ jurisdiction of High Courts?",
+    "statements": [
+      "It is discretionary in nature.",
+      "It extends even to private bodies performing public functions."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "High Courts may deny writs on discretionary grounds. Their writ reach extends to private entities performing statutory/public duties. See [[Writ]].",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following factors led to the evolution of the Collegium System?",
+    "statements": [
+      "Need to protect judicial appointments from executive dominance",
+      "Interpretation of the expression ‘consultation’ in Article 124",
+      "Recommendations of the Sarkaria Commission"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Collegium evolved through judicial interpretation of 'consultation' in the Second Judges Case, ensuring judicial independence. Sarkaria Commission dealt with Centre–State relations. See [[Supreme Court of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the High Court’s power under Article 227, consider the following:",
+    "statements": [
+      "It can call for records of subordinate courts.",
+      "It can correct errors of jurisdiction committed by lower courts."
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": "Both 1 and 2",
+    "explanation": "Article 227 empowers High Courts to call for records, ensure procedural correctness, and supervise lower courts. See [[High Court]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT a function of the High Court?",
+    "statements": [],
+    "options": [
+      "Laying down qualifications for district judges",
+      "Supervising subordinate courts",
+      "Issuing writs",
+      "Hearing appeals from lower courts"
+    ],
+    "correct_option": "Laying down qualifications for district judges",
+    "explanation": "Qualifications for district judges are provided in Article 233 and relevant state rules, not by High Courts. See [[District Courts of India]].",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which statement best reflects the difference between appointment of Supreme Court and High Court judges?",
+    "statements": [],
+    "options": [
+      "High Court judges are appointed by the Governor; Supreme Court judges by the President.",
+      "High Court appointments require consultation with the Chief Justice of the concerned High Court.",
+      "Supreme Court appointments require consultation with Governors of states.",
+      "High Court appointments do not involve the Collegium system."
+    ],
+    "correct_option": "High Court appointments require consultation with the Chief Justice of the concerned High Court.",
+    "explanation": "Article 217 mandates consulting the Chief Justice of the concerned High Court. Both SC and HC appointments follow the Collegium system. See [[Chief Justice of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "In which of the following situations can a High Court directly exercise original jurisdiction?",
+    "statements": [
+      "Cases relating to enforcement of Fundamental Rights",
+      "Election disputes under Representation of the People Act",
+      "Writ petitions filed by individuals"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "High Courts possess original jurisdiction over writs, FR enforcement, and certain election petitions (depending on state conditions). See [[High Court]].",
+    "tags": "Polity, Judiciary"
+  }
+]
