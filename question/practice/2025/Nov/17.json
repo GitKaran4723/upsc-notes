@@ -1,0 +1,546 @@
+[
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is the Siliguri Corridor strategically significant for India?",
+    "statements": [
+      "It connects mainland India to the eight Northeastern states.",
+      "It is bordered by Nepal, Bhutan, Bangladesh, and China.",
+      "Its narrow width makes it vulnerable during geopolitical tensions."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Siliguri Corridor connects India's mainland to the Northeastern region and is surrounded by multiple neighbouring countries, making it highly vulnerable during conflict. Its narrow width of about 20–22 km makes it a major strategic chokepoint. See [[Siliguri corridor]].",
+    "tags": "Internal Security, Geography, India-China Relations"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Lachit Borphukan Military Station, recently established by the Indian Army, is located in:",
+    "statements": [],
+    "options": [
+      "Kishanganj, Bihar",
+      "Dhubri, Assam",
+      "Chopra, West Bengal",
+      "Darjeeling, West Bengal"
+    ],
+    "correct_option": "Dhubri, Assam",
+    "explanation": "The Lachit Borphukan Military Station was established in Dhubri, Assam, near the Bangladesh border to enhance surveillance and security. See [[Assam]].",
+    "tags": "Internal Security, Geography"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which newly created Army base enhances surveillance of the Bangladesh–Bihar border?",
+    "statements": [],
+    "options": [
+      "Lachit Borphukan Station",
+      "Forward Base – Kishanganj",
+      "Forward Base – Chopra",
+      "Forward Base – Jalpaiguri"
+    ],
+    "correct_option": "Forward Base – Kishanganj",
+    "explanation": "The Forward Base at Kishanganj in Bihar enhances monitoring of infiltrations across the Bangladesh–Bihar border. See [[Kishanganj district]].",
+    "tags": "Internal Security, Border Management"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are the reasons for strengthening India’s military posture around the Siliguri Corridor?",
+    "statements": [
+      "Increased Chinese activity near the Line of Actual Control",
+      "Political uncertainty in Bangladesh",
+      "Shift in trade patterns in the region"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India’s actions are driven by Chinese military build-up and political changes in Bangladesh. Trade pattern shifts are not mentioned. See [[Line of Actual Control]].",
+    "tags": "International Relations, Internal Security"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Coronal Mass Ejections (CMEs) are significant because they:",
+    "statements": [
+      "Affect satellite-based communication systems",
+      "Influence the habitability of exoplanets",
+      "Are caused primarily by changes in Earth’s magnetic field"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "CMEs are massive eruptions from a star’s corona that can disrupt satellites and affect planetary atmospheres. They are unrelated to Earth’s magnetic field. See [[Coronal mass ejection]].",
+    "tags": "Science and Technology, Space"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "The first confirmed extra-solar CME was detected on which star?",
+    "options": [
+      "TRAPPIST-1",
+      "Proxima Centauri",
+      "StKM 1-1262",
+      "Barnard’s Star"
+    ],
+    "correct_option": "StKM 1-1262",
+    "explanation": "Astronomers observed the first-ever coronal mass ejection on the red dwarf star StKM 1-1262 using LOFAR telescopes. See [[Red dwarf]].",
+    "tags": "Science and Technology, Space Research"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Why are red dwarfs considered hostile for exoplanet habitability according to recent findings?",
+    "statements": [
+      "They produce extremely violent CMEs.",
+      "Their magnetic activity can strip planetary atmospheres.",
+      "They emit negligible radiation compared to other stars."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Red dwarfs exhibit violent magnetic storms and CMEs that can erode atmospheres, making surrounding planets less habitable. See [[Exoplanet habitability]].",
+    "tags": "Science and Technology"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Delhi’s air pollution is considered a 'wicked problem' because:",
+    "statements": [
+      "It has multiple interlinked causes.",
+      "It involves several stakeholders from different states.",
+      "It can be solved completely through temporary emergency actions."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Delhi’s pollution involves complex cross-border causes and governance challenges; temporary actions are insufficient. See [[Air pollution in Delhi]].",
+    "tags": "Environment, Governance"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which natural factors worsen Delhi’s winter pollution?",
+    "statements": [
+      "Temperature inversion",
+      "Low wind speed",
+      "High-pressure atmospheric systems"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Delhi suffers from temperature inversion, low winds, and high-pressure systems that trap pollutants near the ground. See [[Temperature inversion]].",
+    "tags": "Environment, Climate"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which source contributes the highest to PM2.5 levels in Delhi as per the data?",
+    "options": [
+      "Industrial emissions",
+      "Construction dust",
+      "Vehicular traffic",
+      "Stubble burning"
+    ],
+    "correct_option": "Construction dust",
+    "explanation": "Construction dust contributes nearly 27% of PM2.5 in Delhi, the highest among listed sources. See [[Particulates]].",
+    "tags": "Environment, Pollution"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Who won the 2025 Booker Prize?",
+    "options": [
+      "Kazuo Ishiguro",
+      "David Szalay",
+      "Arundhati Roy",
+      "Samantha Harvey"
+    ],
+    "correct_option": "David Szalay",
+    "explanation": "David Szalay won the 2025 Booker Prize for his novel 'Flesh'. See [[Booker Prize]].",
+    "tags": "Culture, Awards"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is an eligibility requirement for the Booker Prize?",
+    "statements": [
+      "The novel must be originally written in English.",
+      "The work must be published in the UK or Ireland.",
+      "Self-published works are eligible."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Booker Prize requires original English fiction published by a UK/Irish publisher. Self-published books are not eligible. See [[Booker Prize]].",
+    "tags": "Culture, Awards"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which feature distinguishes the International Booker Prize from the Booker Prize?",
+    "options": [
+      "It awards poetry only.",
+      "It recognizes translated fiction.",
+      "It is limited to Commonwealth writers.",
+      "It is administered by UNESCO."
+    ],
+    "correct_option": "It recognizes translated fiction.",
+    "explanation": "The International Booker Prize awards translated works, sharing the prize between author and translator. See [[International Booker Prize]].",
+    "tags": "Culture, Awards"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which Indian-origin writer has won the Booker Prize?",
+    "options": [
+      "Salman Rushdie",
+      "Chetan Bhagat",
+      "Amish Tripathi",
+      "Ruskin Bond"
+    ],
+    "correct_option": "Salman Rushdie",
+    "explanation": "Salman Rushdie won for 'Midnight’s Children' and also received the Booker of Bookers. See [[Salman Rushdie]].",
+    "tags": "Culture, Indian Literature"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "The Senkaku Islands are located in which water body?",
+    "options": [
+      "South China Sea",
+      "East China Sea",
+      "Yellow Sea",
+      "Sea of Japan"
+    ],
+    "correct_option": "East China Sea",
+    "explanation": "Senkaku Islands lie in the East China Sea and are administered by Japan. See [[Senkaku Islands]].",
+    "tags": "International Relations, Geography"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which country currently administers the Senkaku Islands?",
+    "options": [
+      "China",
+      "Taiwan",
+      "Japan",
+      "South Korea"
+    ],
+    "correct_option": "Japan",
+    "explanation": "Japan administers the Senkaku Islands as part of Ishigaki City. See [[Senkaku Islands]].",
+    "tags": "International Relations, Geopolitics"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "The largest island in the Senkaku group is:",
+    "options": [
+      "Kuba Island",
+      "Taisho Island",
+      "Uotsuri Island",
+      "Minamikojima"
+    ],
+    "correct_option": "Uotsuri Island",
+    "explanation": "Uotsuri Island is the largest of the Senkaku Islands with an area of 3.6 sq km. See [[Uotsuri Island]].",
+    "tags": "Geography, International Relations"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following countries claim the Senkaku Islands?",
+    "statements": [
+      "Japan",
+      "China",
+      "Taiwan"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Japan administers the islands, while China and Taiwan claim historical ownership. See [[Senkaku Islands dispute]].",
+    "tags": "International Relations, Geopolitics"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which global examples are cited in the notes as lessons for Delhi’s pollution management?",
+    "statements": [
+      "London’s Ultra Low Emission Zone (ULEZ)",
+      "Los Angeles' strict vehicle emission norms",
+      "Beijing’s real-time air monitoring system"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "London, Los Angeles, and Beijing are referenced for their urban pollution-control strategies. See [[Air pollution control]].",
+    "tags": "Environment, Governance"
+  },
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best explains the vulnerability of the Siliguri Corridor during wartime?",
+    "statements": [
+      "Its narrow width allows for potential blockade by hostile forces.",
+      "It is surrounded by Nepal, Bangladesh, Bhutan, and China.",
+      "It hosts a large number of Indian Air Force bases that attract threats."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Siliguri Corridor’s narrow width and its proximity to multiple foreign borders make it vulnerable. It does not host major IAF bases responsible for the vulnerability. See [[Siliguri corridor]].",
+    "tags": "Internal Security, Geography"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "What strategic advantage does the Forward Base at Chopra in West Bengal provide?",
+    "options": [
+      "It supports naval operations in the Bay of Bengal.",
+      "It strengthens rapid troop deployment near the Siliguri Corridor.",
+      "It monitors Chinese naval movements near Sri Lanka.",
+      "It enhances air surveillance over the Brahmaputra basin."
+    ],
+    "correct_option": "It strengthens rapid troop deployment near the Siliguri Corridor.",
+    "explanation": "The Chopra Base enhances mobility and rapid deployment capability near the vulnerable Siliguri Corridor. See [[Indian Army]].",
+    "tags": "Internal Security, Defence"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "The LOFAR array used in detecting the extra-solar CME is primarily a:",
+    "options": [
+      "Gamma-ray observatory",
+      "Low-frequency radio telescope network",
+      "Space-based optical telescope",
+      "X-ray interferometer"
+    ],
+    "correct_option": "Low-frequency radio telescope network",
+    "explanation": "LOFAR is a European low-frequency radio telescope array used in detecting cosmic phenomena. See [[LOFAR]].",
+    "tags": "Science and Technology, Space Research"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "What was unique about the CME observed on star StKM 1-1262?",
+    "statements": [
+      "It was nearly 10,000 times stronger than CMEs from the Sun.",
+      "It lasted longer than any solar CME ever observed.",
+      "It was detected purely through radio signatures."
+    ],
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The CME was extremely powerful and detected through radio waves; however, it lasted only about a minute, making statement 2 incorrect. See [[Coronal mass ejection]].",
+    "tags": "Science and Technology, Space"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which health impacts of Delhi’s pollution are highlighted in the notes?",
+    "statements": [
+      "Increase in cardiovascular diseases like stroke.",
+      "Rise in autoimmune disorders.",
+      "Higher incidence of neurodegenerative diseases."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Delhi’s pollution contributes to cardiovascular risks, autoimmune disorders, and cognitive decline, affecting mental and neurological health. See [[Air pollution]].",
+    "tags": "Environment, Health"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reasons explains why Delhi’s pollution control measures often fail?",
+    "statements": [
+      "Fragmented governance across NCR states.",
+      "Over-reliance on temporary measures such as smog towers.",
+      "Lack of enforcement of emission standards."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Governance fragmentation, temporary fixes, and weak enforcement all contribute to failure in long-term pollution control. See [[Air pollution in Delhi]].",
+    "tags": "Environment, Governance"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reforms were implemented in global cities mentioned as examples for Delhi?",
+    "statements": [
+      "London’s implementation of ULEZ for pollutant charging.",
+      "Los Angeles’ transition to cleaner fuels.",
+      "Beijing’s relocation of polluting industries."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "London, Los Angeles, and Beijing introduced major structural reforms to control pollution. See [[Pollution control]].",
+    "tags": "Environment, Governance, Case Studies"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements about the Booker Prize are correct?",
+    "statements": [
+      "It was established in 1969.",
+      "It is awarded only to authors from Commonwealth nations.",
+      "Self-published works are ineligible."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The Booker Prize began in 1969, is now open to all nationalities, and excludes self-published works. See [[Booker Prize]].",
+    "tags": "Culture, Awards"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Why are the Senkaku Islands geopolitically important?",
+    "statements": [
+      "They are located near major shipping lanes.",
+      "They are believed to contain underwater oil and gas reserves.",
+      "They host a significant US military base."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The islands are strategically placed and resource-rich, but they do not host a major US base. See [[Senkaku Islands]].",
+    "tags": "International Relations, Geopolitics"
+  },
+
+  {
+    "date": "17",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following describes the United States’ position on the Senkaku Islands?",
+    "options": [
+      "The US recognizes Chinese sovereignty over the islands.",
+      "The US recognizes Japanese administrative control but takes no stance on sovereignty.",
+      "The US considers the islands to be international waters.",
+      "The US administers the islands jointly with Japan."
+    ],
+    "correct_option": "The US recognizes Japanese administrative control but takes no stance on sovereignty.",
+    "explanation": "The US maintains neutrality on sovereignty while acknowledging Japanese administrative authority. See [[Senkaku Islands dispute]].",
+    "tags": "International Relations, US Foreign Policy"
+  }
+]
