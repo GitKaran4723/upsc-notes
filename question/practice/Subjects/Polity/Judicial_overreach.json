@@ -1,0 +1,567 @@
+[
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following constitutional provisions directly safeguards the independence of the judiciary in India?",
+    "statements": [
+      "Prohibition on discussion of judges’ conduct in Parliament",
+      "Security of tenure for judges",
+      "Salaries of judges charged on Consolidated Fund of India"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three—Article 121 (conduct not discussed), independent tenure under Articles 124 and 217, and financial protection via the Consolidated Fund—are core safeguards of judicial independence. \n\nSee [[Judiciary of India]], [[Article 121 of the Constitution of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to judicial accountability, which of the following is a mechanism provided under the Constitution?",
+    "statements": [
+      "Impeachment under Article 124(4)",
+      "In-house procedure of the Supreme Court",
+      "Review and Curative Petitions"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Judicial accountability is ensured by constitutional impeachment (Article 124(4)), institutional in-house mechanisms, and judicial review/curative petitions that correct judicial errors. \n\nSee [[Impeachment in India]], [[Curative petition]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "‘Proved misbehaviour’ in the context of removal of judges refers to which of the following?",
+    "statements": [
+      "Allegations must be established through a formal inquiry",
+      "It is defined explicitly in the Constitution",
+      "Judges Inquiry Act, 1968 provides the procedure for proving charges"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "‘Proved misbehaviour’ requires a formal inquiry, but it is NOT defined in the Constitution. Instead, the Judges Inquiry Act lays down procedures. \n\nSee [[Judges Inquiry Act 1968]].",
+    "tags": "Polity, Judiciary, Constitution"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following safeguards judicial independence by preventing executive interference in lower judiciary?",
+    "statements": [
+      "Article 50 mandates separation of judiciary and executive",
+      "Contempt powers of the court",
+      "Collegium system for judicial appointments"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Article 50 specifically mandates separation of judiciary and executive at subordinate level. Contempt and Collegium relate to higher judiciary. \n\nSee [[Directive Principles of State Policy]], [[Separation of powers]].",
+    "tags": "Polity, Constitution"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Judicial Review and Curative Petitions together ensure which of the following?",
+    "statements": [
+      "Correction of errors by the judiciary itself",
+      "Enforcement of legislative supremacy over courts",
+      "Protection of fundamental rights"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Judicial review and curative petitions help the judiciary correct its own errors and uphold fundamental rights. They do not enforce legislative supremacy. \n\nSee [[Judicial review in India]].",
+    "tags": "Polity, Fundamental Rights"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following cases is considered judicial activism rather than judicial overreach?",
+    "statements": [
+      "Vishaka Guidelines (1997)",
+      "2G Spectrum judgment (2012)",
+      "National Anthem Order (2016)"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Vishaka judgment filled a legislative vacuum to safeguard women’s rights, making it an example of judicial activism, not overreach. Other cases involved deeper policy intrusion. \n\nSee [[Vishakha Guidelines]], [[Sexual Harassment at Workplace Act]].",
+    "tags": "Polity, Judiciary, Case Law"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which judgement is widely criticised as an example of excessive judicial restraint?",
+    "statements": [
+      "ADM Jabalpur (1976)",
+      "2G Spectrum Case (2012)",
+      "Sabarimala Case (2018)"
+    ],
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "ADM Jabalpur upheld suspension of fundamental rights during the Emergency, often cited as a failure of judicial independence and excessive restraint. \n\nSee [[ADM Jabalpur v. Shivkant Shukla]].",
+    "tags": "Polity, Judiciary, Emergency"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Judicial overreach is most clearly visible when:",
+    "statements": [
+      "Courts enter policy implementation domain",
+      "Courts create new laws despite existing legislation",
+      "Courts invalidate unconstitutional laws"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Overreach occurs when courts step into executive/legislative spaces—policy making or implementing. Striking down unconstitutional laws is judicial review, not overreach. \n\nSee [[Separation of powers]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly differentiates Judicial Activism from Judicial Overreach?",
+    "statements": [
+      "Judicial activism operates within constitutional limits",
+      "Judicial overreach violates separation of powers",
+      "Judicial activism includes filling legislative gaps"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Judicial activism stays within constitutional boundaries and may fill legislative voids, but overreach crosses those boundaries and disrupts separation of powers. \n\nSee [[Judicial activism in India]].",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following ensures both judicial independence and judicial accountability?",
+    "statements": [
+      "RTI Act bringing CJI’s office under its ambit",
+      "Collegium system of appointments",
+      "Impeachment mechanism in Parliament"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "RTI improves transparency (accountability). Impeachment checks misconduct. Collegium safeguards independence but is criticised for opacity, so it is not an accountability tool. \n\nSee [[Right to Information Act]], [[Collegium system]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following features uphold financial independence of the judiciary?",
+    "statements": [
+      "Judges’ salaries are charged on the Consolidated Fund of India",
+      "Parliament cannot vote to reduce judicial salaries",
+      "Judiciary prepares its own budget without executive approval"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Judicial salaries are charged on the Consolidated Fund and cannot be reduced by Parliament. However, the judiciary does not prepare an entirely independent budget. \n\nSee [[Consolidated Fund of India]].",
+    "tags": "Polity, Judiciary, Constitution"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which judgement struck down the NJAC Act for violating judicial independence?",
+    "statements": [
+      "It diluted the role of the judiciary in appointments",
+      "It allowed executive dominance in judicial selection",
+      "It was upheld in the Second Judges Case"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The NJAC Act was struck down in 2015 because it compromised judicial primacy. The Second Judges Case (1993) actually established the Collegium system. \n\nSee [[National Judicial Appointments Commission]], [[Collegium system]].",
+    "tags": "Polity, Judiciary, Case Law"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following are tools that help ensure judicial accountability without compromising independence?",
+    "statements": [
+      "RTI Act with reasonable restrictions",
+      "In-house procedure of the Supreme Court",
+      "Judicial performance audits conducted by Parliament"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "RTI and in-house procedures improve transparency while preserving independence. Parliament has no role in auditing judicial performance. \n\nSee [[Right to Information Act]], [[Supreme Court of India]].",
+    "tags": "Polity, Judiciary, Transparency"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the purpose of Curative Petitions?",
+    "options": [
+      "To seek review of laws passed by Parliament",
+      "To correct gross miscarriage of justice even after review petition is dismissed",
+      "To reopen criminal cases after acquittal",
+      "To demand impeachment of judges"
+    ],
+    "correct_option": "To correct gross miscarriage of justice even after review petition is dismissed",
+    "explanation": "Curative petitions are the final remedy when the Supreme Court itself commits an error that violates principles of natural justice. \n\nSee [[Curative petition]].",
+    "tags": "Polity, Judiciary, Supreme Court"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is an example of judicial restraint?",
+    "statements": [
+      "Avoiding interference in policy matters",
+      "Striking down unconstitutional laws",
+      "Issuing detailed guidelines in absence of legislation"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Judicial restraint means courts refrain from entering executive or legislative domains. Striking down unconstitutional laws is judicial review. Issuing guidelines is activism. \n\nSee [[Judicial restraint]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following cases is widely seen as judicial overreach into religious customs?",
+    "options": [
+      "Triple Talaq Case (2017)",
+      "Sabarimala Case (2018)",
+      "Vishaka Case (1997)",
+      "ADM Jabalpur Case (1976)"
+    ],
+    "correct_option": "Sabarimala Case (2018)",
+    "explanation": "The Sabarimala judgement allowed women of all ages into the temple, entering a sensitive domain of religious customs. \n\nSee [[Sabarimala Temple]], [[Supreme Court of India]].",
+    "tags": "Polity, Judiciary, Religion"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements is correct about Public Interest Litigation (PIL) in India?",
+    "statements": [
+      "It was introduced through judicial innovation",
+      "It allows cases to be filed on behalf of affected groups",
+      "It has never been misused"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "PIL began through judicial creativity (Hussainara Khatoon case). It allows representation of voiceless groups and has faced misuse in recent decades. \n\nSee [[Public interest litigation]].",
+    "tags": "Polity, Judiciary, Social Justice"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following cases highlighted the dangers of excessive judicial restraint?",
+    "options": [
+      "Prakash Singh Case (Police Reforms)",
+      "ADM Jabalpur Case (Emergency)",
+      "2G Spectrum Case",
+      "Triple Talaq Case"
+    ],
+    "correct_option": "ADM Jabalpur Case (Emergency)",
+    "explanation": "ADM Jabalpur upheld suspension of fundamental rights during Emergency, showing how restraint can harm liberties. \n\nSee [[ADM Jabalpur v. Shiv Kant Shukla]].",
+    "tags": "Polity, Judiciary, Emergency"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly establishes the balance between judicial independence and accountability?",
+    "statements": [
+      "Contempt powers protect judicial authority",
+      "RTI ensures transparency in judicial office",
+      "Impeachment prevents misuse of judicial power"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Contempt protects independence, RTI supports transparency, and impeachment ensures accountability — together maintaining a balanced system. \n\nSee [[Contempt of court]], [[Right to Information Act]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best represents judicial overreach into executive functioning?",
+    "options": [
+      "Issuing orders to restructure BCCI",
+      "Striking down Section 66A of the IT Act",
+      "Invalidating arbitrary telecom licences",
+      "Reviewing death penalty cases"
+    ],
+    "correct_option": "Issuing orders to restructure BCCI",
+    "explanation": "The Supreme Court restructuring BCCI (2015–17) is considered classic judicial overreach since it involved running a private sports body. \n\nSee [[Board of Control for Cricket in India]], [[Supreme Court of India]].",
+    "tags": "Polity, Governance, Judiciary"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following ensures autonomy of the judiciary from executive influence?",
+    "statements": [
+      "Judges of Supreme Court cannot be transferred without their consent",
+      "Judicial expenses are charged on Consolidated Fund of India",
+      "Judges are appointed for a fixed tenure without age limit"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 only",
+    "explanation": "Judicial expenses being charged on the Consolidated Fund ensures financial independence. Judges can be transferred by the President after consultation with the CJI, and they do have an age limit of retirement (65 for SC, 62 for HC). \n\nSee [[Supreme Court of India]], [[Consolidated Fund of India]].",
+    "tags": "Polity, Judiciary, Constitution"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "In which of the following situations does judicial activism operate?",
+    "statements": [
+      "When courts interpret laws creatively to protect fundamental rights",
+      "When courts enter domains left vacant by legislative inaction",
+      "When courts take over policy implementation"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Judicial activism allows courts to creatively interpret laws and fill legislative gaps to uphold rights. Entering policy implementation is judicial overreach, not activism. \n\nSee [[Judicial activism in India]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following constitutional articles relate directly to High Court independence?",
+    "statements": [
+      "Article 214",
+      "Article 226",
+      "Article 121"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Articles 214 and 226 relate to High Court establishment and writ jurisdiction. Article 121 concerns discussion on judges’ conduct in Parliament—primarily for superior judiciary broadly, not specifically High Courts. \n\nSee [[High Court (India)]].",
+    "tags": "Polity, Judiciary, Constitution"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which case is linked to the misuse of PILs and concerns about judicial overreach?",
+    "options": [
+      "Subhash Kumar v. State of Bihar",
+      "Vishaka v. State of Rajasthan",
+      "Maneka Gandhi v. Union of India",
+      "Shah Bano Case"
+    ],
+    "correct_option": "Subhash Kumar v. State of Bihar",
+    "explanation": "In Subhash Kumar (1991), the Supreme Court warned against PILs being misused for personal gain rather than public welfare. \n\nSee [[Public interest litigation]].",
+    "tags": "Polity, Governance, Judiciary"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following principles was reinforced in the Second Judges Case (1993)?",
+    "statements": [
+      "Judicial primacy in appointments",
+      "Creation of collegium system",
+      "Executive veto over appointments"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Second Judges Case established judicial primacy and created the Collegium system. It did NOT give executive veto power. \n\nSee [[Second Judges Case]].",
+    "tags": "Polity, Judiciary, Case Law"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "In which case did the Supreme Court issue guidelines due to legislative vacuum, representing judicial activism?",
+    "options": [
+      "Vishaka Case (1997)",
+      "Sabarimala Case (2018)",
+      "2G Spectrum Case (2012)",
+      "ADM Jabalpur Case (1976)"
+    ],
+    "correct_option": "Vishaka Case (1997)",
+    "explanation": "In Vishaka, the Court issued protective guidelines against workplace harassment due to absence of legislation, an example of justified judicial activism. \n\nSee [[Vishakha Guidelines]].",
+    "tags": "Polity, Judiciary, Women Issues"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Under which of the following circumstances can the Supreme Court punish for contempt?",
+    "statements": [
+      "When criticism interferes with justice",
+      "When public opinion is against judiciary",
+      "When fair criticism is expressed respectfully"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Contempt applies only when criticism obstructs justice. Fair, respectful criticism is allowed. Public opinion alone is not contempt. \n\nSee [[Contempt of court]].",
+    "tags": "Polity, Judiciary, Legal Concepts"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is an example of excessive judicial intervention in executive policy?",
+    "options": [
+      "SC restricting sale of firecrackers",
+      "SC creating Vishaka guidelines",
+      "SC upholding Right to Privacy",
+      "SC striking down Section 66A"
+    ],
+    "correct_option": "SC restricting sale of firecrackers",
+    "explanation": "The firecracker ban was considered by many as judicial overreach into environmental regulation and administrative policy. \n\nSee [[Judiciary of India]].",
+    "tags": "Polity, Environment, Judiciary"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which body investigates allegations against judges as per the Judges Inquiry Act, 1968?",
+    "statements": [
+      "A committee of Supreme Court and High Court judges",
+      "A committee that may include eminent persons",
+      "A committee appointed by the President alone"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Judges Inquiry Act allows committees comprising judges and sometimes eminent persons. It is not appointed solely by the President. \n\nSee [[Judges Inquiry Act 1968]].",
+    "tags": "Polity, Judiciary, Accountability"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Judicial restraint is preferred in which type of matters?",
+    "statements": [
+      "Policy-making decisions",
+      "Constitutional interpretation involving Fundamental Rights",
+      "Economic policy decisions"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Courts show restraint in policy and economic matters which require executive expertise. However, they must actively interpret the Constitution for rights protection. \n\nSee [[Separation of powers]].",
+    "tags": "Polity, Judiciary, Governance"
+  }
+]
