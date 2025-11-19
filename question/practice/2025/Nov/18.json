@@ -1,0 +1,597 @@
+[
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes the objective of India's Rural Connectivity Expansion Programme recently highlighted in the news?",
+    "statements": [
+      "It aims to upgrade existing rural roads to all-weather connectivity.",
+      "It includes use of plastic waste and green technology in rural road construction.",
+      "It is implemented entirely by state governments without central assistance."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India’s rural connectivity efforts focus on sustainable all-weather roads and integration of eco-friendly technologies like plastic-waste and cold-mix asphalt. Such programmes are centrally sponsored and not left entirely to states. For more, see [[Pradhan Mantri Gram Sadak Yojana]].",
+    "tags": "Infrastructure, Governance, Rural Development"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "India’s recent initiative on Climate-Smart Agriculture promotes which of the following?",
+    "statements": [
+      "Precision farming using satellite-based advisories",
+      "Promotion of climate-resilient crop varieties",
+      "Complete ban on chemical fertilizers"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Climate-Smart Agriculture emphasises precision farming and climate-resilient seed varieties. There is no proposal for a complete fertilizer ban. See [[Climate-smart agriculture]].",
+    "tags": "Agriculture, Environment, Climate Change"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The recently launched Space-based Maritime Surveillance System is primarily intended to strengthen which of the following?",
+    "statements": [
+      "Detection of illegal fishing activities",
+      "Monitoring of maritime borders",
+      "Tracking of commercial shipping in real time"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The system integrates satellite imagery for monitoring commercial ships, maritime border security and tracking illegal, unreported fishing. See [[Maritime patrol]] and [[Synthetic-aperture radar]].",
+    "tags": "Science and Technology, Security, Space Technology"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The newly updated National Artificial Intelligence Mission focuses on which of the following priority sectors?",
+    "statements": [
+      "Healthcare delivery",
+      "Agricultural productivity",
+      "Judicial process automation"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "AI initiatives in India increasingly target healthcare, agriculture, and justice-system digital reforms. These areas align with global responsible-AI applications. See [[Artificial intelligence]] and [[E-governance]].",
+    "tags": "Science and Technology, Governance, Digital India"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "India’s Renewable Energy Integration Plan aims to strengthen which of the following components?",
+    "statements": [
+      "Battery energy storage systems",
+      "Green hydrogen production hubs",
+      "Coal-based spinning reserves for grid stability"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Integration focuses on large-scale storage and hydrogen hubs. Coal-based spinning reserves are being gradually reduced. See [[Renewable energy in India]] and [[Green hydrogen]].",
+    "tags": "Energy, Environment, Economy"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The newly signed Digital Trade Facilitation Agreement aims to promote which of the following?",
+    "statements": [
+      "Harmonisation of digital customs processes",
+      "Paperless cross-border commercial documentation",
+      "Mandatory data localisation for all digital firms"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Digital trade agreements focus on interoperable customs systems and paperless trade, not blanket data localisation mandates. See [[Digital economy]] and [[Trade facilitation]].",
+    "tags": "Economy, International Relations, Trade"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The National River Rejuvenation Index introduced in 2025 evaluates rivers on which of the following criteria?",
+    "statements": [
+      "Water quality indicators",
+      "Riparian biodiversity restoration",
+      "Community-based water governance"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The index measures physical, ecological and participatory governance aspects. See [[River restoration]] and [[Water quality]].",
+    "tags": "Environment, Governance, Ecology"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "India’s updated National Cybersecurity Strategy emphasises which of the following reforms?",
+    "statements": [
+      "Creation of cyber-response teams at district level",
+      "Mandatory cyber-audit of critical infrastructure",
+      "Complete prohibition of foreign cybersecurity products"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The strategy focuses on decentralised response and audits; it does not prohibit all foreign cybersecurity tools. See [[Cybersecurity]] and [[Critical infrastructure protection]].",
+    "tags": "Internal Security, Governance, Technology"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The National Clean Mobility Programme aims to accelerate transitions in which of the following areas?",
+    "statements": [
+      "Electric public transport systems",
+      "Green shipping technologies",
+      "Biofuel blending targets for aviation"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Clean mobility expansion includes EV buses, green shipping corridors and bio-jet fuel development for aviation. See [[Electric vehicle]], [[Biofuel]], and [[Green shipping]].",
+    "tags": "Environment, Transport, Economy"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following objectives are included in India’s new National Skills Acceleration Mission?",
+    "statements": [
+      "Integration of AI-based personalised learning",
+      "Skill mapping for district-level employment planning",
+      "Complete centralisation of all skilling schemes under Union Government"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The mission targets AI learning systems and district-level skill mapping but does not centralise all programmes. See [[Skill India]] and [[Vocational education]].",
+    "tags": "Governance, Economy, Education"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The National Green Investment Platform recently launched by India focuses on which of the following priority sectors?",
+    "statements": [
+      "Sustainable urban transport",
+      "Large-scale afforestation initiatives",
+      "Low-carbon industrial production"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Green financing increasingly targets green mobility, industry decarbonisation and ecological restoration. Such platforms mobilise both public and private capital. See [[Green finance]] and [[Decarbonization]].",
+    "tags": "Environment, Economy, Climate Change"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "India’s newly issued guidelines on Responsible Genomics Research emphasise which of the following?",
+    "statements": [
+      "Mandatory ethical oversight in all genetic studies",
+      "Protection of privacy in genomic data storage",
+      "Permission for gene-editing trials without clinical approval"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Genomics guidelines aim at ethical oversight and privacy safeguards. Gene-editing trials require strict regulatory approval. See [[Human genome project]] and [[Bioethics]].",
+    "tags": "Science and Technology, Health, Ethics"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The Integrated Tribal Development Digital Portal launched in 2025 enables which of the following?",
+    "statements": [
+      "Real-time tracking of welfare scheme delivery",
+      "Geo-tagging of tribal livelihood assets",
+      "Automatic Aadhaar-based exclusion of non-tribals"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The portal improves transparency in tribal scheme delivery through geotagging and real-time monitoring, without automatic exclusion systems. See [[Scheduled Tribes]] and [[E-governance]].",
+    "tags": "Governance, Social Justice, Tribal Affairs"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "India’s new National Biosecurity Grid aims to improve response to which of the following threats?",
+    "statements": [
+      "Zoonotic disease outbreaks",
+      "Laboratory biosafety breaches",
+      "Nuclear radiation leaks"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Biosecurity Grid focuses on public health and biological risk management, not nuclear incidents. See [[Biosecurity]] and [[Zoonosis]].",
+    "tags": "Health, Internal Security, Science and Tech"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The National Blue Economy Mission recently announced includes which of the following components?",
+    "statements": [
+      "Deep-sea resource exploration",
+      "Sustainable coastal tourism",
+      "Marine spatial planning"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Blue Economy concept covers deep-sea mining, sustainable tourism and planning of marine ecosystems. See [[Blue economy]] and [[Marine spatial planning]].",
+    "tags": "Environment, Economy, Maritime"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The newly updated National Logistics Policy promotes which of the following?",
+    "statements": [
+      "Unified digital logistics interface for cargo movement",
+      "Development of multi-modal logistics parks",
+      "Immediate privatisation of all major ports"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Policy reforms aim at interoperability and multimodal integration, not blanket privatisation of ports. See [[Logistics]] and [[Multi-modal transport]].",
+    "tags": "Economy, Infrastructure, Governance"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "India’s Clean Air Urban Atlas uses which of the following technologies for air-quality monitoring?",
+    "statements": [
+      "Satellite-based aerosol measurements",
+      "AI-enabled pollution forecasting",
+      "Mandatory drone surveillance for industrial emission monitoring"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The atlas uses satellite data and AI modelling. Drone monitoring is optional, not mandatory. See [[Air pollution]] and [[Aerosol]].",
+    "tags": "Environment, Science and Technology, Urban Affairs"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The Digital India Health Vault introduced recently aims to integrate which of the following?",
+    "statements": [
+      "Personal electronic health records",
+      "Telemedicine platforms",
+      "Insurance claim processing systems"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Digital health frameworks integrate health records, teleconsultation, and insurance processes for seamless care. See [[Electronic health record]] and [[Telemedicine]].",
+    "tags": "Health, Governance, Digital India"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The National Drone Mapper Programme launched in 2025 supports which of the following applications?",
+    "statements": [
+      "Monitoring crop health",
+      "Urban land-use mapping",
+      "Border fencing automation"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The programme focuses on civil applications like crop monitoring and mapping. Border fencing automation is not part of it. See [[Drone]] and [[Geospatial analysis]].",
+    "tags": "Science and Tech, Agriculture, Urban Planning"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "India’s updated Disaster Risk Index includes which of the following parameters?",
+    "statements": [
+      "Climate vulnerability factors",
+      "Critical infrastructure exposure",
+      "GDP-based ranking of states"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The index measures environmental risks and infrastructure vulnerability, not GDP rankings. See [[Disaster risk reduction]] and [[Climate change adaptation]].",
+    "tags": "Disaster Management, Governance, Environment"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the India–Africa Forum Summit (IAFS), consider the following statements:",
+    "statements": [
+      "IAFS-III held in 2015 saw participation from all 54 African countries.",
+      "Since IAFS-III, India has opened 17 new embassies across Africa.",
+      "India played a key role in securing African Union’s membership in the G-20."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three statements are correct as per the India–Africa relations section. IAFS-III had full African participation, India expanded its diplomatic missions, and supported AU’s entry into the G-20. See [[India–Africa Forum Summit]].",
+    "tags": "International Relations, Diplomacy"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following sectors were highlighted as future opportunities for India–Africa cooperation?",
+    "statements": [
+      "Green Hydrogen",
+      "Electric Mobility",
+      "Digital Public Infrastructure"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The notes clearly mention all three: green hydrogen potential, rising EV demand in Africa, and need for digital public infrastructure based on India Stack/UPI. See [[Green hydrogen]] and [[Electric vehicle]].",
+    "tags": "International Relations, Economy, Technology"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "AIKEYME 2025, mentioned in the context of India–Africa relations, is associated with which of the following?",
+    "statements": [
+      "Joint maritime exercises with African navies",
+      "Strengthening Indian Ocean security cooperation",
+      "Deployment of India’s nuclear submarines in African waters"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "AIKEYME is a joint naval engagement with 9 African nations for maritime security cooperation; it does not involve nuclear submarine deployment. See [[Indian Ocean]] and [[Naval exercise]].",
+    "tags": "Security, International Relations, Maritime"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following regarding challenges in India–Africa relations:",
+    "statements": [
+      "Africa’s bargaining power is rising due to the African Continental Free Trade Area (AfCFTA).",
+      "India lags behind China in terms of trade volume with Africa.",
+      "Indian firms face limitations due to small balance sheets and risk-aversion."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The PDF clearly lists all three: AfCFTA increases Africa’s bargaining strength, India–Africa trade is lower than China–Africa trade, and Indian companies struggle with scale and delays. See [[AfCFTA]].",
+    "tags": "International Relations, Economy"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of lower judiciary reforms in India, which of the following issues contribute to pendency?",
+    "statements": [
+      "Judges spending mornings on clerical tasks like issuing summons",
+      "Inexperienced judges entering service without courtroom exposure",
+      "Mandatory pre-suit mediation under the Commercial Courts Act"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three are listed in the notes: administrative burden, lack of experience, and mandatory mediation increasing pendency. See [[Indian Judiciary]] and [[Commercial Courts Act]].",
+    "tags": "Polity, Judiciary, Governance"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The proposed ‘Administrative Court’ system in district courts aims to achieve which of the following?",
+    "statements": [
+      "Freeing main judges from clerical and procedural tasks",
+      "Improving daily case disposal through structured scheduling",
+      "Centralising all judicial functions under High Courts"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The administrative court model separates clerical work from judicial work, improving disposal. It does not centralise courts under High Courts. See [[District Court]] and [[Judicial reform]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements about the Senkaku Islands are correct?",
+    "statements": [
+      "The islands are administered by Japan but claimed by China and Taiwan.",
+      "They lie close to major shipping lanes and may contain oil and gas reserves.",
+      "The United States recognises Chinese sovereignty but Japanese administrative control."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The U.S. recognises Japan’s administrative control but does not recognise Chinese sovereignty. Statements 1 and 2 match the PDF. See [[Senkaku Islands]].",
+    "tags": "Geopolitics, International Relations"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "In the evolution of India’s anti-rape laws, which reform introduced gender-neutral sexual offences?",
+    "options": [
+      "Criminal Law Amendment Act, 1983",
+      "Vishaka Guidelines, 1997",
+      "Criminal Law Amendment Act, 2013",
+      "Bharatiya Nyaya Sanhita (BNS), 2023"
+    ],
+    "correct_option": "Bharatiya Nyaya Sanhita (BNS), 2023",
+    "explanation": "The PDF states that BNS 2023 made sexual offences gender-neutral and added new offences such as sex by deceit. See [[Bharatiya Nyaya Sanhita]].",
+    "tags": "Polity, Law, Social Justice"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "The Criminal Law Amendment Act, 2013 introduced which of the following reforms?",
+    "statements": [
+      "Expanded definition of rape beyond penetration",
+      "Mandatory registration of FIR by police",
+      "Creation of special fast-track courts exclusively for sexual offences"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The 2013 Act expanded the definition of rape and mandated FIR registration; fast-track courts were created administratively, not by the Act. See [[Criminal Law (Amendment) Act, 2013]].",
+    "tags": "Polity, Law, Women Safety"
+  },
+  {
+    "date": "18",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the 1983 Criminal Law Amendment Act?",
+    "statements": [
+      "It introduced the concept of custodial rape as a separate offence.",
+      "It shifted the burden of proof in cases of custodial rape.",
+      "It raised the age of consent to 18 years."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The 1983 Act created custodial rape provisions and shifted burden of proof, but the age of consent was raised in 2013, not 1983. See [[Custodial violence]].",
+    "tags": "Polity, Law"
+  }
+]

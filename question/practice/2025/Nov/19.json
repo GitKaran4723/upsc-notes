@@ -1,0 +1,540 @@
+[
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the National Food Security Act (NFSA), 2013, consider the following statements:",
+    "statements": [
+      "It provides legal entitlement to subsidised foodgrains for nearly two-thirds of India’s population.",
+      "Antyodaya Anna Yojana (AAY) households receive 5 kg of foodgrain per person per month.",
+      "After 2023, all grains under NFSA are provided free of cost under PMGKAY."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "AAY households receive 35 kg per family per month, not 5 kg/person. NFSA covers 81 crore people (~two-thirds of the population). Since 2023, PMGKAY has been merged with NFSA, making grains free. NFSA is a rights-based law ensuring legal entitlement to food security. See [[National Food Security Act]].",
+    "tags": "Polity, Governance, Welfare Schemes"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Why did the government remove 2.25 crore beneficiaries from the NFSA list?",
+    "statements": [
+      "To eliminate unintended beneficiaries using Aadhaar-linked datasets.",
+      "To reduce the coverage of NFSA below two-thirds of India’s population.",
+      "To ensure that only economically vulnerable households receive free grain."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "The removal targeted ineligible beneficiaries such as four-wheeler owners, company directors, or high-income households. The objective was better targeting, not reducing overall NFSA coverage. Data-based verification helped eliminate leakages. See [[Public Distribution System]].",
+    "tags": "Governance, Welfare Schemes, Economy"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "The ASHA platform recently seen in news is related to:",
+    "options": [
+      "AI-driven beneficiary feedback system for PDS",
+      "Unified digital procurement platform for agricultural crops",
+      "AI-based crop disease prediction model",
+      "Digital financial inclusion platform for rural savings groups"
+    ],
+    "correct_option": "AI-driven beneficiary feedback system for PDS",
+    "explanation": "ASHA (Anna Sahayata Holistic AI Solution) is an AI-enabled system that calls beneficiaries to verify ration quality and quantity. It uses sentiment analysis and multilingual translation and covers 20 lakh people every month. It enhances transparency in PDS delivery. See [[Public Distribution System]].",
+    "tags": "Science & Tech, Governance, Welfare Schemes"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following provisions under NFSA:",
+    "statements": [
+      "The eldest woman of the household must be declared the head of the ration card.",
+      "All children aged 6–14 years are entitled to one free cooked meal under PM-POSHAN.",
+      "Pregnant women are entitled to at least ₹6,000 in maternity benefits under NFSA."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "NFSA contains gender empowerment, child nutrition, and maternity assistance clauses. Anganwadi and PM-POSHAN ensure meals for children. Pregnant and lactating women receive nutritious meals and at least ₹6,000. See [[Midday Meal Scheme]], [[Integrated Child Development Services]].",
+    "tags": "Social Justice, Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following challenges were highlighted regarding the removal of NFSA beneficiaries?",
+    "statements": [
+      "Possibility of wrongful deletions due to documentation gaps.",
+      "Data mismatches in income and vehicle ownership records.",
+      "Variation among states in verification capacity."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The notes highlight risks such as wrongful exclusion, inaccurate datasets, and unequal state administrative capacity. Welfare schemes often face challenges in identifying genuine beneficiaries. See [[Public Distribution System]].",
+    "tags": "Governance, Welfare Schemes"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "BHANDARAN 360, recently launched by CWC, is:",
+    "options": [
+      "A blockchain-based food procurement monitoring system",
+      "An ERP system integrating warehousing, HR, finance, and logistics",
+      "An AI platform for tracking leakage in PDS",
+      "A GIS-based mapping system for warehouse locations"
+    ],
+    "correct_option": "An ERP system integrating warehousing, HR, finance, and logistics",
+    "explanation": "BHANDARAN 360 integrates 41 modules covering HR, finance, warehousing, marketing, and logistics. It modernizes CWC operations and enables real-time monitoring. See [[Warehouse Management System]].",
+    "tags": "Economy, Infrastructure, Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Under the new ANNA DARPAN digital platform, which of the following activities are unified?",
+    "statements": [
+      "Procurement and movement of foodgrains",
+      "Quality checks and labour management",
+      "Sales and contract monitoring"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "ANNA DARPAN is a microservices-based platform integrating procurement, storage, movement, quality checks, labor, and contract management, creating a 'single source of truth' for FCI and DFPD. See [[Food Corporation of India]].",
+    "tags": "Governance, Technology, Food Security"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "According to the notes, which of the following best explains India’s ‘cereal imbalance’?",
+    "options": [
+      "India procures more rice/wheat than national requirement while underproducing pulses and oilseeds.",
+      "India imports both cereals and pulses despite surplus agricultural production.",
+      "India’s cereal production is declining due to climate change.",
+      "India’s demand for wheat is falling while rice demand is rising sharply."
+    ],
+    "correct_option": "India procures more rice/wheat than national requirement while underproducing pulses and oilseeds.",
+    "explanation": "India procures 525–547 lakh tonnes of rice yearly but needs far less, while simultaneously importing pulses (₹30,000 crore) and 55% of edible oil demand. This structural distortion is caused by MSP-based incentives. See [[Minimum Support Price]].",
+    "tags": "Agriculture, Economy, Food Security"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reasons explain the growing fiscal burden on India’s food subsidy system?",
+    "statements": [
+      "Excess procurement of cereals beyond national requirements",
+      "High storage and transport costs borne by FCI",
+      "Increasing imports of edible oils and pulses"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The fiscal burden mainly arises from heavy cereal procurement, storage, transport, and distribution costs. Import bills affect trade balance, not food subsidy directly. FCI’s surplus stock increases financial pressure. See [[Food Corporation of India]].",
+    "tags": "Economy, Agriculture, Food Security"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reforms were suggested to fix India’s cereal procurement system?",
+    "statements": [
+      "Incentivising crop diversification through market intelligence and financial support",
+      "Strengthening FPOs and cooperatives for better market linkages",
+      "Shifting procurement towards pulses and oilseeds"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The article emphasises a shift away from rice–wheat dominance. Solutions include diversification, strengthening FPOs, and rebalancing procurement to pulses/oilseeds. See [[Crop Diversification]].",
+    "tags": "Agriculture, Economy, Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the World Happiness Report, consider the following variables used for ranking countries:",
+    "statements": [
+      "GDP per capita",
+      "Freedom to make life choices",
+      "Perception of corruption",
+      "Access to digital services"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "The World Happiness Report uses six key variables such as GDP per capita, life expectancy, social support, freedom to choose, generosity, and corruption perception. Digital access is not included. India ranks 118 due to low social trust and governance perceptions. See [[World Happiness Report]].",
+    "tags": "International Reports, Social Issues"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "According to the notes, India’s happiness rank is affected mainly because:",
+    "options": [
+      "Indians have low economic growth compared to developed countries.",
+      "India has low expectations from the government.",
+      "High aspirations and self-criticism reduce reported happiness scores.",
+      "India has very low GDP per capita compared to Pakistan."
+    ],
+    "correct_option": "High aspirations and self-criticism reduce reported happiness scores.",
+    "explanation": "The report highlights that democracies with self-critical citizens score lower because expectations are high. India's low rank does not reflect actual unhappiness but rising aspirations and governance frustrations. See [[Subjective well-being]].",
+    "tags": "Social Issues, Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "The WEIRD bias mentioned in the notes refers to countries that are:",
+    "options": [
+      "Western, Educated, Industrialised, Rich, Democratic",
+      "Western, Emerging, Inclusive, Rural, Developing",
+      "Working-class, Egalitarian, Integrated, Rational, Decentralised",
+      "World-Economy Integrated, Resource-Driven"
+    ],
+    "correct_option": "Western, Educated, Industrialised, Rich, Democratic",
+    "explanation": "The notes point out that many global indices carry a WEIRD bias representing Western worldviews, which undervalue community-based trust systems of countries like India. This affects rankings such as happiness or governance indices. See [[WEIRD societies]].",
+    "tags": "International Indices, Social Issues"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements highlight why Nordic countries consistently rank high in happiness?",
+    "statements": [
+      "High social trust and community kindness",
+      "Strong welfare and health systems",
+      "High levels of corruption",
+      "Low income inequality"
+    ],
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3 only"
+    ],
+    "correct_option": "1, 2 and 4 only",
+    "explanation": "Nordic nations rank high due to high social trust, equality, strong welfare systems, and low corruption. Corruption is minimal, not high. Community kindness is a major contributor. See [[Nordic model]].",
+    "tags": "Social Issues, International Reports"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best explains India’s dual reality of trust?",
+    "options": [
+      "High trust in institutions but low trust in family networks",
+      "Low trust in institutions but strong trust within families and communities",
+      "Equal trust in both institutions and families",
+      "Trust levels in India match Western countries"
+    ],
+    "correct_option": "Low trust in institutions but strong trust within families and communities",
+    "explanation": "The notes clearly mention that while public institutional trust is uneven, family and community trust remain strong, which global indices fail to capture. See [[Social capital]].",
+    "tags": "Governance, Society"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "The 16th Finance Commission is constitutionally mandated to make recommendations regarding finances of local bodies under which Article?",
+    "options": [
+      "Article 275",
+      "Article 282",
+      "Article 280(3)(bb) and (c)",
+      "Article 243I"
+    ],
+    "correct_option": "Article 280(3)(bb) and (c)",
+    "explanation": "The notes specify that Article 280 instructs FCs to recommend measures to augment resources of Panchayats and Municipalities. This is part of strengthening the third tier of government. See [[Finance Commission of India]].",
+    "tags": "Polity, Federalism"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following is NOT a reason for weak finances of local bodies?",
+    "options": [
+      "Low tax-raising powers of Panchayats and Municipalities",
+      "Implementation failure of State Finance Commission (SFC) recommendations",
+      "Central Government’s refusal to devolve taxes to the states",
+      "Mismatch between responsibilities and revenue powers"
+    ],
+    "correct_option": "Central Government’s refusal to devolve taxes to the states",
+    "explanation": "The notes highlight weak own revenues, ignored SFC recommendations, and huge expenditure responsibilities as causes. Central devolution is a separate matter not linked to local body fiscal weakness. See [[Local Self-Government in India]].",
+    "tags": "Polity, Local Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "What major reform did the 13th Finance Commission introduce regarding local body grants?",
+    "options": [
+      "Linked grants to population growth rate",
+      "Declared a fixed percentage of the Union divisible tax pool for local bodies",
+      "Made all grants performance-based",
+      "Shifted grants entirely to State Finance Commissions"
+    ],
+    "correct_option": "Declared a fixed percentage of the Union divisible tax pool for local bodies",
+    "explanation": "The 13th FC moved away from ad-hoc grants and anchored local funding to a share of the divisible pool, increasing predictability. Later commissions reversed this. See [[Divisible Pool]].",
+    "tags": "Economy, Polity, Local Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following were identified as issues with performance-based grants for local bodies?",
+    "statements": [
+      "Frequent changes in eligibility conditions",
+      "Very tough compliance norms for states",
+      "Lack of continuity across Finance Commissions",
+      "Mandatory use of biometric attendance"
+    ],
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option": "1, 2 and 3 only",
+    "explanation": "Notes mention that 13th, 14th and 15th FCs kept changing conditions, and many states failed compliance, leading to poor continuity. Biometric attendance is not mentioned. See [[Finance Commission of India]].",
+    "tags": "Governance, Federalism"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following expectations from the 16th Finance Commission were highlighted?",
+    "statements": [
+      "Stable formula-based funding for local bodies",
+      "Clear functional and fiscal assignment for Panchayats and Municipalities",
+      "Reduction of local body dependence on Union transfers"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Experts expect the 16th FC to provide predictable funding, clarify functional responsibilities, and reduce dependence by enabling strong own-source revenues. See [[Decentralisation]].",
+    "tags": "Polity, Governance, Federalism"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Under the Modified UDAN scheme, which of the following components account for the proposed ₹30,000 crore outlay?",
+    "statements": [
+      "Development of new airports",
+      "Viability Gap Funding (VGF) for airlines",
+      "Support for maintenance of large aircraft"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The modified UDAN allocates ₹18,000 crore for development of new airports and ₹12,000 crore for VGF. Maintenance support for large aircraft is not mentioned. The scheme focuses on regional connectivity and operational viability. See [[UDAN]].",
+    "tags": "Infrastructure, Economy, Transport Policy"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following are features of the Modified UDAN scheme?",
+    "statements": [
+      "Connecting 120 additional destinations",
+      "Support for water aerodromes and helipads",
+      "Encouraging airlines to propose routes under a market-driven system"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The scheme expands connectivity to 120 new destinations and includes support for water aerodromes, helipads, and smaller regional airports. Airlines propose routes in a market-driven model. See [[UDAN]].",
+    "tags": "Infrastructure, Economy, Transport"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following challenges affect the current UDAN scheme?",
+    "statements": [
+      "Shortage of small aircraft",
+      "Land acquisition delays",
+      "Lack of VGF support from states"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The notes mention shortage of turboprop aircraft, land delays, technical constraints, and airline financial stress. VGF is shared by Centre and states, but lack of state support is not identified as a major issue. See [[Regional Connectivity]].",
+    "tags": "Infrastructure, Governance, Economy"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "In QS Sustainability Rankings 2026, India achieved which of the following?",
+    "statements": [
+      "Ranked 4th globally in terms of number of universities featured",
+      "Placed IIT Delhi in the top 100 overall global sustainability rankings",
+      "Featured 12 universities in the top 500"
+    ],
+    "options": [
+      "1 and 3 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "India is 4th globally with 103 universities. 12 universities made the top 500. IIT Delhi’s overall rank was 205—not top 100. However, IIT Delhi and Kharagpur did enter top 100 in specific indicators like employability. See [[QS World University Rankings]].",
+    "tags": "Education, International Rankings"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which indicators contributed to IIT Delhi and IIT Kharagpur entering the top 100 in QS Sustainability Rankings 2026?",
+    "options": [
+      "Environmental research output",
+      "Employability and outcomes",
+      "Knowledge exchange partnerships",
+      "Overall governance transparency"
+    ],
+    "correct_option": "Employability and outcomes",
+    "explanation": "The notes specify that IIT Delhi ranked 93rd and IIT Kharagpur 96th under the employability indicator. Delhi University also ranked high in knowledge exchange, but IITs' ranking success is tied to employability. See [[QS University Indicators]].",
+    "tags": "Education, Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are reasons for the mixed performance of Indian universities in the QS Sustainability Rankings?",
+    "statements": [
+      "Large number of universities included globally increased competition",
+      "Weak governance and social equality indicators",
+      "Decline in research output across all Indian universities"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The notes mention tougher competition due to 2,000 universities being ranked and weaknesses in governance and equality. It does not state that all Indian universities suffered a research decline. See [[Higher Education in India]].",
+    "tags": "Education,International Rankings"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "What key policy insight is derived from India’s overproduction of rice and wheat but continued import of pulses and edible oils?",
+    "options": [
+      "Market prices naturally adjust and correct overproduction",
+      "MSP-based procurement distorts cropping patterns",
+      "Cereals require lower water and are environmentally sustainable",
+      "India lacks the technology to improve pulses productivity"
+    ],
+    "correct_option": "MSP-based procurement distorts cropping patterns",
+    "explanation": "Assured procurement for rice/wheat leads farmers to choose them over pulses and oilseeds, despite national deficits in these crops. This creates structural imbalances in cropping patterns. See [[Minimum Support Price]].",
+    "tags": "Agriculture, Economy, Food Security"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which factor is responsible for India’s heavy dependence on edible oil imports?",
+    "options": [
+      "Land under oilseeds has increased consistently since 2014",
+      "Cheap imports in the 1990s undermined domestic oilseed farmers",
+      "High domestic procurement of oilseeds limits private sector processing",
+      "Oilseed crops have very high MSP compared to cereals"
+    ],
+    "correct_option": "Cheap imports in the 1990s undermined domestic oilseed farmers",
+    "explanation": "The notes clearly mention that liberalized imports made domestic oilseed farming uncompetitive, leading to stagnation in production and acreage. India now imports 55% of edible oil demand. See [[Oilseed production in India]].",
+    "tags": "Agriculture, Economy, Trade"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which measures were suggested to strengthen FPOs and cooperatives for agricultural reform?",
+    "statements": [
+      "Providing local-level market intelligence",
+      "Supporting procurement and aggregation functions",
+      "Facilitating crop rotation awareness among farmers"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Notes highlight the role of FPOs in strengthening marketing, aggregation, farmer education, diversification, and procurement. They serve as institutional buffers for small farmers. See [[Farmer Producer Organisation]].",
+    "tags": "Agriculture, Economy, Rural Development"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which digital reform directly contributes to reducing corruption and diversion in PDS?",
+    "options": [
+      "ASHA AI Feedback Platform",
+      "BHANDARAN 360 ERP System",
+      "ANNA DARPAN Microservices Platform",
+      "Smart EXIM Warehouse System"
+    ],
+    "correct_option": "ASHA AI Feedback Platform",
+    "explanation": "ASHA uses AI-driven multilingual calls and sentiment analysis to verify ration delivery. It directly targets leakages at Fair Price Shops through real-time citizen feedback. Other systems focus on warehousing and logistics. See [[Public Distribution System]].",
+    "tags": "Governance, Digital India, Welfare"
+  }
+]
