@@ -1,0 +1,537 @@
+[
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Public Interest Litigation (PIL) in India is mainly based on which constitutional provisions?",
+    "statements": [
+      "Article 32 deals with the right to move the Supreme Court for enforcement of Fundamental Rights",
+      "Article 226 empowers High Courts to issue writs",
+      "PIL was created through a constitutional amendment"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "PIL developed through Supreme Court judgments, not through any constitutional amendment. It rests mainly on Article 32 and Article 226 enabling writ jurisdiction. For background, see [[Article 32]] and [[Article 226]].",
+    "tags": "Judiciary, Polity, GS-II"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following statements about the evolution of Public Interest Litigation (PIL) in India:",
+    "statements": [
+      "It was formally recognised in the S.P. Gupta case",
+      "Early PILs focused primarily on prisoners, bonded labourers and undertrials",
+      "PILs began only after the 1990s reforms"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "PIL emerged in late 1970s and 1980s through cases such as Hussainara Khatoon and S.P. Gupta. It did not start after 1990s. Refer to [[Hussainara Khatoon v. State of Bihar]] and [[S.P. Gupta v. Union of India]].",
+    "tags": "Judiciary, Social Justice"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT an area where Public Interest Litigation is usually entertained?",
+    "options": [
+      "Environmental protection",
+      "Service matters of government employees",
+      "Rights of prisoners",
+      "Protection against corruption"
+    ],
+    "correct_option": "Service matters of government employees",
+    "explanation": "PIL is not permitted in personal service disputes. Courts accept PILs mainly in matters related to environment, human rights, governance failures. See [[Public Interest Litigation in India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following features are associated with PIL in India?",
+    "statements": [
+      "Relaxed locus standi",
+      "Letter petitions are accepted by courts",
+      "Courts may appoint expert committees for fact-finding"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three are core features of PIL and part of judge-made procedures developed since the 1980s. The Supreme Court often uses continuing mandamus and fact-finding teams. Refer to [[Judiciary of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "The National Judicial Appointments Commission (NJAC) sought to replace the Collegium system. Which of the following were members of the NJAC?",
+    "statements": [
+      "Chief Justice of India",
+      "Union Law Minister",
+      "Two eminent persons selected by a three-member committee"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three were part of the NJAC composition under the 99th Constitutional Amendment. See [[National Judicial Appointments Commission]].",
+    "tags": "Polity, Constitution, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Why was the National Judicial Appointments Commission (NJAC) struck down by the Supreme Court?",
+    "options": [
+      "It violated the basic structure doctrine",
+      "It reduced Parliament’s powers of oversight",
+      "It granted excessive powers to the CAG",
+      "It conflicted with Article 368 procedure"
+    ],
+    "correct_option": "It violated the basic structure doctrine",
+    "explanation": "The Court held that judicial independence is part of the basic structure, and executive/civil influence in appointments would compromise it. See [[Basic structure doctrine]].",
+    "tags": "Judiciary, Constitution"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reforms are part of India’s ongoing judicial reforms?",
+    "statements": [
+      "E-courts project for digital case management",
+      "Increasing judge strength across courts",
+      "Gram Nyayalayas for improving rural access to justice"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three are officially recognised reform measures. E-courts, judicial manpower expansion and Gram Nyayalayas are part of institutional reforms. See [[E-Courts Project]].",
+    "tags": "Governance, Judiciary, GS-II"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which case is associated with the judicial creation of the Collegium system?",
+    "options": [
+      "Kesavananda Bharati case",
+      "Second Judges Case",
+      "Minerva Mills case",
+      "Golaknath case"
+    ],
+    "correct_option": "Second Judges Case",
+    "explanation": "The Collegium system came from the Second Judges Case (1993) and was refined in the Third Judges Case (1998). Refer to [[Supreme Court of India]].",
+    "tags": "Judiciary, Constitution"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the Memorandum of Procedure (MoP) in judicial appointments?",
+    "statements": [
+      "It lays down the process for appointing judges to the higher judiciary",
+      "It is prepared by the Government but finalised in consultation with the Supreme Court",
+      "It is explicitly mentioned in the Constitution"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "MoP is an executive document, not mentioned in the Constitution. It guides the appointments process after the NJAC verdict. See [[Collegium system in India]].",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best explains the purpose of PIL in India?",
+    "options": [
+      "To allow courts to review legislative bills before passing",
+      "To provide access to justice for those unable to approach courts",
+      "To reduce the number of civil cases",
+      "To grant advisory opinions to NGOs"
+    ],
+    "correct_option": "To provide access to justice for those unable to approach courts",
+    "explanation": "The core objective of PIL is social justice—ensuring the poor, vulnerable and marginalised can seek remedies through courts. See [[Public Interest Litigation in India]].",
+    "tags": "Polity, Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which case is associated with recognition of the right to legal aid under PIL?",
+    "statements": [
+      "Hussainara Khatoon case",
+      "Olga Tellis case",
+      "Vishaka case"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "The Hussainara Khatoon case expanded the right to legal aid and speedy trial using PIL. It was a major step towards Article 21 jurisprudence. See [[Hussainara Khatoon v. State of Bihar]].",
+    "tags": "Judiciary, Polity"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "In India, PIL can be initiated by which of the following?",
+    "statements": [
+      "An aggrieved person only",
+      "A public-spirited citizen",
+      "The court on its own motion"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "Courts accept PIL filed by public-spirited individuals and also through suo motu actions. Only affected persons are NOT the sole category. Refer to [[Public Interest Litigation in India]].",
+    "tags": "Judiciary, Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following measures help reduce pendency in Indian courts?",
+    "statements": [
+      "Fast-track courts",
+      "Case management systems",
+      "Alternative dispute resolution mechanisms"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three are key reforms promoted by the judiciary and government to reduce delays. See [[Fast-track court]] and [[Alternative dispute resolution in India]].",
+    "tags": "Governance, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which provision empowers the Supreme Court to issue writs for enforcement of Fundamental Rights?",
+    "options": [
+      "Article 32",
+      "Article 136",
+      "Article 227",
+      "Article 300A"
+    ],
+    "correct_option": "Article 32",
+    "explanation": "Article 32 is known as the heart and soul of the Constitution and forms the basis of PIL in the Supreme Court. See [[Article 32]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following criticisms are often made about the Collegium system?",
+    "statements": [
+      "Lack of transparency",
+      "Possibility of nepotism",
+      "Excessive control of the executive in appointments"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Collegium is criticised for secrecy and possible favouritism, but not for excessive executive control. See [[Collegium system in India]].",
+    "tags": "Judiciary, Constitution"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which judge gave the famous dissenting opinion in the NJAC judgment?",
+    "options": [
+      "Justice Chelameswar",
+      "Justice J.S. Verma",
+      "Justice Bhagwati",
+      "Justice R.F. Nariman"
+    ],
+    "correct_option": "Justice Chelameswar",
+    "explanation": "Justice J. Chelameswar dissented and highlighted opacity in the collegium system. Refer to [[Supreme Court Advocates-on-Record Association v. Union of India]].",
+    "tags": "Judiciary, Constitution"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are considered advantages of PIL in India?",
+    "statements": [
+      "It promotes citizen participation in governance",
+      "It compels the government to perform its duties",
+      "It allows courts to hear private property disputes"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "PIL strengthens accountability and democratic participation, but private property disputes cannot be brought under PIL. See [[Public Interest Litigation in India]].",
+    "tags": "Governance, Polity"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which reform is linked to improving access to justice for rural and poor citizens?",
+    "options": [
+      "Gram Nyayalayas",
+      "Judicial review",
+      "Tribunals under Article 323",
+      "Special Leave Petitions"
+    ],
+    "correct_option": "Gram Nyayalayas",
+    "explanation": "The Gram Nyayalayas Act aims at quick, affordable justice at the village level. Refer to [[Gram Nyayalayas Act, 2008]].",
+    "tags": "Governance, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly identifies a type of PIL?",
+    "statements": [
+      "Epistolary jurisdiction",
+      "Court-initiated suo motu PIL",
+      "Service matters PIL"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Epistolary jurisdiction allows letter petitions; service matters are excluded from PIL jurisdiction. See [[Public Interest Litigation in India]].",
+    "tags": "Judiciary, GS-II"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which administrative reform aims at transparency in judicial appointments after the NJAC verdict?",
+    "options": [
+      "Revised Memorandum of Procedure (MoP)",
+      "Judicial Performance Commission",
+      "National Tribunals Act",
+      "Judicial Impact Assessment"
+    ],
+    "correct_option": "Revised Memorandum of Procedure (MoP)",
+    "explanation": "After NJAC was struck down, the Supreme Court asked the Government to draft a new MoP to improve transparency in the collegium system. See [[Collegium system in India]].",
+    "tags": "Judiciary, Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best describes the concept of 'continuing mandamus' used in PIL?",
+    "statements": [
+      "It allows courts to keep a case open for monitoring",
+      "It empowers courts to supervise implementation of directions",
+      "It is a special writ issued only to the President"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Continuing mandamus is used in PILs to ensure continuous judicial monitoring of government compliance. See [[Mandamus]].",
+    "tags": "Judiciary, Governance"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following committees or bodies are linked to judicial reforms in India?",
+    "statements": [
+      "Law Commission of India",
+      "National Court Management Systems",
+      "National Crime Records Bureau"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Judicial reforms are led by bodies like the Law Commission and NCMS; NCRB deals with crime statistics. See [[Law Commission of India]].",
+    "tags": "Governance, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are considered causes of pendency in Indian courts?",
+    "statements": [
+      "Shortage of judges",
+      "Frequent adjournments",
+      "Poor court infrastructure"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three factors contribute to pendency across courts. See [[Judiciary of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which landmark case expanded Article 21 to include the right to livelihood?",
+    "options": [
+      "Olga Tellis case",
+      "Maneka Gandhi case",
+      "Vishaka case",
+      "ADM Jabalpur case"
+    ],
+    "correct_option": "Olga Tellis case",
+    "explanation": "The Supreme Court held that the right to livelihood is part of Article 21. See [[Olga Tellis v. Bombay Municipal Corporation]].",
+    "tags": "Judiciary, Fundamental Rights"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are grounds on which the Supreme Court struck down the NJAC?",
+    "statements": [
+      "Threat to judicial independence",
+      "Possibility of political influence through eminent persons",
+      "Violation of federalism"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The Court held that executive and outsider presence may lead to political pressure, violating independence. Federalism was not a ground. See [[National Judicial Appointments Commission]].",
+    "tags": "Judiciary, Constitution"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are examples of social justice PILs?",
+    "statements": [
+      "Bonded labour cases",
+      "Undertrial prisoners’ cases",
+      "Disputes regarding private property"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Early PILs focused on bonded labourers and prisoners; property disputes are excluded. See [[Public Interest Litigation in India]].",
+    "tags": "Social Justice, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly identifies the type of jurisdiction used by courts in PIL?",
+    "options": [
+      "Writ jurisdiction",
+      "Advisory jurisdiction",
+      "Appellate jurisdiction",
+      "Original civil jurisdiction"
+    ],
+    "correct_option": "Writ jurisdiction",
+    "explanation": "PIL mainly uses writ jurisdiction under Articles 32 and 226. See [[Writ]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reforms is aimed at reducing judge–vacancy gaps?",
+    "options": [
+      "All India Judicial Service",
+      "Finance Commission grants",
+      "Judicial Impact Assessment",
+      "Prevention of Corruption Act"
+    ],
+    "correct_option": "All India Judicial Service",
+    "explanation": "AIJS is proposed to create a uniform recruitment system for subordinate judges. See [[All India Judicial Service]].",
+    "tags": "Governance, Judiciary"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "In which case did the Supreme Court introduce the 'basic structure' doctrine, later used to strike down the NJAC?",
+    "options": [
+      "Kesavananda Bharati case",
+      "Minerva Mills case",
+      "Golaknath case",
+      "Shah Bano case"
+    ],
+    "correct_option": "Kesavananda Bharati case",
+    "explanation": "The basic structure doctrine originated in this 1973 judgment. See [[Kesavananda Bharati v. State of Kerala]].",
+    "tags": "Judiciary, Constitution"
+  },
+  {
+    "date": "19",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following best represents a misuse of PIL?",
+    "options": [
+      "Filing PIL for publicity",
+      "Filing PIL for environmental protection",
+      "Filing PIL for prisoner rights",
+      "Court-initiated suo motu action during a disaster"
+    ],
+    "correct_option": "Filing PIL for publicity",
+    "explanation": "Frivolous or publicity-motivated PILs burden courts and divert attention from genuine causes. See [[Public Interest Litigation in India]].",
+    "tags": "Judiciary, Ethics"
+  }
+]
