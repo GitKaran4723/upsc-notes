@@ -1,0 +1,594 @@
+[
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to ISRO’s CE-20 cryogenic engine, consider the following statements:",
+    "statements": [
+      "It uses Liquid Hydrogen as fuel and Liquid Oxygen as oxidiser.",
+      "It powers the upper stage of the LVM3 launch vehicle.",
+      "It was capable of only one-time ignition before the recent bootstrap mode test."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The CE-20 is India’s cryogenic engine used in the C25 upper stage of LVM3. It uses Liquid Hydrogen (fuel) and Liquid Oxygen (oxidiser). Before the bootstrap test, it could ignite only once in flight. The bootstrap mode enables multiple restarts. For more, see [[Cryogenic engine]] and [[LVM3]].",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "The ‘Bootstrap Mode Start’ tested on the CE-20 engine refers to:",
+    "statements": [],
+    "options": [
+      "Starting the engine using external stored gas",
+      "Self-starting of the engine without external stored gas",
+      "Starting the engine by pre-heating the turbo pump chamber",
+      "Increasing thrust by bypassing cryogenic lines"
+    ],
+    "correct_option": "Self-starting of the engine without external stored gas",
+    "explanation": "Bootstrap mode allows the engine to start without stored gas bottles. Initial propellant flow itself powers the turbo pumps. This reduces weight and enables multiple restarts. See [[Rocket engine]] and [[Cryogenic engine]].",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Why does ISRO require multiple restarts of the CE-20 cryogenic engine during future missions?",
+    "statements": [
+      "To execute multi-orbit satellite deployments",
+      "To perform mid-course corrections in interplanetary missions",
+      "To achieve precise orbital insertion for navigation satellites"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Restarts allow multi-orbit missions, course corrections for deep-space missions, and precision injection for navigation satellites. These capabilities are essential in modern launch vehicles. Refer to [[Orbital maneuver]] and [[Interplanetary spaceflight]].",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "The High-Altitude Test (HAT) facility at Mahendragiri is primarily used for:",
+    "statements": [],
+    "options": [
+      "Testing solid booster separation mechanisms",
+      "Simulating vacuum conditions for upper-stage engines",
+      "Testing cryogenic propellant production",
+      "Testing re-entry module aerodynamics"
+    ],
+    "correct_option": "Simulating vacuum conditions for upper-stage engines",
+    "explanation": "The CE-20 bootstrap test was conducted under vacuum at the HAT facility, which replicates space-like conditions for upper-stage engine testing. See [[Rocket engine test facility]].",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to childcare work in India, consider the following statements:",
+    "statements": [
+      "Unpaid care work constitutes around 15–17% of India’s GDP.",
+      "A majority of the unpaid care work in India is performed by women.",
+      "The International Day of Care and Support is observed on 29 October."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Time Use Survey data shows unpaid care work contributes 15–17% of GDP and is predominantly performed by women. The UN declared 29 October as International Day of Care and Support. See [[Care work]] and [[Time-use survey]].",
+    "tags": "Social Issues, Governance"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following were the contributions of the 1972 Study Group headed by Mina Swaminathan?",
+    "statements": [
+      "It recommended a holistic model integrating health, nutrition, and early learning.",
+      "It led to the establishment of the Integrated Child Development Services (ICDS).",
+      "It proposed universal maternity leave for working mothers."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The 1972 Study Group pioneered integrated childcare and laid the foundation for ICDS. It did not propose universal maternity leave. See [[ICDS]] and [[Early childhood education]].",
+    "tags": "Social Issues, Governance"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following challenges faced by India’s childcare workers:",
+    "statements": [
+      "Low wages and lack of social security",
+      "Deprofessionalisation despite contributing to early learning",
+      "Limited representation in unions and associations"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Childcare workers face low pay, undervaluation of skills, and lack union representation, as highlighted in the PDF. See [[Childcare]] and [[Anganwadi]].",
+    "tags": "Social Issues, Governance"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to groundwater contamination in India, consider the following statements:",
+    "statements": [
+      "About 20% of sampled districts show groundwater contamination above safe limits.",
+      "Punjab reports the highest uranium contamination levels.",
+      "Nitrate contamination is mainly linked to fertiliser use and sewage discharge."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The Annual Groundwater Quality Report shows 20% unsafe samples, high uranium in Punjab, and nitrate from fertilisers/sewage. Refer to [[Groundwater pollution]].",
+    "tags": "Environment, Geography"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following are effects of polluted groundwater on agriculture?",
+    "statements": [
+      "Accumulation of heavy metals lowers soil productivity.",
+      "It reduces the export competitiveness of agricultural produce.",
+      "It increases the price of certified organic crops internationally."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Contamination reduces yields and results in export rejections. There is no evidence that it increases international organic crop prices. See [[Soil contamination]].",
+    "tags": "Environment, Agriculture"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the Modified UDAN Scheme, consider the following statements:",
+    "statements": [
+      "It proposes connecting 120 additional destinations including tribal and hilly regions.",
+      "It allocates more funds for constructing new airports than for Viability Gap Funding.",
+      "It aims to enable 4 crore passengers to fly over the next decade."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The modified scheme allocates ₹18,000 crore to new airports and ₹12,000 crore to VGF, targets 120 new destinations, and plans 4 crore passengers. See [[UDAN scheme]].",
+    "tags": "Infrastructure, Economy, Governance"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the CE-20 cryogenic engine, consider the following statements:",
+    "statements": [
+      "It places India among the few nations that possess restart-capable cryogenic upper stages.",
+      "The engine test was conducted for about 10 seconds under vacuum conditions.",
+      "LVM3 is the lightest operational launch vehicle of India."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "India joins the group of nations with restartable cryogenic upper stages (USA, Russia, ESA, Japan). The CE-20 bootstrap test lasted 10 seconds. LVM3 is India’s heaviest, not lightest, operational launcher. See [[LVM3]].",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are benefits of bootstrap mode in cryogenic engines?",
+    "statements": [
+      "Reduction in vehicle mass by eliminating stored gas bottles",
+      "Higher payload capacity because of reduced engine mass",
+      "Improved flexibility for complex mission profiles"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Bootstrap mode eliminates heavy gas bottles, improving mass efficiency and mission flexibility. This enables multi-orbit and interplanetary operations. See [[Rocket engine]].",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "International Day of Care and Support aims to highlight which of the following?",
+    "statements": [
+      "Recognition of unpaid domestic and care work",
+      "Reduction and redistribution of care responsibilities",
+      "Promotion of women’s representation in legislative bodies"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The UN resolution focuses on recognising and redistributing unpaid care work, which disproportionately falls on women. It does not directly address legislative representation. See [[Care work]].",
+    "tags": "Social Issues, Governance"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of India’s childcare ecosystem, which of the following correctly describes ICDS?",
+    "statements": [
+      "It is one of the world’s largest early childhood development programmes.",
+      "It currently operates more than a million Anganwadi centres.",
+      "It primarily focuses only on nutrition and does not include early learning."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "ICDS covers nutrition, health, and early learning. India has over 1.4 million Anganwadi centres. See [[ICDS]].",
+    "tags": "Governance, Social Issues"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following factors increase the demand for childcare in India?",
+    "statements": [
+      "Male migration to urban areas due to climate stress",
+      "Growth of urban informal work among women",
+      "Low availability of Anganwadi centres in urban zones"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Climate impacts increase male migration, pushing women into work and raising childcare needs. Only 10% AWCs are urban, worsening demand. See [[Urbanisation in India]].",
+    "tags": "Social Issues, Environment"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following contaminants commonly appear in Indian groundwater?",
+    "statements": [
+      "Arsenic from geological and industrial sources",
+      "Uranium due to natural formations and over-extraction",
+      "Nitrate due to fertiliser use and sewage discharge"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "All three contaminants are highlighted in the national groundwater quality report. See [[Groundwater pollution]].",
+    "tags": "Environment, Geography"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "The economic losses associated with polluted groundwater in India include which of the following?",
+    "statements": [
+      "Loss of productivity due to fluorosis and related diseases",
+      "High public health expenditure from water-borne illnesses",
+      "Decline in export competitiveness of agricultural produce"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Health costs, productivity loss, and export rejections due to contamination are major economic costs. See [[Environmental degradation]].",
+    "tags": "Environment, Economy"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following policy steps can help address groundwater contamination?",
+    "statements": [
+      "Mandating Zero-Liquid Discharge for industries",
+      "Crop diversification to reduce fertiliser-intensive farming",
+      "Village-level community water purification systems"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The PDF recommends stricter industrial enforcement, agricultural reforms, and decentralised purification units. See [[Water treatment]].",
+    "tags": "Environment, Governance"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the Modified UDAN Scheme, consider the following statements:",
+    "statements": [
+      "The scheme aims to support development of helipads and water aerodromes.",
+      "Route selection under UDAN follows a market-driven model.",
+      "It proposes special mechanisms to address land acquisition delays."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "UDAN supports helipads/water aerodromes, uses market-based route bidding, and proposes a mechanism to ease land delays. See [[UDAN scheme]].",
+    "tags": "Infrastructure, Economy"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of the Modified UDAN Scheme, which of the following performance indicators are correctly associated with the scheme so far?",
+    "statements": [
+      "More than 600 routes have been operationalised.",
+      "Over 1.5 crore passengers have flown under the scheme.",
+      "It has operationalised more than 90 airports, heliports, and water aerodromes combined."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "649 routes, 1.56 crore passengers, and 93 airports/heliports/water aerodromes have been operationalised. See [[Civil aviation in India]].",
+    "tags": "Infrastructure, Governance"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the significance of LVM3 in India’s space programme?",
+    "statements": [
+      "It is India’s heaviest operational launch vehicle.",
+      "It can carry out complex payload delivery missions when equipped with restartable upper stages.",
+      "It is used exclusively for commercial satellite launches."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "LVM3 is the heaviest operational launcher and supports multi-orbit delivery using restartable CE-20 stages. It is not used exclusively for commercial launches; it also supports Gaganyaan and deep space missions. See [[LVM3]].",
+    "tags": "Science and Technology, Space"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following factors contribute to undervaluation of childcare workers in India?",
+    "statements": [
+      "Absence of structured career progression pathways",
+      "Lack of social security provisions",
+      "Limited recognition of early learning as professional work"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Childcare workers face low wages, lack of social protection, poor career mobility, and deprofessionalisation despite their role in early learning. See [[Care work]].",
+    "tags": "Social Issues, Governance"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to the India Childcare Champion Awards (2025), consider the following statements:",
+    "statements": [
+      "They are organised by Mobile Creches.",
+      "They include recognition for CSR contributors.",
+      "They award outstanding childcare workers and supervisors."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "The awards are jointly organised by Mobile Creches and FORCES and recognise workers, supervisors, NGOs, and CSR contributors. See [[Childcare]].",
+    "tags": "Social Issues"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is a major structural gap in India’s childcare ecosystem?",
+    "statements": [
+      "Low overall government investment in childcare services",
+      "Excessive concentration of Anganwadi centres in urban areas",
+      "Limited operational crèches under the Palna Scheme"
+    ],
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Government investment is only 0.4% of GDP and Palna Scheme has only 2,500 operational crèches. Only 10% AWCs are urban, so there is not an excess but a shortage. See [[ICDS]].",
+    "tags": "Governance, Social Issues"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are social impacts of groundwater contamination in India?",
+    "statements": [
+      "Increase in out-of-pocket expenditure among poorer households",
+      "Decline in cognitive development among children exposed to contaminants",
+      "Increased migration from rural areas due to groundwater depletion"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Poor households face high medical expenses and children exposed to arsenic/fluoride show cognitive decline. Migration due to *contamination* is not specifically highlighted. See [[Groundwater pollution]].",
+    "tags": "Environment, Society"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which measures can help protect India’s agricultural exports from contamination-related rejection?",
+    "statements": [
+      "Strengthening traceability systems for exported crops",
+      "Training farmers in safe irrigation practices",
+      "Increasing subsidies on urea to reduce groundwater contamination"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Traceability and training help reduce contamination in export produce. Increasing urea subsidy would worsen the contamination. See [[Agricultural pollution]].",
+    "tags": "Environment, Agriculture, Economy"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which reforms were suggested to improve agricultural outcomes in groundwater-stressed regions?",
+    "statements": [
+      "Crop diversification toward millets and pulses",
+      "Encouraging micro-irrigation systems",
+      "Increasing subsidies for paddy cultivation"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Diversification and micro-irrigation reduce stress. Increasing paddy subsidies would worsen groundwater depletion. See [[Sustainable agriculture]].",
+    "tags": "Agriculture, Environment"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Why is over-extraction of groundwater associated with higher contamination levels?",
+    "statements": [
+      "Deeper aquifers often contain higher concentrations of uranium and fluoride.",
+      "Lowering of water tables increases the need for deeper drilling.",
+      "Groundwater recharge rates increase, dissolving more minerals into water."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Deeper aquifers have more contaminants and deeper drilling is required as water tables fall. Recharge rates do not automatically increase contamination. See [[Aquifer]].",
+    "tags": "Geography, Environment"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following components are included in the proposed ₹30,000 crore expansion of the UDAN scheme?",
+    "statements": [
+      "₹18,000 crore for construction of new airports",
+      "₹12,000 crore for Viability Gap Funding to airlines",
+      "Creation of a centralised fleet of government-owned regional aircraft"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "The proposal includes airport construction and VGF funding. No government-owned fleet is proposed. See [[UDAN scheme]].",
+    "tags": "Infrastructure, Economy"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following remain persistent challenges in the UDAN scheme?",
+    "statements": [
+      "Shortage of small aircraft suitable for regional routes",
+      "Delayed clearances for route operationalisation",
+      "Over-concentration of private airlines in non-subsidised metro routes"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Shortage of turboprops and delays in DGCA clearances are documented challenges; metro route concentration is not highlighted in the PDF. See [[Civil aviation in India]].",
+    "tags": "Infrastructure, Governance"
+  }
+]
