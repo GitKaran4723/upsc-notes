@@ -1,0 +1,517 @@
+[
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to Subordinate Courts in India, consider the following statements:",
+    "statements": [
+      "Their constitutional foundation is provided under Articles 233 to 237.",
+      "High Courts exercise complete administrative control over them.",
+      "The Governor appoints District Judges in consultation with the High Court."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1, 2 and 3",
+    "explanation": "Articles 233–237 form the constitutional basis for Subordinate Courts. High Courts control postings, transfers and discipline of the subordinate judiciary. District Judges are appointed by the Governor in consultation with the High Court. See [[High Court of India]], [[District Courts of India]].",
+    "tags": "Polity, Judiciary, Federalism"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following about the structure of Criminal Courts in India:",
+    "statements": [
+      "Sessions Judge can award the death sentence, subject to High Court confirmation.",
+      "Chief Judicial Magistrate can award imprisonment for life.",
+      "Judicial Magistrate First Class handles petty criminal cases."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Only a Sessions Judge can award death sentences; CJM cannot award life imprisonment. Judicial Magistrate First Class handles minor criminal cases. Refer [[Code of Criminal Procedure]], [[District Courts of India]].",
+    "tags": "Polity, Criminal Justice System"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are characteristics of Tribunals created under Articles 323-A and 323-B?",
+    "statements": [
+      "They are quasi-judicial bodies.",
+      "They are not bound by the Civil Procedure Code.",
+      "Their decisions are immune from judicial review."
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "Tribunals are quasi-judicial bodies following flexible procedures and natural justice, not bound by CPC. Judicial review cannot be barred as held in L. Chandra Kumar (1997). See [[Tribunal]], [[L. Chandra Kumar v. Union of India]].",
+    "tags": "Polity, Tribunals, Judicial Review"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "The Central Administrative Tribunal (CAT) has jurisdiction over:",
+    "statements": [
+      "Service matters of central government employees.",
+      "Members of the armed forces.",
+      "Employees of the Supreme Court."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "CAT covers only civil service matters of central government employees. Armed forces and Supreme Court employees are excluded. See [[Administrative Tribunals Act, 1985]].",
+    "tags": "Polity, Tribunals, Governance"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following regarding Judicial Federalism in India:",
+    "statements": [
+      "India has a dual court system like the United States.",
+      "Supreme Court decisions are binding on all courts under Article 141.",
+      "High Courts have wider writ jurisdiction than the Supreme Court."
+    ],
+    "options": [
+      "2 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "India has an integrated judiciary, not dual like the US. Article 141 makes SC decisions binding. High Courts can issue writs for any purpose, giving them wider jurisdiction. See [[Supreme Court of India]], [[High Court of India]].",
+    "tags": "Judiciary, Federalism, Polity"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following cases upheld that judicial review forms part of the Basic Structure?",
+    "options": [
+      "Kesavananda Bharati v. State of Kerala",
+      "Golaknath v. State of Punjab",
+      "Minerva Mills v. Union of India",
+      "L. Chandra Kumar v. Union of India"
+    ],
+    "correct_option": "Kesavananda Bharati v. State of Kerala",
+    "explanation": "The Basic Structure Doctrine was established in Kesavananda Bharati (1973), holding judicial review as basic structure. See [[Kesavananda Bharati v. State of Kerala]].",
+    "tags": "Polity, Supreme Court, Basic Structure"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which Article provides for separation of the judiciary from the executive?",
+    "options": [
+      "Article 50",
+      "Article 226",
+      "Article 233",
+      "Article 246"
+    ],
+    "correct_option": "Article 50",
+    "explanation": "Article 50 (Directive Principle) mandates separation of judiciary from executive to ensure independence and fairness. See [[Constitution of India]].",
+    "tags": "Polity, Separation of Powers"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following highlight the federal role of High Courts?",
+    "statements": [
+      "They supervise subordinate courts under Article 235.",
+      "They adjudicate disputes between the Centre and States under Article 131.",
+      "They can strike down both State and Central laws violating the Constitution."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Article 131 gives such jurisdiction only to the Supreme Court. High Courts supervise subordinate courts and exercise judicial review over both Central and State laws. See [[High Court of India]].",
+    "tags": "Polity, Federalism, Judiciary"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly describes the doctrine of Separation of Powers in India?",
+    "statements": [
+      "It is strictly applied as in the United States.",
+      "There is functional overlap among the three organs.",
+      "It is part of the Basic Structure of the Constitution."
+    ],
+    "options": [
+      "2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "2 and 3 only",
+    "explanation": "India follows functional separation, not rigid separation. The Supreme Court declared separation of powers as part of Basic Structure in Kesavananda Bharati. See [[Separation of powers]], [[Kesavananda Bharati v. State of Kerala]].",
+    "tags": "Polity, Constitutional Law"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following pairs is correctly matched?",
+    "statements": [
+      "Administrative Tribunals – Article 323-A",
+      "Tax Tribunals – Article 323-B",
+      "National Green Tribunal – Constitutionally mandated under Article 48A"
+    ],
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 2 only",
+    "explanation": "ATs are created under Article 323-A; tax, land reforms and labour tribunals under Article 323-B. NGT is statutory (NGT Act 2010), not constitutional. Article 48A is Directive Principle. See [[Tribunal]], [[National Green Tribunal]].",
+    "tags": "Polity, Tribunals, Environment"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT a function of the District & Sessions Court?",
+    "options": [
+      "Hearing civil appeals from subordinate courts",
+      "Awarding death sentences subject to High Court confirmation",
+      "Supervising all tribunals functioning in the district",
+      "Trying serious criminal offences"
+    ],
+    "correct_option": "Supervising all tribunals functioning in the district",
+    "explanation": "District Courts supervise only subordinate civil and criminal courts. Tribunals are not under their administrative control; most are controlled by the Centre or States depending on the Tribunal. Refer [[District Courts of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which Article empowers High Courts with supervisory jurisdiction over all subordinate courts?",
+    "options": [
+      "Article 227",
+      "Article 226",
+      "Article 235",
+      "Article 233"
+    ],
+    "correct_option": "Article 227",
+    "explanation": "Article 227 empowers High Courts with superintendence over all courts within their jurisdiction. Article 235 deals with administrative control over subordinate courts. See [[High Court of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following are features of the Administrative Tribunals Act, 1985?",
+    "statements": [
+      "It allows the establishment of both Central and State Administrative Tribunals.",
+      "Tribunals under the Act follow the Code of Civil Procedure.",
+      "Appeals from CAT lie directly to the Supreme Court after the Chandra Kumar judgment."
+    ],
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "CAT and SATs are established under this Act. Tribunals do not follow CPC; they follow natural justice. After L. Chandra Kumar (1997), appeals first lie to the High Court, not directly to the Supreme Court. See [[Administrative Tribunals Act, 1985]].",
+    "tags": "Polity, Tribunals"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "With reference to India's judicial structure, which of the following is true?",
+    "options": [
+      "India follows a completely federal judicial system like the United States.",
+      "There is a single integrated judiciary with federal features.",
+      "High Courts function under the administrative supervision of the Supreme Court.",
+      "Subordinate courts are controlled by the Union Ministry of Law."
+    ],
+    "correct_option": "There is a single integrated judiciary with federal features.",
+    "explanation": "India follows a single integrated judicial system, unlike dual judicial systems. High Courts do not function under the administrative control of the Supreme Court. Subordinate courts are under the State High Courts. See [[Judiciary of India]].",
+    "tags": "Polity, Federalism"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Consider the following about the National Green Tribunal (NGT):",
+    "statements": [
+      "It was created under a statute passed by Parliament.",
+      "It is a constitutional body under Article 48A.",
+      "It has original jurisdiction over environmental civil cases."
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "NGT is a statutory body under the NGT Act, 2010. It is not a constitutional body. It has original and appellate jurisdiction in environmental matters. See [[National Green Tribunal]].",
+    "tags": "Environment, Polity, Tribunals"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following principles was affirmed in the S.R. Bommai (1994) judgement?",
+    "options": [
+      "Judicial review cannot be applied to President’s Rule",
+      "Federalism is part of the Basic Structure",
+      "Directive Principles override Fundamental Rights",
+      "Tribunals can replace High Courts"
+    ],
+    "correct_option": "Federalism is part of the Basic Structure",
+    "explanation": "S.R. Bommai held that federalism is part of the Basic Structure and that President’s Rule is subject to judicial review. See [[S. R. Bommai v. Union of India]].",
+    "tags": "Polity, Federalism, Supreme Court"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "In the context of separation of powers, which of the following is an example of overlap of functions?",
+    "options": [
+      "Judiciary interpreting laws",
+      "Executive issuing ordinances",
+      "Legislature conducting elections",
+      "Judiciary conducting impeachment"
+    ],
+    "correct_option": "Executive issuing ordinances",
+    "explanation": "Ordinances are legislative powers exercised by the Executive, showing functional overlap. See [[Separation of powers]].",
+    "tags": "Polity, Constitutional Law"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following qualifies as an issue related to tribunalisation in India?",
+    "statements": [
+      "Excessive control of the executive in appointments",
+      "Lack of specialised expertise",
+      "Exclusion of High Court jurisdiction by law"
+    ],
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 and 3 only",
+    "explanation": "Executive control over tribunals affects independence. Attempts to remove High Court review (struck down in L. Chandra Kumar) is a concern. Tribunals were created for expertise; lack of expertise is not a major systemic issue. See [[Tribunal]], [[L. Chandra Kumar v. Union of India]].",
+    "tags": "Polity, Tribunals"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which one of the following reflects the idea of Judicial Review?",
+    "options": [
+      "Courts reviewing administrative decisions",
+      "Courts examining the constitutional validity of laws",
+      "Courts investigating corruption in legislature",
+      "Courts issuing ordinances when legislature is not in session"
+    ],
+    "correct_option": "Courts examining the constitutional validity of laws",
+    "explanation": "Judicial review refers to courts testing the constitutionality of executive and legislative actions. See [[Judicial review in India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following correctly differentiates High Court writ powers under Articles 32 and 226?",
+    "options": [
+      "Article 32 is wider than Article 226",
+      "Article 226 is wider than Article 32",
+      "Both have identical scope",
+      "Both can be suspended during ordinary times"
+    ],
+    "correct_option": "Article 226 is wider than Article 32",
+    "explanation": "Article 32 is limited to Fundamental Rights. Article 226 covers FRs plus 'any other purpose', giving wider scope. See [[Writ]], [[High Court of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following officers belongs to the cadre of Subordinate Judiciary?",
+    "options": [
+      "Civil Judge (Junior Division)",
+      "District Collector",
+      "Advocate General",
+      "Law Secretary of State"
+    ],
+    "correct_option": "Civil Judge (Junior Division)",
+    "explanation": "Subordinate judiciary consists of district and below-district level judges such as District Judges, Civil Judge (Senior/Junior Division), Judicial Magistrates, etc. Executive officers like District Collector or Law Secretary are not part of judiciary. See [[District Courts of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Under Article 235, High Courts control which of the following?",
+    "options": [
+      "Appointments of High Court judges",
+      "Postings and promotions of District Judges",
+      "Impeachment of Supreme Court judges",
+      "Establishment of Tribunals"
+    ],
+    "correct_option": "Postings and promotions of District Judges",
+    "explanation": "Article 235 gives High Courts complete administrative control over subordinate courts including postings, promotions, leave and discipline. The President appoints High Court judges. See [[High Court of India]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following statements is true regarding separation of powers in India?",
+    "statements": [
+      "The legislature cannot discuss the conduct of judges of Supreme Court and High Courts except during impeachment.",
+      "The executive has no legislative functions at all.",
+      "The judiciary cannot frame guidelines in absence of legislation."
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Articles 121 and 211 prohibit discussion on judges’ conduct except during impeachment. Executive DOES have legislative functions such as ordinance-making. Judiciary frames guidelines when law is absent (e.g., Vishaka case). See [[Separation of powers]].",
+    "tags": "Polity, Constitutional Law"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following courts can issue writs for any purpose?",
+    "options": [
+      "Supreme Court only",
+      "High Courts only",
+      "Both Supreme Court and High Courts",
+      "District Courts"
+    ],
+    "correct_option": "High Courts only",
+    "explanation": "Supreme Court (Art. 32) issues writs only for Fundamental Rights. High Courts (Art. 226) issue writs for FRs and 'any other purpose'. District Courts cannot issue writs. See [[Writ]].",
+    "tags": "Polity, Judiciary"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is a constitutional basis for creation of tribunals?",
+    "options": [
+      "Articles 323-A and 323-B",
+      "Article 50",
+      "Article 129",
+      "Article 280"
+    ],
+    "correct_option": "Articles 323-A and 323-B",
+    "explanation": "Articles 323-A (Administrative Tribunals) and 323-B (other subject-specific tribunals) provide constitutional backing. Article 50 deals with separation of judiciary from executive. See [[Tribunal]].",
+    "tags": "Polity, Tribunals"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following cases held that High Court judicial review over tribunals cannot be removed?",
+    "options": [
+      "Golaknath v. State of Punjab",
+      "S. R. Bommai v. Union of India",
+      "L. Chandra Kumar v. Union of India",
+      "Kesavananda Bharati v. State of Kerala"
+    ],
+    "correct_option": "L. Chandra Kumar v. Union of India",
+    "explanation": "L. Chandra Kumar (1997) held that exclusion of High Court review over tribunals is unconstitutional and violates the Basic Structure. See [[L. Chandra Kumar v. Union of India]].",
+    "tags": "Polity, Judicial Review, Tribunals"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following reflects the federal role of the Supreme Court?",
+    "statements": [
+      "Original jurisdiction over Centre–State disputes",
+      "Appellate jurisdiction over High Courts",
+      "Writ jurisdiction for Fundamental Rights"
+    ],
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": "1 only",
+    "explanation": "Only Article 131 (federal disputes) is a federal feature. Appellate and writ jurisdiction are not unique federal functions. See [[Supreme Court of India]].",
+    "tags": "Polity, Federalism"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which among the following is a judicial function of the Executive?",
+    "options": [
+      "Ordinance-making",
+      "Hearing appeals from High Courts",
+      "Granting pardons and commutations",
+      "Appointment of judges"
+    ],
+    "correct_option": "Granting pardons and commutations",
+    "explanation": "Executive exercises judicial power through mercy petitions under Articles 72 and 161. Ordinances are legislative functions; appointments are executive powers; appeals are judicial. See [[Pardon]], [[President of India]].",
+    "tags": "Polity, Executive, Judiciary"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "CAT and SATs were established mainly to achieve which of the following?",
+    "options": [
+      "Eliminate judicial review",
+      "Reduce burden on High Courts",
+      "Ensure uniform civil code",
+      "Transfer criminal cases from courts"
+    ],
+    "correct_option": "Reduce burden on High Courts",
+    "explanation": "Administrative Tribunals primarily handle service matters to reduce case load on High Courts. Judicial review cannot be eliminated. See [[Administrative Tribunals Act, 1985]].",
+    "tags": "Polity, Tribunals"
+  },
+  {
+    "date": "20",
+    "month": "November",
+    "year": "2025",
+    "question": "Which of the following is NOT a challenge faced by subordinate courts in India?",
+    "options": [
+      "High levels of pendency",
+      "Vacancies in judicial positions",
+      "Weak digital infrastructure",
+      "Lack of constitutional protection for judges"
+    ],
+    "correct_option": "Lack of constitutional protection for judges",
+    "explanation": "Subordinate judiciary receives constitutional protection under Articles 233–237. Pendency, vacancies, and infrastructure gaps are major challenges. See [[District Courts of India]].",
+    "tags": "Polity, Judiciary"
+  }
+]
